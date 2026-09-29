@@ -1,0 +1,13 @@
+Generalized exponential moving average (EMA) model with particle filtering and anomaly detection
+Forecasting the volatility of stock price index: A hybrid model integrating LSTM with multiple GARCH-type models
+Option pricing under sub-mixed fractional Brownian motion based on time-varying implied volatility using intelligent algorithms
+PERFORMANCE OF DEEP LEARNING IN PREDICTION OF STOCK MARKET VOLATILITY
+Deep learning networks for stock market analysis and prediction: Methodology, data representations, and case studies
+An investor sentiment reward-based trading system using Gaussian inverse reinforcement learning algorithm
+Forecasting the overnight return direction of stock market index combining global market indices: A multiple-branch deep learning approach
+Creating investment scheme with state space modeling
+Deep learning and time series-to-image encoding for financial forecasting
+A Dual-Attention-Based Stock Price Trend Prediction Model With Dual Features
+Bitcoin technical trading with artificial neural network
+Probability rough set and portfolio optimization integrated three-way predication decisions approach to stock price
+Volatility forecasts of stock index futures in China and the US-A hybrid LSTM approach

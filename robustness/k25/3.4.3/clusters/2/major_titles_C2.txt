@@ -1,0 +1,136 @@
+A recursive recomputation approach for smoothing in nonlinear state-space modeling: An attempt for reducing space complexity
+GARCHNet: Value-at-Risk Forecasting with GARCH Models Based on Neural Networks
+A FUZZY APPROACH TO OPTION PRICING IN A LEVY PROCESS SETTING
+Extended-horizon realized volatility forecasting using state space models
+Strategic Decision Support in Financial Management Using Deep Learning-Based Stock Price Prediction Models
+Filtering the intensity of public concern from social media count data with jumps
+Dynamic linkages among equity markets in the Middle East and North African countries
+High-dimensional sparse multivariate stochastic volatility models
+Long memory stochastic volatility: A Bayesian approach
+Chinese Financial News Analysis for Sentiment and Stock Prediction: A Comparative Framework with Language Models
+Dealing with Stochastic Volatility in Time Series Using the R Package stochvol
+Market-reaction-adjusted optimal central bank intervention policy in a forex market with jumps
+A family of multivariate non-gaussian time series models
+ESTIMATING CORRELATED JUMPS AND STOCHASTIC VOLATILITIES
+On leverage in a stochastic volatility model
+A GENERAL ORNSTEIN-UHLENBECK STOCHASTIC VOLATILITY MODEL WITH LEVY JUMPS
+Volatility models for stylized facts of high-frequency financial data
+Language sentiment in fundamental and noise trading: evidence from crude oil
+ICAIMT: ART-LSTM: Augmented Reverse Training for Data-Efficient Time Series Forecasting
+A Simulation and Empirical Study of the Maximum Likelihood Estimator for Stochastic Volatility Jump-Diffusion Models
+Warrant pricing under GARCH diffusion model
+Option pricing with exchange rate risk under regime-switching multi-scale jump-diffusion models
+Probability rough set and portfolio optimization integrated three-way predication decisions approach to stock price
+Particle Filters and Bayesian Inference in Financial Econometrics
+Semi-closed form cubature and applications to financial diffusion models
+A convolutional deep reinforcement learning architecture for an emerging stock market analysis
+Optimal dynamic portfolio selection for a corporation with controllable risk and dividend distribution policy
+On idiosyncratic stochasticity of financial leverage effects
+A new portfolio approach integrating three-way decision and Encoder-Decoder network
+The volatility effect on precious metals price returns in a stochastic volatility in mean model with time-varying parameters
+Deep learning networks for stock market analysis and prediction: Methodology, data representations, and case studies
+Options pricing with time changed Levy processes under imprecise information
+A CNN-LSTM Stock Prediction Model Based on Genetic Algorithm Optimization
+Second-order filter distribution approximations for financial time series with extreme outliers
+Forecasting High-Frequency Futures Returns Using Online Langevin Dynamics
+Renewable energy stocks forecast using Twitter investor sentiment and deep learning
+Deep learning for derivatives pricing: a comparative study of asymptotic and quasi-process corrections
+Level shifts in stock returns driven by large shocks
+Machine learning versus econometric jump models in predictability and domain adaptability of index options
+Deep Learning in Financial Modeling: Predicting European Put Option Prices with Neural Networks
+Inference with non-Gaussian Ornstein-Uhlenbeck processes for stochastic volatility
+Do investors herd? An examination of Pakistan stock exchange
+Valuing Vulnerable Geometric Asian Basket Options Under Stochastic Volatility Jump Diffusion Model
+Generalized pricing formulas for stochastic volatility jump diffusion models applied to the exponential Vasicek model
+Learning High-Dimensional Generalized Linear Autoregressive Models
+Bayesian analysis of the stochastic conditional duration model
+The volatility structure of the fixed income market under the HJM framework: A nonlinear filtering approach
+A Dual-Attention-Based Stock Price Trend Prediction Model With Dual Features
+EMAT: Enhanced Multi-Aspect Attention Transformer for Financial Time Series Forecasting
+Evaluation of variable annuity guarantees with the effect of jumps in the asset price process
+A Financial Market Model Incorporating Herd Behaviour
+AMERICAN OPTION PRICING UNDER GARCH DIFFUSION MODEL: AN EMPIRICAL STUDY
+Fitting stochastic volatility models in the presence of irregular sampling via particle methods and the EM algorithm
+Dynamic paired comparison models with stochastic variances
+Risk aversion decomposition and the impact of monetary policy surprises on aggregate tail risk aversion
+Particle learning for Bayesian semi-parametric stochastic volatility model
+Inference of Binary Regime Models with Jump Discontinuities
+SV mixture models with application to S&P 500 index returns
+Trading strategy of structured mutual fund based on deep learning network
+Forecasting VIX using interpretable Kolmogorov-Arnold networks
+STL-ELM: A computationally efficient hybrid approach for predicting high volatility stock market
+Model Complexity and Out-of-Sample Performance: Evidence from S&P 500 Index Returns
+CMGM: A novel cross-market assets and multi-market modeling graph neural networks for financial market forecasting leveraging market states dependencies
+Estimation of agent-based models using sequential Monte Carlo methods
+Constructing a stock-price forecast CNN model with gold and crude oil indicators
+BiCuDNNLSTM-1dCNN-A hybrid deep learning-based predictive model for stock price prediction
+Bayesian modeling of financial returns: A relationship between volatility and trading volume
+No-arbitrage semi-martingale restrictions for continuous-time volatility models subject to leverage effects, jumps and i.i.d. noise: Theory and testable distributional implications
+Long short-term memory networks in learning memory inconsistencies of stock markets
+An enhanced Wasserstein generative adversarial network with Gramian Angular Fields for efficient stock market prediction during market crash periods
+Block Trading: Building up a Stock Position Under a Regime Switching Model
+Two-stage stationary bootstrapping for bivariate average realized volatility matrix under market microstructure noise and asynchronicity
+Highly efficient Shannon wavelet-based pricing of power options under the double exponential jump framework with stochastic jump intensity and volatility
+FIRE SALES FORENSICS: MEASURING ENDOGENOUS RISK
+Heavy-tailed-distributed threshold stochastic volatility models in financial time series
+Stochastic tail index model for high frequency financial data with Bayesian analysis
+A hybrid optimized deep learning model via the Golden Jackal Optimizer for accurate stock price forecasting
+Efficient estimation and particle filter for max-stable processes
+Committee of Multi-scale Nonlinear Learning Frameworks for accurate stock price forecasting
+Integration of Explainable AI with Deep Learning for Real-Time Sentiment-Driven Stock Price Prediction
+Bayesian Modeling and Forecasting of 24-Hour High-Frequency Volatility
+Sequential Monte Carlo Smoothing with Parameter Estimation
+A Dual Output Temporal Convolutional Network With Attention Architecture for Stock Price Prediction and Risk Assessment
+Parametric estimation of hidden stochastic model by contrast minimization and deconvolution
+Valuation of equity-indexed annuities with regime-switching jump diffusion risk and stochastic mortality risk
+Indirect Inference Estimation of Mixed Frequency Stochastic Volatility State Space Models using MIDAS Regressions and ARCH Models
+GARCH DIFFUSION MODEL, iVIX, AND VOLATILITY RISK PREMIUM
+Conditionally Gaussian random sequences for an integrated variance estimator with correlation between noise and returns
+Deep learning for financial forecasting: A review of recent trends
+High dimensional dynamic stochastic copula models
+Investor-herding and risk-profiles: A State-Space model-based assessment
+Enhancing Stock Price Forecasting With a Hybrid SES-DA-BiLSTM-BO Model: Superior Accuracy in High-Frequency Financial Data Analysis
+On the role of domestic and international financial cyclical factors in driving economic growth
+Creating investment scheme with state space modeling
+Using random quasi-Monte-Carlo within particle filters, with application to financial time series
+A Novel Hybrid GCN-LSTM Algorithm for Energy Stock Price Prediction: Leveraging Temporal Dynamics and Inter-Stock Relationships
+Is the diurnal pattern sufficient to explain intraday variation in volatility? A nonparametric assessment
+A flexible approach to parametric inference in nonlinear and time varying time series models
+LSTM-Transformer-Based Robust Hybrid Deep Learning Model for Financial Time Series Forecasting
+Enhancing Stock Market Prediction: A Robust LSTM-DNN Model Analysis on 26 Real-Life Datasets
+ABC of SV: Limited information likelihood inference in stochastic volatility jump-diffusion models
+Pre-averaging estimators of the ex-post covariance matrix in noisy diffusion models with non-synchronous data
+Hidden-layer configurations in reinforcement learning models for stock portfolio optimization
+ML-GAT:A Multilevel Graph Attention Model for Stock Prediction
+A novel hierarchical feature selection with local shuffling and models reweighting for stock price forecasting
+From Data to Decisions: Evaluating Machine Learning Models for Stock Market Forecasting
+Continuous Mixed-Laplace Jump Diffusion Models for Stocks and Commodities
+Predicting crypto-currencies using sparse non-Gaussian state space models
+Herding states and stock market returns
+Bayesian semiparametric Markov switching stochastic volatility model
+Bayesian Tail Risk Interdependence Using Quantile Regression
+Testing mean reversion in financial market volatility: Evidence from S&P 500 index futures
+Endogenous vs exogenous fluctuations: unveiling the impact of heterogeneous expectations
+Pricing European Option Under Fuzzy Mixed Fractional Brownian Motion Model with Jumps
+Generalized exponential moving average (EMA) model with particle filtering and anomaly detection
+Multi-Cluster Graph (MCG): A Novel Clustering-Based Multi-Relation Graph Neural Networks for Stock Price Forecasting
+Mixture of Activation Functions With Extended Min-Max Normalization for Forex Market Prediction
+Bayesian Inference via Filtering Equations for Ultrahigh Frequency Data (I): Model and Estimation
+Extracting a common stochastic trend: Theory with some applications
+Structural breaks detection using step-indicator saturation technique in state-space model
+Markov-switching and stochastic volatility diffusion models of short-term interest rates
+Cross-market volatility forecasting with attention-based spatial-temporal graph convolutional networks
+Artificial intelligence and classical statistical models for time series forecasting: a comprehensive review
+Graphical Deep Learning Prediction Model for Stock Risk Management
+A comprehensive investigation on the predictive power of economic policy uncertainty from non-US countries for US stock market returns
+Stock Market Prediction Using Spider Feline Swarm Optimization Based Hybrid Gated Recurrent Unit and Bidirectional LSTM Model
+Nonparametric estimation of a scalar diffusion model from discrete time data: a survey
+Does China transmit financial cycle spillover effects to the G7 countries?
+Enabling business sustainability for stock market data using machine learning and deep learning approaches
+A switching ARCH model for the German DAX index
+A goodness-of-fit test for functional time series with applications to Ornstein-Uhlenbeck processes
+Deep learning and time series-to-image encoding for financial forecasting
+OPTIMAL INSURANCE STRATEGIES: A HYBRID DEEP LEARNING MARKOV CHAIN APPROXIMATION APPROACH
+Gaussian Variational Approximations for High-dimensional State Space Models
+Forecasting the Volatility of Cryptocurrencies in the Presence of COVID-19 with the State Space Model and Kalman Filter
+Short-term determinants of the idiosyncratic sovereign risk premium: A regime-dependent analysis for European credit default swaps

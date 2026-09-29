@@ -1,0 +1,27 @@
+Semi-closed form cubature and applications to financial diffusion models
+A multifactor transformed diffusion model with applications to VIX and VIX futures
+A non-linear dynamic model of the variance risk premium
+Pre-averaging estimators of the ex-post covariance matrix in noisy diffusion models with non-synchronous data
+Variance reduction approach for the volatility over a finite-time horizon
+Pricing and hedging path-dependent options under the CEV process
+Calibrating FBSDEs Driven Models in Finance via NNs
+Estimation of integrated volatility in continuous-time financial models with applications to goodness-of-fit testing
+Nonparametric model validations for hidden Markov models with applications in financial econometrics
+On the statistical equivalence at suitable frequencies of garch and stochastic volatility models with the corresponding diffusion model
+A Comparative Review of Specification Tests for Diffusion Models
+The volatility structure of the fixed income market under the HJM framework: A nonlinear filtering approach
+From CKLS Process to CIR-type and OU-type Processes: Using a Twice-differentiable Mapping and Generalized Girsanov's Theorem
+Closed-Form Expansion, Conditional Expectation, and Option Valuation
+Nonparametric particle filtering and smoothing with quasi-Monte Carlo sampling
+Extracting a common stochastic trend: Theory with some applications
+A reexamination of diffusion estimators with applications to financial model validation
+Slow diffusion of information and price momentum in stocks: Evidence from options markets
+Goodness-of-fit test for interest rate models: An approach based on empirical processes
+An empirical comparison of transformed diffusion models for VIX and VIX futures
+Does China transmit financial cycle spillover effects to the G7 countries?
+SEMIPARAMETRIC ESTIMATION FOR A CLASS OF TIME-INHOMOGENEOUS DIFFUSION PROCESSES
+A test for a parametric form of the volatility in second-order diffusion models
+A goodness-of-fit test for functional time series with applications to Ornstein-Uhlenbeck processes
+Oil prices and sectoral stock returns in the BRICS-T countries: A time-varying approach
+TIME-VARYING IMPACTS OF MACROECONOMIC VARIABLES ON STOCK MARKET RETURNS AND VOLATILITY: EVIDENCE FROM PAKISTAN
+Parametric and nonparametric models and methods in financial econometrics

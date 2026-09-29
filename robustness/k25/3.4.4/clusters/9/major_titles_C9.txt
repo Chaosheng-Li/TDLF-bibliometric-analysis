@@ -1,0 +1,52 @@
+Hyperparameter-Optimized RNN, LSTM, and GRU Models for Airline Stock Price Prediction: A Comparative Study on THYAO and PGSUS
+CMDMamba: dual-layer Mamba architecture with dual convolutional feed-forward networks for efficient financial time series forecasting
+A hybrid optimized deep learning model via the Golden Jackal Optimizer for accurate stock price forecasting
+Stock Market Prediction Using Machine Learning and Deep Learning Techniques: A Review
+A deep learning integrated framework for predicting stock index price and fluctuation via singular spectrum analysis and particle swarm optimization
+Integration of Explainable AI with Deep Learning for Real-Time Sentiment-Driven Stock Price Prediction
+Accurate Stock Price Forecasting Based on Deep Learning and Hierarchical Frequency Decomposition
+A channel-independent network using patch external attention and mamba for long-term multivariate time series forecasting
+A Dual Output Temporal Convolutional Network With Attention Architecture for Stock Price Prediction and Risk Assessment
+Optimizing mean conditional value-at-risk portfolios through deep neural network stock prediction
+Chinese Financial News Analysis for Sentiment and Stock Prediction: A Comparative Framework with Language Models
+From news to trends: a financial time series forecasting framework with LLM-driven news sentiment analysis and selective state spaces
+Robust stock trend prediction via volatility detection and hierarchical multi-relational hypergraph attention
+VMD-MSANet: A multi-scale attention network for stock series prediction with Variational Mode Decomposition
+Deep learning for financial forecasting: A review of recent trends
+An Advisor Neural Network framework using LSTM-based Informative Stock Analysis
+ICAIMT: ART-LSTM: Augmented Reverse Training for Data-Efficient Time Series Forecasting
+Data-driven stock forecasting models based on neural networks: A review
+Enhancing Stock Price Forecasting with CNN-BiGRU-Attention: A Case Study on INDY
+Towards Economic Sustainability: A Comprehensive Review of Artificial Intelligence and Machine Learning Techniques in Improving the Accuracy of Stock Market Movements
+AI-Driven Intelligent Financial Forecasting: A Comparative Study of Advanced Deep Learning Models for Long-Term Stock Market Prediction
+An integrated model of sentiment analysis and quantitative index data for predicting stock market trends: A case study of Tehran Stock Exchange
+Hybrid Transformer-CNN architecture for multivariate time series forecasting: Integrating attention mechanisms with convolutional feature extraction
+A convolutional deep reinforcement learning architecture for an emerging stock market analysis
+StockAICloud: AI-based sustainable and scalable stock price prediction framework using serverless cloud computing
+Mapping stock market dynamics: A tripartite neural network approach using modified grid search for stock market prediction
+Multivariate input data for stock prediction using deep learning and hybrid models
+Artificial intelligence-driven financial innovation: A robo-advisor system for robust returns across diversified markets
+Integrating Macroeconomic and Technical Indicators into Forecasting the Stock Market: A Data-Driven Approach
+A novel decision ensemble framework: Attention-customized BiLSTM and XGBoost for speculative stock price forecasting
+A novel hierarchical feature selection with local shuffling and models reweighting for stock price forecasting
+Patterns in time series to image phase and multi-step forecasting of financial indices
+Stock price prediction for new energy vehicle companies based on multi-source data and hybrid attention structure
+A 2D-CNN-LSTM-Based Deep Learning Model for Forex Price Prediction using Lag Features
+Integrating Vision Transformer and Time-Frequency Analysis for Stock Volatility Prediction
+BiMT-TCN: A cutting-edge hybrid model for enhanced stock price prediction
+SPPMFN: Efficient Multimodal Financial Time-Series Prediction Network With Self-Supervised Learning
+Forecasting Fossil Energy Price Dynamics with Deep Learning: Implications for Global Energy Security and Financial Stability
+Algorithmic trading strategy based on the integration of deep learning models and natural language processing
+Major Issues in High-Frequency Financial Data Analysis: A Survey of Solutions
+Multi-Cluster Graph (MCG): A Novel Clustering-Based Multi-Relation Graph Neural Networks for Stock Price Forecasting
+STL-ELM: A computationally efficient hybrid approach for predicting high volatility stock market
+CMGM: A novel cross-market assets and multi-market modeling graph neural networks for financial market forecasting leveraging market states dependencies
+FINANCIAL MARKET VOLATILITY TIME SERIES PREDICTION AND VOLATILITY ADJUSTMENT ALGORITHM
+A Novel Framework for Agricultural Futures Price Prediction With BERT-Based Topic Identification and Sentiment Analysis
+Automated Trading Framework Using LLM-Driven Features and Deep Reinforcement Learning
+Combined Effects of Fat-Tail and Spread Forecasting on Pairs Trading: A Hybrid Model Based on Integrating VAR With GRU Models
+FSTGAT: Financial Spatio-Temporal Graph Attention Network for Non-Stationary Financial Systems and Its Application in Stock Price Prediction
+Long short-term memory networks in learning memory inconsistencies of stock markets
+A Multi-Market Data-Driven Stock Price Prediction System: Model Optimization and Empirical Study
+Forecasting multistep daily stock prices for long-term investment decisions: A study of deep learning models on global indices
+A Sustainable Portfolio Construction Model Based on ESG and Deep Learning Algorithms: Evidence from the US Market

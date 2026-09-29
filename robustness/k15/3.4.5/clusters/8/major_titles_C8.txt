@@ -1,0 +1,27 @@
+PAIRS TRADING WITH TOPOLOGICAL DATA ANALYSIS
+A Computationally Efficient Framework for Vector Representation of Persistence Diagrams
+Intelligent cryptocurrency trading system using integrated AdaBoost-LSTM with market turbulence knowledge
+Early Warning Signals of Financial Crises Using Persistent Homology and Critical Slowing Down: Evidence From Different Correlation Tests
+Improving financial distress prediction using textual sentiment of annual reports
+Topological features of multivariate distributions: Dependency on the covariance matrix
+Why topological data analysis detects financial bubbles?
+Forecasting Bitcoin Volatility Spikes From Whale Transactions and CryptoQuant Data Using Synthesizer Transformer Models
+VECTOR SUMMARIES OF PERSISTENCE DIAGRAMS FOR PERMUTATION-BASED HYPOTHESIS TESTING
+Committee of Multi-scale Nonlinear Learning Frameworks for accurate stock price forecasting
+Topological tail dependence: Evidence from forecasting realized volatility
+A hybrid forecasting model based on deep learning feature extraction and statistical arbitrage methods for stock trading strategies
+Patch-tLSTM: A multi-step prediction model for precious metal futures with high accuracy
+Can topological transitions in cryptocurrency systems serve as early warning signals for extreme fluctuations in traditional markets?
+Interpretable Stock Anomaly Detection Based on Spatio-Temporal Relation Networks With Genetic Algorithm
+Novel forecasting of white maize futures volatility: a hybrid GARCH-based bi-directional LSTM model
+A TOPOLOGICAL APPROACH FOR CAPTURING HIGH-ORDER INTERACTIONS IN GRAPH DATA WITH APPLICATIONS TO ANOMALY DETECTION IN TIME-VARYING CRYPTOCURRENCY TRANSACTION GRAPHS
+Time-resolved topological data analysis of market instabilities
+Prediction of the Stock Market From Linguistic Phrases: A Deep Neural Network Approach
+Understanding Changes in the Topology and Geometry of Financial Market Correlations during a Market Crash
+Multilayer topology-aware graph contrastive learning for fraud detection in the Ethereum transaction network
+FinTDA: Python package for estimating market change through persistent homology diagrams
+The better turbulence index? Forecasting adverse financial markets regimes with persistent homology
+DEEP NEURAL NETWORKS METHODS FOR ESTIMATING MARKET MICROSTRUCTURE AND SPECULATIVE ATTACKS MODELS: THE CASE OF GOVERNMENT BOND MARKET
+Early warning signals of financial crises using persistent homology
+A comparative study of symbolic aggregate approximation and topological data analysis
+Discontinuous movements and asymmetries in cryptocurrency markets

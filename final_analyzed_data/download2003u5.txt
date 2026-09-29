@@ -1,0 +1,367 @@
+PT J
+AU Sallans, B
+   Pfister, A
+   Karatzoglou, A
+   Dorffner, G
+AF Sallans, B
+   Pfister, A
+   Karatzoglou, A
+   Dorffner, G
+TI Simulation and validation of an integrated markets model
+SO JASSS-THE JOURNAL OF ARTIFICIAL SOCIETIES AND SOCIAL SIMULATION
+LA English
+DT Article
+DE agent-based economics; artificial consumer market; artificial stock market; bounded rationality; reinforcement learning
+AB The behavior of boundedly rational agents in two interacting markets is investigated. A discrete-time model of coupled financial and consumer markets is described. The integrated model consists of heterogenous consumers, financial traders, and production firms. The production firms operate in the consumer market, and offer their shares to be traded on the financial market. The model is validated by comparing its output to known empirical properties of real markets. In order to better explore the influence of model parameters on behavior, a novel Markov chain Monte Carlo method is introduced. This method allows for the efficient exploration of large parameter spaces, in order to find which parameter regimes lead to reproduction of empirical phenomena. It is shown that the integrated markets model can reproduce a number of empirical "stylized facts", including learning-by-doing effects, fundamental price effects, low autocorrelations, volatility clustering, high kurtosis, and volatility-volume correlations.
+C1 Austrian Res Inst Artificial Intelligence, A-1010 Vienna, Austria.
+   Univ Vienna, Econ & Business Adm, A-1090 Vienna, Austria.
+   Vienna Univ Technol, Dept Stat & Probabil Theory, A-1040 Vienna, Austria.
+C3 University of Vienna; Technische Universitat Wien
+RP Sallans, B (corresponding author), Austrian Res Inst Artificial Intelligence, Freyung 6-6-7, A-1010 Vienna, Austria.
+EM brian@oefai.at; apfister@wu-wien.ac.at; alexis@ci.tuwien.ac.at; georg@oefai.at
+CR Unknown -, 2000, ICML, V0, P0
+   Unknown -, 1982, MODELS OF BOUNDED RATIONALITY, V0, P0
+   Argote Linda, 2012, ORG LEARNING CREATIN, V2nd, P0
+   Arthur WB, 1997, EC EVOLVING COMPLEX, V0, P0, DOI 10.1201/9780429496639-2
+   BAIER T, 1999, SIMSEG PROJECT SIMUL, V0, P0
+   BEARDAH C, 1996, INTERFACING COMPUTER, V28, P0
+   Bellman Richard, 2010, DYNAMIC PROGRAMMING, V0, P0
+   Bertsekas DP, 1996, NEURO-DYNAMIC PROGRAMMING, V5, P0
+   Brock WA, 1997, ECONOMETRICA, V65, P1059, DOI 10.2307/2171879
+   Brock WA, 1998, J ECON DYN CONTROL, V22, P1235, DOI 10.1016/S0165-1889(98)00011-6
+   Chiarela C, 2001, QUANTITATIVE FINANCE, V1, P509, DOI 10.1088/1469-7688/1/5/303
+   DANGL T, 2001, Z BETRIEBSWIRTSCHAFL, V53, P339
+   GAUNERSDORFER A, 2000, ADAPTIVE BELIEFS VOL, V0, P0
+   Grossman S, 1989, INFORMATIONAL ROLE P, V0, P0
+   He X, 2002, COMPUTATIONAL EC, V19, P95, DOI 10.1023/A:1014957310778
+   HU J, 2003, IN PRESS J MACHINE L, V0, P0
+   Jaakkola T, 1995, ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS 7, V0, P345
+   KARPOFF JM, 1987, J FINANC QUANT ANAL, V22, P109, DOI 10.2307/2330874
+   KIM MK, 1994, J MULTINATL FINANC M, V4, P117
+   LeBaron B, 1999, J ECON DYN CONTROL, V23, P1487, DOI 10.1016/S0165-1889(98)00081-5
+   Levy Moshe, 1996, FINANCIAL ANALYSTS JOURNAL, V52, P65, DOI 10.2469/FAJ.V52.N3.1997
+   METROPOLIS N, 1953, J CHEM PHYS, V21, P1087, DOI 10.1063/1.1699114
+   Mundhe M, 2000, FOURTH INTERNATIONAL CONFERENCE ON MULTIAGENT SYSTEMS, V0, P421, DOI 10.1109/ICMAS.2000.858505
+   MUTH JF, 1961, ECONOMETRICA, V29, P315, DOI 10.2307/1909635
+   NATTER M, 2001, IN PRESS MANAGEMENT, V0, P0
+   Raberto M, 2001, PHYSICA A, V299, P319, DOI 10.1016/S0378-4371(01)00312-0
+   Rummery G A, 1994, ON-LINE Q-LEARNING USING CONNECTIONIST SYSTEMS, V166, P0
+   Sandholm TW, 1996, BIOSYSTEMS, V37, P147, DOI 10.1016/0303-2647(95)01551-5
+   SHILLER RJ, 1981, AM ECON REV, V71, P421
+   STEIGLITZ K, 1995, MARKET BASED CONTROL, V0, P0
+   Sutton AG Barto RS, 1998, REINFORCEMENT LEARNING, V0, P0
+   Sutton RS, 1996, ADV NEUR IN, V8, P1038
+   TESAURO G, 1999, IJCAI 99, V0, P0
+   Tesfatsion L, 2002, ARTIF LIFE, V8, P55, DOI 10.1162/106454602753694765
+   Watkins CJCH, 1989, LEARNING DELAYED REW, V0, P0
+   WATKINS CJCH, 1992, MACH LEARN, V8, P279, DOI 10.1007/BF00992698
+   Wellman MP, 1998, MACH LEARN, V33, P179, DOI 10.1023/A:1007514623589
+NR 37
+TC 9
+Z9 10
+U1 0
+U2 0
+PU J A S S S
+PI GUILDFORD
+PA UNIV SURREY, DEPT SOCIOLOGY, GUILDFORD GU2 7XH, SURREY, ENGLAND
+SN 1460-7425
+EI 
+J9 JASSS-J ARTIF SOC S
+JI JASSS
+PD OCT 15
+PY 2003
+VL 6
+IS 4
+BP 
+EP 
+DI 
+PG 37
+WC Social Sciences, Interdisciplinary
+SC Social Sciences - Other Topics
+GA 754ZQ
+UT WOS:000187363700002
+DA 2025-12-31
+ER
+
+PT J
+AU Brown, LD
+   Wang, YZ
+   Zhao, LH
+AF Brown, LD
+   Wang, YZ
+   Zhao, LH
+TI On the statistical equivalence at suitable frequencies of garch and stochastic volatility models with the corresponding diffusion model
+SO STATISTICA SINICA
+LA English
+DT Article
+DE conditional variance; deficiency distance; financial modeling; frequency; stochastic differential equation; stochastic volatility
+ID nonparametric regression; asymptotic equivalence; options
+AB Continuous-time models play a central role in the modern theoretical finance literature, while discrete-time models are often used in the empirical finance literature. The continuous-time models are diffusions governed by stochastic differential equations. Most of the discrete-time models are autoregressive conditionally heteroscedastic (ARCH) models and stochastic volatility (SV) models. The discrete-time models are often regarded as discrete approximations of diffusions because the discrete-time processes weakly converge to the diffusions. It is known that SNV models and multiplicative GARCH models share the same diffusion limits in a weak-convergence sense. Here we investigate a much stronger convergence notion. We show that SV models are asymptotically equivalent to their diffusion limits at the basic frequency of their construction, while multiplicative GARCH models match to the diffusion limits only for observations singled-out at frequencies lower than the square root of the basic frequency of construction. These results also reveal that the structure of the multiplicative GARCH models at frequencies lower than the square root of the basic frequency no longer obey the GARCH framework at the observed frequencies. Instead they behave there like the SV models.
+C1 Univ Penn, Wharton Sch, Dept Stat, Philadelphia, PA 19104 USA.
+   Univ Connecticut, Dept Stat, Storrs, CT 06269 USA.
+C3 University of Pennsylvania; University of Connecticut
+RP Brown, LD (corresponding author), Univ Penn, Wharton Sch, Dept Stat, 3000 Steinberg Hall Dietrich Hall,3620 Locust Wal, Philadelphia, PA 19104 USA.
+CR Unknown -, 1997, MATH. METHODS. STATIST., V0, P0
+   BLACK F, 1973, J POLIT ECON, V81, P637, DOI 10.1086/260062
+   BOLLERSLEV T, 1986, J ECONOMETRICS, V31, P307, DOI 10.1016/0304-4076(86)90063-1
+   BOLLERSLEV T, 1992, J ECONOMETRICS, V52, P5, DOI 10.1016/0304-4076(92)90064-X
+   Brown LD, 2002, ANN STAT, V30, P688
+   Brown LD, 1996, ANN STAT, V24, P2384
+   DROST FC, 1993, ECONOMETRICA, V61, P909, DOI 10.2307/2951767
+   Duan J-C, 1995, MATHEMATICAL FI- NANCE, V5, P13, DOI 10.1111/j.1467-9965.1995.tb00099.x
+   Duan JC, 1997, J ECONOMETRICS, V79, P97, DOI 10.1016/S0304-4076(97)00009-2
+   Duffie D, 1992, DYNAMIC ASSET PRICING THEORY, V0, P0
+   Engle RF, 1986, ECONOMET REV, V5, P1, DOI 10.1080/07474938608800095
+   ENGLE RF, 1982, ECONOMETRICA, V50, P987, DOI 10.2307/1912773
+   Geweke J, 1986, ECONOMET REV, V5, P57, DOI 10.1080/07474938608800097
+   GOUREIROUX C, 1997, ARCH MODELS FINANCIA, V0, P0
+   Greenwood PE, 1985, CONTIGUITY AND THE STATISTICAL INVARIANCE PRINCIPLE, Vfirst, P0
+   HULL J, 1987, J FINANC, V42, P281, DOI 10.1111/j.1540-6261.1987.tb02568.x
+   Hull JC, 1997, OPTIONS FUTURES OTHE, V0, P0
+   JACQUIER E, 1994, J BUS ECON STAT, V12, P371, DOI 10.2307/1392199
+   Kallsen J, 1998, MATH FINANC, V8, P13, DOI 10.1111/1467-9965.00042
+   Karatzas I, 1997, BROWNIAN MOTION STOC, V2nd, P0
+   KOMLOS J, 1975, Z WAHRSCHEINLICHKEIT, V32, P111, DOI 10.1007/BF00533093
+   Le Cam L, 1986, ASYMPTOTIC METHODS IN STATISTICAL DECISION THEORY, V0, P0, DOI 10.1007/978-1-4612-1986-6_8
+   Le Cam L, 2000, ASYMPTOTICS STAT SOM, V0, P0
+   NELSON DB, 1990, J ECONOMETRICS, V45, P7, DOI 10.1016/0304-4076(90)90092-8
+   NUSSBAUM M, 1999, UNPUB, V0, P0
+   Pantula SG, 1986, ECONOMET REV, V5, P71, DOI 10.1080/07474938608800099
+   Wang YZ, 2002, ANN STAT, V30, P754
+NR 27
+TC 12
+Z9 13
+U1 0
+U2 2
+PU STATISTICA SINICA
+PI TAIPEI
+PA C/O DR H C HO, INST STATISTICAL SCIENCE, ACADEMIA SINICA, TAIPEI 115, TAIWAN
+SN 1017-0405
+EI 
+J9 STAT SINICA
+JI Stat. Sin.
+PD OCT 15
+PY 2003
+VL 13
+IS 4
+BP 993
+EP 1013
+DI 
+PG 21
+WC Statistics & Probability
+SC Mathematics
+GA 738HR
+UT WOS:000186281600005
+DA 2025-12-31
+ER
+
+PT J
+AU Perelló, J
+   Masoliver, J
+AF Perelló, J
+   Masoliver, J
+TI Random diffusion and leverage effect in financial markets -: art. no. 037102
+SO PHYSICAL REVIEW E
+LA English
+DT Article
+ID stochastic volatility; dynamics; options
+AB We prove that Brownian market models with random diffusion coefficients provide an exact measure of the leverage effect [J-P. Bouchaud , Phys. Rev. Lett. 87, 228701 (2001)]. This empirical fact asserts that past returns are anticorrelated with future diffusion coefficient. Several models with random diffusion have been suggested but without a quantitative study of the leverage effect. Our analysis lets us to fully estimate all parameters involved and allows a deeper study of correlated random diffusion models that may have practical implications for many aspects of financial markets.
+C1 Univ Barcelona, Dept Fis Fonamental, E-08028 Barcelona, Spain.
+C3 University of Barcelona
+EM perello@ffn.ub.es; jaume@ffn.ub.es
+CR Unknown -, 2000, THEORY FINANCIAL RIS, V0, P0
+   Ben-Avraham D, 2000, DIFFUSION REACTIONS, V0, P0
+   Black F, 1976, P 1976 BUSINESS M BU, V0, PP177, DOI 10.1002/FUT.22086
+   Bouchaud JP, 2001, PHYS REV LETT, V87, Part. no., DOI 10.1103/PhysRevLett.87.228701
+   CHRISTIE AA, 1982, J FINANC ECON, V10, P407, DOI 10.1016/0304-405X(82)90018-6
+   Cont R, 2001, QUANT FINANC, V1, P223, DOI 10.1088/1469-7688/1/2/304
+   Cootner Paul, 1964, THE RANDOM CHARACTER OF STOCK MARKET PRICES, V0, P0
+   Dragulescu AA, 2002, QUANTITATIVE FINANCE, V2, P443, DOI 10.1088/1469-7688/2/6/303
+   Engle RF, 2001, QUANT FINANC, V1, P237, DOI 10.1088/1469-7688/1/2/305
+   Fouque J-P, 2000, INT J THEOR APPL FIN, V3, P101, DOI 10.1142/S0219024900000061
+   Fouque JP, 2000, DERIVATIVES FINANCIA, V0, P0
+   Garrahan JP, 2000, PHYS REV E, V62, PR9, DOI 10.1103/PhysRevE.62.R9
+   Ghysels E, 1996, STATISTICAL METHODS IN FINANCE, V0, P0
+   Henrickson SE, 2000, PHYS REV LETT, V85, P3057, DOI 10.1103/PhysRevLett.85.3057
+   Hess B, 2000, PHYS REV E, V62, P8438, DOI 10.1103/PhysRevE.62.8438
+   HESTON SL, 1993, REV FINANC STUD, V6, P327, DOI 10.1093/rfs/6.2.327
+   HULL J, 1987, J FINANC, V42, P281, DOI 10.1111/j.1540-6261.1987.tb02568.x
+   Masoliver Jaume, 2002, INTERNATIONAL JOURNAL OF THEORETICAL AND APPLIED FINANCE, V5, P541, DOI 10.1142/s0219024902001596
+   NOVIKOV EA, 1965, ZH EKSP TEOR FIZ, V20, P1290
+   Perelló J, 2000, PHYSICA A, V278, P260, DOI 10.1016/S0378-4371(99)00612-3
+   Plerou V, 1999, PHYS REV E, V60, P6519, DOI 10.1103/PhysRevE.60.6519
+   Santra SB, 2001, PHYS REV E, V63, P0, DOI 10.1103/PhysRevE.63.067101
+   SCOTT LO, 1987, J FINANC QUANT ANAL, V22, P419, DOI 10.2307/2330793
+   STEIN EM, 1991, REV FINANC STUD, V4, P727, DOI 10.1093/rfs/4.4.727
+   Voit J, 2001, THE STATISTICAL MECHANICS OF FINANCIAL MARKETS, V0, P0
+   WIGGINS JB, 1987, J FINANC ECON, V19, P351, DOI 10.1016/0304-405X(87)90009-2
+NR 26
+TC 39
+Z9 40
+U1 0
+U2 11
+PU AMER PHYSICAL SOC
+PI COLLEGE PK
+PA ONE PHYSICS ELLIPSE, COLLEGE PK, MD 20740-3844 USA
+SN 1539-3755
+EI 1550-2376
+J9 PHYS REV E
+JI Phys. Rev. E
+PD MAR 15
+PY 2003
+VL 67
+IS 3
+BP 
+EP 
+DI 10.1103/PhysRevE.67.037102
+PG 4
+WC Physics, Fluids & Plasmas; Physics, Mathematical
+SC Physics
+GA 663TB
+UT WOS:000182020900082
+PM 12689200
+DA 2026-01-04
+ER
+
+PT J
+AU Lee, JW
+   Kim, SD
+   Lee, J
+   Chae, J
+AF Lee, JW
+   Kim, SD
+   Lee, J
+   Chae, J
+TI An intelligent stock trading system based on reinforcement learning
+SO IEICE TRANSACTIONS ON INFORMATION AND SYSTEMS
+LA English
+DT Article; Proceedings Paper
+DE reinforcement learning; TD algorithm; stock selection; neural network; multiple agents
+AB This paper describes a stock trading system based on reinforcement learning, regarding the process of stock price changes as Markov decision process (MDP). The system adopts two popular reinforcement learning algorithms, temporal-difference (TD) and Q, for selecting stocks and optimizing trading parameters, respectively. Input features of the system are devised using technical analysis and value functions are approximated by feedforward neural networks. Multiple cooperative agents are used for Q-learning to efficiently integrate global trend prediction with local trading strategy. Agents communicate with others sharing training episodes and learned policies, while keeping the overall scheme of conventional Q-learning. Experimental results on the Korean stock market show that our trading system outperforms the market average and makes appreciable profits. Furthermore, we can find that our system is superior to a system trained by supervised learning in view of risk management.
+C1 Sungshin Womens Univ, Sch Comp Sci & Engn, Seoul 136742, South Korea.
+   Hangsung Univ, Dept Comp Syst Engn, Seoul 136792, South Korea.
+   Kwangwoon Univ, Dept Comp Engn, Nowon Gu, Seoul, South Korea.
+   Univ Incheon, Dept Comp Sci & Engn, Inchon 402749, South Korea.
+C3 Sungshin Women's University; Kwangwoon University; Incheon National University
+RP Lee, JW (corresponding author), Sungshin Womens Univ, Sch Comp Sci & Engn, Seoul 136742, South Korea.
+CR Anderson CW, 1986, THESIS U MASSACHUSET, V0, P0
+   CARUANA R, 2000, NEURAL INFORMATION P, V0, P28
+   Chou SCT, 1997, ANN OPER RES, V75, P335, DOI 10.1023/A:1018923916424
+   Christopher John Cornish Hella by Watkins, 1989, LEARNING FROM DELAYED REWARDS, V0, P0
+   EDWARDS RD, 1974, TECHNICAL ANAL STOCK, V0, P0
+   Gao Xiu, 2000, P INT C NEURAL INFOR, V0, P832
+   Kalos MH, 1998, MONTE CARLO METHODS, V0, P0
+   KUO RJ, 1998, APPL ARTIF INTELL, V6, P501
+   Moody J, 2001, IEEE T NEURAL NETWOR, V12, P875, DOI 10.1109/72.935097
+   Moody J, 1998, J FORECASTING, V17, P441, DOI 10.1002/(SICI)1099-131X(1998090)17:5/6<441::AID-FOR707>3.3.CO;2-R
+   Neuneier R, 1998, ADV NEUR IN, V10, P936
+   Neuneier R, 1996, ADV NEUR IN, V8, P952
+   Neuneier R, 1999, ADV NEUR IN, V11, P1031
+   Nison Steve, 1991, JAPANESE CANDLESTICK CHARTING TECHNIQUES, V0, P0
+   Sutton AG Barto RS, 1998, REINFORCEMENT LEARNING, V0, P0
+   WERBOS PJ, 1987, IEEE T SYST MAN CYB, V17, P7, DOI 10.1109/TSMC.1987.289329
+   Zhang BL, 2001, IEEE T NEURAL NETWOR, V12, P765, DOI 10.1109/72.935090
+NR 17
+TC 6
+Z9 8
+U1 0
+U2 11
+PU IEICE-INST ELECTRONICS INFORMATION COMMUNICATION ENGINEERS
+PI TOKYO
+PA KIKAI-SHINKO-KAIKAN BLDG, 3-5-8, SHIBA-KOEN, MINATO-KU, TOKYO, 105-0011, JAPAN
+SN 0916-8532
+EI 1745-1361
+J9 IEICE T INF SYST
+JI IEICE Trans. Inf. Syst.
+PD FEB 15
+PY 2003
+VL E86D
+IS 2
+BP 296
+EP 305
+DI 
+PG 10
+WC Computer Science, Information Systems; Computer Science, Software Engineering
+SC Computer Science
+GA 646JX
+UT WOS:000181032800016
+DA 2025-12-31
+ER
+
+PT J
+AU Fan, JQ
+   Zhang, CM
+AF Fan, JQ
+   Zhang, CM
+TI A reexamination of diffusion estimators with applications to financial model validation
+SO JOURNAL OF THE AMERICAN STATISTICAL ASSOCIATION
+LA English
+DT Article
+DE goodness of fit; local polynomial regression; Markovian; stochastic differential equation; variance estimation
+ID term interest-rate; nonparametric regression; statistics
+AB Time-homogeneous diffusion models have been widely used for describing the stochastic dynamics of the underlying economic variables. Recently, Stanton proposed drift and diffusion estimators based on a higher-order approximation scheme and kernel regression method. He claimed that "higher order approximations must outperform lower order approximations" and concluded nonlinearity in the instantaneous return function of short-term interest rates. To examine the impact of higher-order approximations, we develop general and explicit formulas for the asymptotic behavior of both drift and diffusion estimators. We show that these estimators will reduce the numerical approximation errors in asymptotic biases, but their asymptotic variances escalate nearly exponentially with the order of approximation. Simulation studies also confirm our asymptotic results. This variance inflation problem arises not only from nonparametric fitting, but also from parametric fitting. Stanton's work also postulates the interesting question of whether the short-term rate drift is nonlinear. Based on empirical simulation studies, Chapman and Pearson suggested that the nonlinearity might be spurious, due partially to the boundary effect of kernel regression. This prompts us to use the local linear fit based on the first-order approximation, proposed by Fan and Yao, to ameliorate the boundary effect and to construct formal tests of parametric financial models against the nonparametric alternatives. Our simulation results show that the local linear method indeed outperforms the kernel approach. Furthermore, our nonparametric 11 generalized likelihood ratio tests" are indeed versatile and powerful in detecting nonparametric alternatives. Using this formal testing procedure, we show that the evidence against the linear drift of the short-term interest rates is weak, whereas evidence against a family of popular models for the volatility function is very strong. Application to Standard & Poor 500 data is also illustrated.
+C1 Univ N Carolina, Dept Stat, Chapel Hill, NC 27599 USA.
+   Chinese Univ Hong Kong, Dept Stat, Hong Kong, Hong Kong, Peoples R China.
+C3 University of North Carolina; University of North Carolina Chapel Hill; Chinese University of Hong Kong
+RP Fan, JQ (corresponding author), Univ N Carolina, Dept Stat, Chapel Hill, NC 27599 USA.
+CR Ait-Sahalia Y, 1996, ECONOMETRICA, V64, P527, DOI 10.2307/2171860
+   ALLEN DM, 1974, TECHNOMETRICS, V16, P125, DOI 10.2307/1267500
+   Arfi M, 1998, SCAND J STAT, V25, P225, DOI 10.1111/1467-9469.00099
+   Arfi M, 1995, J. NONPARAMETR. STAT., V5, P381
+   BANON G, 1981, SIAM J CONTROL OPTIM, V19, P676, DOI 10.1137/0319043
+   BANON G, 1978, SIAM J CONTROL OPTIM, V16, P380, DOI 10.1137/0316024
+   CHAN KC, 1992, J FINANC, V47, P1209, DOI 10.2307/2328983
+   Chapman DA, 2000, J FINANC, V55, P355, DOI 10.1111/0022-1082.00208
+   COX JC, 1980, J FINANC, V35, P389, DOI 10.2307/2327398
+   COX JC, 1985, ECONOMETRICA, V53, P385, DOI 10.2307/1911242
+   DENKER M, 1983, Z WAHRSCHEINLICHKEIT, V64, P505, DOI 10.1007/BF00534953
+   Fan J, 1996, LOCAL POLYNOMIAL MOD, V0, P0
+   Fan JQ, 1998, BIOMETRIKA, V85, P645, DOI 10.1093/biomet/85.3.645
+   FAN JQ, 1992, J AM STAT ASSOC, V87, P998, DOI 10.2307/2290637
+   FAN JQ, 1995, J ROY STAT SOC B, V57, P371
+   Fan JQ, 2001, ANN STAT, V29, P153, DOI 10.1214/aos/996986505
+   Gallant AR, 1997, BIOMETRIKA, V84, P125, DOI 10.1093/biomet/84.1.125
+   HANSEN LP, 1982, ECONOMETRICA, V50, P1029, DOI 10.2307/1912775
+   Jiang GJ, 1997, ECONOMET THEOR, V13, P615, DOI 10.1017/S0266466600006101
+   Kloeden PE, 1999, NUMERICAL SOLUTION OF STOCHASTIC DIFFERENTIAL EQUATIONS, V0, P0
+   Kloeden PE, 1996, J APPL PROBAB, V33, P1061, DOI 10.2307/3214986
+   Oksendal B, 1985, STOCHASTIC DIFFERENT, V6th, P0
+   OSBORNE MFM, 1959, OPER RES, V7, P145, DOI 10.1287/opre.7.2.145
+   PHAM DT, 1981, MATH OPERATIONSFORSC, V12, P61
+   Rao BLSPrakasa, 1985, STATISTICS-ABINGDON, V16, P263
+   Rosenblatt M, 1971, MARKOV PROCESSES: STRUCTURE AND ASYMPTOTIC BEHAVIOR, V0, P0
+   Rosenblatt M, 1970, NONPARAMETRIC TECHNI, V0, P199
+   Ruppert D, 1997, J AM STAT ASSOC, V92, P1049, DOI 10.2307/2965570
+   Ruppert D, 1995, J AM STAT ASSOC, V90, P1257, DOI 10.2307/2291516
+   Stanton R, 1997, J FINANC, V52, P1973, DOI 10.1111/j.1540-6261.1997.tb02748.x
+   STONE M, 1974, J R STAT SOC B, V36, P111, DOI 10.1111/j.2517-6161.1974.tb00994.x
+   VASICEK O, 1977, J FINANC ECON, V5, P177, DOI 10.1016/0304-405X(77)90016-2
+   Wahba G, 1977, J R STAT SOC C-APPL, V0, P507
+   Wong E, 1971, STOCHASTIC PROCESSES, V0, P0
+NR 34
+TC 129
+Z9 159
+U1 0
+U2 11
+PU AMER STATISTICAL ASSOC
+PI ALEXANDRIA
+PA 1429 DUKE ST, ALEXANDRIA, VA 22314 USA
+SN 0162-1459
+EI 
+J9 J AM STAT ASSOC
+JI J. Am. Stat. Assoc.
+PD MAR 15
+PY 2003
+VL 98
+IS 461
+BP 118
+EP 134
+DI 10.1198/016214503388619157
+PG 17
+WC Statistics & Probability
+SC Mathematics
+GA 673MJ
+UT WOS:000182584500013
+DA 2026-01-04
+ER
+

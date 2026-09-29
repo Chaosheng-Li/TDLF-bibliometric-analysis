@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchresult>
+<query>Global</query>
+<document id="1">
+<title>Jump Detection and Noise Separation by a Singular Wavelet Method for Predictive Analytics of High-Frequency Data</title>
+<url>http://dx.doi.org/10.1007/s10614-019-09881-3</url>
+<snippet>High-frequency data is a big data in finance in which a large amount of intra-day transactions arriving irregularly in financial markets are recorded. Given the high frequency and irregularity, such data require efficient tools to filter out the noise (i.e. jumps) arising from the anomaly, irregularity, and heterogeneity of financial markets. In this article, we use a recurrently adaptive separation algorithm, which is based on the maximal overlap discrete wavelet transform (MODWT) and that can effectively: (1) identify the time-variant jumps, (2) extract the time-consistent patterns from the noise (jumps), and (3) denoise the marginal perturbations. In addition, the proposed algorithm enables reinforcement learning to optimize a multiple-criteria decision or convex programming when reconstructing the wavelet-denoised data. Using simulated data, we show the proposed approach can perform efficiently in comparison with other conventional methods documented in the literature. We also apply our method in an empirical study by using high-frequency data from the US stock market and confirm that the proposed method can significantly improve the accuracy of predictive analytics models for financial market returns.
+WOS:000477065600013
+</snippet>
+</document>
+
+<document id="2">
+<title>Financial portfolio optimization with online deep reinforcement learning and restricted stacked autoencoder-DeepBreath</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2020.113456</url>
+<snippet>The process of continuously reallocating funds into financial assets, aiming to increase the expected return of investment and minimizing the risk, is known as portfolio management. In this paper, a portfolio management framework is developed based on a deep reinforcement learning framework called DeepBreath. The DeepBreath methodology combines a restricted stacked autoencoder and a convolutional neural network (CNN) into an integrated framework. The restricted stacked autoencoder is employed in order to conduct dimensionality reduction and features selection, thus ensuring that only the most informative abstract features are retained. The CNN is used to learn and enforce the investment policy which consists of reallocating the various assets in order to increase the expected return on investment. The framework consists of both offline and online learning strategies: the former is required to train the CNN while the latter handles concept drifts i.e. a change in the data distribution resulting from unforeseen circumstances. These are based on passive concept drift detection and online stochastic batching. Settlement risk may occur as a result of a delay in between the acquisition of an asset and its payment failing to deliver the terms of a contract. In order to tackle this challenging issue, a blockchain is employed. Finally, the performance of the DeepBreath framework is tested with four test sets over three distinct investment periods. The results show that the return of investment achieved by our approach outperforms current expert investment strategies while minimizing the market risk. Crown Copyright (C) 2020 Published by Elsevier Ltd.
+WOS:000542130000005
+</snippet>
+</document>
+
+<document id="3">
+<title>Generalized exponential moving average (EMA) model with particle filtering and anomaly detection</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2016.12.034</url>
+<snippet>This paper proposes a generalized exponential moving average (EMA) model, a new stochastic volatility model with time-varying expected return in financial markets. In particular, we effectively apply a particle filter (PF) to sequential estimation of states and parameters in a state space framework. Moreover, we develop three types of anomaly detectors, which are implemented easily in the PF algorithm to be used for investment decision. As a result, a simple investment strategy with our scheme is superior to the one based on the standard EMA and well-known traditional strategies such as equally-weighted, minimum-variance and.risk parity portfolios. Our dataset is monthly total returns of global financial assets such as stocks, bonds and REITs, and investment performances are evaluated with various statistics, namely compound returns, Sharpe ratios, Sortino ratios and drawdowns. (C) 2016 Elsevier Ltd. All rights reserved.
+WOS:000394632200014
+</snippet>
+</document>
+
+<document id="4">
+<title>Forecasting the volatility of stock price index: A hybrid model integrating LSTM with multiple GARCH-type models</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2018.03.002</url>
+<snippet>Volatility plays crucial roles in financial markets, such as in derivative pricing, portfolio risk management, and hedging strategies. Therefore, accurate prediction of volatility is critical. We propose a new hybrid long short-term memory (LSTM) model to forecast stock price volatility that combines the LSTM model with various generalized autoregressive conditional heteroscedasticity (GARCH)-type models. We use KOSPI 200 index data to discover proposed hybrid models that combine an LSTM with one to three GARCH-type models. In addition, we compare their performance with existing methodologies by analyzing single models, such as the GARCH, exponential GARCH, exponentially weighted moving average, a deep feedforward neural network (DFN), and the LSTM, as well as the hybrid DFN models combining a DFN with one GARCH-type model. Their performance is compared with that of the proposed hybrid LSTM models. We discover that GEW-LSTM, a proposed hybrid model combining the LSTM model with three GARCH-type models, has the lowest prediction errors in terms of mean absolute error (MAE), mean squared error (MSE), heteroscedasticity adjusted MAE (HMAE), and heteroscedasticity adjusted MSE (HMSE). The MAE of GEW-ISTM is 0.0107, which is 37.2&#37; less than that of the E-DFN (0.017), the model combining EGARCH and DFN and the best model among those existing. In addition, the GEW-LSTM has 57.3&#37;, 24.7&#37;, and 48&#37; smaller MSE, HMAE, and HMSE, respectively. The first contribution of this study is its hybrid LSTM model that combines excellent sequential pattern learning with improved prediction performance In stock market volatility. Second, our proposed model markedly enhances prediction performance of the existing literature by combining a neural network model with multiple econometric models rather than only a single econometric model. Finally, the proposed methodology can be extended to various fields as an integrated model combining time-series and neural network models as well as forecasting stock market volatility. (C) 2018 Elsevier Ltd. All rights reserved.
+WOS:000430521200003
+</snippet>
+</document>
+
+<document id="5">
+<title>Dilated convolutional neural networks for time series forecasting</title>
+<url>http://dx.doi.org/10.21314/JCF.2018.358</url>
+<snippet>We present a method for conditional time series forecasting based on an adaptation of the recent deep convolutional WaveNet architecture. The proposed network contains stacks of dilated convolutions that allow it to access a broad range of historical data when forecasting. It also uses a rectified linear unit (ReLU) activation function, and conditioning is performed by applying multiple convolutional filters in parallel to separate time series, which allows for the fast processing of data and the exploitation of the correlation structure between the multivariate time series. We test and analyze the performance of the convolutional network both unconditionally and conditionally for financial time series forecasting using the Standard &amp; Poor's 500 index, the volatility index, the Chicago Board Options Exchange interest rate and several exchange rates, and we extensively compare its performance with those of the well-known autoregressive model and a long short-term memory network. We show that a convolutional network is well suited to regression-type problems and is able to effectively learn dependencies in and between the series without the need for long historical time series, that it is a time-efficient and easy-to-implement alternative to recurrent-type networks, and that it tends to outperform linear and recurrent model.
+WOS:000459856000004
+</snippet>
+</document>
+
+<document id="6">
+<title>PERFORMANCE OF DEEP LEARNING IN PREDICTION OF STOCK MARKET VOLATILITY</title>
+<url>http://dx.doi.org/10.24818/18423264/53.2.19.05</url>
+<snippet>Volatility forecasting is an important issue for investment analysis and risk management in finance. Based on the Long Short Term Memory (LSTM) deep learning algorithm, we propose an accurate algorithm for forecasting stock market index and its volatility. The proposed algorithm is tested on the data from 5 stock market indices including S&amp;P500, NASDAQ, German DAX, Korean KOSPI200 and Mexico IPC over a 7-yearperiod from 2010 to 2016. The highest prediction performance is observed with hybrid momentum, the difference between the price and the moving average of the past prices, for the predictions of both market index and volatility. Unlike stock index, the prediction accuracy for the volatility does not show dependency on other financial variables such as open, low, high prices, volume, etc. except the volatility itself.
+WOS:000471765800005
+</snippet>
+</document>
+
+<document id="7">
+<title>Gold volatility prediction using a CNN-LSTM approach</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2020.113481</url>
+<snippet>Prediction of volatility for different types of financial assets is one of the tasks of greater mathematical complexity in time series prediction, mainly due to its noisy, non-stationary and heteroscedastic structure. On the other hand, gold is an asset of particular importance for hedging and diversification of investment portfolios, and therefore it is important to predict future volatility of this asset. This paper seeks to significantly improve the forecast of gold volatility by combining two deep learning methodologies: short-term memory networks (LSTM) added to convolutional neural networks (specifically a pre-trained VGG16 network). It is important to mention that these types of hybrid architectures have not been used in time series prediction, so it is a completely new approach to solving these types of problems. The CNN-LSTM hybrid model is capable of including images as input which provides a wide variety of information associated with both static and dynamic characteristics of the series. In parallel, different lags of profitability of the series are entered as input, which allows it to learn from the temporal structure. The results show a substantial improvement when this hybrid model is compared to the GARCH and LSTM models. A 37&#37; reduction in MSE is observed compared to the classic GARCH model, and 18&#37; compared to the LSTM model. Finally, the Model Confidence Model (MCS) determines a significant improvement in the prediction of the hybrid model. The fundamental importance of this research lies in the application of a new type of architecture capable of processing various sources of information for any time series prediction task. (C) 2020 Elsevier Ltd. All rights reserved.
+WOS:000548587800010
+</snippet>
+</document>
+
+<document id="8">
+<title>Deep learning networks for stock market analysis and prediction: Methodology, data representations, and case studies</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2017.04.030</url>
+<snippet>We offer a systematic analysis of the use of deep learning networks for stock market analysis and prediction. Its ability to extract features from a large set of raw data without relying on prior knowledge of predictors makes deep learning potentially attractive for stock market prediction at high frequencies. Deep learning algorithms vary considerably in the choice of network structure, activation function, and other model parameters, and their performance is known to depend heavily on the method of data representation. Our study attempts to provides a comprehensive and objective assessment of both the advantages and drawbacks of deep learning algorithms for stock market analysis and prediction. Using high frequency intraday stock returns as input data, we examine the effects of three unsupervised feature extraction methods principal component analysis, autoencoder, and the restricted Boltzmann machine on the networks overall ability to predict future market behavior. Empirical results suggest that deep neural networks can extract additional information from the residuals of the autoregressive model and improve prediction performance; the same cannot be said when the autoregressive model is applied to the residuals of the network. Covariance estimation is also noticeably improved when the predictive network is applied to covariance-based market structure analysis. Our study offers practical insights and potentially useful directions for further investigation into how deep learning networks can be effectively used for stock market analysis and prediction. (C) 2017 Elsevier Ltd. All rights reserved.
+WOS:000403030000016
+</snippet>
+</document>
+
+<document id="9">
+<title>Feature Engineering for Mid-Price Prediction With Deep Learning</title>
+<url>http://dx.doi.org/10.1109/ACCESS.2019.2924353</url>
+<snippet>Mid-price movement prediction based on the limit order book data is a challenging task due to the complexity and dynamics of the limit order book. So far, there have been very limited attempts for extracting relevant features based on the limit order book data. In this paper, we address this problem by designing a new set of handcrafted features and performing an extensive experimental evaluation on both liquid and illiquid stocks. More specifically, we present an extensive set of econometric features that capture the statistical properties of the underlying securities for the task of mid-price prediction. The experimental evaluation consists of a head-to-head comparison with other handcrafted features from the literature and with features extracted from a long short-term memory autoencoder by means of a fully automated process. Moreover, we develop a new experimental protocol for online learning that treats the task above as a multi-objective optimization problem and predicts: 1) the direction of the next price movement and; 2) the number of order book events that occur until the change takes place. In order to predict the mid-price movement, features are fed into nine different deep learning models based on multi-layer perceptrons, convolutional neural networks, and long short-term memory neural networks. The performance of the proposed method is then evaluated on liquid and illiquid stocks (i.e., Total View-ITCH US and Nordic stocks). For some stocks, results suggest that the correct choice of a feature set and a model can lead to the successful prediction of how long it takes to have a stock price movement.
+WOS:000475350700001
+</snippet>
+</document>
+
+<document id="10">
+<title>Predicting Prices of Stock Market using Gated Recurrent Units (GRUs) Neural Networks</title>
+<url>http://dx.doi.org/</url>
+<snippet>Predicting the stock prices is very much challenging job due to the volatility of the stock market. In this paper, we have proposed a model to predict the future prices of the stock market using Gated Recurrent Units (GRUs) neural networks. We have changed the internal structure of GRUs in order to remove local minima problem, reduce time complexity and others problem of stochastic gradient descent as well as improve the efficiency. We used mini-batch gradient descent, is a good trade-off between stochastic gradient descent and batch gradient descent. We evaluated our result by calculating the root mean square error on the various dataset. After extensive experiments on the real-time dataset, our proposed method predicted the future prices successfully with good accuracy.
+WOS:000458649400026
+</snippet>
+</document>
+
+<document id="11">
+<title>Universal features of price formation in financial markets: perspectives from deep learning</title>
+<url>http://dx.doi.org/10.1080/14697688.2019.1622295</url>
+<snippet>Using a large-scale Deep Learning approach applied to a high-frequency database containing billions of market quotes and transactions for US equities, we uncover nonparametric evidence for the existence of a universal and stationary relation between order flow history and the direction of price moves. The universal price formation model exhibits a remarkably stable out-of-sample accuracy across a wide range of stocks and time periods. Interestingly, these results also hold for stocks which are not part of the training sample, showing that the relations captured by the model are universal and not asset-specific. The universal model-trained on data from all stocks-outperforms asset-specific models trained on time series of any given stock. This weighs in favor of pooling together financial data from various stocks, rather than designing asset- or sector-specific models, as is currently commonly done. Standard data normalizations based on volatility, price level or average spread, or partitioning the training data into sectors or categories such as large/small tick stocks, do not improve training results. On the other hand, inclusion of price and order flow history over many past observations improves forecast accuracy, indicating that there is path-dependence in price dynamics.
+WOS:000478180700001
+</snippet>
+</document>
+
+<document id="12">
+<title>Creating investment scheme with state space modeling</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2017.03.045</url>
+<snippet>This paper proposes a unified approach to creating investment strategies with various desirable properties for investors. Particularly, we provide a new interpretation and the resulting formulations for state space models to attain our investment objectives, which are possibly specified as generating additional returns over benchmark stock indexes or achieving target risk-adjusted returns. Our state space models with particle filtering algorithm are employed to develop expert systems for investment strategies in highly complex financial markets. More concretely, in our state space framework, we apply a system model to representing portfolio weight processes with various constraints, as well as the standard underlying state variables such as volatility processes, Further, we formulate an observation model to stand for target value processes with non-linear functions of observed and latent variables. Numerical experiments demonstrate the effectiveness of our methodology through creating excess returns over S&amp;P 500 and generating investment portfolios with fine risk-return profiles. (C) 2017 Elsevier Ltd. All rights reserved.
+WOS:000401593300006
+</snippet>
+</document>
+
+<document id="13">
+<title>Forecasting stock prices with long-short term memory neural network based on attention mechanism</title>
+<url>http://dx.doi.org/10.1371/journal.pone.0227222</url>
+<snippet>The stock market is known for its extreme complexity and volatility, and people are always looking for an accurate and effective way to guide stock trading. Long short-term memory (LSTM) neural networks are developed by recurrent neural networks (RNN) and have significant application value in many fields. In addition, LSTM avoids long-term dependence issues due to its unique storage unit structure, and it helps predict financial time series. Based on LSTM and an attention mechanism, a wavelet transform is used to denoise historical stock data, extract and train its features, and establish the prediction model of a stock price. We compared the results with the other three models, including the LSTM model, the LSTM model with wavelet denoising and the gated recurrent unit(GRU) neural network model on S&amp;P 500, DJIA, HSI datasets. Results from experiments on the S&amp;P 500 and DJIA datasets show that the coefficient of determination of the attention-based LSTM model is both higher than 0.94, and the mean square error of our model is both lower than 0.05.
+WOS:000534322000017
+</snippet>
+</document>
+
+<document id="14">
+<title>Deep Robust Reinforcement Learning for Practical Algorithmic Trading</title>
+<url>http://dx.doi.org/10.1109/ACCESS.2019.2932789</url>
+<snippet>In algorithmic trading, feature extraction and trading strategy design are two prominent challenges to acquire long-term profits. However, the previously proposed methods rely heavily on domain knowledge to extract handcrafted features and lack an effective way to dynamically adjust the trading strategy. With the recent breakthroughs of deep reinforcement learning (DRL), sequential real-world problems can be modeled and solved with a more human-like approach. In this paper, we propose a novel trading agent, based on deep reinforcement learning, to autonomously make trading decisions and gain profits in the dynamic financial markets. We extend the value-based deep Q-network (DQN) and the asynchronous advantage actor-critic (A3C) for better adapting to the trading market. Specifically, in order to automatically extract robust market representations and resolve the financial time series dependence, we utilize the stacked denoising autoencoders (SDAEs) and the long short-term memory (LSTM) as parts of the function approximator, respectively. Furthermore, we design several elaborate mechanisms to make the trading agent more practical to the real trading environment, such as position-controlled action and n-step reward. The experimental results show that our trading agent outperforms the baselines and achieves stable risk-adjusted returns in both the stock and the futures markets.
+WOS:000481980800022
+</snippet>
+</document>
+
+<document id="15">
+<title>Stock market forecasting with super-high dimensional time-series data using ConvLSTM, trend sampling, and specialized data augmentation</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2020.113704</url>
+<snippet>Forecasting stock market indexes is an important issue for market participants, because even a small improvement in forecast accuracy may lead to better trading decisions than those of other participants. Rising interest in deep learning has led to its application in stock market forecasting. However, it is still challenging to use market-size time-series data to predict composite index prices. In this study, we propose a new stock market forecasting framework, NuNet, which can successfully learn high-level features from super-high dimensional time-series data. NuNet is an end-to-end integrated neural network framework consisting of two feature extractor modules, a super-high dimensional market information feature extractor and a target index feature extractor. In addition, we propose a mini-batch sampling technique, trend sampling, which probabilistically samples more recent data when training. Furthermore, we propose a novel regularization method, called column-wise random shuffling, which is a data augmentation technique that can be applied to convolutional neural networks. The experiments are comprehensively carried out in three aspects for three indexes, namely S&amp;P500, KOSPI200, and FTSE100. The results demonstrate that the proposed model outperforms all baseline models. Specifically, for the S&amp;P500, KOSPI200, and FTSE100, the overall mean squared error of our proposed model NuNet(DA, T) is 60.79&#37;, 51.29&#37;, and 43.36&#37; lower than that of the baseline model SingleNet(R), respectively. Moreover, we employ trading simulations with realistic transaction costs. Our proposed model outperforms the buy-and-hold strategy being an average of 2.57 times more profitable in three indexes. 
+WOS:000576781400016
+</snippet>
+</document>
+
+<document id="16">
+<title>Deep learning with long short-term memory networks for financial market predictions</title>
+<url>http://dx.doi.org/10.1016/j.ejor.2017.11.054</url>
+<snippet>Long short-term memory (LSTM) networks are a state-of-the-art technique for sequence learning. They are less commonly applied to financial time series predictions, yet inherently suitable for this domain. We deploy LSTM networks for predicting out-of-sample directional movements for the constituent stocks of the S&amp;P 500 from 1992 until 2015. With daily returns of 0.46 percent and a Sharpe ratio of 5.8 prior to transaction costs, we find LSTM networks to outperform memory-free classification methods, i.e., a random forest (RAF), a deep neural net (DNN), and a logistic regression classifier (LOG). The outperformance relative to the general market is very clear from 1992 to 2009, but as of 2010, excess returns seem to have been arbitraged away with LSTM profitability fluctuating around zero after transaction costs. We further unveil sources of profitability, thereby shedding light into the black box of artificial neural networks. Specifically, we find one common pattern among the stocks selected for trading - they exhibit high volatility and a short-term reversal return profile. Leveraging these findings, we are able to formalize a rules-based short-term reversal strategy that yields 0.23 percent prior to transaction costs. Further regression analysis unveils low exposure of the LSTM returns to common sources of systematic risk also compared to the three benchmark models. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000436347700019
+</snippet>
+</document>
+
+<document id="17">
+<title>Deep learning and time series-to-image encoding for financial forecasting</title>
+<url>http://dx.doi.org/10.1109/JAS.2020.1003132</url>
+<snippet>In the last decade, market financial forecasting has attracted high interests amongst the researchers in pattern recognition. Usually, the data used for analysing the market, and then gamble on its future trend, are provided as time series; this aspect, along with the high fluctuation of this kind of data, cuts out the use of very efficient classification tools, very popular in the state of the art, like the well known convolutional neural networks (CNNs) models such as Inception, ResNet, AlexNet, and so on. This forces the researchers to train new tools from scratch. Such operations could be very time consuming. This paper exploits an ensemble of CNNs, trained over Gramian angular fields (GAF) images, generated from time series related to the Standard &amp; Poors 500 index future; the aim is the prediction of the future trend of the U.S. market. A multi-resolution imaging approach is used to feed each CNN, enabling the analysis of different time intervals for a single observation. A simple trading system based on the ensemble forecaster is used to evaluate the quality of the proposed approach. Our method outperforms the buyand-hold (B&amp;H) strategy in a time frame where the latter provides excellent returns. Both quantitative and qualitative results are provided.
+WOS:000531334400006
+</snippet>
+</document>
+
+<document id="18">
+<title>Novel volatility forecasting using deep learning-Long Short Term Memory Recurrent Neural Networks</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2019.04.038</url>
+<snippet>The volatility is related to financial risk and its prediction accuracy is very important in portfolio optimisation. A large body of literature to-date suggests Support Vector Machines (SVM) as the "best of regression algorithms for financial data regression. Recent work however found that new deep learning-Long Short Term Memory Recurrent Neural Networks (LSTM RNNs) outperformed SVM for classification problems. In the present paper we conduct a new unbiased evaluation of these two modelling techniques for regression problems, and we also compare them with a popular regression model - Generalized Autoregressive Conditional Heteroskedasticity (GARCH) model for financial volatility or risk forecasting. Our experiments using financial data show that the LSTM RNNs performed as good as v-SVR for large interval volatility forecasting and both performed much better than GARCH model for two financial indices (S&amp;P 500 and AAPL). The LSTM RNNS deep learning method can learn from big raw data and can be run with many hidden layers and neurons under GPU to achieve a good prediction for long sequence data compared to the support vector regression. The deep learning technique - LSTM RNNs with big data can be used to improve the volatility prediction instead of v-SVR when the v-SVR does not predict well for some financial stocks of a portfolio. This will help investors to win the competition to maximize their profit. (C) 2019 Elsevier Ltd. All rights reserved.
+WOS:000472244700008
+</snippet>
+</document>
+
+<document id="19">
+<title>Deep learning for limit order books</title>
+<url>http://dx.doi.org/10.1080/14697688.2018.1546053</url>
+<snippet>This paper develops a new neural network architecture for modeling spatial distributions (i.e. distributions on ) which is more computationally efficient than a traditional fully-connected feedforward architecture. The design of the architecture takes advantage of the specific structure of limit order books. The new architecture, which we refer to as a spatial neural network, yields a low-dimensional model of price movements deep into the limit order book, allowing more effective use of information from deep in the limit order book (i.e. many levels beyond the best bid and best ask). The spatial neural network models the joint distribution of the state of the limit order book at a future time conditional on the current state of the limit order book. The spatial neural network outperforms status quo models such as the naive empirical model, logistic regression (with nonlinear features), and a standard neural network architecture. Both neural networks strongly outperform the logistic regression model. Due to its more effective use of information deep in the limit order book, the spatial neural network especially outperforms the standard neural network in the tail of the distribution, which is important for risk management applications. The models are trained and tested on nearly 500 U.S. stocks. Techniques from deep learning such as dropout are employed to improve performance. Due to the significant computational challenges associated with the large amount of data, models are trained with a cluster of 50 GPUs.
+WOS:000463062900002
+</snippet>
+</document>
+
+<document id="20">
+<title>The role of text-extracted investor sentiment in Chinese stock price prediction with the enhancement of deep learning</title>
+<url>http://dx.doi.org/10.1016/j.ijforecast.2020.05.001</url>
+<snippet>Whether investor sentiment affects stock prices is an issue of long-standing interest for economists. We conduct a comprehensive study of the predictability of investor sentiment, which is measured directly by extracting expectations from online user-generated content (UGC) on the stock message board of Eastmoney.com in the Chinese stock market. We consider the influential factors in prediction, including the selections of different text classification algorithms, price forecasting models, time horizons, and information update schemes. Using comparisons of the long short-term memory (LSTM) model, logistic regression, support vector machine, and Naive Bayes model, the results show that daily investor sentiment contains predictive information only for open prices, while the hourly sentiment has two hours of leading predictability for closing prices. Investors do update their expectations during trading hours. Moreover, our results reveal that advanced models, such as LSTM, can provide more predictive power with investor sentiment only if the inputs of a model contain predictive information. (C) 2020 International Institute of Forecasters. Published by Elsevier B.V. All rights reserved.
+WOS:000570797300025
+</snippet>
+</document>
+
+<document id="21">
+<title>A Dual-Attention-Based Stock Price Trend Prediction Model With Dual Features</title>
+<url>http://dx.doi.org/10.1109/ACCESS.2019.2946223</url>
+<snippet>Modeling and predicting stock prices is an important and challenging task in the field of financial market. Due to the high volatility of stock prices, traditional data mining methods cannot identify the most relevant and critical market data for predicting stock price trend. This paper proposes a stock price trend predictive model (TPM) based on an encoder-decoder framework that predicting the stock price movement and its duration adaptively. This model consists of two phases, first, a dual feature extraction method based on different time spans is proposed to get more information from the market data. While traditional methods only extract features from information at some specific time points, this proposed model applies the PLR method and CNN to extract the long-term temporal features and the short-term spatial features from market data. Then, in the second phase of the proposed TPM, a dual attention mechanism based encoder-decoder framework is used to select and merge relevant dual features and predict the stock price trend. To evaluate our proposed TPM, we collected high-frequency market data for stock indexes CSI300, SSE 50 and CSI 500, and conducted experiments based on these three data sets. The experimental results show that the proposed TPM outperforms the existing state-of-art methods, including SVR, LSTM, CNN, LSTM_CNN and TPM_NC, in terms of prediction accuracy.
+WOS:000510417300001
+</snippet>
+</document>
+
+<document id="22">
+<title>Forecasting stock market crisis events using deep and statistical machine learning techniques</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2018.06.032</url>
+<snippet>This work contributes to this ongoing debate on the nature and the characteristics of propagation channels of crash events in international stock markets. Specifically, we investigate transmission mechanisms across stock markets along with effects from bond and currency markets. Our approach comprises a solid forecasting mechanism of the probability of a stock market crash event in various time frames. The developed approach combines different machine learning algorithms which are presented with daily stock, bond and currency data from 39 countries that cover a large spectrum of economies. Specifically, we leverage the merits of a series of techniques including Classification Trees, Support Vector Machines, Random Forests, Neural Networks, Extreme Gradient Boosting, and Deep Neural Networks. To the best of our knowledge, this is the first time that Deep Learning and Boosting approaches are considered in the literature as a means of predicting stock market crisis episodes. The independent variables included in our data contain information regarding both the two fundamental linkage channels through which financial contagion can be initiated: returns and volatility. We apply a suite of machine learning algorithms for selecting the most relevant variables out of a large set of proposed ones. Finally, we employ bootstrap sampling for adjusting the imbalanced nature of the available fitting dataset. Our experimental results provide strong evidence that stock market crises tend to exhibit persistence. We also find significant evidence of interdependence and cross-contagion effects among stock, bond and currency markets. Finally, we show that the use of Deep Neural Networks significantly increases the classification accuracy, while offering a robust way to create a global systemic early warning tool that is more efficient and risk-sensitive than the currently established ones. Thus, central banks may use these tools to early adjust their monetary policy, so as to ensure financial stability. (C) 2018 Elsevier Ltd. All rights reserved.
+WOS:000442708600026
+</snippet>
+</document>
+
+<document id="23">
+<title>Bitcoin technical trading with artificial neural network</title>
+<url>http://dx.doi.org/10.1016/j.physa.2018.07.017</url>
+<snippet>This paper explores Bitcoin intraday technical trading based on artificial neural networks for the return prediction. In particular, our deep learning method successfully discovers trading signals through a seven layered neural network structure for given input data of technical indicators, which are calculated by the past time-series data over every 15 min. Under feasible settings of execution costs, the numerical experiments demonstrate that our approach significantly improves the performance of a buy-and-hold strategy. Especially, our model performs well for a challenging period from December 2017 to January 2018, during which Bitcoin suffers from substantial minus returns. Furthermore, various sensitivity analysis is implemented for the change of the number of layers, activation functions, input data and output classification to confirm the robustness of our approach. (C) 2018 Elsevier B.V. All rights reserved.
+WOS:000442712000051
+</snippet>
+</document>
+
+<document id="24">
+<title>Forecasting jump arrivals in stock prices: new attention-based network architecture using limit order book data</title>
+<url>http://dx.doi.org/10.1080/14697688.2019.1634277</url>
+<snippet>The existing literature provides evidence that limit order book data can be used to predict short-term price movements in stock markets. This paper proposes a new neural network architecture for predicting return jump arrivals one minute ahead in equity markets with high-frequency limit order book data. This new architecture, based on Convolutional Long Short-Term Memory with Attention, is introduced to apply time series representation learning with memory and to focus the prediction attention on the most important features to improve performance. The use of the attention mechanism makes it possible to analyze the importance of the inclusion limit order book data and other input variables. Our architecture with this mechanism is used and compared to existing deep learning architectures with the data set that consists of order book data on five liquid U.S. stocks over 18 months. We provide evidence that (i) the new architecture with attention model outperforms existing architectures and (ii) the use of limit order book data was found to improve the performance of the proposed model in jump prediction, either clearly or marginally, depending on the underlying stock. This suggests that path-dependence in limit order book markets is a stock specific feature. Moreover, we find that the proposed approach with an attention mechanism outperforms the multi-layer perceptron network as well as the convolutional neural network and Long Short-Term memory model.
+WOS:000477244100001
+</snippet>
+</document>
+
+<document id="25">
+<title>Stock Market Trend Prediction Using High-Order Information of Time Series</title>
+<url>http://dx.doi.org/10.1109/ACCESS.2019.2901842</url>
+<snippet>Given a financial time series such as S&amp;P 500, or any historical data in stock markets, how can we obtain useful information from recent transaction data to predict the ups and downs at the next moment? Recent work on this issue shows initial evidence that machine learning techniques are capable of identifying (non-linear) dependency in the stock market price sequences. However, due to the high volatility and non-stationary nature of the stock market, forecasting the trend of a financial time series remains a big challenge. In this paper, we introduced a new method to simplify noisy-filled financial temporal series via sequence reconstruction by leveraging motifs (frequent patterns), and then utilize a convolutional neural network to capture spatial structure of time series. The experimental results show the efficiency of our proposed method in feature learning and outperformance with 4&#37;-7&#37; accuracy improvement compared with the traditional signal process methods and frequency trading patterns modeling approach with deep learning in stock trend prediction.
+WOS:000461861800001
+</snippet>
+</document>
+
+<document id="26">
+<title>Time-driven feature-aware jointly deep reinforcement learning for financial signal representation and algorithmic trading</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2019.112872</url>
+<snippet>Algorithmic trading is a continuous perception and decision making problem, where environment perception requires to learn feature representation from highly nonstationary and noisy financial time series, and decision making requires the algorithm to explore the environment and simultaneously make correct decisions in an online manner without any supervised information. To address these two problems, we propose a time-driven feature-aware jointly deep reinforcement learning model (TFJ-DRL) that integrates deep learning model and reinforcement learning model to improve the financial signal representation learning and action decision making in algorithmic trading. Concretely, we learn the environmental representation by adaptively selecting and reweighting various features of financial signals and summarize the attention values between historical information and changing trend depending on the current state. Besides, the supervised deep learning and reinforcement learning are jointly and iteratively trained to make full use of the supervised signals in the training data, and obtain more update information and stricter loss function constraints, thereby increasing investment returns. TFJ-DRL is evaluated on real-world financial data with different price trends (rising, falling and no obvious direction). A series of analysis show the robust superiority and the extensive applicability of the proposed method. (C) 2019 Elsevier Ltd. All rights reserved.
+WOS:000495470700005
+</snippet>
+</document>
+
+</searchresult>

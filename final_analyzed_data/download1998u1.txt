@@ -1,0 +1,79 @@
+PT J
+AU Moody, J
+   Wu, LZ
+   Liao, YS
+   Saffell, M
+AF Moody, J
+   Wu, LZ
+   Liao, YS
+   Saffell, M
+TI Performance functions and reinforcement learning for trading systems and portfolios
+SO JOURNAL OF FORECASTING
+LA English
+DT Article
+DE trading systems; asset allocation; portfolio optimization; reinforcement learning; recurrent reinforcement learning; dynamic programming; on-line learning; recursive updating; Bernoulli utility; differential Sharpe ratio; transactions costs; state dependence; performance functions; recurrence
+ID downside risk
+AB We propose to train trading systems and portfolios by optimizing objective functions that directly measure trading and investment performance. Rather than basing a trading system on forecasts or training via a supervised learning algorithm using labelled trading data, we train our systems using recurrent reinforcement learning (RRL) algorithms. The performance functions that we consider for reinforcement learning are profit or wealth, economic utility, the Sharpe ratio and our proposed differential Sharpe ratio. The trading and portfolio management systems require prior decisions as input in order to properly take into account the effects of transactions costs, market impact, and taxes. This temporal dependence on system state requires the use of reinforcement versions of standard recurrent learning algorithms. We present empirical results in controlled experiments that demonstrate the efficacy of some of our methods for optimizing trading systems and portfolios. For a long/short trader, we find that maximizing the differential Sharpe ratio yields more consistent results than maximizing profits, and that both methods outperform a trading system based on forecasts that minimize MSE. We find that portfolio traders trained to maximize the differential Sharpe ratio achieve better risk-adjusted returns than those trained to maximize profit. Finally, we provide simulation results for an S&P 500/TBill asset allocation system that demonstrate the presence of out-of-sample predictability in the monthly S&P 500 stock index for the 25 year period 1970 through 1994. (C) 1998 John Wiley & Sons, Ltd.
+C1 Oregon Grad Inst Sci & Technol, Dept Comp Sci & Engn, Portland, OR 97291 USA.
+RP Moody, J (corresponding author), Oregon Grad Inst Sci & Technol, Dept Comp Sci & Engn, POB 91000, Portland, OR 97291 USA.
+EM moody@cse.ogi.edu
+CR Barto A G, 1983, IEEE TRANS, V0, P835
+   BENGIO Y, 1997, DECISION TECHNOLOGY, V0, P0
+   Bernoulli D, 1954, ECONOMETRICA, V22, P23, DOI 10.2307/1909829
+   Bertsekas DP, 2007, DYNAMIC PROGRAMMING, V1, P0
+   Christopher John Cornish Hella by Watkins, 1989, LEARNING FROM DELAYED REWARDS, V0, P0
+   CLEMEN RT, 1989, INT J FORECASTING, V5, P559, DOI 10.1016/0169-2070(89)90012-5
+   Granger CWJ, 1986, FORECASTING ECONOMIC TIME SERIES, V0, P0, DOI 10.1016/B978-0-12-295183-1.50007-8
+   Grinold RichardC, 1995, ACTIVE PORTFOLIO MANAGEMENT, V0, P0
+   KANG J, 1997, DECISION TECHNOLOGY, V0, P0
+   Markowitz HarryM, 1968, PORTFOLIO SELECTION: EFFICIENT DIVERSIFICATION OF INVESTMENTS, V16, P0
+   MOODY J, 1998, DECISION TECHNOLOGIE, V0, P0
+   MOODY J, 1996, NNCM96 C REC CALT PA, V0, P0
+   MOODY J, 1996, DECISION TECHNOLOGIE, V0, P23
+   Narendra K S, 1990, IEEE TRANS NEURAL NETW, V1, P4, DOI 10.1109/72.80202
+   Nawrocki DN, 1992, INTERNATIONAL REVIEW OF FINANCIAL ANALYSIS, V3, P195, DOI 10.1016/1057-5219(92)90004-N
+   NAWROCKI DN, 1991, APPL ECON, V23, P465, DOI 10.1080/00036849100000021
+   NEUNEIER R, 1996, ADV NEURAL INFORMATI, V8, P0
+   PESARAN MH, 1995, J FINANC, V50, P1201, DOI 10.2307/2329349
+   RUMELHART DE, 1986, PARALLEL DISTRIBUTED, V0, P319
+   SAMUELSON PA, 1990, J PORTFOLIO MANA SPR, V0, P5
+   SATCHELL S, 1995, J FORECASTING, V14, P477, DOI 10.1002/for.3980140602
+   SHARPE WF, 1994, J PORTFOLIO MANA FAL, V0, P49
+   SORTINO FA, 1991, J PORTFOLIO MANAGE, V17, P27, DOI 10.3905/jpm.1991.409343
+   Sortino FA, 1996, J PORTFOLIO MANAGE, V22, P35, DOI 10.3905/jpm.1996.35
+   Sutton RS, 1988, MACHINE LEARNING, V3, P9, DOI 10.1023/A:1022633531479
+   SUTTON RS, 1997, INTRO REINFORCEMENT, V0, P0
+   TREYNOR J, 1973, J BUS, V0, P68
+   WATKINS CJ, 1992, MACH LEARN, V8, P4
+   WERBOS PJ, 1990, P IEEE, V78, P1550, DOI 10.1109/5.58337
+   WHITE H, 1996, COMMUNICATION, V0, P0
+   Widrow B, 1960, IRE WESCON CONV. REC., V0, P96
+   Williams RJ, 1989, NEURAL COMPUT, V1, P270, DOI 10.1162/neco.1989.1.2.270
+   WINKLER RL, 1983, J ROY STAT SOC, V0, P146
+NR 33
+TC 183
+Z9 227
+U1 1
+U2 47
+PU JOHN WILEY & SONS LTD
+PI W SUSSEX
+PA BAFFINS LANE CHICHESTER, W SUSSEX PO19 1UD, ENGLAND
+SN 0277-6693
+EI 
+J9 J FORECASTING
+JI J. Forecast.
+PD SEP-NOV 15
+PY 1998
+VL 17
+IS 5-6
+BP 441
+EP 470
+DI 10.1002/(SICI)1099-131X(1998090)17:5/6<441::AID-FOR707>3.3.CO;2-R
+PG 30
+WC Economics; Management
+SC Business & Economics
+GA 146EZ
+UT WOS:000077416900008
+DA 2026-01-03
+ER
+

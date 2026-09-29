@@ -1,0 +1,116 @@
+A Combined Algorithm Approach for Optimizing Portfolio Performance in Automated Trading: A Study of SET50 Stocks
+Deep graph convolutional reinforcement learning for financial portfolio management-DeepPocket
+An adaptive dual-level reinforcement learning approach for optimal trade execution
+Utilizing Genetic Algorithms in Conjunction with ANN-Based Stock Valuation Models to Enhance the Optimization of Stock Investment Decisions
+Guaranteed funds' replication by reinforcement learning
+Deep hedging of long-term financial derivatives
+Generative artificial intelligence algorithms in Internet of Things blockchain-based fintech management
+Offline Reinforcement Learning for Automated Stock Trading
+An Attention-Guided Improved Decomposition-Reconstruction Model for Stock Market Prediction
+Deep Robust Reinforcement Learning for Practical Algorithmic Trading
+Federated Reinforcement Learning in Stock Trading Execution: The FPPO Algorithm for Information Security
+A Deep Learning Approach to Goal-Based Portfolio Optimization in Non-Stationary Environments
+Unleashing the Power of Multi-Agent Reinforcement Learning for Algorithmic Trading in the Digital Financial Frontier and Enterprise Information Systems
+Algorithmic trading using continuous action space deep reinforcement learning
+A multi-agent deep reinforcement learning framework for algorithmic trading in financial markets
+Empowered stock market forecasting using Large Language Model on social media content
+An Ensembling Architecture Incorporating Machine Learning Models and Genetic Algorithm Optimization for Forex Trading
+Deep Equal Risk Pricing of Financial Derivatives with Non-Translation Invariant Risk Measures
+Modeling limit order trading with a continuous action policy for deep reinforcement learning
+A multi-agent reinforcement learning framework for optimizing financial trading strategies based on TimesNet
+Integrating fuzzy logic with deep reinforcement learning to enhance financial portfolio management
+Kalman-Enhanced Deep Reinforcement Learning for Noise-Resilient Algorithmic Trading in Volatile Gold Markets
+Equal risk pricing of derivatives with deep hedging
+Enhancing deep reinforcement learning for stock trading: a reward shaping approach via expert feedback
+Self-attention based deep direct recurrent reinforcement learning with hybrid loss for trading signal generation
+Financial portfolio optimization with online deep reinforcement learning and restricted stacked autoencoder-DeepBreath
+Semi-closed form cubature and applications to financial diffusion models
+Using a Genetic Algorithm to Improve Recurrent Reinforcement Learning for Equity Trading
+Deep reinforcement learning with positional context for intraday trading
+A CNN-LSTM Stock Prediction Model Based on Genetic Algorithm Optimization
+Simulation and validation of an integrated markets model
+A novel deep reinforcement learning framework with BiLSTM-Attention networks for algorithmic trading
+Incremental Reinforcement Learning for Portfolio Optimisation
+Supervised actor-critic reinforcement learning with action feedback for algorithmic trading
+Deep Learning in Financial Modeling: Predicting European Put Option Prices with Neural Networks
+A Deep Reinforcement Learning-Based Decision Support System for Automated Stock Market Trading
+Reinforcement Learning for Systematic FX Trading
+Smart Tangency Portfolio: Deep Reinforcement Learning for Dynamic Rebalancing and Risk-Return Trade-Off
+Long Short-Term Financial Time Series Forecasting Based on Residual Multiscale TCN Sparse Expert Network and Informer
+Deep reinforcement learning for financial trading using multi-modal features
+Research on fraud identification of financial statements in enterprise digital transformation based on deep learning algorithm
+Trading strategy of structured mutual fund based on deep learning network
+B-LSTM-NB BASED COMPOSITE SEQUENCE LEARNING MODEL FOR DETECTING FRAUDULENT FINANCIAL ACTIVITIES
+A Self-Rewarding Mechanism in Deep Reinforcement Learning for Trading Strategy Optimization
+Global Cross-Market Trading Optimization Using Iterative Combined Algorithm: A Multi-Asset Approach with Stocks and Cryptocurrencies
+From deterministic to stochastic: an interpretable stochastic model-free reinforcement learning framework for portfolio optimization
+Optimizing risk transfer in dynamic insurance networks: A graph-based reinforcement learning framework
+An Adaptive Unsupervised Learning Approach for Credit Card Fraud Detection
+Portfolio management using online reinforcement learning with adaptive exploration and Multi-task self-supervised representation
+QuantNet: transferring learning across trading strategies
+A Mean-VaR Based Deep Reinforcement Learning Framework for Practical Algorithmic Trading
+Time-driven feature-aware jointly deep reinforcement learning for financial signal representation and algorithmic trading
+A channel-independent network based on wavelet enhancement for long-term time series forecasting
+Relational Stock Selection via Probabilistic State Space Learning
+Reinforcement learning for deep portfolio optimization
+A taxonomy of literature reviews and experimental study of deepreinforcement learning in portfolio management
+A reinforcement learning algorithm for trading commodities
+Sentiment-Aware Portfolio Optimization: CVaR-Based Diversification With Deep Reinforcement Learning
+Adaptive Algorithm for Selecting the Optimal Trading Strategy Based on Reinforcement Learning for Managing a Hedge Fund
+Deep reinforcement learning-driven intelligent portfolio management with green computing: Sustainable portfolio optimization and management
+Federated Reinforcement Learning for decentralized peer-to-peer energy trading
+Deep Reinforcement Learning for Dynamic Stock Option Hedging: A Review
+Deep Reinforcement Learning for Trading-A Critical Survey
+Deep reinforcement learning applied to a sparse-reward trading environment with intraday data
+A Dual Output Temporal Convolutional Network With Attention Architecture for Stock Price Prediction and Risk Assessment
+Dynamic portfolio rebalancing through reinforcement learning
+Optimizing mean conditional value-at-risk portfolios through deep neural network stock prediction
+Reinforcement learning-based portfolio optimization with deterministic state transition
+Reinforcement Learning for Quantitative Trading
+Generative modelling of financial time series with structured noise and MMD-based signature learning
+An adaptive quantitative trading strategy optimization framework based on meta reinforcement learning and cognitive game theory
+Detecting credit card fraud from transaction data streams with incremental time-aware liquid recurrent network
+An Advisor Neural Network framework using LSTM-based Informative Stock Analysis
+A synchronous deep reinforcement learning model for automated multi-stock trading
+Portfolio constructions in cryptocurrency market: A CVaR-based deep reinforcement learning approach
+STOCHASTIC MODEL OF SHORT-TERM PREDICTION OF STOCK PRICES AND ITS PROFITABILITY IN THE CZECH STOCK MARKET
+AIRMS: A risk management tool using machine learning
+Does reinforcement learning outperform deep learning and traditional portfolio optimization models in frontier and developed financial markets?
+Multiagent-based deep reinforcement learning framework for multi-asset adaptive trading and portfolio management
+Designing a cryptocurrency trading system with deep reinforcement learning utilizing LSTM neural networks and XGBoost feature selection
+Policy weighting via discounted Thomson sampling for non-stationary market-making
+A Novel Hybrid GCN-LSTM Algorithm for Energy Stock Price Prediction: Leveraging Temporal Dynamics and Inter-Stock Relationships
+A Novel Trading Strategy Framework Based on Reinforcement Deep Learning for Financial Market Predictions
+An optimization strategy for portfolio management leveraging deep reinforcement learning for automated stock trading
+A new hybrid method of recurrent reinforcement learning and BiLSTM for algorithmic trading
+A2C Reinforcement Learning for Cryptocurrency Trading: Analyzing the Impact of Price Prediction Accuracy and Data Granularity
+Robo-advisor using genetic algorithm and BERT sentiments from tweets for hybrid portfolio optimisation
+QuantFactor REINFORCE: Mining Steady Formulaic Alpha Factors With Variance-Bounded REINFORCE
+A Deep Reinforcement Learning Framework for Strategic Indian NIFTY 50 Index Trading
+Online portfolio management via deep reinforcement learning with high-frequency data
+Deep reinforcement learning based trading agents: Risk curiosity driven learning for financial rules-based policy
+FraudGNN-RL: A Graph Neural Network With Reinforcement Learning for Adaptive Financial Fraud Detection
+Hidden-layer configurations in reinforcement learning models for stock portfolio optimization
+A,Multiagent approach to Q-learning for daily stock trading
+Machine Learning for Financial Risk Management: A Survey
+Learning to trade via direct reinforcement
+Performance functions and reinforcement learning for trading systems and portfolios
+Uncertainty-Aware Portfolio Management With Risk-Sensitive Multiagent Network
+Transfer learning model for cash-instrument prediction adopting a Transformer derivative
+More hedging instruments may destabilize markets
+Algorithmic trading strategy based on the integration of deep learning models and natural language processing
+A Novel RMS-Driven Deep Reinforcement Learning for Optimized Portfolio Management in Stock Trading
+Jump Detection and Noise Separation by a Singular Wavelet Method for Predictive Analytics of High-Frequency Data
+Deep Reinforcement Learning Robots for Algorithmic Trading: Considering Stock Market Conditions and US Interest Rates
+Deep reinforcement trading with predictable returns
+Managing extreme cryptocurrency volatility in algorithmic trading: EGARCH via genetic algorithms and neural networks
+A multi-agent virtual market model for generalization in reinforcement learning based trading strategies
+Automated Trading Framework Using LLM-Driven Features and Deep Reinforcement Learning
+Multi-type data fusion framework based on deep reinforcement learning for algorithmic trading
+DGHNL: A new deep genetic hierarchical network of learners for prediction of credit scoring
+Construction engineering construction evaluation based on deep neural network modeling and intelligent decision calculus
+Enhance data security with efficient anomaly detection in a real network environment
+A Portfolio Model with Risk Control Policy Based on Deep Reinforcement Learning
+An intelligent stock trading system based on reinforcement learning
+A novel data-efficient double deep Q-network framework for intelligent financial portfolio management
+Deep equal risk pricing of illiquid derivatives with multiple hedging instruments

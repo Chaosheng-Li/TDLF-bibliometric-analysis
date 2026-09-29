@@ -1,0 +1,161 @@
+PT J
+AU Chan, NH
+   Petris, G
+AF Chan, NH
+   Petris, G
+TI Long memory stochastic volatility: A Bayesian approach
+SO COMMUNICATIONS IN STATISTICS-THEORY AND METHODS
+LA English
+DT Article
+DE Markov chain Monte Carlo; state-space models
+ID autoregressive conditional heteroskedasticity; state-space; models; variance
+AB We propose a simulation-based Bayesian approach to the analysis of long memory stochastic volatility models, stationary and nonstationary. The main tool used to reduce the likelihood function to a tractable form is an approximate state-space representation of the model. A data set of stock market returns is analyzed with the proposed method. The approach taken here allows a quantitative assessment of the empirical evidence in favor of the stationarity, or nonstationarity, of the instantaneous volatility of the data.
+C1 Carnegie Mellon Univ, Dept Stat, Pittsburgh, PA 15213 USA.
+C3 Carnegie Mellon University
+CR Baillie RT, 1996, J ECONOMETRICS, V74, P3, DOI 10.1016/S0304-4076(95)01749-6
+   BOLLERSLEV T, 1986, J ECONOMETRICS, V31, P307, DOI 10.1016/0304-4076(86)90063-1
+   Breidt FJ, 1998, J ECONOMETRICS, V83, P325, DOI 10.1016/S0304-4076(97)00072-9
+   Chan NH, 1998, ANN STAT, V26, P719
+   CHAN NH, 1999, BAYESIAN ANAL LONG M, V0, P0
+   DELIMA PJF, 1993, P BUS EC STAT SECT, V0, P0
+   Ding Z, 1993, J EMPIRICAL FINANCE, V1, P83, DOI https://doi.org/10.1016/0927-5398(93)90006-D
+   ENGLE RF, 1982, ECONOMETRICA, V50, P987, DOI 10.2307/1912773
+   Fruhwirth-Schnatter S, 1994, J TIME SER ANAL, V15, P183, DOI 10.1111/J.1467-9892.1994.TB00184.X
+   GILKS WR, 1992, APPL STAT, V41, P337, DOI 10.2307/2347565
+   HARVEY A, 1994, REV ECON STUD, V61, P247, DOI 10.2307/2297980
+   JACQUIER E, 1994, J BUS ECON STAT, V12, P371, DOI 10.2307/1392199
+   Kim S, 1998, REV ECON STUD, V65, P361, DOI 10.1111/1467-937X.00050
+   MELINO A, 1990, J ECONOMETRICS, V45, P239, DOI 10.1016/0304-4076(90)90100-8
+   ROBINSON PM, 1991, J ECONOMETRICS, V47, P67, DOI 10.1016/0304-4076(91)90078-R
+   SHEPHARD N, 1994, BIOMETRIKA, V81, P115
+   TIERNEY L, 1994, ANN STAT, V22, P1701, DOI 10.1214/aos/1176325750
+   West M, 1997, BAYESIAN FORECASTING AND DYNAMIC MODELS, V2nd, P0
+NR 18
+TC 7
+Z9 7
+U1 0
+U2 2
+PU MARCEL DEKKER INC
+PI NEW YORK
+PA 270 MADISON AVE, NEW YORK, NY 10016 USA
+SN 0361-0926
+EI 
+J9 COMMUN STAT-THEOR M
+JI Commun. Stat.-Theory Methods
+PD JUN 15
+PY 2000
+VL 29
+IS 5-6
+BP 1367
+EP 1378
+DI 10.1080/03610920008832549
+PG 12
+WC Statistics & Probability
+SC Mathematics
+GA 308RV
+UT WOS:000086727400028
+DA 2026-01-04
+ER
+
+PT J
+AU Bates, DS
+AF Bates, DS
+TI Post-'87 crash fears in the S&P 500 futures option market
+SO JOURNAL OF ECONOMETRICS
+LA English
+DT Article
+DE stock index options; stochastic volatility; jump-diffusions; stock market crash; specification error
+ID index options; probability assessments; stochastic volatility; portfolio insurance; implied volatility; empirical tests; pricing-models; stock returns; em algorithm; valuation
+AB Post-crash distributions inferred from S&P 500 future option prices have been strongly negatively skewed. This article examines two alternate explanations: stochastic volatility and jumps. The two option pricing models are nested, and are fitted to S&P 500 futures options data over 1988-1993. The stochastic volatility model requires extreme parameters (e.g., high volatility of volatility) that are implausible given the time series properties of option prices. The stochastic volatility/jump-diffusion model fits option prices better, and generates more plausible volatility process parameters. However, its implicit distributions are inconsistent with the absence of large stock index moves over 1988-93. (C) 2000 Elsevier Science S.A. All rights reserved. JEL classification: G13.
+C1 Univ Iowa, Coll Business Adm, Dept Finance, Iowa City, IA 52242 USA.
+   Natl Bur Econ Res, Cambridge, MA 02138 USA.
+C3 University of Iowa; National Bureau of Economic Research
+RP Bates, DS (corresponding author), Univ Iowa, Coll Business Adm, Dept Finance, Iowa City, IA 52242 USA.
+CR Ait-Sahalia Y, 1998, J FINANC, V53, P499, DOI 10.1111/0022-1082.215228
+   Bakshi G, 1997, J FINANC, V52, P2003, DOI 10.1111/j.1540-6261.1997.tb02749.x
+   BARONEADESI G, 1987, J FINANC, V42, P301, DOI 10.2307/2328254
+   Bates DS, 1997, ADV FUT OPT, V9, P51
+   Bates DS, 1996, HANDBOOK OF STATISTICS, V14, P567, DOI 10.1016/s0169-7161(96)14022-0
+   Bates DS, 1996, J INT MONEY FINANC, V15, P65, DOI 10.1016/0261-5606(95)00039-9
+   BATES DS, 1991, J FINANC, V46, P1009, DOI 10.2307/2328552
+   Bates DS, 1996, REV FINANC STUD, V9, P69, DOI 10.1093/rfs/9.1.69
+   BLACK F, 1973, J POLIT ECON, V81, P637, DOI 10.1086/260062
+   Black F, 1976, P 1976 M AM STAT ASS, V0, P171
+   CAMPBELL JY, 1992, J FINANC ECON, V31, P281, DOI 10.1016/0304-405X(92)90037-X
+   CANINA L, 1993, REV FINANC STUD, V6, P659, DOI 10.1093/rfs/6.3.659
+   CHAUDHURY MM, 1994, J FUTURES MARKETS, V14, P111, DOI 10.1002/fut.3990140109
+   COCHRANE JH, 1996, 5489 NAT BUR EC RES, V0, P0
+   COX JC, 1985, ECONOMETRICA, V53, P385, DOI 10.2307/1911242
+   DAS S, 1997, 5976 NAT BUR EC RES, V0, P0
+   DAY TE, 1992, J ECONOMETRICS, V52, P267, DOI 10.1016/0304-4076(92)90073-Z
+   DEMPSTER AP, 1977, J ROY STAT SOC B MET, V39, P1, DOI 10.1111/j.2517-6161.1977.tb01600.x
+   Diz F, 1993, JOURNAL OF FUTURES MARKETS, V13, P298
+   Dumas B, 1998, J FINANC, V53, P2059, DOI 10.1111/0022-1082.00083
+   Dupire B, 1994, RISK, V7, P18
+   Dupire B, 1994, RISK, V7, P32
+   FACKLER PL, 1990, AM J AGR ECON, V72, P73, DOI 10.2307/1243146
+   Fleming J, 1998, J EMPIR FINANC, V5, P317, DOI 10.1016/s0927-5398(98)00002-4
+   FRANKS JR, 1991, ECON J, V101, P1460, DOI 10.2307/2234896
+   GALAI D, 1983, J BUS, V56, P45, DOI 10.1086/296185
+   Gemmill G, 1996, J FUTURES MARKETS, V16, P881, DOI 10.1002/(SICI)1096-9934(199612)16:8<881::AID-FUT3>3.0.CO;2-I
+   GENNOTTE G, 1990, AM ECON REV, V80, P999
+   GEORGE TJ, 1993, J FINANC QUANT ANAL, V28, P381, DOI 10.2307/2331420
+   GESKE R, 1979, J FINANC ECON, V7, P63, DOI 10.1016/0304-405X(79)90022-9
+   Grossman SJ, 1996, J FINANC, V51, P1379, DOI 10.2307/2329398
+   GROSSMAN SJ, 1988, J BUS, V61, P275, DOI 10.1086/296433
+   Hamilton JD, 1994, TIME SERIES ANALYSIS, V2, P0, DOI 10.1515/9780691218632
+   HESTON SL, 1993, REV FINANC STUD, V6, P327, DOI 10.1093/rfs/6.2.327
+   HULL J, 1987, J FINANC, V42, P281, DOI 10.1111/j.1540-6261.1987.tb02568.x
+   Ingersoll JE, 1987, THEORY FINANCIAL DEC, V0, P0
+   JACKLIN CJ, 1992, REV FINANC STUD, V5, P35, DOI 10.1093/rfs/5.1.35
+   Kendall MG, 1987, KENDALLS ADVANCED THEORY OF STATISTICS, V0, P0
+   MCCULLOCH JH, 1995, HDB STATISTICS, V0, P393
+   MERTON RC, 1976, J FINANC ECON, V3, P125, DOI 10.1016/0304-405X(76)90022-2
+   MERVILLE LJ, 1989, J FINANC ECON, V242, P193
+   Nandi S, 1996, PRICING HEDGING INDE, V0, P0
+   NELSON DB, 1991, ECONOMETRICA, V59, P347, DOI 10.2307/2938260
+   Palm F C, 1997, ALLGEMEINES STATISTISCHES ARCHIV, V81, P85
+   Pearson K, 1933, BIOMETRIKA, V25, P379, DOI 10.2307/2332290
+   PLATEN E, 1900, V8, V0, P67
+   POTERBA JM, 1986, AM ECON REV, V76, P1142
+   RUBINSTEIN M, 1994, J FINANC, V49, P771, DOI 10.2307/2329207
+   RUBINSTEIN M, 1983, J FINANC, V38, P213, DOI 10.2307/2327648
+   RUUD PA, 1991, J ECONOMETRICS, V49, P305, DOI 10.1016/0304-4076(91)90001-T
+   SCHMALENSEE R, 1978, J FINANC, V33, P129, DOI 10.1111/j.1540-6261.1978.tb03394.x
+   Shimko D, 1993, RISK, V6, P33
+   Shumway RH, 1982, JOURNAL OF TIME SERIES ANALYSIS, V3, P253, DOI 10.1111/j.1467-9892.1982.tb00349.x
+   SILVA EMD, 1993, J FUTURES MARKETS, V13, P765, DOI 10.1002/fut.3990130705
+   SMITH JQ, 1985, J FORECASTING, V4, P283, DOI 10.1002/for.3980040305
+   STEIN J, 1989, J FINANC, V44, P1011, DOI 10.2307/2328621
+   TAYLOR S, 1994, J FINANCIAL QUANTITA, V29, P57
+   TRAUTMANN S, 1995, STOCK PRICE JUMPS TH, V0, P0
+   WATSON MW, 1983, J ECONOMETRICS, V23, P385, DOI 10.1016/0304-4076(83)90066-0
+   WHALEY RE, 1986, J FINANC, V41, P127
+   WHALEY RE, 1982, J FINANC ECON, V10, P29, DOI 10.1016/0304-405X(82)90029-0
+NR 61
+TC 719
+Z9 945
+U1 4
+U2 73
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0304-4076
+EI 
+J9 J ECONOMETRICS
+JI J. Econom.
+PD JAN-FEB 15
+PY 2000
+VL 94
+IS 1-2
+BP 181
+EP 238
+DI 10.1016/S0304-4076(99)00021-4
+PG 58
+WC Economics; Mathematics, Interdisciplinary Applications; Social Sciences, Mathematical Methods
+SC Business & Economics; Mathematics; Mathematical Methods In Social Sciences
+GA 263VR
+UT WOS:000084146400007
+DA 2025-12-31
+ER
+

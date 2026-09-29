@@ -1,0 +1,467 @@
+Label,Replace by
+univ malaga,University of Málaga
+stevens inst technol,Stevens Institute of Technology
+univ johannesburg,University of Johannesburg
+han univ appl sci,HAN University of Applied Sciences
+polish acad sci,Polish Academy of Sciences
+polska akademia nauk,Polish Academy of Sciences
+natl yang ming chiao tung univ,National Yang Ming Chiao Tung University
+national yang-ming university,National Yang Ming Chiao Tung University
+national chiao tung university,National Yang Ming Chiao Tung University
+shandong univ finance & econ,Shandong University of Finance and Economics
+shanghai normal univ,Shanghai Normal University
+aalborg univ,Aalborg University
+aarhus univ,Aarhus University
+abdelmalek esaadi univ,Abdelmalek Essaadi University
+abdelmalek essaadi univ,Abdelmalek Essaadi University
+acad romanian scientists,Academy of Romanian Scientists
+acad sinica,Academia Sinica
+acadia,Acadia University
+agh univ sci & technol,AGH University of Science and Technology
+ajou univ,Ajou University
+al akhawayn univ,Al Akhawayn University
+amer univ,American University
+amer univ sharjah,American University of Sharjah
+amirkabir univ technol,Amirkabir University of Technology
+amity univ,Amity University
+an najah natl univ,An-Najah National University
+anhui univ,Anhui University
+anhui univ finance & econ,Anhui University of Finance and Economics
+ankara univ,Ankara University
+anna univ,Anna University
+aristotle univ thessaloniki,Aristotle University of Thessaloniki
+arizona state univ,Arizona State University
+athens univ econ & business,Athens University of Economics and Business
+auburn univ,Auburn University
+auckland univ technol,Auckland University of Technology
+australian natl univ,Australian National University
+babasaheb bhimrao ambedkar univ,Babasaheb Bhimrao Ambedkar University
+beihang univ,Beihang University
+beijing inst technol,Beijing Institute of Technology
+beijing jiaotong univ,Beijing Jiaotong University
+beijing normal univ,Beijing Normal University
+beijing univ chem technol,Beijing University of Chemical Technology
+beijing univ posts & telecommun,Beijing University of Posts and Telecommunications
+beijing univ technol,Beijing University of Technology
+birla inst technol,Birla Institute of Technology
+birla inst technol & sci,Birla Institute of Technology and Science
+bits,Birla Institute of Technology and Science
+boston univ,Boston University
+brown univ,Brown University
+brunel univ,Brunel University London
+brunel univ london,Brunel University London
+budapest univ technol & econ,Budapest University of Technology and Economics
+calif state univ east bay,California State University East Bay
+caltech,Caltech
+capital normal univ,Capital Normal University
+capital univ econ & business,Capital University of Economics and Business
+cardiff univ,Cardiff University
+carnegie mellon univ,Carnegie Mellon University
+case western reserve univ,Case Western Reserve University
+cent china normal univ,Central China Normal University
+cent s univ,Central South University
+cent south univ,Central South University
+cent univ finance & econ,Central University of Finance and Economics
+chalmers univ technol,Chalmers University of Technology
+changsha univ sci & technol,Changsha University of Science and Technology
+charles univ prague,Charles University
+chengdu univ technol,Chengdu University of Technology
+chiang mai univ,Chiang Mai University
+china univ geosci,China University of Geosciences
+china univ min & technol,China University of Mining and Technology
+china univ petr,China University of Petroleum
+china univ polit sci & law,China University of Political Science and Law
+chinese acad sci,Chinese Academy of Sciences
+chinese univ hong kong,The Chinese University of Hong Kong
+chongqing univ,Chongqing University
+chongqing univ posts & telecommun,Chongqing University of Posts and Telecommunications
+chulalongkorn univ,Chulalongkorn University
+chung ang univ,Chung-Ang University
+city univ hong kong,City University of Hong Kong
+clemson univ,Clemson University
+cnr,CNR
+cnrs,CNRS
+columbia univ,Columbia University
+comsats inst informat technol,COMSATS University Islamabad
+comsats univ,COMSATS University Islamabad
+comsats univ islamabad,COMSATS University Islamabad
+concordia univ,Concordia University
+cornell univ,Cornell University
+coventry univ,Coventry University
+curtin univ,Curtin University
+czech univ life sci prague,Czech University of Life Sciences Prague
+dalian maritime univ,Dalian Maritime University
+dalian univ technol,Dalian University of Technology
+deakin univ,Deakin University
+delft univ technol,Delft University of Technology
+delhi technol univ,Delhi Technological University
+delhi univ,University of Delhi
+donghua univ,Donghua University
+duke univ,Duke University
+durham univ,Durham University
+e china normal univ,East China Normal University
+east china normal univ,East China Normal University
+ecole polytech fed lausanne,EPFL
+ecole polytech fed lausanne epfl,EPFL
+eindhoven tech univ,Eindhoven University of Technology
+eth,ETH Zurich
+ewha womans univ,Ewha Womans University
+fed univ rio de janeiro,Federal University of Rio de Janeiro
+fed univ rio grande do sul,Federal University of Rio Grande do Sul
+florida atlantic univ,Florida Atlantic University
+fordham univ,Fordham University
+fudan univ,Fudan University
+fuzhou univ,Fuzhou University
+gachon univ,Gachon University
+george mason univ,George Mason University
+george washington univ,George Washington University
+georgetown univ,Georgetown University
+georgia inst technol,Georgia Institute of Technology
+georgia state univ,Georgia State University
+ghent univ,Ghent University
+griffith univ,Griffith University
+guangdong univ finance & econ,Guangdong University of Finance and Economics
+guangdong univ foreign studies,Guangdong University of Foreign Studies
+guangdong univ technol,Guangdong University of Technology
+guangxi univ,Guangxi University
+guangzhou univ,Guangzhou University
+hanyang univ,Hanyang University
+harbin engn univ,Harbin Engineering University
+harbin inst technol,Harbin Institute of Technology
+harvard univ,Harvard University
+hebei univ sci & technol,Hebei University of Science and Technology
+hefei univ technol,Hefei University of Technology
+hong kong polytech univ,The Hong Kong Polytechnic University
+hong kong polytechn univ,The Hong Kong Polytechnic University
+hong kong univ sci & technol,The Hong Kong University of Science and Technology
+huawei technol co ltd,Huawei Technologies
+huazhong univ sci & technol,Huazhong University of Science and Technology
+hunan univ,Hunan University
+imperial coll,Imperial College London
+imperial coll london,Imperial College London
+indian inst management,Indian Institute of Management
+indian inst technol,Indian Institute of Technology
+indian inst technol bhu,Indian Institute of Technology BHU
+indian inst technol bombay,Indian Institute of Technology Bombay
+indian inst technol delhi,Indian Institute of Technology Delhi
+indian inst technol guwahati,Indian Institute of Technology Guwahati
+indian inst technol kanpur,Indian Institute of Technology Kanpur
+indian inst technol kharagpur,Indian Institute of Technology Kharagpur
+indian inst technol madras,Indian Institute of Technology Madras
+indian inst technol roorkee,Indian Institute of Technology Roorkee
+indiana univ,Indiana University
+inst univ lisboa iscte iul,ISCTE-IUL
+iowa state univ,Iowa State University
+iran univ sci & technol,Iran University of Science and Technology
+islamic azad univ,Islamic Azad University
+istanbul technol univ,Istanbul Technical University
+jiangnan univ,Jiangnan University
+jiangsu univ,Jiangsu University
+jiangxi univ finance & econ,Jiangxi University of Finance and Economics
+jilin univ,Jilin University
+jinan univ,Jinan University
+johns hopkins univ,Johns Hopkins University
+karlsruhe inst technol,Karlsruhe Institute of Technology
+kennesaw state univ,Kennesaw State University
+kent state univ,Kent State University
+king abdulaziz univ,King Abdulaziz University
+king fahd univ petr & minerals,King Fahd University of Petroleum and Minerals
+king saud univ,King Saud University
+korea adv inst sci & technol,KAIST
+korea adv inst sci & technol kaist,KAIST
+korea univ,Korea University
+kyoto univ,Kyoto University
+kyushu univ,Kyushu University
+lanzhou univ,Lanzhou University
+leiden univ,Leiden University
+linkoping univ,Linkoping University
+london sch econ,London School of Economics and Political Science
+loughborough univ,Loughborough University
+lund univ,Lund University
+macau univ sci & technol,Macau University of Science and Technology
+macquarie univ,Macquarie University
+massachusetts inst technol,MIT
+mcgill univ,McGill University
+mcmaster univ,McMaster University
+michigan state univ,Michigan State University
+middle east tech univ,Middle East Technical University
+mit,MIT
+monash univ,Monash University
+nanjing aeronaut & astronaut univ,Nanjing University of Aeronautics and Astronautics
+nanjing audit univ,Nanjing Audit University
+nanjing normal univ,Nanjing Normal University
+nanjing univ,Nanjing University
+nanjing univ aeronaut & astronaut,Nanjing University of Aeronautics and Astronautics
+nanjing univ finance & econ,Nanjing University of Finance and Economics
+nanjing univ informat sci & technol,Nanjing University of Information Science and Technology
+nanjing univ posts & telecommun,Nanjing University of Posts and Telecommunications
+nanjing univ sci & technol,Nanjing University of Science and Technology
+nankai univ,Nankai University
+nanyang technol univ,Nanyang Technological University
+natl cent univ,National Central University
+natl cheng kung univ,National Cheng Kung University
+natl chengchi univ,National Chengchi University
+natl chiao tung univ,National Chiao Tung University
+natl chung hsing univ,National Chung Hsing University
+natl sun yat sen univ,National Sun Yat-sen University
+natl taipei univ technol,National Taipei University of Technology
+natl taiwan univ,National Taiwan University
+natl taiwan univ sci & technol,National Taiwan University of Science and Technology
+natl tsing hua univ,National Tsing Hua University
+natl univ def technol,National University of Defense Technology
+natl univ singapore,National University of Singapore
+new york univ,New York University
+newcastle univ,Newcastle University
+north china elect power univ,North China Electric Power University
+northeastern univ,Northeastern University
+northwestern polytech univ,Northwestern Polytechnical University
+northwestern univ,Northwestern University
+norwegian univ sci & technol,NTNU
+ocean univ china,Ocean University of China
+ohio state univ,Ohio State University
+oklahoma state univ,Oklahoma State University
+osaka univ,Osaka University
+peking univ,Peking University
+penn state univ,Pennsylvania State University
+politecn milan,Politecnico di Milano
+polytech univ milan,Politecnico di Milano
+princeton univ,Princeton University
+purdue univ,Purdue University
+qatar univ,Qatar University
+queen mary univ london,Queen Mary University of London
+queens univ belfast,Queens University Belfast
+queensland univ technol,Queensland University of Technology
+renmin univ china,Renmin University of China
+rensselaer polytech inst,Rensselaer Polytechnic Institute
+rmit univ,RMIT University
+royal holloway univ london,Royal Holloway University of London
+rutgers state univ,Rutgers University
+rwth aachen univ,RWTH Aachen University
+s china univ technol,South China University of Technology
+sapienza univ rome,Sapienza University of Rome
+sejong univ,Sejong University
+seoul natl univ,Seoul National University
+shandong univ,Shandong University
+shanghai jiao tong univ,Shanghai Jiao Tong University
+shanghai univ,Shanghai University
+shanghai univ finance & econ,Shanghai University of Finance and Economics
+sharif univ technol,Sharif University of Technology
+shenzhen univ,Shenzhen University
+sichuan univ,Sichuan University
+simon fraser univ,Simon Fraser University
+singapore management univ,Singapore Management University
+south china normal univ,South China Normal University
+south china univ technol,South China University of Technology
+southeast univ,Southeast University
+southern univ sci & technol,Southern University of Science and Technology
+southwest jiaotong univ,Southwest Jiaotong University
+southwest univ,Southwest University
+southwestern univ finance & econ,Southwestern University of Finance and Economics
+stanford univ,Stanford University
+state univ new york buffalo,University at Buffalo SUNY
+stellenbosch univ,Stellenbosch University
+sun yat sen univ,Sun Yat-sen University
+sungkyunkwan univ,Sungkyunkwan University
+suny buffalo,University at Buffalo SUNY
+suny stony brook,Stony Brook University SUNY
+swansea univ,Swansea University
+swinburne univ technol,Swinburne University of Technology
+swiss fed inst technol,ETH Zurich
+syracuse univ,Syracuse University
+tamkang univ,Tamkang University
+tampere univ,Tampere University
+tech univ berlin,Technical University of Berlin
+tech univ denmark,Technical University of Denmark
+tech univ munich,Technical University of Munich
+technol univ dublin,Technological University Dublin
+tel aviv univ,Tel Aviv University
+temple univ,Temple University
+texas a&m univ,Texas A&M University
+texas tech univ,Texas Tech University
+tianjin univ,Tianjin University
+tianjin univ finance & econ,Tianjin University of Finance and Economics
+tilburg univ,Tilburg University
+tohoku univ,Tohoku University
+tokyo inst technol,Tokyo Institute of Technology
+tongji univ,Tongji University
+tsinghua univ,Tsinghua University
+tu berlin,Technical University of Berlin
+tu delft,Delft University of Technology
+tu dortmund,TU Dortmund University
+tu munich,Technical University of Munich
+ucl,University College London
+univ aalborg,Aalborg University
+univ aarhus,Aarhus University
+univ adelaide,University of Adelaide
+univ alabama,University of Alabama
+univ alberta,University of Alberta
+univ amsterdam,University of Amsterdam
+univ antwerp,University of Antwerp
+univ arizona,University of Arizona
+univ auckland,University of Auckland
+univ barcelona,University of Barcelona
+univ bath,University of Bath
+univ birmingham,University of Birmingham
+univ bologna,University of Bologna
+univ bristol,University of Bristol
+univ british columbia,University of British Columbia
+univ bucharest,University of Bucharest
+univ buffalo,University at Buffalo SUNY
+univ calgary,University of Calgary
+univ calif berkeley,University of California Berkeley
+univ calif davis,University of California Davis
+univ calif irvine,University of California Irvine
+univ calif los angeles,University of California Los Angeles
+univ calif riverside,University of California Riverside
+univ calif san diego,University of California San Diego
+univ calif santa barbara,University of California Santa Barbara
+univ cambridge,University of Cambridge
+univ cent florida,University of Central Florida
+univ chicago,University of Chicago
+univ chinese acad sci,University of Chinese Academy of Sciences
+univ cincinnati,University of Cincinnati
+univ coimbra,University of Coimbra
+univ coll dublin,University College Dublin
+univ coll london,University College London
+univ copenhagen,University of Copenhagen
+univ delaware,University of Delaware
+univ delhi,University of Delhi
+univ east anglia,University of East Anglia
+univ edinburgh,University of Edinburgh
+univ elect sci & technol china,University of Electronic Science and Technology of China
+univ exeter,University of Exeter
+univ florida,University of Florida
+univ genoa,University of Genoa
+univ glasgow,University of Glasgow
+univ gothenburg,University of Gothenburg
+univ granada,University of Granada
+univ groningen,University of Groningen
+univ guelph,University of Guelph
+univ helsinki,University of Helsinki
+univ hong kong,The University of Hong Kong
+univ houston,University of Houston
+univ illinois,University of Illinois Urbana-Champaign
+univ illinois urbana champaign,University of Illinois Urbana-Champaign
+univ iowa,University of Iowa
+univ kent,University of Kent
+univ leeds,University of Leeds
+univ leicester,University of Leicester
+univ lisbon,University of Lisbon
+univ liverpool,University of Liverpool
+univ london imperial coll sci technol & med,Imperial College London
+univ luxembourg,University of Luxembourg
+univ macau,University of Macau
+univ malaya,University of Malaya
+univ manchester,University of Manchester
+univ maryland,University of Maryland
+univ massachusetts,University of Massachusetts
+univ melbourne,University of Melbourne
+univ miami,University of Miami
+univ michigan,University of Michigan
+univ milan,University of Milan
+univ minnesota,University of Minnesota
+univ missouri,University of Missouri
+univ montreal,University of Montreal
+univ munich,Ludwig Maximilians University of Munich
+univ naples federico ii,University of Naples Federico II
+univ new south wales,University of New South Wales
+univ newcastle,University of Newcastle
+univ north carolina,University of North Carolina at Chapel Hill
+univ north carolina charlotte,University of North Carolina at Charlotte
+univ nottingham,University of Nottingham
+univ oklahoma,University of Oklahoma
+univ oslo,University of Oslo
+univ otago,University of Otago
+univ ottawa,University of Ottawa
+univ oxford,University of Oxford
+univ padua,University of Padua
+univ paris saclay,University of Paris-Saclay
+univ penn,University of Pennsylvania
+univ pittsburgh,University of Pittsburgh
+univ politecn madrid,Polytechnic University of Madrid
+univ politecn valencia,Polytechnic University of Valencia
+univ porto,University of Porto
+univ portsmouth,University of Portsmouth
+univ pretoria,University of Pretoria
+univ queensland,University of Queensland
+univ reading,University of Reading
+univ rochester,University of Rochester
+univ roma la sapienza,Sapienza University of Rome
+univ sao paulo,University of Sao Paulo
+univ sci & technol beijing,University of Science and Technology Beijing
+univ sci & technol china,University of Science and Technology of China
+univ sci & technol china ustc,University of Science and Technology of China
+univ seville,University of Seville
+univ sharjah,University of Sharjah
+univ sheffield,University of Sheffield
+univ south australia,University of South Australia
+univ south florida,University of South Florida
+univ southampton,University of Southampton
+univ southern calif,University of Southern California
+univ southern queensland,University of Southern Queensland
+univ st andrews,University of St Andrews
+univ strathclyde,University of Strathclyde
+univ surrey,University of Surrey
+univ sussex,University of Sussex
+univ sydney,University of Sydney
+univ technol sydney,University of Technology Sydney
+univ tehran,University of Tehran
+univ tennessee,University of Tennessee
+univ texas arlington,University of Texas at Arlington
+univ texas austin,University of Texas at Austin
+univ texas dallas,University of Texas at Dallas
+univ texas san antonio,University of Texas at San Antonio
+univ thessaly,University of Thessaly
+univ tokyo,University of Tokyo
+univ toronto,University of Toronto
+univ toulouse,University of Toulouse
+univ twente,University of Twente
+univ valencia,University of Valencia
+univ vienna,University of Vienna
+univ virginia,University of Virginia
+univ waikato,University of Waikato
+univ warwick,University of Warwick
+univ washington,University of Washington
+univ waterloo,University of Waterloo
+univ west england,University of the West of England
+univ western australia,University of Western Australia
+univ western ontario,Western University
+univ wisconsin,University of Wisconsin-Madison
+univ wisconsin madison,University of Wisconsin-Madison
+univ wollongong,University of Wollongong
+univ york,University of York
+univ zaragoza,University of Zaragoza
+univ zurich,University of Zurich
+unsw sydney,University of New South Wales
+uppsala univ,Uppsala University
+utrecht univ,Utrecht University
+vanderbilt univ,Vanderbilt University
+vellore inst technol,Vellore Institute of Technology
+victoria univ wellington,Victoria University of Wellington
+vienna univ econ & business,Vienna University of Economics and Business
+vienna univ technol,Vienna University of Technology
+villanova univ,Villanova University
+virginia polytech inst & state univ,Virginia Tech
+vrije univ amsterdam,Vrije Universiteit Amsterdam
+vrije univ brussel,Vrije Universiteit Brussel
+wageningen univ,Wageningen University & Research
+wageningen univ & res,Wageningen University & Research
+waseda univ,Waseda University
+washington state univ,Washington State University
+washington univ,Washington University in St. Louis
+western sydney univ,Western Sydney University
+wuhan univ,Wuhan University
+wuhan univ technol,Wuhan University of Technology
+xi an jiao tong univ,Xi'an Jiaotong University
+xiamen univ,Xiamen University
+xian jiaotong liverpool univ,Xi'an Jiaotong-Liverpool University
+xian jiaotong univ,Xi'an Jiaotong University
+xidian univ,Xidian University
+yale univ,Yale University
+yonsei univ,Yonsei University
+york univ,York University
+zhejiang gongshang univ,Zhejiang Gongshang University
+zhejiang univ,Zhejiang University
+zhejiang univ finance & econ,Zhejiang University of Finance and Economics
+zhejiang univ technol,Zhejiang University of Technology
+zhongnan univ econ & law,Zhongnan University of Economics and Law

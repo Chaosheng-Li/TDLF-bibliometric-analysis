@@ -1,0 +1,62 @@
+Pricing levered warrants under the CEV diffusion model
+FIRE SALES FORENSICS: MEASURING ENDOGENOUS RISK
+Guaranteed funds' replication by reinforcement learning
+Deep hedging of long-term financial derivatives
+Pricing and hedging path-dependent options under the CEV process
+Calibrating FBSDEs Driven Models in Finance via NNs
+Maximum Entropy Evaluation of Asymptotic Hedging Error under a Generalised Jump-Diffusion Model
+Nonparametric model validations for hidden Markov models with applications in financial econometrics
+A Comparative Review of Specification Tests for Diffusion Models
+Investigating the effects of illiquidity on credit risks via new liquidity augmented stochastic volatility jump diffusion model
+Chinese Financial News Analysis for Sentiment and Stock Prediction: A Comparative Framework with Language Models
+From CKLS Process to CIR-type and OU-type Processes: Using a Twice-differentiable Mapping and Generalized Girsanov's Theorem
+UPPER AND LOWER SOLUTIONS FOR REGIME-SWITCHING DIFFUSIONS WITH APPLICATIONS IN FINANCIAL MATHEMATICS
+Goodness-of-fit test for interest rate models: An approach based on empirical processes
+Deep Equal Risk Pricing of Financial Derivatives with Non-Translation Invariant Risk Measures
+Jumping hedges on the strength of the Mellin transform
+A Simulation and Empirical Study of the Maximum Likelihood Estimator for Stochastic Volatility Jump-Diffusion Models
+Functional data analysis for volatility
+Noise trading and stock market bubbles: what the derivatives market is telling us
+RISK MANAGEMENT OF FINANCIAL CRISES: AN OPTIMAL INVESTMENT STRATEGY WITH MULTIVARIATE JUMP-DIFFUSION MODELS
+Is the diurnal pattern sufficient to explain intraday variation in volatility? A nonparametric assessment
+Optimal Reinsurance and Investment Strategy with Delay in Heston's SV Model
+Semi-closed form cubature and applications to financial diffusion models
+Long memory version of stochastic volatility jump-diffusion model with stochastic intensity
+A multifactor transformed diffusion model with applications to VIX and VIX futures
+A non-linear dynamic model of the variance risk premium
+Machine Learning vs. Economic Restrictions: Evidence from Stock Return Predictability
+European vulnerable options pricing under sub-mixed fractional jump-diffusion model with stochastic interest rate
+Optimal dynamic portfolio selection for a corporation with controllable risk and dividend distribution policy
+Efficient volatility estimation in a two-factor model
+ABC of SV: Limited information likelihood inference in stochastic volatility jump-diffusion models
+Pre-averaging estimators of the ex-post covariance matrix in noisy diffusion models with non-synchronous data
+An empirical assessment of symmetric and asymmetric jump-diffusion models for the Nigerian stock market indices
+Variance reduction approach for the volatility over a finite-time horizon
+Forecasting High-Frequency Futures Returns Using Online Langevin Dynamics
+Estimation of integrated volatility in continuous-time financial models with applications to goodness-of-fit testing
+Probabilistic forecasts of volatility and its risk premia
+Efficient likelihood estimation of Heston model for novel climate-related financial contracts valuation
+A closed-form expansion approach for pricing discretely monitored variance swaps
+Continuous Mixed-Laplace Jump Diffusion Models for Stocks and Commodities
+On the statistical equivalence at suitable frequencies of garch and stochastic volatility models with the corresponding diffusion model
+Inference with non-Gaussian Ornstein-Uhlenbeck processes for stochastic volatility
+Pricing Path-Independent Payoffs with Exotic Features in the Fractional Diffusion Model
+The volatility structure of the fixed income market under the HJM framework: A nonlinear filtering approach
+Scenario analysis for derivative portfolios via dynamic factor models
+Testing mean reversion in financial market volatility: Evidence from S&P 500 index futures
+Evaluation of variable annuity guarantees with the effect of jumps in the asset price process
+INVESTIGATIONS TO THE OPTIMAL DERIVATIVE-BASED INVESTMENT AND PROPORTIONAL REINSURANCE STRATEGIES
+Inference of Binary Regime Models with Jump Discontinuities
+Financial contagion risk and the stochastic discount factor
+Extracting a common stochastic trend: Theory with some applications
+A reexamination of diffusion estimators with applications to financial model validation
+Slow diffusion of information and price momentum in stocks: Evidence from options markets
+An empirical comparison of transformed diffusion models for VIX and VIX futures
+A comprehensive investigation on the predictive power of economic policy uncertainty from non-US countries for US stock market returns
+SEMIPARAMETRIC ESTIMATION FOR A CLASS OF TIME-INHOMOGENEOUS DIFFUSION PROCESSES
+Nonparametric estimation of a scalar diffusion model from discrete time data: a survey
+LOCALLY RISK-MINIMIZING HEDGING FOR EUROPEAN CONTINGENT CLAIMS WRITTEN ON NON-TRADABLE ASSETS WITH COMMON JUMP RISK
+A test for a parametric form of the volatility in second-order diffusion models
+A goodness-of-fit test for functional time series with applications to Ornstein-Uhlenbeck processes
+Parametric and nonparametric models and methods in financial econometrics
+OPTIMAL INSURANCE STRATEGIES: A HYBRID DEEP LEARNING MARKOV CHAIN APPROXIMATION APPROACH

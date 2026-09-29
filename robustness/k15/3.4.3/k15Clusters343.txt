@@ -1,0 +1,30 @@
+
+Ranked Terms
+Note: Clusters with ... means that the data is too sparse to select meaningful features.
+
+#0: deep learning; neural network; risk management; graph neural networks; attention mechanism | predictive models; short term memory; stock markets; prediction algorithms; stock price forecasting
+learning; network; neural; deep; graph forecasting; financial; analysis; price; bitcoin
+
+#1: deep reinforcement learning; proximal policy optimization; quantitative finance; technical indicators; stock market trading | reinforcement learning; bounded rationality; multi-agent systems; prospect theory; human behavior
+learning; reinforcement; trading; algorithmic; recurrent deep; optimization; policy; finance; quantitative
+
+#2: stochastic volatility; markov chain monte carlo; first order; markov process; non-gaussian state space models | deep learning; predictive models; graph neural networks; sentiment analysis; data models
+model; markov; space; state; risk learning; stock; analysis; deep; price
+
+#3: stochastic volatility; diffusion model; stochastic differential equation; model validation; nonlinear time series | volatility index; nonlinear diffusion; transformation model; vix futures; skewed student-t distribution
+stochastic; maximum; term; moments; structure risk; hedging; common; strategy; non-tradable
+
+#4: high-frequency data; time-varying volatility; bipower variation; diurnal variation; normality tests | microstructure noise; high frequency data; diffusion models; variation methods; round-off error
+learning; stock; price; sentiment; forecast kalman; series; component; markets; efficient
+
+#5: deep learning; index tracking; index replication; deep autoencoder; count time series | time series analysis; neural networks; reservoir computing; algorithmic comparisons; financial-economic forecasting
+volatility; prediction; machine; investing; psychological analysis; neural; network; series; time
+
+#6: option pricing; time levels method; regime-switching jump-diffusions; implied volatility; jump diffusion models | stochastic volatility; specification error; stock index options; stock market crash; neural networks
+model; options; jump; american; european stochastic; volatility; stock; market; crash
+
+#7: deep learning; stock market; correlation forecasting; quantile hedging; neural networks | option pricing; convex risk measure; quantile hedging; neural networks; kalman filter
+market; long; short-term; neural; network strategy; investment; hedging; markov; quantile
+
+#8: topological data analysis; persistent homology; persistence diagram; hypothesis testing; statistical topology | deep learning; statistical arbitrage; feature extraction; stock trading strategy; hybrid forecasting
+critical; slowing; early; transition; signal graph; correlation; filtered; planar; tree

@@ -1,0 +1,272 @@
+PT J
+AU Fearnhead, P
+AF Fearnhead, P
+TI Using random quasi-Monte-Carlo within particle filters, with application to financial time series
+SO JOURNAL OF COMPUTATIONAL AND GRAPHICAL STATISTICS
+LA English
+DT Article
+DE ARCH; filtering; rate of convergence; sequential Monte Carlo; smoothing; stochastic volatility
+ID models
+AB This article presents a new particle filter algorithm which uses random quasi-Monte-Carlo to propagate particles. The filter can be used generally, but here it is shown that for one-dimensional state-space models, if the number of particles is N, then the rate of convergence of this algorithm is N-1. This compares favorably with the N-1/2 convergence rate of standard particle filters. The computational complexity of the new filter is quadratic in the number of particles, as opposed to the linear computational complexity of standard methods. I demonstrate the new filter on two important financial time series models, an ARCH model and a stochastic volatility model. Simulation studies show that for fixed CPU time, the new filter can be orders of magnitude more accurate than existing particle filters. The new filter is particularly efficient at estimating smooth functions of the states, where empirical rates of convergence are N-3/2; and for performing smoothing, where both the new and existing filters have the same computational complexity.
+C1 Univ Lancaster, Dept Math & Stat, Fylde Coll, Lancaster LA1 4YF, England.
+C3 Lancaster University
+RP Fearnhead, P (corresponding author), Univ Lancaster, Dept Math & Stat, Fylde Coll, Lancaster LA1 4YF, England.
+EM p.fearnhead@lancaster.ac.uk
+CR Bollerslev T, 1994, HDB ECONOMETRICS 4, V0, PP2959, DOI 10.1016/S1573-4412(05)80018-2
+   Bolviken E, 2001, STAT ENG IN, V0, P97
+   Carpenter J, 1999, IEE P-RADAR SON NAV, V146, P2, DOI 10.1049/ip-rsn:19990255
+   Chopin N, 2002, BIOMETRIKA, V89, P539, DOI 10.1093/biomet/89.3.539
+   Crisan D, 2001, STAT ENG IN, V0, P17
+   Crisan D, 2002, IEEE T SIGNAL PROCES, V50, P736, DOI 10.1109/78.984773
+   Doucet A, 2001, SEQUENTIAL MONTE CAR, V1, P0
+   Fearnhead P, 2004, STAT COMPUT, V14, P11, DOI 10.1023/B:STCO.0000009418.04621.cd
+   Fearnhead P, 2003, J R STAT SOC B, V65, P887, DOI 10.1111/1467-9868.00421
+   GORDON NJ, 1993, IEE PROC-F, V140, P107, DOI 10.1049/ip-f-2.1993.0015
+   HARVEY A, 1992, J ECONOMETRICS, V52, P129, DOI 10.1016/0304-4076(92)90068-3
+   HULL J, 1987, J FINANC, V42, P281, DOI 10.1111/j.1540-6261.1987.tb02568.x
+   KITAGAWA G, 1987, J AM STAT ASSOC, V82, P1032, DOI 10.2307/2289375
+   Kitagawa G, 1996, J COMPUT GRAPH STAT, V5, P1, DOI 10.1080/10618600.1996.10474692
+   KONG A, 1994, J AM STAT ASSOC, V89, P278, DOI 10.2307/2291224
+   Liu JS, 1998, J AM STAT ASSOC, V93, P1032, DOI 10.2307/2669847
+   LIU JS, 1995, J AM STAT ASSOC, V90, P567, DOI 10.2307/2291068
+   Liu JS, 2001, STAT ENG IN, V0, P225
+   Maskell S, 2003, IMAGE VISION COMPUT, V21, P931, DOI 10.1016/S0262-8856(03)00087-8
+   NIEDERREITER H, 1978, B AM MATH SOC, V84, P957, DOI 10.1090/S0002-9904-1978-14532-7
+   Niederreiter H, 1992, SOC IND APPL MATH, V0, P0
+   Owen AB, 1997, ANN STAT, V25, P1541
+   Owen AB, 1998, 1998 WINTER SIMULATION CONFERENCE PROCEEDINGS, VOLS 1 AND 2, P571, DOI 10.1109/WSC.1998.745036
+   Pitt MK, 1999, J AM STAT ASSOC, V94, P590, DOI 10.2307/2670179
+   Ridgeway G, 2003, DATA MIN KNOWL DISC, V7, P301, DOI 10.1023/A:1024084221803
+   Ripley BD, 1987, STOCHASTIC SIMULATIO, V0, P0
+   Shephard N, 1997, BIOMETRIKA, V84, P653, DOI 10.1093/biomet/84.3.653
+   SMITH JQ, 2003, UNPUB 2 ORDER FILTER, V0, P0
+   West M, 1992, BAYESIAN STAT, V4, P0
+NR 29
+TC 27
+Z9 32
+U1 0
+U2 2
+PU TAYLOR & FRANCIS INC
+PI PHILADELPHIA
+PA 530 WALNUT STREET, STE 850, PHILADELPHIA, PA 19106 USA
+SN 1061-8600
+EI 1537-2715
+J9 J COMPUT GRAPH STAT
+JI J. Comput. Graph. Stat.
+PD DEC 15
+PY 2005
+VL 14
+IS 4
+BP 751
+EP 769
+DI 10.1198/106186005X77243
+PG 19
+WC Statistics & Probability
+SC Mathematics
+GA 008LL
+UT WOS:000235042100001
+DA 2026-01-04
+ER
+
+PT J
+AU Yu, J
+AF Yu, J
+TI On leverage in a stochastic volatility model
+SO JOURNAL OF ECONOMETRICS
+LA English
+DT Article
+DE bayes factors; leverage effect; Markov chain Monte Carlo; nonlinear state space models; quasi maximum likelihood; particle filter
+ID bayesian-analysis; currency options; asset returns; monte-carlo; likelihood; simulation; inference
+AB This paper is concerned with the specification for modelling financial leverage effect in the context of stochastic volatility (SV) models. Two alternative specifications co-exist in the literature. One is the Euler approximation to the well-known continuous time SV model with leverage effect and the other is the discrete time SV model of Jacquier et al. (J. Econometrics 122 (2004) 185). Using a Gaussian nonlinear state space form with uncorrelated measurement and transition errors, I show that it is easy to interpret the leverage effect in the conventional model whereas it is not clear how to obtain and interpret the leverage effect in the model of Jacquier et al. Empirical comparisons of these two models via Bayesian Markov chain Monte Carlo (MCMC) methods further reveal that the specification of Jacquier et al. is inferior. Simulation experiments are conducted to study the sampling properties of Bayes MCMC for the conventional model. (c) 2004 Elsevier B.V. All rights reserved.
+C1 Singapore Management Univ, Sch Econ & Social Sci, Singapore 259756, Singapore.
+C3 Singapore Management University
+RP Yu, J (corresponding author), Singapore Management Univ, Sch Econ & Social Sci, 459 Bukit Timah Rd, Singapore 259756, Singapore.
+EM yujun@smu.edu.sg
+CR Andersen TG, 1999, J ECONOMETRICS, V91, P61, DOI 10.1016/S0304-4076(98)00049-9
+   Unknown -, 1900, DOI 10.2307/2328253, V0, P0
+   Berg A, 2004, J BUS ECON STAT, V22, P107, DOI 10.1198/073500103288619430
+   Black F, 1976, P 1976 M AM STAT ASS, V0, P171
+   CHAN D, 2004, MULTIVARIATE STOCHAS, V0, P0
+   CHESNEY M, 1989, J FINANC QUANT ANAL, V24, P267, DOI 10.2307/2330812
+   Chib S, 2002, J ECONOMETRICS, V108, P281, DOI 10.1016/S0304-4076(01)00137-3
+   Chib S, 1995, J AM STAT ASSOC, V90, P1313, DOI 10.2307/2291521
+   Chib S, 2001, HANDBOOK OF ECONOMETRICS, V5, P3569, DOI 10.1016/S1573-4412(01)05010-3
+   CHRISTIE AA, 1982, J FINANC ECON, V10, P407, DOI 10.1016/0304-405X(82)90018-6
+   Eraker B, 2003, J FINANC, V58, P1269, DOI 10.1111/1540-6261.00566
+   Ghysels E, 1996, STAT METHODS FINANCE, V0, P119
+   GLOSTEN LR, 1993, J FINANC, V48, P1779, DOI 10.2307/2329067
+   GORDON NJ, 1993, IEE PROC-F, V140, P107, DOI 10.1049/ip-f-2.1993.0015
+   Harvey AC, 1996, J BUS ECON STAT, V14, P429, DOI 10.2307/1392251
+   HEIDELBERGER P, 1983, OPER RES, V31, P1109, DOI 10.1287/opre.31.6.1109
+   JACQUIER E, 1994, J BUS ECON STAT, V12, P371, DOI 10.2307/1392199
+   Jacquier E, 2004, J ECONOMETRICS, V122, P185, DOI 10.1016/j.jeconom.2003.09.001
+   Kim S, 1998, REV ECON STUD, V65, P361, DOI 10.1111/1467-937X.00050
+   Kitagawa G, 1996, J COMPUT GRAPH STAT, V5, P1, DOI 10.1080/10618600.1996.10474692
+   MELINO A, 1990, J ECONOMETRICS, V45, P239, DOI 10.1016/0304-4076(90)90100-8
+   Meyer R, 2000, ECONOMET J, V3, P198, DOI 10.1111/1368-423X.00046
+   NELSON DB, 1991, ECONOMETRICA, V59, P347, DOI 10.2307/2938260
+   NEWTON MA, 1994, J R STAT SOC B, V56, P3
+   Pitt MK, 1999, J AM STAT ASSOC, V94, P590, DOI 10.2307/2670179
+   Shephard N, 1996, TIME SERIES MODELS E, V0, P1
+   Spiegelhalter DJ, 2002, J ROY STAT SOC B, V64, P583, DOI 10.1111/1467-9868.00353
+   WIGGINS JB, 1987, J FINANC ECON, V19, P351, DOI 10.1016/0304-405X(87)90009-2
+NR 28
+TC 243
+Z9 298
+U1 0
+U2 22
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0304-4076
+EI 1872-6895
+J9 J ECONOMETRICS
+JI J. Econom.
+PD AUG 15
+PY 2005
+VL 127
+IS 2
+BP 165
+EP 178
+DI 10.1016/j.jeconom.2004.08.002
+PG 14
+WC Economics; Mathematics, Interdisciplinary Applications; Social Sciences, Mathematical Methods
+SC Business & Economics; Mathematics; Mathematical Methods In Social Sciences
+GA 937XB
+UT WOS:000229958400002
+DA 2026-01-04
+ER
+
+PT J
+AU Castañeda-Leyva, N
+   Hernández-Hernández, D
+AF Castañeda-Leyva, N
+   Hernández-Hernández, D
+TI Optimal consumption-investment problems in incomplete markets with stochastic coefficients
+SO SIAM JOURNAL ON CONTROL AND OPTIMIZATION
+LA English
+DT Article
+DE optimal investment and consumption; incomplete markets; stochastic volatility; martingale method; optimal control; Black-Scholes model
+AB The goal of this paper is to solve an optimal consumption-investment problem in the context of an incomplete financial market. The model is a generalization of the Black and Scholes diffusion model, where the coefficients of the diffusion modelling the stock's price depend on some stochastic economic factors. Based on the martingale approach, a basic methodology to get the optimal solution is presented. Combining this procedure with stochastic control techniques, explicit solutions for HARA and logarithmic utility functions are obtained.
+C1 Ctr Invest Matemat, Guanajuato 36000, Mexico.
+   Univ Autonoma Aguascalientes, Dept Estadist, Ctr Ciencias Basicas, Aguascalientes 20100, Mexico.
+C3 CIMAT - Centro de Investigacion en Matematicas; Universidad Autonoma de Aguascalientes
+RP Castañeda-Leyva, N (corresponding author), Ctr Invest Matemat, Apartado Postal 402, Guanajuato 36000, Mexico.
+EM ncastane@uaa.mx; dher@cimat.mx
+CR Barndorff-Nielsen OE, 2001, J ROY STAT SOC B, V63, P167, DOI 10.1111/1467-9868.00282
+   Benth FE, 2003, MATH FINANC, V13, P215, DOI 10.1111/1467-9965.00015
+   Bielecki TR, 1999, APPL MATH OPT, V39, P337, DOI 10.1007/s002459900110
+   CASTANEDALEYVA N, 2003, CONT MATH, V336, P119
+   Cuoco D, 1997, J ECON THEORY, V72, P33, DOI 10.1006/jeth.1996.2207
+   Davis M, 2000, OPTIMAL HEDGING BASI, V0, P0
+   Fleming W, 1993, CONTROLLED MARKOV PROCESSES AND VISCOSITY SOLUTIONS, V0, P0
+   Fleming WH, 2003, FINANC STOCH, V7, P245, DOI 10.1007/s007800200083
+   Fouque JP, 2000, DERIVATIVES FINANCIA, V0, P0
+   Friedman A, 1975, PROBABILITY AND MATHEMATICAL STATISTICS, V28, P0
+   Harrison JM, 1981, STOCHASTIC PROCESSES & THEIR APPLICATIONS, V11, P215, DOI 10.1016/0304-4149(81)90026-0
+   Jacod J, 2003, LIMIT THEOREMS STOCH, V0, P0
+   Karatzas I, 2004, BROWNIAN MOTION AND STOCHASTIC CALCULUS, V0, P0
+   Karatzas I, 1998, METHODS MATH FINANCE, V0, P0
+   Kramkov D, 1999, ANN APPL PROBAB, V9, P904
+   Lipster R, 2001, STATISTICS AND RANDOM PROCESSES II: APPLICATIONS, V0, P0
+   Luenberger D, 1969, OPTIMIZATION VECTOR, V0, P0
+   Zariphopoulou T, 2001, FINANC STOCH, V5, P61, DOI 10.1007/PL00000040
+NR 18
+TC 32
+Z9 39
+U1 0
+U2 6
+PU SIAM PUBLICATIONS
+PI PHILADELPHIA
+PA 3600 UNIV CITY SCIENCE CENTER, PHILADELPHIA, PA 19104-2688 USA
+SN 0363-0129
+EI 1095-7138
+J9 SIAM J CONTROL OPTIM
+JI SIAM J. Control Optim.
+PD JUN 15
+PY 2005
+VL 44
+IS 4
+BP 1322
+EP 1344
+DI 10.1137/S0363012904440885
+PG 23
+WC Automation & Control Systems; Mathematics, Applied
+SC Automation & Control Systems; Mathematics
+GA 988FZ
+UT WOS:000233579100007
+DA 2025-12-31
+ER
+
+PT J
+AU Dieckmann, S
+   Gallmeyer, M
+AF Dieckmann, S
+   Gallmeyer, M
+TI The equilibrium allocation of diffusive and jump risks with heterogeneous agents
+SO JOURNAL OF ECONOMIC DYNAMICS & CONTROL
+LA English
+DT Article
+DE general equilibrium; pure exchange economy; jump-diffusion model; heterogeneous agents; excess uncertainty; insurance
+ID continuous-time model; discontinuous returns; optimal portfolio; small investor; stock-prices; consumption
+AB We study a two-agent pure exchange equilibrium subject to both nondiversifiable diffusive and jump risks. Agents can trade in a financial market consisting of a stock market, a money market, and an insurance market for jump risk. Heterogeneity is introduced through different levels of relative risk aversion. In the framework of standard expected utility we find the surprising result that the less risk averse agent purchases insurance contracts against jump risk from the more risk averse agent. This equilibrium allocation is linked to the non-linear wealth sharing rule in such an economy, and preserves the wealth effects studied by Dumas [Rev. Financ. Stud. 2 (1989) 157] in the case of pure diffusive risk. Since the benchmark economy with homogeneous agents generates no excess uncertainty in the stock market, we study the effect on excess volatility and excess jump size solely due to different levels of relative risk aversion. We observe 3% excess uncertainty in jump sizes for a reasonable specification of economic fundamentals. (c) 2004 Elsevier B.V. All rights reserved.
+C1 Arizona State Univ, WP Carey Sch Business, Tempe, AZ 85287 USA.
+   Carnegie Mellon Univ, David A Tepper Sch Business, Pittsburgh, PA 15213 USA.
+C3 Arizona State University; Arizona State University-Tempe; Carnegie Mellon University
+RP Dieckmann, S (corresponding author), Arizona State Univ, WP Carey Sch Business, Tempe, AZ 85287 USA.
+EM stephan.dieckmann@asu.edu; mg47@andrew.cmu.edu
+CR AASE KK, 1984, STOCH PROC APPL, V18, P81, DOI 10.1016/0304-4149(84)90163-7
+   AASE KK, 1986, STOCH PROC APPL, V21, P213, DOI 10.1016/0304-4149(86)90097-9
+   AASE KK, 1993, MATH FINANC, V3, P65
+   Bardhan I, 1996, J ECON DYN CONTROL, V20, P361, DOI 10.1016/0165-1889(94)00855-9
+   BARDHAN I, 1995, MATH OPER RES, V20, P243, DOI 10.1287/moor.20.1.243
+   Bates D, 1988, THESIS, V0, P0
+   Bates DS, 2001, THE MARKET FOR CRASH RISK, V0, P0
+   COHEN B, 2001, BANK INT SETTLEMENT, V0, P0
+   COX JC, 1989, J ECON THEORY, V49, P33, DOI 10.1016/0022-0531(89)90067-7
+   DAS S, 1995, SURPRISE ELEMENT JUM, V0, P0
+   DAS S, 2004, IN PRESS J FINANCE, V0, P0
+   Dumas B, 1989, REV FINANC STUD, V2, P157, DOI 10.1093/rfs/2.2.157
+   Eraker B, 2004, J FINANC, V59, P1367, DOI 10.1111/j.1540-6261.2004.00666.x
+   Honore P, 1998, PITFALLS ESTIMATING, V0, P0
+   JEANBLANCPICQUE M, 1990, APPL MATH OPT, V22, P287, DOI 10.1007/BF01447332
+   Jorion P, 1988, REV FINANC STUD, V1, P427, DOI 10.1093/rfs/1.4.427
+   KARATZAS I, 1987, SIAM J CONTROL OPTIM, V25, P1557, DOI 10.1137/0325086
+   KARATZAS I, 1990, MATH OPER RES, V15, P80, DOI 10.1287/moor.15.1.80
+   Liu J, 2003, J FINANC, V58, P231, DOI 10.1111/1540-6261.00523
+   MERTON RC, 1971, J ECON THEORY, V3, P373, DOI 10.1016/0022-0531(71)90038-X
+   NAIK V, 1990, REV FINANC STUD, V3, P493, DOI 10.1093/rfs/3.4.493
+   Piazzesi M, 2001, 8246 NBER, V0, P0
+   Protter P, 1990, STOCHASTIC INTEGRATION AND DIFFERENTIAL EQUATIONS, V0, P0, DOI 10.1007/978-3-662-09432-75
+   SHILLER RJ, 1981, AM ECON REV, V71, P421
+   SHIRAKAWA H, 1992, OPTIMAL DIVIDEND POR, V0, P0
+   Wang J, 1996, J FINANC ECON, V41, P75, DOI 10.1016/0304-405X(95)00854-8
+   WEINBAUM D, 2001, INVESTOR HETEROGENEI, V0, P0
+   Xue X, 1991, THESIS, V0, P0
+NR 28
+TC 7
+Z9 9
+U1 0
+U2 2
+PU ELSEVIER
+PI AMSTERDAM
+PA RADARWEG 29, 1043 NX AMSTERDAM, NETHERLANDS
+SN 0165-1889
+EI 1879-1743
+J9 J ECON DYN CONTROL
+JI J. Econ. Dyn. Control
+PD SEP 15
+PY 2005
+VL 29
+IS 9
+BP 1547
+EP 1576
+DI 10.1016/j.jedc.2004.09.002
+PG 30
+WC Economics
+SC Business & Economics
+GA 959LV
+UT WOS:000231520100004
+DA 2025-12-31
+ER
+

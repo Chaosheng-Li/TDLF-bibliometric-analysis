@@ -1,0 +1,32 @@
+
+Ranked Terms
+Note: Clusters with ... means that the data is too sparse to select meaningful features.
+#0: deep learning; sentiment analysis; bitcoin trading; bitcoin price forecasting; financial news | machine learning; artificial intelligence; technical analysis; fundamental analysis; generic algorithms
+learning; deep; analysis; forecasting; price network; neural; graph; detection; anomaly
+
+#1: deep reinforcement learning; quantitative finance; proximal policy optimization; technical indicators; stock market trading | reinforcement learning; stock selection; neural network; multiple agents; td algorithm
+learning; reinforcement; trading; algorithmic; recurrent deep; optimization; policy; finance; quantitative
+
+#2: markov chain monte carlo; state-space models; regime switching; kalman filter; nelson-siegel model | stochastic volatility; particle smoothing; bayesian smoothing; particle filter; penalized m-estimation
+model; space; state; bayesian; risk particle; monte; carlo; learning; mixture
+
+#3: option pricing; partial integro-differential equations; compact difference methods; jump-diffusion models; convergence rates | stochastic volatility; black-scholes model; optimal investment; incomplete markets; martingale method
+model; options; american; european; number process; regime-switching; annuity; mortality; poisson
+
+#4: deep learning; index tracking; index replication; deep autoencoder; sensitivity analysis | volatility forecasting; kalman filter; particle filter; stochastic volatility model; sensitivity analysis
+model; volatility; forecasting; filter; particle learning; deep; index; autoencoder; tracking
+
+#5: diffusion model; stochastic volatility; stochastic differential equation; nonlinear time series; model validation | market microstructure noise; non-synchronous trading; two-time scale estimator; stationary bootstrap; high-frequency data
+markov; density; series; hidden; estimate function; exponential; vasicek; characteristic; jumps
+
+#6: risk management; jump diffusion models; importance sampling; quick simulation; levy processes | deep learning; decision support systems; credit scoring; performance measurement; uncertainty estimation
+pricing; stochastic; measure; american; game prediction; bankruptcy; text; predictive; companies
+
+#7: deep learning; volatility forecasting; neural network; systemic risk; adaptive noise | financial contagion; asset pricing; state-space modeling; equity risk premium; investor attention
+prediction; mechanism; microstructure; trend; high-frequency decomposition; trend; empirical; seasonal; extended
+
+#8: high-frequency data; deep learning; limit order book; price formation; financial econometrics | kalman filter; garch models; stochastic regressors; gaussian models; dynamic linear models
+model; stochastic; dynamic; linear; conditionally learning; limit; machine; intraday; non-synchronous
+
+#9: topological data analysis; persistent homology; regime shifts; investment strategy; time-varying graphs | early warning signal; critical transition; correlation tests; complex system; financial crises
+critical; signal; transition; system; correlation graph; econophysics; minimal; filtered; spanning

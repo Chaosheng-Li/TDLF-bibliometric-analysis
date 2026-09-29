@@ -1,0 +1,41 @@
+Long memory version of stochastic volatility jump-diffusion model with stochastic intensity
+Asymmetric Reinforcement Learning and Conditioned Responses During the 2007-2009 Global Financial Crisis: Evidence from Taiwan
+Machine Learning vs. Economic Restrictions: Evidence from Stock Return Predictability
+FIRE SALES FORENSICS: MEASURING ENDOGENOUS RISK
+A Gated Recurrent Unit Approach to Bitcoin Price Prediction
+Volatility and value-at-risk forecasting using BERT and transformer models incorporating investors' textual sentiments
+Intelligent cryptocurrency trading system using integrated AdaBoost-LSTM with market turbulence knowledge
+Improving financial distress prediction using textual sentiment of annual reports
+Do they recall their past? CEOs' liquidity policies across firms as they switch jobs
+Statistical analysis and applications of financial network data in the era of digital intelligence
+The GSO-Deep Learning-based Financial Risk Management System for Rural Economic Development Organization
+Forecasting Bitcoin Volatility Spikes From Whale Transactions and CryptoQuant Data Using Synthesizer Transformer Models
+Forecasting cryptocurrency volatility: a novel framework based on the evolving multiscale graph neural network
+Attention-enhanced graph neural network for financial distress and bankruptcy risk prediction
+Bitcoin Research in Business and Economics: A Bibliometric and Topic Modeling Review
+GLAD: Global-Local Approach; Disentanglement Learning for Financial Market Prediction
+Integrated variance of irregularly spaced high-frequency data: A state space approach based on pre-averaging
+Topological tail dependence: Evidence from forecasting realized volatility
+A hybrid deep learning model for cryptocurrency returns forecasting: Comparison of the performance of financial markets and impact of external variables
+Patch-tLSTM: A multi-step prediction model for precious metal futures with high accuracy
+More hedging instruments may destabilize markets
+EMAT: Enhanced Multi-Aspect Attention Transformer for Financial Time Series Forecasting
+Novel forecasting of white maize futures volatility: a hybrid GARCH-based bi-directional LSTM model
+Bayesian Tail Risk Interdependence Using Quantile Regression
+Deep learning for finance: deep portfolios
+Prediction of the Stock Market From Linguistic Phrases: A Deep Neural Network Approach
+Financial contagion risk and the stochastic discount factor
+Slow diffusion of information and price momentum in stocks: Evidence from options markets
+Volatility Forecasting for High-Frequency Financial Data Based on Web Search Index and Deep Learning Model
+Cross-market volatility forecasting with attention-based spatial-temporal graph convolutional networks
+Does inclusion of GARCH variance in deep learning models improve financial contagion prediction?
+Sentiment-aware jump forecasting
+Large volatility matrix estimation with factor-based diffusion model for high-frequency financial data
+STATE DEPENDENCE OF AGGREGATED RISK AVERSION: EVIDENCE FOR THE GERMAN STOCK MARKET
+Attentive gated graph sequence neural network-based time-series information fusion for financial trading
+Causality analysis of COVID-19-induced crashes in stock and commodity markets: A topological perspective
+DEEP NEURAL NETWORKS METHODS FOR ESTIMATING MARKET MICROSTRUCTURE AND SPECULATIVE ATTACKS MODELS: THE CASE OF GOVERNMENT BOND MARKET
+Modeling and forecasting aggregate stock market volatility in unstable environments using mixture innovation regressions
+Forecasting the S&P 500 Index Using Mathematical-Based Sentiment Analysis and Deep Learning Models: A FinBERT Transformer Model and LSTM
+Bootstrapping integrated covariance matrix estimators in noisy jump-diffusion models with non-synchronous trading
+Is the diurnal pattern sufficient to explain intraday variation in volatility? A nonparametric assessment

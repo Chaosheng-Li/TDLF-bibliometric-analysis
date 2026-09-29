@@ -1,0 +1,26 @@
+To learn or not to learn? Evaluating autonomous, adaptive, automated traders in cryptocurrencies financial bubbles
+A New Hybrid VMD-ICSS-BiGRU Approach for Gold Futures Price Forecasting and Algorithmic Trading
+A Gated Recurrent Unit Approach to Bitcoin Price Prediction
+An investor sentiment reward-based trading system using Gaussian inverse reinforcement learning algorithm
+Deep hedging of long-term financial derivatives
+Can deep learning predict risky retail investors? A case study in financial risk behavior forecasting
+A graph neural network-based stock forecasting method utilizing multi-source heterogeneous data fusion
+Forecasting the overnight return direction of stock market index combining global market indices: A multiple-branch deep learning approach
+Machine Learning for Financial Risk Management: A Survey
+Renewable energy stocks forecast using Twitter investor sentiment and deep learning
+A graph-based approach to multi-source heterogeneous information fusion in stock market
+On stock volatility forecasting based on text mining and deep learning under high-frequency data
+Deep learning in predicting cryptocurrency volatility
+Interpretable Stock Anomaly Detection Based on Spatio-Temporal Relation Networks With Genetic Algorithm
+A parallel multi-module deep reinforcement learning algorithm for stock trading
+Option pricing under sub-mixed fractional Brownian motion based on time-varying implied volatility using intelligent algorithms
+Incorporating textual and management factors into financial distress prediction: A comparative study of machine learning methods
+Diversity-driven knowledge distillation for financial trading using Deep Reinforcement Learning
+A synchronous deep reinforcement learning model for automated multi-stock trading
+Language sentiment in fundamental and noise trading: evidence from crude oil
+Deep learning and time series-to-image encoding for financial forecasting
+The role of text-extracted investor sentiment in Chinese stock price prediction with the enhancement of deep learning
+A Review on Recent Advancements in FOREX Currency Prediction
+Probability rough set and portfolio optimization integrated three-way predication decisions approach to stock price
+Time-driven feature-aware jointly deep reinforcement learning for financial signal representation and algorithmic trading
+Volatility forecasts of stock index futures in China and the US-A hybrid LSTM approach

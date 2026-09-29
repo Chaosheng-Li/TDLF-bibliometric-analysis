@@ -1,0 +1,65 @@
+A taxonomy of literature reviews and experimental study of deepreinforcement learning in portfolio management
+A hybrid decision support system for adaptive trading strategies: Combining a rule-based expert system with a deep reinforcement learning strategy
+Deep reinforcement learning applied to statistical arbitrage investment strategy on cryptomarket
+Structural break-aware pairs trading strategy using deep reinforcement learning
+Sentiment-Aware Portfolio Optimization: CVaR-Based Diversification With Deep Reinforcement Learning
+Adaptive Algorithm for Selecting the Optimal Trading Strategy Based on Reinforcement Learning for Managing a Hedge Fund
+Deep reinforcement learning-driven intelligent portfolio management with green computing: Sustainable portfolio optimization and management
+Strategy allocation for financial trading using competitive reinforcement learning and fuzzy logic
+Offline Reinforcement Learning for Automated Stock Trading
+Stock Market Prediction Using Machine Learning and Deep Learning Techniques: A Review
+Deep reinforcement learning applied to a sparse-reward trading environment with intraday data
+Unleashing the Power of Multi-Agent Reinforcement Learning for Algorithmic Trading in the Digital Financial Frontier and Enterprise Information Systems
+A Deep Learning Approach to Goal-Based Portfolio Optimization in Non-Stationary Environments
+Neural Titans in market prediction: MLP, transformer, & hybrid models across G-7 and China
+Algorithmic trading using continuous action space deep reinforcement learning
+Pro Trader RL: Reinforcement learning framework for generating trading knowledge by mimicking the decision-making patterns of professional traders
+Dynamic portfolio rebalancing through reinforcement learning
+A multi-agent deep reinforcement learning framework for algorithmic trading in financial markets
+Reinforcement learning-based portfolio optimization with deterministic state transition
+Deep reinforcement learning stock market trading, utilizing a CNN with candlestick images
+Reinforcement Learning for Quantitative Trading
+An end-to-end deep learning framework for the portfolio optimization with stop-loss orders
+The Simulation Framework for Automated Trading Algorithms on Capital Markets
+News-driven stock market index prediction based on trellis network and sentiment attention mechanism
+Multiagent-based deep reinforcement learning framework for multi-asset adaptive trading and portfolio management
+Designing a cryptocurrency trading system with deep reinforcement learning utilizing LSTM neural networks and XGBoost feature selection
+A multi-agent reinforcement learning framework for optimizing financial trading strategies based on TimesNet
+MDF-DMC: A stock prediction model combining multi-view stock data features with dynamic market correlation information
+Attention-based CNN-LSTM for high-frequency multiple cryptocurrency trend prediction
+Integrating fuzzy logic with deep reinforcement learning to enhance financial portfolio management
+Towards Economic Sustainability: A Comprehensive Review of Artificial Intelligence and Machine Learning Techniques in Improving the Accuracy of Stock Market Movements
+Enhancing deep reinforcement learning for stock trading: a reward shaping approach via expert feedback
+Reinforcement learning with temporal and variable dependency-aware transformer for stock trading optimization
+A Deep Reinforcement Learning Framework for Strategic Indian NIFTY 50 Index Trading
+A convolutional deep reinforcement learning architecture for an emerging stock market analysis
+Security and Privacy Issues in Deep Reinforcement Learning: Threats and Countermeasures
+Forecasting Digital Asset Return: An Application of Machine Learning Model
+Online portfolio management via deep reinforcement learning with high-frequency data
+Deep reinforcement learning with positional context for intraday trading
+Deep LSTM and LSTM-Attention Q-learning based reinforcement learning in oil and gas sector prediction
+A novel deep reinforcement learning framework with BiLSTM-Attention networks for algorithmic trading
+Transaction-aware inverse reinforcement learning for trading in stock markets
+Integrating Deep Learning and Reinforcement Learning for Enhanced Financial Risk Forecasting in Supply Chain Management
+A Deep Reinforcement Learning-Based Decision Support System for Automated Stock Market Trading
+Deep learning in the stock market-a systematic survey of practice, backtesting, and applications
+Algorithmic trading strategy based on the integration of deep learning models and natural language processing
+Lamformer: LSTM-enhanced agent attention and mixture-of-experts transformer for efficient stock price prediction
+Smart Tangency Portfolio: Deep Reinforcement Learning for Dynamic Rebalancing and Risk-Return Trade-Off
+A Novel RMS-Driven Deep Reinforcement Learning for Optimized Portfolio Management in Stock Trading
+Deep Reinforcement Learning Robots for Algorithmic Trading: Considering Stock Market Conditions and US Interest Rates
+Deep reinforcement learning for financial trading using multi-modal features
+KAN-LSTM: A New LSTM Structure for the Prediction of the Stock Market
+A robust machine learning framework for stock market classification
+Agree to Disagree: Personalized Temporal Embedding and Routing for Stock Forecast
+A multi-agent virtual market model for generalization in reinforcement learning based trading strategies
+Automated Trading Framework Using LLM-Driven Features and Deep Reinforcement Learning
+Optimizing Automated Trading Systems with Deep Reinforcement Learning
+A Self-Rewarding Mechanism in Deep Reinforcement Learning for Trading Strategy Optimization
+Multi-type data fusion framework based on deep reinforcement learning for algorithmic trading
+From deterministic to stochastic: an interpretable stochastic model-free reinforcement learning framework for portfolio optimization
+Explainable post hoc portfolio management financial policy of a Deep Reinforcement Learning agent
+Portfolio management using online reinforcement learning with adaptive exploration and Multi-task self-supervised representation
+A Mean-VaR Based Deep Reinforcement Learning Framework for Practical Algorithmic Trading
+A Portfolio Model with Risk Control Policy Based on Deep Reinforcement Learning
+A novel data-efficient double deep Q-network framework for intelligent financial portfolio management

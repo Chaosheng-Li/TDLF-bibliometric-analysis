@@ -1,0 +1,329 @@
+PT J
+AU Glickman, ME
+AF Glickman, ME
+TI Dynamic paired comparison models with stochastic variances
+SO JOURNAL OF APPLIED STATISTICS
+LA English
+DT Article
+ID generalized linear-models; gibbs sampling approach; bradley-terry model; volatility models; bayesian-analysis; chess
+AB In paired comparison experiments, the worth or merit of a unit is measured through comparisons against other units. When paired comparison outcomes are collected over time and the merits of the units may be changing, it is often convenient to assume the data follow a non-linear state-space model. Typical paired comparison state-space models that assume a fixed (unknown) autoregressive variance do not account for the possibility of sudden changes in the merits. This is a particular concern, for example, in modeling cognitive ability in human development; cognitive ability not only changes over time, but also can change abruptly. We explore a particular extension of conventional state-space models for paired comparison data that allows the state variance to vary stochastically. Models of this type have recently been developed and applied to modeling financial data, but can be seen to have applicability in modeling paired comparison data. A filtering algorithm is also derived that can be used in place of likelihood-based computations when the number of objects being compared is large. Applications to National Football League game outcomes and chess game outcomes are presented.
+C1 Boston Univ, Dept Math & Stat, Boston, MA 02215 USA.
+C3 Boston University
+RP Glickman, ME (corresponding author), Boston Univ, Dept Math & Stat, 111 Cummington St, Boston, MA 02215 USA.
+CR Unknown -, 1992, BAYESIAN STAT, V0, P0
+   Bradley RA, 1984, NONPARAMETRIC METHODS, V4, P299, DOI 10.1016/S0169-7161(84)04016-5
+   BRADLEY RA, 1952, BIOMETRIKA, V39, P324, DOI 10.2307/2334029
+   Capobianco E, 1996, APPL STOCH MODEL D A, V12, P265, DOI 10.1002/(SICI)1099-0747(199612)12:4<265::AID-ASM288>3.0.CO;2-N
+   CRITCHLOW DE, 1991, PSYCHOMETRIKA, V56, P517, DOI 10.1007/BF02294488
+   David HA, 1988, METHOD PAIRED COMP, V0, P0
+   DAVIDSON RR, 1977, BIOMETRICS, V33, P693, DOI 10.2307/2529467
+   DAVIDSON RR, 1970, J AM STAT ASSOC, V65, P317, DOI 10.2307/2283595
+   Elo AE, 1978, THE RATING OF CHESSPLAYERS, V0, P0
+   FAHRMEIR L, 1994, J AM STAT ASSOC, V89, P1438, DOI 10.2307/2291005
+   Glickman ME, 1993, PAIRED COMPARISION MODELS WITH TIME-VARYING PARAMETERS, V0, P0, DOI 10.1080/02664760120059219
+   Glickman ME, 1998, J AM STAT ASSOC, V93, P25, DOI 10.2307/2669599
+   Glickman ME, 1999, J ROY STAT SOC C-APP, V48, P377, DOI 10.1111/1467-9876.00159
+   GREENBERG M G, 1965, PSYCHOL BULL, V64, P108, DOI 10.1037/h0022283
+   HARVILLE D, 1980, J AM STAT ASSOC, V75, P516, DOI 10.2307/2287640
+   Henery RJ, 1992, STATISTICIAN, V41, P559
+   JACQUIER E, 1994, J BUS ECON STAT, V12, P371, DOI 10.2307/1392199
+   JOE H, 1990, APPL STAT-J ROY ST C, V39, P85
+   KARIM MR, 1992, BIOMETRICS, V48, P631, DOI 10.2307/2532317
+   Keene R, 1989, WARRIORS MIND QUEST, V0, P0
+   KNORRHELD L, 2000, IN PRESS STATISTICIA, V0, P0
+   Mosteller F, 1951, PSYCHOMETRIKA, V16, P3
+   Oh MS, 1997, COMPUTATION STAT, V12, P431
+   RAO PV, 1967, J AM STAT ASSOC, V62, P194, DOI 10.2307/2282923
+   Shephard N, 1997, BIOMETRIKA, V84, P653, DOI 10.1093/biomet/84.3.653
+   Simonton DK, 1997, PSYCHOL REV, V104, P66, DOI 10.1037/0033-295X.104.1.66
+   STERN H, 1992, MATH SOC SCI, V23, P103, DOI 10.1016/0165-4896(92)90040-C
+   Thurstone LL, 1927, PSYCHOL REV, V34, P273, DOI 10.1037/h0070288
+   Uhlig H, 1997, ECONOMETRICA, V65, P59, DOI 10.2307/2171813
+   ZEGER SL, 1991, J AM STAT ASSOC, V86, P79, DOI 10.2307/2289717
+NR 30
+TC 70
+Z9 79
+U1 0
+U2 7
+PU CARFAX PUBLISHING
+PI BASINGSTOKE
+PA RANKINE RD, BASINGSTOKE RG24 8PR, HANTS, ENGLAND
+SN 0266-4763
+EI 
+J9 J APPL STAT
+JI J. Appl. Stat.
+PD AUG 15
+PY 2001
+VL 28
+IS 6
+BP 673
+EP 689
+DI 10.1080/02664760120059219
+PG 17
+WC Statistics & Probability
+SC Mathematics
+GA 459UF
+UT WOS:000170269300003
+DA 2025-12-31
+ER
+
+PT J
+AU Davydov, D
+   Linetsky, V
+AF Davydov, D
+   Linetsky, V
+TI Pricing and hedging path-dependent options under the CEV process
+SO MANAGEMENT SCIENCE
+LA English
+DT Article
+DE path-dependent options; barrier options; lookback options; diffusion processes; CEV model; generalized Bessel process; radial Ornstein-Uhlenbeck process
+ID constant elasticity; diffusion-processes; american
+AB Much of the work on path-dependent options assumes that the underlying asset price follows geometric Brownian motion with constant volatility This paper uses a more general assumption for the asset price process that provides a better fit to the empirical observations. We use the so-called constant elasticity of variance (CEV) diffusion model where the volatility is a function of the underlying asset price. We derive analytical formulae for the prices of important types of path-dependent options under this assumption. We demonstrate that the prices of options, which depend on extrema, such as barrier and lookback options, can be much more sensitive to the specification of the underlying price process than standard call and put options and show that a financial institution that uses the standard geometric Brownian motion assumption is exposed to significant pricing and hedging errors when dealing in path-dependent options.
+C1 UBS Warburg, Equ Quantitat Strat, Stamford, CT 06901 USA.
+   Northwestern Univ, Robert R McCormick Sch Engn & Appl Sci, Dept Ind Engn & Management Sci, Evanston, IL 60208 USA.
+C3 Northwestern University
+RP Davydov, D (corresponding author), UBS Warburg, Equ Quantitat Strat, 677 Washington Blvd, Stamford, CT 06901 USA.
+EM dmitry.davydov@ubsw.com; linetsky@iems.nwu.edu
+CR Abate J, 1995, ORSA JOURNAL ON COMPUTING, V7, P36, DOI 10.1287/ijoc.7.1.36
+   Abramowitz M, 1970, HDB MATH FUNCTIONS, V0, P0
+   Andersen LBG, 1998, VOLATILITY SKEWS AND EXTENSIONS OF THE LIBOR MARKET MODEL, V0, P0
+   BLACK F, 1973, J POLIT ECON, V81, P637, DOI 10.1086/260062
+   Borodin AndreiNPaavo Salminen, 2012, HDB BROWNIAN MOTION, V0, P0, DOI 10.1007/978-3-0348-7652-0
+   BOYLE PP, 1999, J FINANCIAL QUANT AN, V34, P0
+   BROADIE M, 1995, REV FINANC STUD, V8, P161, DOI 10.1093/rfs/8.1.161
+   Carr P, 1998, REV FINANC STUD, V11, P597, DOI 10.1093/rfs/11.3.597
+   CARR P, 1999, J DERIVATIVES SPR, V0, P57
+   CONZE A, 1991, J FINANC, V46, P1893
+   COX J, 1975, NOTES OPTION PRINCIN, V1, P0
+   Cox JC, 1975, J PORTFOLIO MANAGEME, V22, P15, DOI 10.3905/jpm.1996.015
+   COX JC, 1976, J FINANC ECON, V3, P145, DOI 10.1016/0304-405X(76)90023-4
+   DAVYDOV D, 2000, PRICING OPTIONS SCAL, V0, P0
+   DAVYDOV D, 2000, IN PRESS J COMPUTATI, V0, P0
+   DERMAN E, 1996, DERIVATIVES Q 1 WIN, V0, P0
+   DERMAN E, 1997, DERIVATIVES Q 2 SPR, V0, P0
+   Duffie D, 2001, DYNAMIC ASSET PRICING THEORY, VThird, P0
+   EIE B, 1983, SCAND J STAT, V10, P247
+   Elworthy KD, 1999, PROBAB THEORY REL, V115, P325, DOI 10.1007/s004400050240
+   EMANUEL DC, 1982, J FINANC QUANT ANAL, V17, P533, DOI 10.2307/2330906
+   FELLER W, 1951, ANN MATH, V54, P173, DOI 10.2307/1969318
+   Fu M, 1999, J COMPUT FINANC, V2, P49, DOI 10.21314/jcf.1998.024
+   GEMAN H, 1995, MATH FINANC, V6, P365
+   Geman H, 1993, MATH FINANC, V3, P349, DOI 10.1111/J.1467-9965.1993.TB00092.X
+   GIORNO V, 1986, J APPL PROBAB, V23, P398, DOI 10.2307/3214182
+   GOINGJAESCHKE A, 1999, SURVEY SOME GEN BESS, V0, P0
+   GOLDENBERG DH, 1991, J FINANC ECON, V29, P3, DOI 10.1016/0304-405X(91)90011-8
+   GOLDMAN MB, 1979, J FINANC, V34, P401, DOI 10.2307/2326979
+   GOLDMAN MB, 1979, J FINANC, V34, P1111, DOI 10.2307/2327238
+   Ingersoll JE, 1987, THEORY FINANCIAL DEC, V0, P0
+   Jackwerth JC, 1998, RECOVERING STOCHASTI, V0, P0
+   Karatzas I, 2004, BROWNIAN MOTION AND STOCHASTIC CALCULUS, V0, P0
+   Karlin Saumuel, 1981, A SECOND COURSE IN STOCHASTIC PROCESSES, V0, P0
+   Kunitomo N, 1992, MATH FINANC, V2, P275, DOI 10.1111/J.1467-9965.1992.TB00033.X
+   Linetsky V, 1999, MATH FINANC, V9, P55, DOI 10.1111/1467-9965.00063
+   MERTON RC, 1973, BELL J ECON, V4, P141, DOI 10.2307/3003143
+   Pelsser A, 2000, FINANC STOCH, V4, P95, DOI 10.1007/s007800050005
+   Prudnikov AP, 1986, INTEGRALS SERIES, V2, P0
+   Reiner E, 1991, RISK, V4, P28
+   REINER E, 1994, DER C TOR CAN, V0, P0
+   Revuz D, 1999, CONTINUOUS MARTINGAL, V0, P0
+   SCHRODER M, 1989, J FINANC, V44, P211, DOI 10.2307/2328285
+   SCHRODER M, 2000, IN PRESS J COMPUT FI, V0, P0
+   SHIGA T, 1973, Z WAHRSCHEINLICHKEIT, V27, P37, DOI 10.1007/BF00736006
+   SIN C, 1996, THESIS CORNELL U NEW, V0, P0
+   Slater LJ, 1960, CONFLUENT HYPERGEOME, V0, P0
+   SNYDER GL, 1969, FINANC ANAL J, V25, P93
+NR 48
+TC 241
+Z9 300
+U1 2
+U2 44
+PU INFORMS
+PI CATONSVILLE
+PA 5521 RESEARCH PARK DR, SUITE 200, CATONSVILLE, MD 21228 USA
+SN 0025-1909
+EI 1526-5501
+J9 MANAGE SCI
+JI Manage. Sci.
+PD JUL 15
+PY 2001
+VL 47
+IS 7
+BP 949
+EP 965
+DI 10.1287/mnsc.47.7.949.9804
+PG 17
+WC Management; Operations Research & Management Science
+SC Business & Economics; Operations Research & Management Science
+GA 463KM
+UT WOS:000170475400005
+DA 2025-12-31
+ER
+
+PT J
+AU Campagnoli, P
+   Muliere, P
+   Petrone, S
+AF Campagnoli, P
+   Muliere, P
+   Petrone, S
+TI Generalized dynamic linear models for financial time series
+SO APPLIED STOCHASTIC MODELS IN BUSINESS AND INDUSTRY
+LA English
+DT Article
+DE dynamic linear models; conditionally Gaussian models; Kalman filter; stochastic regressors; stochastic volatility; GARCH models
+ID kalman filter; variance
+AB In this paper we consider a class of conditionally Gaussian state-space models and discuss how they can provide a flexible and fairly simple tool for modelling financial time series, even in the presence of different components in the series, or of stochastic volatility. Estimation can be computed by recursive equations, which provide the optimal solution under rather mild assumptions. In more general models, the filter equations can still provide approximate solutions. We also discuss how some models traditionally employed for analysing financial time series can be regarded in the state-space framework. Finally, we illustrate the models in two examples to real data sets. Copyright (C) 2001 John Wiley & Sons, Ltd.
+C1 Univ Pavia, Dipartimento Matemat, I-27100 Pavia, Italy.
+   Univ L Bocconi, Ist Metodi Quantitat, I-30126 Milan, Italy.
+   Univ Insubria, Fac Econ, I-21100 Varese, Italy.
+C3 University of Pavia; Bocconi University; University of Insubria
+RP Campagnoli, P (corresponding author), Univ Pavia, Dipartimento Matemat, Via Ferrata 1, I-27100 Pavia, Italy.
+CR Ameen J, 1985, BAYESIAN STAT, V2, P271
+   Anderson BDO, 1979, OPTIMAL FILTERING, V1, P0
+   Ball CA, 1999, J FINANC, V54, P2339, DOI 10.1111/0022-1082.00191
+   BOLLERSLEV T, 1986, J ECONOMETRICS, V31, P307, DOI 10.1016/0304-4076(86)90063-1
+   DOLCINO F, 1998, COLLANA STUDI CREDIT, V0, P0
+   Durbin J, 2000, J ROY STAT SOC B, V62, P3, DOI 10.1111/1467-9868.00218
+   FRUHWIRTHSCHNATTER S, 1994, STAT COMPUT, V4, P259, DOI 10.1007/BF00156749
+   HARVEY A, 1994, REV ECON STUD, V61, P247, DOI 10.2307/2297980
+   JACQUIER E, 1994, J BUS ECON STAT, V12, P371, DOI 10.2307/1392199
+   LIPTSER RS, 1972, P 6 BERKLEY S MATH S, V0, P389
+   Mills TC, 1993, EC MODELLING FINANCI, V0, P0
+   RUSKEEPAA H, 1981, INT J SYST SCI, V12, P949, DOI 10.1080/00207728108963795
+   RUSKEEPAA H, 1985, COMMUN STAT-THEOR M, V14, P2919, DOI 10.1080/03610928508829086
+   SMITH AFM, 1983, BIOMETRICS, V39, P867, DOI 10.2307/2531322
+   Taylor S, 1986, MODELLING FINANCIAL, V0, P0
+   West M, 1997, BAYESIAN FORECASTING AND DYNAMIC MODELS, V2nd, P0
+   ZEHNWIRTH B, 1988, J AM STAT ASSOC, V83, P164, DOI 10.2307/2288936
+NR 17
+TC 2
+Z9 2
+U1 0
+U2 4
+PU JOHN WILEY & SONS LTD
+PI W SUSSEX
+PA BAFFINS LANE CHICHESTER, W SUSSEX PO19 1UD, ENGLAND
+SN 1524-1904
+EI 
+J9 APPL STOCH MODEL BUS
+JI Appl. Stoch. Models. Bus. Ind.
+PD JAN-MAR 15
+PY 2001
+VL 17
+IS 1
+BP 27
+EP 39
+DI 10.1002/asmb.428
+PG 13
+WC Operations Research & Management Science; Mathematics, Interdisciplinary Applications; Statistics & Probability
+SC Operations Research & Management Science; Mathematics
+GA 409HZ
+UT WOS:000167379400004
+DA 2026-01-04
+ER
+
+PT J
+AU Moody, J
+   Saffell, M
+AF Moody, J
+   Saffell, M
+TI Learning to trade via direct reinforcement
+SO IEEE TRANSACTIONS ON NEURAL NETWORKS
+LA English
+DT Article
+DE differential Sharpe ratio; direct reinforcement (DR); downside deviation; policy gradient; Q-learning; recurrent reinforcement learning; TD-learning; trading; risk; value function
+ID algorithms; risk; game
+AB We present methods for optimizing portfolios, asset allocations, and trading systems based on direct reinforcement (DR), In this approach, investment decision making is viewed as a stochastic control problem, and strategies are discovered directly. We present an adaptive algorithm called recurrent reinforcement learning (RRL) for discovering investment policies. The need to build forecasting models is eliminated, and better trading performance is obtained. The direct reinforcement approach differs from dynamic programming and reinforcement algorithms such as TD-learning and Q-learning, which attempt to estimate a value function for the control problem. We find that the RRL direct reinforcement framework enables a simpler problem representation, avoids Bellman's curse of dimensionality and offers compelling advantages in efficiency. We demonstrate how direct reinforcement can be used to optimize risk-adjusted investment returns (including the differential Sharpe ratio), while accounting for the effects of transaction costs. In extensive simulation work using real financial data, we find that our approach based on RRL produces better trading strategies than systems utilizing Q-Learning (a value function method). Real-world applications include an intra-daily currency trader and a monthly asset allocation system for the S&P 500 Stock Index and T-Bills.
+C1 Oregon Grad Inst Sci & Technol, Computat Finance Program, Beaverton, OR 97006 USA.
+   Nonlinear Predict Syst, Beaverton, OR 97006 USA.
+RP Moody, J (corresponding author), Oregon Grad Inst Sci & Technol, Computat Finance Program, Beaverton, OR 97006 USA.
+CR A Clark WESLEY, 1955, P MARCH 1 3 1955 W J, V0, PP86, DOI 10.1145/1455292.1455309
+   Baird L, 1999, ADV NEUR IN, V11, P968
+   Baird LC, 1993, WLTR931146, V0, P0
+   BARTO AG, 1983, IEEE T SYST MAN CYB, V13, P834, DOI 10.1109/TSMC.1983.6313077
+   Baxter J, 1999, DIRECT GRADIENT-BASED REINFORCEMENT LEARNING: I. GRADIENT ESTIMATION ALGORITHMS, V0, P0
+   Bellman Richard, 2010, DYNAMIC PROGRAMMING, V0, P0
+   Bertsekas DP, 1996, NEURO-DYNAMIC PROGRAMMING, V5, P0
+   BREEDEN DT, 1987, FINANCE, V0, P180
+   Brennan MJ, 1997, J ECON DYN CONTROL, V21, P1377, DOI 10.1016/S0165-1889(97)00031-6
+   BROWN TX, 2000, P NIPS 2000 WORKSH R, V0, P0
+   CLARK WA, 1954, IEEE T INFORM THEORY, V4, P76
+   Cornish Hellaby Watkins ChristopherJohn, 1989, LEARNING DELAYED REW, V0, P0
+   COX JC, 1979, J FINANC ECON, V7, P229, DOI 10.1016/0304-405X(79)90015-1
+   Crites RH, 1996, ADV NEUR IN, V8, P1017
+   DUFFIE D, 1996, DYNAMIC ASSET PROCIN, V0, P0
+   Duffie D, 1988, SECURITY MARKETS STOCHASTIC MODELS, V0, P0
+   ELTON EJ, 1971, J FINANCE, V26, P0
+   GRUDIC GZ, 2000, P 17 INT C MACH LEAR, V0, P0
+   Konda VR, 2000, ADV NEUR IN, V12, P1008
+   LONGSTAFF F, 2001, IN PRESS REV FINANCI, V0, P0
+   Marbach P, 2001, IEEE T AUTOMAT CONTR, V46, P191, DOI 10.1109/9.905687
+   MARBACH P, 1998, P IEEE C DEC CONTR, V0, P0
+   Markowitz HarryM, 1968, PORTFOLIO SELECTION: EFFICIENT DIVERSIFICATION OF INVESTMENTS, V16, P0
+   Merton RC, 1990, CONTINUOUS TIME FINA, V0, P0
+   MERTON RC, 1971, J ECON THEORY, V3, P373, DOI 10.1016/0022-0531(71)90038-X
+   MERTON RC, 1969, REV ECON STAT, V51, P247, DOI 10.2307/1926560
+   Moody J, 2000, COMPUTATIONAL FINANCE 1999, V0, P403
+   Moody J, 1997, DECISION TECHNOLOGIES FOR FINANCIAL ENGINEERING. PROCEEDINGS OF THE FOURTH INTERNATIONAL CONFERENCE ON NEURAL NETWORKS IN THE CAPITAL MARKETS (NNCM96), V0, P23
+   Moody J, 1998, J FORECASTING, V17, P441, DOI 10.1002/(SICI)1099-131X(1998090)17:5/6<441::AID-FOR707>3.3.CO;2-R
+   Moody J, 1999, ADV NEUR IN, V11, P917
+   MOORE AW, 1993, MACH LEARN, V13, P103, DOI 10.1007/BF00993104
+   Narendra K S, 1990, IEEE TRANS NEURAL NETW, V1, P4, DOI 10.1109/72.80202
+   Nawrocki DN, 1992, INTERNATIONAL REVIEW OF FINANCIAL ANALYSIS, V3, P195, DOI 10.1016/1057-5219(92)90004-N
+   Nawrocki DavidN, 1999, JOURNAL OF INVESTING, V8, P9, DOI 10.3905/JOI.1999.319365
+   NAWROCKI DN, 1991, APPL ECON, V23, P465, DOI 10.1080/00036849100000021
+   Neuneier R, 1996, ADV NEUR IN, V8, P952
+   Neuneier R, 1999, ADV NEUR IN, V11, P1031
+   Peng Jing, 1993, ADAPT BEHAV, V1, P437
+   RUMELHART DE, 1986, PARALLEL DISTRIBUTED, V0, P310
+   SAMUEL AL, 1967, IBM J RES DEV, V11, P601, DOI 10.1147/rd.116.0601
+   SAMUEL AL, 1959, IBM J RES DEV, V3, P211, DOI 10.1147/rd.441.0206
+   SHARPE WF, 1966, J BUS, V39, P119, DOI 10.1086/294846
+   SORTINO FA, 1991, J PORTFOLIO MANAGE, V17, P27, DOI 10.3905/jpm.1991.409343
+   Sortino FA, 1996, J PORTFOLIO MANAGE, V22, P35, DOI 10.3905/jpm.1996.35
+   Sutton RS, 1988, MACHINE LEARNING, V3, P9, DOI 10.1023/A:1022633531479
+   Sutton RS, 1997, REINFORCEMENT LEARNING: AN INTRODUCTION, V0, P0
+   Sutton RichardStuart, 1984, TEMPORAL CREDIT ASSI, V0, P0
+   Sutton RS, 2000, ADV NEUR IN, V12, P1057
+   TESAURO G, 1994, NEURAL COMPUT, V6, P215, DOI 10.1162/neco.1994.6.2.215
+   TESAURO G, 1995, COMMUN ACM, V38, P58, DOI 10.1145/203330.203343
+   Tsitsiklis JN, 1999, IEEE T AUTOMAT CONTR, V44, P1840, DOI 10.1109/9.793723
+   Tsitsiklis JN, 2001, IEEE T NEURAL NETWOR, V12, P694, DOI 10.1109/72.935083
+   Van Roy B, 2000, COMPUTATIONAL FINANCE 1999, V0, P447
+   WATKINS CJCH, 1992, MACH LEARN, V8, P279, DOI 10.1007/BF00992698
+   WERBOS PJ, 1990, P IEEE, V78, P1550, DOI 10.1109/5.58337
+   WHITE DA, 1992, HDB INTELLIGENT CONT, V0, P65
+   WHITE H, 1996, COMMUNICATION, V0, P0
+   Widrow B, 1960, IRE WESCON CONV. REC., V0, P96
+   WILLIAMS RJ, 1992, MACH LEARN, V8, P229, DOI 10.1007/BF00992696
+   WILLIAMS RJ, 1988, UCCS883, V0, P0
+   Williams RJ, 1989, NEURAL COMPUT, V1, P270, DOI 10.1162/neco.1989.1.2.270
+   Zhang W, 1996, ADV NEUR IN, V8, P1024
+NR 62
+TC 281
+Z9 341
+U1 1
+U2 92
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1045-9227
+EI 1941-0093
+J9 IEEE T NEURAL NETWOR
+JI IEEE Trans. Neural Netw.
+PD JUL 15
+PY 2001
+VL 12
+IS 4
+BP 875
+EP 889
+DI 10.1109/72.935097
+PG 15
+WC Computer Science, Artificial Intelligence; Computer Science, Hardware & Architecture; Computer Science, Theory & Methods; Engineering, Electrical & Electronic
+SC Computer Science; Engineering
+GA 452TL
+UT WOS:000169875300019
+PM 18249919
+DA 2026-01-03
+ER
+

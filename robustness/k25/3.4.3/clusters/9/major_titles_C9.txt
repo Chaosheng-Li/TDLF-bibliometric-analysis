@@ -1,0 +1,15 @@
+Mapping the Intellectual Structure of Computational Risk Analytics in Banking and Finance: A Bibliometric and Thematic Evolution Study
+Intelligent cryptocurrency trading system using integrated AdaBoost-LSTM with market turbulence knowledge
+Firm Default Prediction by GNN with Gravity-Model Informed Neighbor Node Sampling
+Forecasting Bitcoin Volatility Spikes From Whale Transactions and CryptoQuant Data Using Synthesizer Transformer Models
+An Advisor Neural Network framework using LSTM-based Informative Stock Analysis
+Empowered stock market forecasting using Large Language Model on social media content
+Bankruptcy prediction for SMEs: The role of relational network and information propagation
+Bitcoin Research in Business and Economics: A Bibliometric and Topic Modeling Review
+A hybrid deep learning model for cryptocurrency returns forecasting: Comparison of the performance of financial markets and impact of external variables
+Natural Language Processing and Deep Learning for Bankruptcy Prediction: An End-to-End Architecture
+An intelligent stock trading system based on reinforcement learning
+Learning about tail risk: Machine learning and combination with regularization in market risk management
+Optimizing mean conditional value-at-risk portfolios through deep neural network stock prediction
+Profit-based uncertainty estimation with application to credit scoring
+Risk Forecasting Comparisons in Decentralized Finance: An Approach in Constant Product Market Makers

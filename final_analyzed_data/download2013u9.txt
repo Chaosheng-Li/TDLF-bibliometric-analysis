@@ -1,0 +1,745 @@
+PT J
+AU Witzany, J
+AF Witzany, Jiri
+TI ESTIMATING CORRELATED JUMPS AND STOCHASTIC VOLATILITIES
+SO PRAGUE ECONOMIC PAPERS
+LA English
+DT Article
+DE jump-diffusion; stochastic volatility; MCMC; Value at Risk; Monte Carlo
+AB We formulate a bivariate stochastic volatility jump-diffusion model with correlated jumps and volatilities. An MCMC Metropolis-Hastings sampling algorithm is proposed to estimate the model's parameters and latent state variables (jumps and stochastic volatilities) given observed returns. The methodology is successfully tested on several artificially generated bivariate time series and then on the two most important Czech domestic financial market time series of the FX (CZK/EUR) and stock (PX index) returns. Four bivariate models with and without jumps and/or stochastic volatility are compared using the deviance information criterion (DIC) confirming importance of incorporation of jumps and stochastic volatility into the model.
+C1 Univ Econ, CZ-13067 Prague 3, Czech Republic.
+C3 Prague University of Economics & Business
+RP Witzany, J (corresponding author), Univ Econ, Nam W Churchilla 4, CZ-13067 Prague 3, Czech Republic.
+EM jiri.witzany@vse.cz
+CR Asai M, 2006, ECONOMET REV, V25, P145, DOI 10.1080/07474930600713564
+   Cont Rama, 2004, FINANCIAL MATH SERIE, V0, P0
+   Eraker B, 2004, J FINANC, V59, P1367, DOI 10.1111/j.1540-6261.2004.00666.x
+   Eraker B, 2003, J FINANC, V58, P1269, DOI 10.1111/1540-6261.00566
+   HESTON SL, 1993, REV FINANC STUD, V6, P327, DOI 10.1093/rfs/6.2.327
+   Jacouier E, 1994, J BUS ECON STAT, V12, P69
+   Jacquier E, 2007, J ECONOMETRICS, V137, P615, DOI 10.1016/j.jeconom.2005.11.017
+   Johannes M, 1999, WORKING PAPER, V0, P13
+   Lynch SM, 2007, STAT SOC BEHAV SC, V0, PP1, DOI 10.1007/978-0-387-71265-9
+   Rachev ST, 2008, FJ FABOZZI SERIES, V0, P329
+   Shepherd N, 2004, STOCHASTIC VOLATILIT, V0, P534
+   Shreve SE, 2004, STOCHASTIC CALCULUS, V0, P550
+   Sopov B, 2010, 172000 IES FSV CHARL, V0, P21
+   Spiegelhalter DJ, 2002, J ROY STAT SOC B, V64, P583, DOI 10.1111/1467-9868.00353
+   Yu J, 2006, ECONOMET REV, V25, P361, DOI 10.1080/07474930600713465
+NR 15
+TC 12
+Z9 14
+U1 0
+U2 12
+PU UNIV ECONOMICS-PRAGUE
+PI PRAGUE 3
+PA OECONOMICA PUBL, NAM W CHIRCHILLA 4, PRAGUE 3, CZ-130 67, CZECH REPUBLIC
+SN 1210-0455
+EI 2336-730X
+J9 PRAGUE ECON PAP
+JI Prague Econ. Pap.
+PD JUN 15
+PY 2013
+VL 22
+IS 2
+BP 251
+EP 283
+DI 10.18267/j.pep.451
+PG 33
+WC Economics
+SC Business & Economics
+GA 185SJ
+UT WOS:000321990300007
+DA 2025-12-31
+ER
+
+PT J
+AU Ng, J
+   Forbes, CS
+   Martin, GM
+   McCabe, BPM
+AF Ng, Jason
+   Forbes, Catherine S.
+   Martin, Gael M.
+   McCabe, Brendan P. M.
+TI Non-parametric estimation of forecast distributions in non-Gaussian, non-linear state space models
+SO INTERNATIONAL JOURNAL OF FORECASTING
+LA English
+DT Article
+DE Probabilistic forecasting; Non-Gaussian time series; Grid-based filtering; Penalized likelihood; Subsampling; Realized volatility
+ID bootstrap prediction intervals; probabilistic forecasts; density forecasts; scoring rules; volatility
+AB The object of this paper is to produce non-parametric maximum likelihood estimates of forecast distributions in a general non-Gaussian, non-linear state space setting. The transition densities that define the evolution of the dynamic state process are represented in parametric form, but the conditional distribution of the non-Gaussian variable is estimated non-parametrically. The filtered and prediction distributions are estimated via a computationally efficient algorithm that exploits the functional relationship between the observed variable, the state variable and a measurement error with an invariant distribution. Simulation experiments are used to document the accuracy of the non-parametric method relative to both correctly and incorrectly specified parametric alternatives. In an empirical illustration, the method is used to produce sequential estimates of the forecast distribution of realized volatility on the S&P500 stock index during the recent financial crisis. A resampling technique for measuring sampling variation in the estimated forecast distributions is also demonstrated. (C) 2013 International Institute of Forecasters. Published by Elsevier B.V. All rights reserved.
+C1 [Ng, Jason] Monash Univ, Malaysia Sch Business, Selangor, Malaysia.
+   [Forbes, Catherine S.; Martin, Gael M.] Monash Univ, Dept Econometr & Business Stat, Clayton, Vic 3800, Australia.
+   [McCabe, Brendan P. M.] Univ Liverpool, Sch Management, Liverpool L69 3BX, Merseyside, England.
+C3 Monash University; Monash University Malaysia; Monash University; University of Liverpool
+RP Martin, GM (corresponding author), Monash Univ, Dept Econometr & Business Stat, Clayton, Vic 3800, Australia.
+EM gael.martin@monash.edu
+CR Ait-Sahalia Y, 1998, J FINANC, V53, P499, DOI 10.1111/0022-1082.215228
+   Amisano G, 2007, J BUS ECON STAT, V25, P177, DOI 10.1198/073500106000000332
+   Andersen TG, 2003, ECONOMETRICA, V71, P579, DOI 10.1111/1468-0262.00418
+   Anderson BDO, 1979, OPTIMAL FILTERING, V1, P0
+   ANTONIAK CE, 1974, ANN STAT, V2, P1152, DOI 10.1214/aos/1176342871
+   Arulampalam MS, 2002, IEEE T SIGNAL PROCES, V50, P174, DOI 10.1109/78.978374
+   Au C, 1999, AM STAT, V53, P270, DOI 10.2307/2686109
+   Barndorff-Nielsen OE, 2002, J ROY STAT SOC B, V64, P253, DOI 10.1111/1467-9868.00336
+   Bates DS, 2000, J ECONOMETRICS, V94, P181, DOI 10.1016/S0304-4076(99)00021-4
+   Bauwens L, 2004, INT J FORECASTING, V20, P589, DOI 10.1016/j.ijforecast.2003.09.014
+   Bauwens L, 2004, J ECONOMETRICS, V119, P381, DOI 10.1016/S0304-4076(03)00201-X
+   Berg JE, 2010, QUANT ECON, V1, P163, DOI 10.3982/QE6
+   Berkowitz J, 2001, J BUS ECON STAT, V19, P465, DOI 10.1198/07350010152596718
+   Boero G, 2011, INT J FORECASTING, V27, P379, DOI 10.1016/j.ijforecast.2010.04.003
+   Broadie M, 2007, J FINANC, V62, P1453, DOI 10.1111/j.1540-6261.2007.01241.x
+   Bu RJ, 2008, INT J FORECASTING, V24, P151, DOI 10.1016/j.ijforecast.2007.11.002
+   Caron F, 2008, IEEE T SIGNAL PROCES, V56, P71, DOI 10.1109/TSP.2007.900167
+   Carvalho CM, 2010, BAYESIAN ANAL, V5, P709, DOI 10.1214/10-BA525
+   Clements A, 2006, 3 NAT CTR EC RES, V0, P0
+   Corsi F, 2009, J FINANC ECONOMET, V7, P174, DOI 10.1093/jjfinec/nbp001
+   Czado C, 2009, BIOMETRICS, V65, P1254, DOI 10.1111/j.1541-0420.2009.01191.x
+   DAWID AP, 1984, J ROY STAT SOC A STA, V147, P278, DOI 10.2307/2981683
+   De Rossi G, 2009, J ECONOMETRICS, V152, P179, DOI 10.1016/j.jeconom.2009.01.001
+   Diebold FX, 1998, INT ECON REV, V39, P863, DOI 10.2307/2527342
+   DIEBOLD FX, 1995, J BUS ECON STAT, V13, P253, DOI 10.2307/1392185
+   Doucet A, 2001, SEQUENTIAL MONTE CAR, V1, P0
+   Durham GB, 2007, J FINANC ECON, V85, P822, DOI 10.1016/j.jfineco.2006.06.005
+   ENGLE RF, 1991, J BUS ECON STAT, V9, P345, DOI 10.2307/1391236
+   Eraker B, 2003, J FINANC, V58, P1269, DOI 10.1111/1540-6261.00566
+   Fernandez C, 1998, J AM STAT ASSOC, V93, P359, DOI 10.2307/2669632
+   Freeland RK, 2004, INT J FORECASTING, V20, P427, DOI 10.1016/S0169-2070(03)00014-1
+   Geweke J, 2010, INT J FORECASTING, V26, P216, DOI 10.1016/j.ijforecast.2009.10.007
+   Giacomini R, 2005, J BUS ECON STAT, V23, P416, DOI 10.1198/073500105000000018
+   Gneiting T, 2008, J ROY STAT SOC A STA, V171, P319, DOI 10.1111/j.1467-985X.2007.00522.x
+   Gneiting T, 2007, J AM STAT ASSOC, V102, P359, DOI 10.1198/016214506000001437
+   Gneiting T, 2007, J R STAT SOC B, V69, P243, DOI 10.1111/j.1467-9868.2007.00587.x
+   GORDON NJ, 1993, IEE PROC-F, V140, P107, DOI 10.1049/ip-f-2.1993.0015
+   Hassani Sadri, 2009, MATHEMATICAL METHODS: FOR STUDENTS OF PHYSICS AND RELATED FIELDS, V0, P0
+   Heber G, 2009, OXFORD-MAN INSTITUTES REALIZED LIBRARY_0.1, V0, P0
+   Jensen MJ, 2010, J ECONOMETRICS, V157, P306, DOI 10.1016/j.jeconom.2010.01.014
+   Johnson NL, 1994, DISTRIBUTIONS STAT C, V2, P0
+   JULIER SJ, 1995, PROCEEDINGS OF THE 1995 AMERICAN CONTROL CONFERENCE, VOLS 1-6, P1628
+   Julier SJ, 1997, P SOC PHOTO-OPT INS, V3068, P182, DOI 10.1117/12.280797
+   Kalman RE, 1960, TRANS. ASME, V83D, P95, DOI 10.1115/1.3658902
+   Kalman RE, 1960, T ASME J BASIC ENG, V82, P35, DOI 10.1115/1.3662552
+   Khuri AI, 2004, INTERNATIONAL JOURNAL OF MATHEMATICAL EDUCATION IN SCIENCE AND TECHNOLOGY, V35, P185, DOI 10.1080/00207390310001638313
+   KITAGAWA G, 1987, J AM STAT ASSOC, V82, P1032, DOI 10.2307/2289375
+   KITAGAWA G, 1994, ANN I STAT MATH, V46, P605, DOI 10.1007/BF00773470
+   Kitagawa G, 1996, J COMPUT GRAPH STAT, V5, P0, DOI 10.1080/10618600.1996.10474692
+   Li Q, 2007, NONPARAMETRIC ECONOMETRICS: THEORY AND PRACTICE, V0, P0
+   Lim GC, 2005, J APPL ECONOMET, V20, P377, DOI 10.1002/jae.762
+   LO AY, 1984, ANN STAT, V12, P351, DOI 10.1214/aos/1176346412
+   Maneesoonthorn W, 2012, J ECONOMETRICS, V171, P217, DOI 10.1016/j.jeconom.2012.06.006
+   Martin GM, 2009, J APPL ECONOMET, V24, P77, DOI 10.1002/jae.1033
+   McCabe BPM, 2005, INT J FORECASTING, V21, P315, DOI 10.1016/j.ijforecast.2004.11.001
+   McCabe BPM, 2011, J R STAT SOC B, V73, P253, DOI 10.1111/j.1467-9868.2010.00762.x
+   Monteiro AA, 2010, STAT ECONOMETRICS SE, V0, P0
+   Pascual L, 2005, INT J FORECASTING, V21, P219, DOI 10.1016/j.ijforecast.2004.09.006
+   Pascual L, 2001, INT J FORECASTING, V17, P83, DOI 10.1016/S0169-2070(00)00069-8
+   Pitt MK, 1999, J AM STAT ASSOC, V94, P590, DOI 10.2307/2670179
+   Politis D, 1999, SUBSAMPLING, V0, P0
+   Rodríguez A, 2012, COMPUT STAT DATA AN, V56, P62, DOI 10.1016/j.csda.2011.07.010
+   Rodriguez A, 2009, J TIME SER ANAL, V30, P167, DOI 10.1111/j.1467-9892.2008.00604.x
+   ROSENBLATT M, 1952, ANN MATH STAT, V23, P470, DOI 10.1214/aoms/1177729394
+   SCOTT DW, 1980, ANN STAT, V8, P820, DOI 10.1214/aos/1176345074
+   SORENSON HW, 1971, AUTOMATICA, V7, P465, DOI 10.1016/0005-1098(71)90097-5
+   Strickland CM, 2006, COMPUT STAT DATA AN, V50, P2247, DOI 10.1016/j.csda.2005.07.005
+   Tay AS, 2000, J FORECASTING, V19, P235, DOI 10.1002/1099-131X(200007)19:4<235::AID-FOR772>3.0.CO;2-L
+   Yau C, 2011, J R STAT SOC B, V73, P37, DOI 10.1111/j.1467-9868.2010.00756.x
+NR 69
+TC 8
+Z9 10
+U1 0
+U2 24
+PU ELSEVIER SCIENCE BV
+PI AMSTERDAM
+PA PO BOX 211, 1000 AE AMSTERDAM, NETHERLANDS
+SN 0169-2070
+EI 1872-8200
+J9 INT J FORECASTING
+JI Int. J. Forecast.
+PD JUL-SEP 15
+PY 2013
+VL 29
+IS 3
+BP 411
+EP 430
+DI 10.1016/j.ijforecast.2012.10.005
+PG 20
+WC Economics; Management
+SC Business & Economics
+GA 187DO
+UT WOS:000322097300004
+DA 2026-01-04
+ER
+
+PT J
+AU Qu, ZJ
+   Perron, P
+AF Qu, Zhongjun
+   Perron, Pierre
+TI A stochastic volatility model with random level shifts and its applications to S&P 500 and NASDAQ return indices
+SO ECONOMETRICS JOURNAL
+LA English
+DT Article
+DE Long-memory; Low-frequency volatility; State-space models; Structural change
+ID long-memory; time-series; inference; variance; jump
+AB This paper proposes a framework for the modelling, inference and forecasting of volatility in the presence of level shifts of unknown timing, magnitude and frequency. First, we consider a stochastic volatility model comprising both a level shift and a short-memory component, with the former modelled as a compound binomial process and the latter as an AR(1). Next, we adopt a Bayesian approach for inference and develop algorithms to obtain posterior distributions of the parameters and the two latent components. Then, we apply the model to daily S&P 500 and NASDAQ returns over the period 1980.1-2010.12. The results show that although the occurrence of a level shift is rare, about once every 2 years, this component clearly contributes most to the variation in the volatility. The half-life of a typical shock from the AR(1) component is short, on average between 9 and 15 days. Interestingly, isolating the level shift component from the overall volatility reveals a stronger relationship between volatility and business cycle movements. Although the paper focuses on daily index returns, the methods developed can potentially be used to study the low-frequency variation in realized volatility or the volatility of other financial or macroeconomic variables.
+C1 [Qu, Zhongjun; Perron, Pierre] Boston Univ, Dept Econ, Boston, MA 02215 USA.
+C3 Boston University
+RP Qu, ZJ (corresponding author), Boston Univ, Dept Econ, 270 Bay State Rd, Boston, MA 02215 USA.
+EM qu@bu.edu; perron@bu.edu
+FU National Science Foundation [SES-0649350]
+CR Andersen TG, 1997, J FINANC, V52, P975, DOI 10.2307/2329513
+   Andersen TG, 2003, ECONOMETRICA, V71, P579, DOI 10.1111/1468-0262.00418
+   Baillie RT, 1996, J ECONOMETRICS, V74, P3, DOI 10.1016/S0304-4076(95)01749-6
+   Beran J, 1994, STAT LONG MEMORY PRO, V61, P0
+   Bollerslev T, 1996, J ECONOMETRICS, V73, P151, DOI 10.1016/0304-4076(95)01736-4
+   Breidt FJ, 1998, J ECONOMETRICS, V83, P325, DOI 10.1016/S0304-4076(97)00072-9
+   CARTER CK, 1994, BIOMETRIKA, V81, P541
+   Chib S, 1998, J ECONOMETRICS, V86, P221, DOI 10.1016/S0304-4076(97)00115-2
+   COOLEY TF, 1976, ECONOMETRICA, V44, P167, DOI 10.2307/1911389
+   DeGroot MorrisH, 2004, OPTIMAL STATISTICAL DECISIONS, V0, P0
+   DEJONG P, 1991, ANN STAT, V19, P1073
+   DEJONG P, 1995, BIOMETRIKA, V82, P339
+   Diebold FX, 2001, J ECONOMETRICS, V105, P131, DOI 10.1016/S0304-4076(01)00073-2
+   Ding Z, 1993, J EMPIRICAL FINANCE, V1, P83, DOI https://doi.org/10.1016/0927-5398(93)90006-D
+   Duffie D, 2000, ECONOMETRICA, V68, P1343, DOI 10.1111/1468-0262.00164
+   Engle RF, 1995, ARCH SELECTED READIN, V0, P0
+   Engle RF, 2008, REV FINANC STUD, V21, P1187, DOI 10.1093/rfs/hhn004
+   Eraker B, 2004, J FINANC, V59, P1367, DOI 10.1111/j.1540-6261.2004.00666.x
+   Eraker B, 2003, J FINANC, V58, P1269, DOI 10.1111/1540-6261.00566
+   Fuller WA, 1996, INTRO TIME SERIES, V2nd, P0
+   GILKS WR, 1995, J ROY STAT SOC C, V44, P455, DOI 10.2307/2986138
+   GORDON NJ, 1993, IEE PROC-F, V140, P107, DOI 10.1049/ip-f-2.1993.0015
+   Granger CW, 1995, ANN D CONOMIE STATIS, V0, PP67, DOI 10.2307/20076016
+   Granger CWJ, 2004, J EMPIR FINANC, V11, P399, DOI 10.1016/j.jempfin.2003.03.001
+   GRANGER CWJ, 1980, J ECONOMETRICS, V14, P227, DOI 10.1016/0304-4076(80)90092-5
+   HAMILTON JD, 1994, J ECONOMETRICS, V64, P307, DOI 10.1016/0304-4076(94)90067-1
+   Harvey AC, 1998, FORECASTING VOLATILITY IN THE FINANCIAL MARKETS, V2nd, P307
+   JACQUIER E, 1994, J BUS ECON STAT, V12, P371, DOI 10.2307/1392199
+   Kim S, 1998, REV ECON STUD, V65, P361, DOI 10.1111/1467-937X.00050
+   Koop G, 2007, REV ECON STUD, V74, P763, DOI 10.1111/j.1467-937X.2007.00436.x
+   LAMOUREUX CG, 1990, J BUS ECON STAT, V8, P225, DOI 10.2307/1391985
+   Lobato IN, 1998, J BUS ECON STAT, V16, P261, DOI 10.2307/1392497
+   MCCULLOCH RE, 1993, J AM STAT ASSOC, V88, P968, DOI 10.2307/2290788
+   Mikosch T, 2004, REV ECON STAT, V86, P378, DOI 10.1162/003465304323023886
+   Mincer J, 1969, EC FORECASTS EXPECTA, V0, P1
+   Parke WR, 1999, REV ECON STAT, V81, P632, DOI 10.1162/003465399558490
+   Perron P, 2010, J BUS ECON STAT, V28, P275, DOI 10.1198/jbes.2009.06171
+   Pesaran MH, 2006, REV ECON STUD, V73, P1057
+   Rosenberg B, 1973, ANNALS OF ECONOMIC AND SOCIAL MEASUREMENT, V2, P399
+   Schwert GW, 1989, J FINANC, V44, P1207, DOI 10.1111/J.1540-6261.1989.TB02647.X
+   SHEPHARD N, 1994, BIOMETRIKA, V81, P115
+   Shephard N, 2005, STOCHASTIC VOLATILITY: SELECTED READINGS, V0, P0
+   Smith A, 2005, J BUS ECON STAT, V23, P321, DOI 10.1198/073500104000000280
+   Starica C, 2005, REV ECON STAT, V87, P503, DOI 10.1162/0034653054638274
+   Tjostheim D, 1986, JOURNAL OF TIME SERIES ANALYSIS, V7, P51, DOI 10.1111/J.1467-9892.1986.TB00485.X
+NR 45
+TC 27
+Z9 34
+U1 0
+U2 19
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1368-4221
+EI 1368-423X
+J9 ECONOMET J
+JI Econom. J.
+PD OCT 15
+PY 2013
+VL 16
+IS 3
+BP 309
+EP 339
+DI 10.1111/j.1368-423X.2012.00394.x
+PG 31
+WC Economics; Mathematics, Interdisciplinary Applications; Social Sciences, Mathematical Methods; Statistics & Probability
+SC Business & Economics; Mathematics; Mathematical Methods In Social Sciences
+GA 256JF
+UT WOS:000327305600003
+DA 2026-01-04
+ER
+
+PT J
+AU Liu, C
+   Tang, CY
+AF Liu, Cheng
+   Tang, Cheng Yong
+TI A state space model approach to integrated covariance matrix estimation with high frequency data
+SO STATISTICS AND ITS INTERFACE
+LA English
+DT Article
+DE EM algorithm; High frequency data; Integrated covariance matrix; Kalman Filter; Microstructure noise; Missing data; Quasi-maximum likelihood; State Space Model
+ID nonparametric-estimation; maximum-likelihood; volatility; variance
+AB We consider a state space model approach for high frequency financial data analysis. An expectation-maximization (EM) algorithm is developed for estimating the integrated covariance matrix of the assets. The state space model with the EM algorithm can handle noisy financial data with correlated microstructure noises. Difficulty due to asynchronous and irregularly spaced trading data of multiple assets can be naturally overcome by considering the problem in a scenario with missing data. Since the state space model approach requires no data synchronization, no record in the financial data is deleted so that it efficiently incorporates information from all observations. Empirical data analysis supports the general specification of the state space model, and simulations confirm the efficiency gain and the benefit of the state space model approach.
+C1 [Liu, Cheng] Singapore Management Univ, Sim Kee Boon Inst Financial Econ, Singapore 178903, Singapore.
+   [Tang, Cheng Yong] Univ Colorado, Sch Business, Denver, CO 80217 USA.
+C3 Singapore Management University; University of Colorado System; University of Colorado Denver
+RP Tang, CY (corresponding author), Univ Colorado, Sch Business, Campus Box 165,POB 173364, Denver, CO 80217 USA.
+EM chengliu@smu.edu.sg; chengyong.tang@ucdenver.edu
+FU National University of Singapore; Business School, University of Colorado Denver
+CR Aït-Sahalia Y, 2005, REV FINANC STUD, V18, P351, DOI 10.1093/rfs/hhi016
+   Ait-Sahalia Y, 2009, HDB FINANCIAL TIME S, V0, P0
+   Aït-Sahalia Y, 2010, J AM STAT ASSOC, V105, P1504, DOI 10.1198/jasa.2010.tm10163
+   Aït-Sahalia Y, 2011, J ECONOMETRICS, V160, P160, DOI 10.1016/j.jeconom.2010.03.028
+   Andersen TG, 2003, ECONOMETRICA, V71, P579, DOI 10.1111/1468-0262.00418
+   Andersen TG, 2007, REV ECON STAT, V89, P701, DOI 10.1162/rest.89.4.701
+   Barndorff-Nielsen OE, 2007, ADV EC ECONOMETRICS, VIII., P328, DOI 10.1017/cbo9780511607547.011
+   Barndorff-Nielsen OE, 2004, ECONOMETRICA, V72, P885, DOI 10.1111/j.1468-0262.2004.00515.x
+   Barndorff-Nielsen OE, 2011, J ECONOMETRICS, V162, P149, DOI 10.1016/j.jeconom.2010.07.009
+   Barndorff-Nielsen OE, 2008, ECONOMETRICA, V76, P1481, DOI 10.3982/ECTA6495
+   BLACK F, 1973, J POLIT ECON, V81, P637, DOI 10.1086/260062
+   Christensen K, 2010, J ECONOMETRICS, V159, P116, DOI 10.1016/j.jeconom.2010.05.001
+   DEMPSTER AP, 1977, J ROY STAT SOC B MET, V39, P1, DOI 10.1111/j.2517-6161.1977.tb01600.x
+   Engle RF, 1998, ECONOMETRICA, V66, P1127, DOI 10.2307/2999632
+   ENGLE RF, 1982, ECONOMETRICA, V50, P987, DOI 10.2307/1912773
+   Fan J, 2007, J AM STAT ASSOC, V102, P1349, DOI 10.1198/016214507000001067
+   Gloter A, 2001, ESAIM: PROBABILITY AND STATISTICS, V5, P225, DOI 10.1051/ps:2001110
+   Hansen PR, 2006, J BUS ECON STAT, V24, P127, DOI 10.1198/073500106000000071
+   Harris FHD, 1995, J FINANC QUANT ANAL, V30, P563
+   Hoshikawa T, 2008, ECONOMET REV, V27, P112, DOI 10.1080/07474930701853855
+   Jacod J, 2009, STOCH PROC APPL, V119, P2249, DOI 10.1016/j.spa.2008.11.004
+   Li Y, 2009, REALIZED VOLAT UNPUB, V0, P0
+   Liu C, 2012, QUASIMAXIMUM L UNPUB, V0, P0
+   Malliavin P, 2002, FINANC STOCH, V6, P49, DOI 10.1007/s780-002-8400-6
+   Malliavin P, 2009, ANN STAT, V37, P1983, DOI 10.1214/08-AOS633
+   Mykland PA, 2010, STAT METHOD IN PRESS, V0, P0
+   Peluso S, 2012, BAYESIAN HIGH FREQUE, V0, P0, DOI 10.2139/SSRN.2003492
+   Shumway R, 2011, TIME SERIES ANAL ITS, V0, P0
+   Tao MJ, 2011, J AM STAT ASSOC, V106, P1025, DOI 10.1198/jasa.2011.tm10276
+   Wang YZ, 2010, ANN STAT, V38, P943, DOI 10.1214/09-AOS730
+   WU CFJ, 1983, ANN STAT, V11, P95, DOI 10.1214/aos/1176346060
+   Xiu DC, 2010, J ECONOMETRICS, V159, P235, DOI 10.1016/j.jeconom.2010.07.002
+   Zhang L, 2005, J AM STAT ASSOC, V100, P1394, DOI 10.1198/016214505000000169
+   Zhang L, 2006, BERNOULLI, V12, P1019, DOI 10.3150/bj/1165269149
+   Zhang L, 2011, J ECONOMETRICS, V160, P33, DOI 10.1016/j.jeconom.2010.03.012
+NR 35
+TC 3
+Z9 5
+U1 0
+U2 10
+PU INT PRESS BOSTON, INC
+PI SOMERVILLE
+PA PO BOX 43502, SOMERVILLE, MA 02143 USA
+SN 1938-7989
+EI 1938-7997
+J9 STAT INTERFACE
+JI Stat. Interface
+PD JUN 15
+PY 2013
+VL 6
+IS 4
+BP 463
+EP 475
+DI 10.4310/SII.2013.v6.n4.a5
+PG 13
+WC Mathematical & Computational Biology; Mathematics, Interdisciplinary Applications
+SC Mathematical & Computational Biology; Mathematics
+GA 300TO
+UT WOS:000330487100005
+DA 2025-12-31
+ER
+
+PT J
+AU Xu, WJ
+   Peng, XL
+   Xiao, WL
+AF Xu, Weijun
+   Peng, Xiaolong
+   Xiao, Weilin
+TI The Fuzzy Jump-Diffusion Model to Pricing European Vulnerable Options
+SO INTERNATIONAL JOURNAL OF FUZZY SYSTEMS
+LA English
+DT Article
+DE Fuzzy number; european vulnerable options; jump-diffusion process; secant method
+ID black-scholes formula; default risk; credit risk; environments; numbers; security; volatility; valuation; american; impact
+AB Owing to the fluctuation of financial markets from time to time, some parameters, such as the interest rate, volatility, cannot be precisely described. Under the assumption that the risk-free rate, the volatility, and the average jump intensity are fuzzy numbers, this paper presents the jump-diffusion approach to price vulnerable options in fuzzy environments. We also provide the crisp possibilistic mean jump-diffusion model to price European vulnerable call options and the secant method to obtain the belief degree. Finally, the performance of our model and the algorithm is illustrated with some numerical examples.
+C1 [Xiao, Weilin] Zhejiang Univ, Sch Management, Hangzhou 310058, Zhejiang, Peoples R China.
+   [Xu, Weijun] S China Univ Technol, Inst Govt Decis Making & Performance Evaluat, Sch Business Adm, Guangzhou 510641, Guangdong, Peoples R China.
+   [Peng, Xiaolong] S China Univ Technol, Sch Business Adm, Guangzhou 510641, Guangdong, Peoples R China.
+C3 Zhejiang University; South China University of Technology; South China University of Technology
+RP Xiao, WL (corresponding author), Zhejiang Univ, Sch Management, 866 Yuhangtang Rd, Hangzhou 310058, Zhejiang, Peoples R China.
+EM xuweijun75@163.com; pengxiaolong19@126.com; weilinhy@gmail.com
+FU National Natural Science Foundation of China [71171086, 71101056]; Natural Science Foundation of Guangdong Province [S2011040005723]; Guangdong Universities Humanities and Social Science Key Research Base Project [2012JDXM_0006]; NCET [10-0401]
+CR Aït-Sahalia Y, 2001, J ECONOMETRICS, V102, P67, DOI 10.1016/S0304-4076(00)00091-9
+   AMIN KI, 1993, J FINANC, V48, P1833, DOI 10.2307/2329069
+   BLACK F, 1973, J POLIT ECON, V81, P637, DOI 10.1086/260062
+   Chrysafis KA, 2009, J COMPUT APPL MATH, V223, P552, DOI 10.1016/j.cam.2007.12.006
+   Eraker B, 2003, J FINANC, V58, P1269, DOI 10.1111/1540-6261.00566
+   Fullér R, 2003, FUZZY SET SYST, V136, P363, DOI 10.1016/S0165-0114(02)00216-6
+   HULL J, 1995, J BANK FINANC, V19, P299, DOI 10.1016/0378-4266(94)00050-D
+   JARROW RA, 1995, J FINANC, V50, P53, DOI 10.2307/2329239
+   JOHNSON H, 1987, J FINANC, V42, P267, DOI 10.2307/2328252
+   Klein P, 1996, J BANK FINANC, V20, P1211, DOI 10.1016/0378-4266(95)00052-6
+   Liu SI, 2010, CHINA US BUSINESS RE, V9, P1537
+   MERTON RC, 1973, BELL J ECON, V4, P141, DOI 10.2307/3003143
+   Nowak P, 2010, EUR J OPER RES, V201, P206, DOI 10.1016/j.ejor.2009.02.009
+   Simonelli MR, 2001, EUR J OPER RES, V135, P296, DOI 10.1016/S0377-2217(01)00041-8
+   Thavaneswaran A, 2013, APPL MATH LETT, V26, P65, DOI 10.1016/j.aml.2012.03.034
+   Wu HC, 2005, INT J INTELL SYST, V20, P89, DOI 10.1002/int.20055
+   Wu HC, 2004, COMPUT OPER RES, V31, P1069, DOI 10.1016/S0305-0548(03)00065-0
+   Wu HC, 2007, APPL MATH COMPUT, V185, P136, DOI 10.1016/j.amc.2006.07.015
+   Xu WD, 2012, FINANC RES LETT, V9, P48, DOI 10.1016/j.frl.2011.07.001
+   Xu WD, 2011, ANN ECON FINANC, V12, P217
+   Xu WD, 2010, FINANC RES LETT, V7, P224, DOI 10.1016/j.frl.2010.05.002
+   Xu WD, 2009, INSUR MATH ECON, V44, P337, DOI 10.1016/j.insmatheco.2008.09.003
+   Yoshida Y, 2003, EUR J OPER RES, V145, P221, DOI 10.1016/S0377-2217(02)00209-6
+   Yoshida Y, 2006, FUZZY SET SYST, V157, P2614, DOI 10.1016/j.fss.2003.11.022
+   ZADEH LA, 1975, INFORM SCIENCES, V8, P301, DOI 10.1016/0020-0255(75)90046-8
+   ZADEH LA, 1975, INFORM SCIENCES, V9, P43, DOI 10.1016/0020-0255(75)90017-1
+   ZADEH LA, 1975, INFORM SCIENCES, V8, P199, DOI 10.1016/0020-0255(75)90036-5
+   ZADEH LA, 1965, INFORM CONTROL, V8, P338, DOI 10.1016/S0019-9958(65)90241-X
+   Zhang LH, 2012, ECON MODEL, V29, P780, DOI 10.1016/j.econmod.2012.02.005
+   Zhang WG, 2011, INT J INTELL SYST, V26, P169, DOI 10.1002/int.20460
+   Zhao J, 2012, INT J PROD ECON, V135, P144, DOI 10.1016/j.ijpe.2010.12.024
+NR 31
+TC 7
+Z9 8
+U1 0
+U2 17
+PU TAIWAN FUZZY SYSTEMS ASSOC
+PI TAIPEI
+PA NATL TAIPEI UNIV TECHNOL, 1 SEC 3 CHUNG-HSIAO E RD, TAIPEI, ROC 00000, TAIWAN
+SN 1562-2479
+EI 
+J9 INT J FUZZY SYST
+JI Int. J. Fuzzy Syst.
+PD SEP 15
+PY 2013
+VL 15
+IS 3
+BP 317
+EP 325
+DI 
+PG 9
+WC Automation & Control Systems; Computer Science, Artificial Intelligence; Computer Science, Information Systems
+SC Automation & Control Systems; Computer Science
+GA 239ZS
+UT WOS:000326065100006
+DA 2025-12-31
+ER
+
+PT J
+AU Kolei, S
+AF El Kolei, Salima
+TI Parametric estimation of hidden stochastic model by contrast minimization and deconvolution
+SO METRIKA
+LA English
+DT Article
+DE Contrast function; Deconvolution; Parametric inference; Stochastic volatility
+ID maximum-likelihood; bayesian-inference; volatility models; markov-models
+AB We study a new parametric approach for particular hidden stochastic models. This method is based on contrast minimization and deconvolution and can be applied, for example, for ecological and financial state space models. After proving consistency and asymptotic normality of the estimation leading to asymptotic confidence intervals, we provide a thorough numerical study, which compares most of the classical methods that are used in practice (Quasi-Maximum Likelihood estimator, Simulated Expectation Maximization Likelihood estimator and Bayesian estimators) to estimate the Stochastic Volatility model. We prove that our estimator clearly outperforms the Maximum Likelihood Estimator in term of computing time, but also most of the other methods. We also show that this contrast method is the most robust with respect to non Gaussianity of the error and also does not need any tuning parameter.
+C1 Univ Nice, Lab Math JA Dieudonne, UMR CNRS UNSA 7351, F-06108 Nice 02, France.
+C3 Universite Cote d'Azur
+RP Kolei, S (corresponding author), Univ Nice, Lab Math JA Dieudonne, UMR CNRS UNSA 7351, F-06108 Nice 02, France.
+EM salima@unice.fr
+CR Andrieu C, 2010, J R STAT SOC B, V72, P269, DOI 10.1111/j.1467-9868.2009.00736.x
+   Cappe O, 2005, SPR S STAT, V0, P0, DOI 10.1007/0-387-28982-8
+   CHANDA KC, 1995, J TIME SER ANAL, V16, P1, DOI 10.1111/J.1467-9892.1995.TB00220.X
+   Chopin N, 2002, BIOMETRIKA, V89, P539, DOI 10.1093/biomet/89.3.539
+   Chopin N, 2011, ARXIVORGABS11011528, V0, P0
+   Comte F, 2011, J R STAT SOC B, V73, P601, DOI 10.1111/j.1467-9868.2011.00775.x
+   Comte F, 2010, J ECONOMETRICS, V154, P59, DOI 10.1016/j.jeconom.2009.07.001
+   Comte F, 2001, MATH METHODS STAT, V10, P121
+   Dedecker J, 2011, HAL00591114, V0, P0
+   Dedecker Jerome, 2007, LECT NOTES STAT, V190, P0
+   DEMPSTER AP, 1977, J ROY STAT SOC B MET, V39, P1, DOI 10.1111/j.2517-6161.1977.tb01600.x
+   Douc R, 2011, ANN STAT, V39, P474, DOI 10.1214/10-AOS834
+   Doucet A, 2001, SEQUENTIAL MONTE CAR, V1, P0
+   FAN JQ, 1991, SANKHYA SER A, V53, P97
+   Genon-Catalot V, 2000, BERNOULLI, V6, P1051, DOI 10.2307/3318471
+   Ghysels E, 1996, HAND- BOOK OF STATISTICS, V0, P119
+   Hansen BE, 1997, ECONOMET THEOR, V13, P119, DOI 10.1017/S0266466600005661
+   HARVEY A, 1994, REV ECON STUD, V61, P247, DOI 10.2307/2297980
+   Hayashi F, 2000, ECONOMETRICS, V0, P0
+   Ionides EL, 2011, ANN STAT, V39, P1776, DOI 10.1214/11-AOS886
+   Jacquier E, 2002, J BUS ECON STAT, V20, P69, DOI 10.1198/073500102753410408
+   Johannes MS, 2009, REV FINANC STUD, V22, P2759, DOI 10.1093/rfs/hhn110
+   Johansen AM, 2008, STAT COMPUT, V18, P47, DOI 10.1007/s11222-007-9037-8
+   Jones GL, 2004, PROBABILITY SURVEYS, V1, P5, DOI 10.1214/154957804100000051
+   Kalman Rudolph Emil, 1960, A NEW APPROACH TO LINEAR FILTERING AND PREDICTION PROBLEMS, V0, P0
+   Liu J, 2001, STAT ENG IN, V0, P197
+   Mahieu RJ, 1998, J APPL ECONOM, V13, P333, DOI 10.1002/(SICI)1099-1255(199807/08)13:4<333::AID-JAE479>3.0.CO;2-I
+   MELINO A, 1990, J ECONOMETRICS, V45, P239, DOI 10.1016/0304-4076(90)90100-8
+   NEWEY W, 1987, ECONOMET THEOR, V3, P153
+   Newey WhitneyK, 1986, HDB ECONOMETRICS, V4, P2111
+   Peters GW, 2010, PREPRINT, V0, P0
+   Pitt MK, 1999, J AM STAT ASSOC, V94, P590, DOI 10.2307/2670179
+   Poyiadjis G, 2011, BIOMETRIKA, V98, P65, DOI 10.1093/biomet/asq062
+   Robert CP, 2000, J ROY STAT SOC B, V62, P57, DOI 10.1111/1467-9868.00219
+   Rue H, 2009, J ROY STAT SOC B, V71, P319, DOI 10.1111/j.1467-9868.2008.00700.x
+   SMITH AFM, 1993, J ROY STAT SOC B MET, V55, P3
+   Taylor S, 2005, FINANCIAL RETURNS MO, V1, P203
+   VAN DER VAART AW, 1998, CAMBRIDGE SERIES STA, V3, P0, DOI 10.1017/CBO9780511802256
+NR 38
+TC 2
+Z9 2
+U1 0
+U2 0
+PU SPRINGER HEIDELBERG
+PI HEIDELBERG
+PA TIERGARTENSTRASSE 17, D-69121 HEIDELBERG, GERMANY
+SN 0026-1335
+EI 1435-926X
+J9 METRIKA
+JI Metrika
+PD NOV 15
+PY 2013
+VL 76
+IS 8
+BP 1031
+EP 1081
+DI 10.1007/s00184-013-0430-3
+PG 51
+WC Statistics & Probability
+SC Mathematics
+GA 240JK
+UT WOS:000326091600003
+DA 2026-01-04
+ER
+
+PT J
+AU Nowak, P
+   Romaniuk, M
+AF Nowak, Piotr
+   Romaniuk, Maciej
+TI A FUZZY APPROACH TO OPTION PRICING IN A LEVY PROCESS SETTING
+SO INTERNATIONAL JOURNAL OF APPLIED MATHEMATICS AND COMPUTER SCIENCE
+LA English
+DT Article
+DE option pricing; Levy processes; minimal entropy martingale measure; fuzzy sets; Monte Carlo simulation
+ID jump-diffusion-model; black-scholes formula; european options; stochastic volatility; entropy; valuation; returns; sets
+AB In this paper the problem of European option valuation in a Levy process setting is analysed. In our model the underlying asset follows a geometric Levy process. The jump part of the log-price process, which is a linear combination of Poisson processes, describes upward and downward jumps in price. The proposed pricing method is based on stochastic analysis and the theory of fuzzy sets. We assume that some parameters of the financial instrument cannot be precisely described and therefore they are introduced to the model as fuzzy numbers. Application of fuzzy arithmetic enables us to consider various sources of uncertainty, not only the stochastic one. To obtain the European call option pricing formula we use the minimal entropy martingale measure and Levy characteristics.
+C1 [Nowak, Piotr; Romaniuk, Maciej] Polish Acad Sci, Syst Res Inst, PL-01447 Warsaw, Poland.
+   [Romaniuk, Maciej] John Paul II Catholic Univ Lublin, PL-20708 Lublin, Poland.
+C3 Polish Academy of Sciences; Systems Research Institute of the Polish Academy of Sciences; Catholic University of Lublin
+RP Nowak, P (corresponding author), Polish Acad Sci, Syst Res Inst, Ul Newelska 6, PL-01447 Warsaw, Poland.
+EM pnowak@ibspan.waw.pl; mroman@ibspan.waw.pl
+CR Bakshi G, 1997, J FINANC, V52, P2003, DOI 10.1111/j.1540-6261.1997.tb02749.x
+   Bardossy A, 1995, FUZZY RULE-BASED MODELING WITH APPLICATIONS TO GEOPHYSICAL, V0, P0, DOI 10.1201/9780138755133
+   Barndorff-Nielsen OE, 1998, FINANC STOCH, V2, P41, DOI 10.1007/s007800050032
+   Bates DS, 1996, REV FINANC STUD, V9, P69, DOI 10.1093/rfs/9.1.69
+   BLACK F, 1973, J POLIT ECON, V81, P637, DOI 10.1086/260062
+   Brigo D, 2007, RISK MAGAZINE, V20, P70
+   Davis M, 2001, MATHEMATICS UNLIMITED, V0, PP361, DOI 10.1007/978-3-642-56478-9_16
+   Dubois D, 1980, FUZZY SETS AND SYSTEMS: THEORY AND APPLICATIONS, V0, P0
+   Frittelli M, 2000, MATH FINANC, V10, P39, DOI 10.1111/1467-9965.00079
+   Fujiwara T, 2003, FINANC STOCH, V7, P509, DOI 10.1007/s007800200097
+   Glasserman P, 2004, MONTE CARLO METHODS, V0, P0
+   Hull JC, 1997, OPTIONS FUTURES OTHE, V0, P0
+   Jacod J, 2003, LIMIT THEOREMS STOCH, V0, P0
+   Kou SG, 2004, MANAGE SCI, V50, P1178, DOI 10.1287/mnsc.1030.0163
+   Kou SG, 2002, MANAGE SCI, V48, P1086, DOI 10.1287/mnsc.48.8.1086.166
+   Li CS, 2012, INT J AP MAT COM-POL, V22, P787, DOI 10.2478/v10006-012-0058-x
+   MADAN DB, 1990, J BUS, V63, P511, DOI 10.1086/296519
+   MERTON RC, 1976, J FINANC ECON, V3, P125, DOI 10.1016/0304-405X(76)90022-2
+   Miyahara Y, 2004, DISCUSSION PAPERS EC, V379, P1
+   Nowak P, 2011, RECENT ADV FUZZY SET, V0, P155
+   Nowak P, 2002, MODELLING OPTIMIZATI, V0, P59
+   Nowak P, 2010, EUR J OPER RES, V201, P206, DOI 10.1016/j.ejor.2009.02.009
+   Rouge R, 2000, MATH FINANC, V10, P259, DOI 10.1111/1467-9965.00093
+   SHIRYAEV AN, 1999, ESSENTIAL STOCHASTIC, V0, P0
+   Ssebugenyi CS, 2011, APPL MATH SCI, V67, P3319
+   Wu HC, 2004, COMPUT OPER RES, V31, P1069, DOI 10.1016/S0305-0548(03)00065-0
+   Wu HC, 2007, APPL MATH COMPUT, V185, P136, DOI 10.1016/j.amc.2006.07.015
+   Xu WD, 2011, ECON MODEL, V28, P1857, DOI 10.1016/j.econmod.2011.03.016
+   Yoshida Y, 2003, EUR J OPER RES, V145, P221, DOI 10.1016/S0377-2217(02)00209-6
+   ZADEH LA, 1965, INFORM CONTROL, V8, P338, DOI 10.1016/S0019-9958(65)90241-X
+   Zhang LH, 2012, ECON MODEL, V29, P780, DOI 10.1016/j.econmod.2012.02.005
+NR 31
+TC 26
+Z9 27
+U1 0
+U2 17
+PU UNIV ZIELONA GORA PRESS
+PI ZIELONA GORA
+PA UL PODGORNA 50, ZIELONA GORA, 65-246, POLAND
+SN 1641-876X
+EI 
+J9 INT J AP MAT COM-POL
+JI Int. J. Appl. Math. Comput. Sci.
+PD SEP 15
+PY 2013
+VL 23
+IS 3
+BP 613
+EP 622
+DI 10.2478/amcs-2013-0046
+PG 10
+WC Automation & Control Systems; Computer Science, Artificial Intelligence; Mathematics, Applied
+SC Automation & Control Systems; Computer Science; Mathematics
+GA 228SJ
+UT WOS:000325208900010
+DA 2025-12-31
+ER
+
+PT J
+AU Bayer, C
+   Friz, P
+   Loeffen, R
+AF Bayer, Christian
+   Friz, Peter
+   Loeffen, Ronnie
+TI Semi-closed form cubature and applications to financial diffusion models
+SO QUANTITATIVE FINANCE
+LA English
+DT Article
+DE Computational finance; Stochastic volatility; Stochastic differential equations; Monte Carlo methods; C63; C65
+ID schemes
+AB Cubature methods, a powerful alternative to Monte Carlo due to Kusuoka [Adv. Math. Econ., 2004, 6, 6983] and LyonsVictoir [Proc. R. Soc. Lond. Ser. A, 2004, 460, 169198], involve the solution to numerous auxiliary ordinary differential equations (ODEs). With focus on the NinomiyaVictoir algorithm [Appl. Math. Finance, 2008, 15, 107121], which corresponds to a concrete level 5 cubature method, we study some parametric diffusion models motivated from financial applications, and show the structural conditions under which all involved ODEs can be solved explicitly and efficiently. We then enlarge the class of models for which this technique applies by introducing a (model-dependent) variation of the NinomiyaVictoir method. Our method remains easy to implement; numerical examples illustrate the savings in computation time.
+C1 [Bayer, Christian; Friz, Peter] WIAS Berlin, Berlin, Germany.
+   [Friz, Peter] TU Berlin, Berlin, Germany.
+   [Loeffen, Ronnie] Univ Manchester, Manchester, Lancs, England.
+C3 Technical University of Berlin; University of Manchester
+RP Friz, P (corresponding author), WIAS Berlin, Berlin, Germany.
+EM p.k.friz@gmail.com
+FU MATHEON; European Research Council under the European Union [258237]
+CR Alfonsi A, 2010, MATH COMPUT, V79, P209, DOI 10.1090/S0025-5718-09-02252-2
+   Bayer C, 2013, APPL MATH OPT, V67, P261, DOI 10.1007/s00245-012-9187-8
+   Chen B, 2012, PREPRINT, V0, P0
+   Fichte L, 2011, THESIS TU BERLIN, VDiploma thesis, P0
+   Friz P, 2010, MULTIDIMENSIONAL STOCHASTIC PROCESSES AS ROUGH PATHS: THEORY AND APPLICATIONS, V0, P0, DOI 10.1017/CBO9780511845079
+   FUJIWARA T, 2006, 6 ORDER METHODS KUSU, V0, P0
+   Glasserman P, 2004, STOCHASTIC MODELLING, V0, P0
+   Higham DJ, 2005, JOURNAL OF COMPUTATIONAL FINANCE, V8, P35, DOI 10.21314/JCF.2005.136
+   Karatzas I, 2004, BROWNIAN MOTION AND STOCHASTIC CALCULUS, V0, P0
+   Kloeden PE, 1999, NUMERICAL SOLUTION OF STOCHASTIC DIFFERENTIAL EQUATIONS, V0, P0
+   Kusuoka S, 2004, APPROXIMATION EXPECT, V6, P69, DOI 10.1007/978-4-431-68450-3_4
+   Lions PL, 2007, ANN I H POINCARE-AN, V24, P1, DOI 10.1016/j.anihpc.2005.05.007
+   Lions P-L, 2006, COMMUN APPL ANAL, V10, P126
+   Lord R, 2010, QUANT FINANC, V10, P177, DOI 10.1080/14697680802392496
+   Lyons T, 2004, P ROY SOC A-MATH PHY, V460, P169, DOI 10.1098/rspa.2003.1239
+   Lyons T, 2010, ARXIV10084942, V0, P0
+   Ninomiya M, 2009, FINANC STOCH, V13, P415, DOI 10.1007/s00780-009-0101-4
+   Ninomiya S, 2008, APPL MATH FINANCE, V15, P107, DOI 10.1080/13504860701413958
+   Oshima K, 2009, ARXIV09114380, V0, P0
+NR 19
+TC 16
+Z9 18
+U1 0
+U2 14
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1469-7688
+EI 1469-7696
+J9 QUANT FINANC
+JI Quant. Financ.
+PD MAY 1
+PY 2013
+VL 13
+IS 5
+BP 769
+EP 782
+DI 10.1080/14697688.2012.752102
+PG 14
+WC Business, Finance; Economics; Mathematics, Interdisciplinary Applications; Social Sciences, Mathematical Methods
+SC Business & Economics; Mathematics; Mathematical Methods In Social Sciences
+GA 135IA
+UT WOS:000318280600011
+DA 2026-01-04
+ER
+
+PT J
+AU Ortas, E
+   Moneva, JM
+AF Ortas, Eduardo
+   Moneva, Jose M.
+TI The Clean Techs equity indexes at stake: Risk and return dynamics analysis
+SO ENERGY
+LA English
+DT Article
+DE Clean technologies; Energy companies; Environmental economics; Kalman Filter; State-space modeling
+ID time-varying beta; environmental disclosures; stock-prices; sustainable development; social-responsibility; financial performance; climate-change; oil prices; energy; firms
+AB The goal of this paper is to measure the financial performance of 21 primary Clean Techs (CT) equity indexes, covering the primary energy markets worldwide. We use a modified state-space market model to recursively estimate the risk/return performance of each index, and two market benchmarks are considered, thus providing a more accurate picture of the financial outcomes of investing in these relatively new financial instruments. The main findings indicate that during periods of market stability, Clean Techs indexes outperform market portfolio in terms of returns. This superior performance is a consequence of the higher risk levels associated with Clean Techs indexes. This research also supports that CT indexes with a restricted investment universe underperform the market portfolio in terms of returns. Moreover, we find a structural change in the dynamics of the Clean Techs indexes' return/risk performance that coincides with the beginning of the financial crisis. Although the CT indexes are highly volatile financial instruments, even in bull market periods, they turn even riskier during the recent financial crisis. In addition, the CT provider portfolio allocation policy and the activities covered by these indexes influenced the risk/return performance of a limited number of CT equity indexes. (c) 2013 Elsevier Ltd. All rights reserved.
+C1 [Ortas, Eduardo; Moneva, Jose M.] Univ Zaragoza, Fac Business & Econ, Zaragoza 50005, Spain.
+C3 University of Zaragoza
+RP Ortas, E (corresponding author), Univ Zaragoza, Fac Business & Econ, C Gran Via 2, Zaragoza 50005, Spain.
+EM edortas@unizar.es
+FU Spanish Ministry of Education and Science;  [SEJ2006-08317];  [ECO2011-26171]
+CR Al-Tuwaijri SA, 2004, ACCOUNT ORG SOC, V29, P447, DOI 10.1016/S0361-3682(03)00032-1
+   Unknown -, 2010, EUR SRI STUD 2010, V0, P0
+   Ayres RU, 2007, ENERGY, V32, P634, DOI 10.1016/j.energy.2006.06.005
+   Beenstock M, 1977, ENERGY, V2, P249, DOI 10.1016/0360-5442(77)90029-9
+   BLACCONIERE WG, 1994, J ACCOUNT ECON, V18, P357, DOI 10.1016/0165-4101(94)90026-4
+   Boulatoff C, 2009, THE JOURNAL OF WEALTH MANAGEMENT, V12, P9, DOI 10.3905/JWM.2009.12.2.009
+   Bragdon JosephH, 1972, RISK MANAGEMENT, V19, P9, DOI 10.1017/CBO9781107415324.004
+   Brandt AR, 2010, ENERGY, V35, P2852, DOI 10.1016/j.energy.2010.03.014
+   Brooks R D, 1998, AUSTRALIAN JOURNAL OF MANAGEMENT, V23, P1, DOI 10.1177/031289629802300101
+   Brundtland C, 1987, OUR COMMON FUTURE, V0, P0
+   Bulatov I, 2009, CLEAN TECHNOL ENVIR, V11, P1, DOI 10.1007/s10098-008-0177-0
+   Buonocore E, 2012, ENERGY, V37, P69, DOI 10.1016/j.energy.2011.07.032
+   Carhart MM, 1997, J FINANC, V52, P57, DOI 10.2307/2329556
+   Chan C CC, 1999, ACCOUNTING AND BUSINESS RESEARCH, V29, P265, DOI 10.1080/00014788.1999.9729588
+   Chia CP, 2009, J PORTFOLIO MANAGE, V35, P34, DOI 10.3905/JPM.2009.35.3.034
+   Choudhry T, 2009, EUR J FINANC, V15, P437, DOI 10.1080/13518470802604499
+   Clark W, 2007, J CLEAN PROD, V15, P253, DOI 10.1016/j.jclepro.2006.02.001
+   Clemens B, 2006, J BUS RES, V59, P492, DOI 10.1016/j.jbusres.2005.08.006
+   FAMA EF, 1993, J FINANC ECON, V33, P3, DOI 10.1016/0304-405X(93)90023-5
+   FOGLER HR, 1975, ACAD MANAGE J, V18, P155, DOI 10.5465/255635
+   FOMBRUN C, 1990, ACAD MANAGE J, V33, P233, DOI 10.5465/256324
+   FRANKLE AW, 1978, FINANC MANAGE, V7, P76, DOI 10.2307/3665246
+   Freedman Martin, 2004, ACCOUNT FORUM, V28, P27, DOI 10.1016/j.accfor.2004.04.006
+   Hannoura AP, 2006, ENERGY, V31, P2269, DOI 10.1016/j.energy.2006.01.022
+   Harvey A, 1989, STRUCTURAL TIME SERIES MODELS AND THE KALMAN FILTER, V0, P0, DOI 10.1017/CBO9781107049994
+   Henriques I, 2008, ENERG ECON, V30, P998, DOI 10.1016/j.eneco.2007.11.001
+   Holman WR, 1985, RESEARCH IN CORPORATE SOCIAL PERFORMANCE AND POLICY, VI, P137
+   Holmes KA, 2008, INT REV FINANC ANAL, V17, P998, DOI 10.1016/J.IRFA.2008.05.001
+   Hughes KE II, 2000, ACCOUNT REV, V75, P209, DOI 10.2308/accr.2000.75.2.209
+   Klassen RD, 1996, MANAGE SCI, V42, P1199, DOI 10.1287/mnsc.42.8.1199
+   Kumar S, 2012, ENERG ECON, V34, P215, DOI 10.1016/j.eneco.2011.03.002
+   LEVINE MD, 1992, ENERGY, V17, P1121, DOI 10.1016/0360-5442(92)90002-H
+   Liposcak M, 2006, ENERGY, V31, P2276, DOI 10.1016/j.energy.2006.01.024
+   Lorraine NHJ, 2004, ACCOUNT FORUM, V0, PP7, DOI 10.1016/J.ACCF0R.2004.04.002
+   Lubin DA, 2010, HARVARD BUS REV, V88, P42
+   Lund PD, 2010, ENERGY, V35, P647, DOI 10.1016/j.energy.2009.10.037
+   Mergner S, 2008, EUR J FINANC, V14, P771, DOI 10.1080/13518470802173396
+   Moneva Jose M, 2008, INTERNATIONAL JOURNAL OF SUSTAINABLE ECONOMY, V1, P1, DOI 10.1504/IJSE.2008.020013
+   Moneva JM, 2010, IND MANAGE DATA SYST, V110, P193, DOI 10.1108/02635571011020304
+   Orlitzky M, 2003, ORGAN STUD, V24, P403, DOI 10.1177/0170840603024003910
+   PORTER ME, 1995, HARVARD BUS REV, V73, P120
+   ROBERTS RW, 1992, ACCOUNT ORG SOC, V17, P595, DOI 10.1016/0361-3682(92)90015-K
+   Rockness J, 1986, ADV PUBLIC INTEREST, V1, P167
+   Sadorsky P, 2012, ENERG ECON, V34, P248, DOI 10.1016/j.eneco.2011.03.006
+   Santamouris M, 2007, ENERGY, V32, P1781, DOI 10.1016/j.energy.2006.11.011
+   Sarmento M, 2006, ENERGY, V31, P2333, DOI 10.1016/j.energy.2006.01.015
+   Schaeffer R, 2012, ENERGY, V45, P933, DOI 10.1016/j.energy.2012.06.066
+   Schröder M, 2007, J BUS FINAN ACCOUNT, V34, P331, DOI 10.1111/j.1468-5957.2006.00647.x
+   STEVENS WP, 1984, ADV ACCOUNT, V1, P41
+   Taseska V, 2012, ENERGY, V48, P88, DOI 10.1016/j.energy.2012.06.053
+   Thomas Alison, 2001, BUSINESS STRATEGY AND THE ENVIRONMENT, V10, P125, DOI 10.1002/BSE.281
+   Tsai WH, 2012, ENERGY, V39, P218, DOI 10.1016/j.energy.2012.01.027
+   Tsai WH, 2011, ENERGY, V36, P3022, DOI 10.1016/j.energy.2011.02.046
+   WALLEY N, 1994, HARVARD BUS REV, V72, P46
+   Warr BS, 2010, ENERGY, V35, P1688, DOI 10.1016/j.energy.2009.12.017
+   Wells C, 1994, APPL FINANCIAL EC, V4, P75, DOI 10.1080/758522128
+   Wilson E, 2003, ENVIRON SCI TECHNOL, V37, P34
+   WISEMAN J, 1982, ACCOUNT ORG SOC, V7, P53, DOI 10.1016/0361-3682(82)90025-3
+   Wu M, 2006, J AM ACAD BUSINESS, V8, P163
+NR 59
+TC 35
+Z9 41
+U1 0
+U2 17
+PU PERGAMON-ELSEVIER SCIENCE LTD
+PI OXFORD
+PA THE BOULEVARD, LANGFORD LANE, KIDLINGTON, OXFORD OX5 1GB, ENGLAND
+SN 0360-5442
+EI 1873-6785
+J9 ENERGY
+JI Energy
+PD AUG 1
+PY 2013
+VL 57
+IS 
+BP 259
+EP 269
+DI 10.1016/j.energy.2013.03.046
+PG 11
+WC Thermodynamics; Energy & Fuels
+SC Thermodynamics; Energy & Fuels
+GA 204HG
+UT WOS:000323355600028
+DA 2026-01-04
+ER
+

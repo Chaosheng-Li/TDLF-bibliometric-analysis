@@ -1,0 +1,17 @@
+Label,Replace by
+england,UK
+scotland,UK
+wales,UK
+north ireland,UK
+peoples r china,China
+turkiye,Turkey
+turkey,Turkey
+u arab emirates,UAE
+usa,USA
+russia,Russia
+south korea,South Korea
+czech republic,Czech Republic
+saudi arabia,Saudi Arabia
+new zealand,New Zealand
+south africa,South Africa
+sri lanka,Sri Lanka

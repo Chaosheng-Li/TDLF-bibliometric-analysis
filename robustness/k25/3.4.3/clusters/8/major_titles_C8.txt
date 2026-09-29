@@ -1,0 +1,26 @@
+PAIRS TRADING WITH TOPOLOGICAL DATA ANALYSIS
+A Computationally Efficient Framework for Vector Representation of Persistence Diagrams
+Early Warning Signals of Financial Crises Using Persistent Homology and Critical Slowing Down: Evidence From Different Correlation Tests
+Topological features of multivariate distributions: Dependency on the covariance matrix
+Why topological data analysis detects financial bubbles?
+VECTOR SUMMARIES OF PERSISTENCE DIAGRAMS FOR PERMUTATION-BASED HYPOTHESIS TESTING
+Toward profitable energy futures trading strategies using reinforcement learning incorporating disagreement and connectedness methods enabled by large language models
+Modeling and Optimization of News-Stock Price Correlation Based on Topic Influence Selection
+Dynamic linkages among equity markets in the Middle East and North African countries
+Can topological transitions in cryptocurrency systems serve as early warning signals for extreme fluctuations in traditional markets?
+Dimension Expansion for Learning Money Laundering Activities Hidden in Transaction Network
+Topological data analysis of financial time series: Landscapes of crashes
+A TOPOLOGICAL APPROACH FOR CAPTURING HIGH-ORDER INTERACTIONS IN GRAPH DATA WITH APPLICATIONS TO ANOMALY DETECTION IN TIME-VARYING CRYPTOCURRENCY TRANSACTION GRAPHS
+Time-resolved topological data analysis of market instabilities
+Understanding Changes in the Topology and Geometry of Financial Market Correlations during a Market Crash
+Multilayer topology-aware graph contrastive learning for fraud detection in the Ethereum transaction network
+Some Recent Progress on Numerical Methods for Controlled Regime-Switching Models with Applications to Insurance and Risk Management
+Dynamic volatility spillovers among commodities, bitcoin, and emerging markets
+FinTDA: Python package for estimating market change through persistent homology diagrams
+The better turbulence index? Forecasting adverse financial markets regimes with persistent homology
+Causality analysis of COVID-19-induced crashes in stock and commodity markets: A topological perspective
+OPTIMAL INSURANCE STRATEGIES: A HYBRID DEEP LEARNING MARKOV CHAIN APPROXIMATION APPROACH
+Topological variability in financial markets
+Early warning signals of financial crises using persistent homology
+Index tracking through deep latent representation learning
+Relationship of public farmland and timberland REITs with their private equity counterparts and selected asset classes

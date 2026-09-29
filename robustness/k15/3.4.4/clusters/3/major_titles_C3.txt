@@ -1,0 +1,71 @@
+Can transformers transform financial forecasting?
+MixMamba: Time series modeling with adaptive expertise
+Leveraging multi-time-span sequences and feature correlations for improved stock trend prediction
+Sentiment-driven cryptocurrency forecasting: analyzing LSTM, GRU, Bi-LSTM, and temporal attention model (TAM)
+Enhancing nonlinear dependencies of Mamba via negative feedback for time series forecasting
+Dynamic risk prediction in financial-production systems using temporal self-attention and adaptive autoregressive models
+Quantile deep learning models for multi-step ahead time series prediction
+Hyperparameter-Optimized RNN, LSTM, and GRU Models for Airline Stock Price Prediction: A Comparative Study on THYAO and PGSUS
+CMDMamba: dual-layer Mamba architecture with dual convolutional feed-forward networks for efficient financial time series forecasting
+RLMamba: Integrating residual learning with Mamba for long-term time series forecasting
+Extended-horizon realized volatility forecasting using state space models
+KOSLM: A Kalman-Optimal Hybrid State-Space Memory Network for Long-Term Time Series Forecasting
+An Attention-Guided Improved Decomposition-Reconstruction Model for Stock Market Prediction
+Patch-tLSTM: A multi-step prediction model for precious metal futures with high accuracy
+A channel-independent network using patch external attention and mamba for long-term multivariate time series forecasting
+A novel Mamba-hypergraph enhanced time-frequency fusion network for multivariate time series classification
+DMSTA-LSTM: A Dual-Stage Multi-Time Scale Temporal Attention-Based LSTM Framework for Forecasting International Financial Indices Across Diverse Varied National Contexts
+Neural Titans in market prediction: MLP, transformer, & hybrid models across G-7 and China
+From news to trends: a financial time series forecasting framework with LLM-driven news sentiment analysis and selective state spaces
+CMMamba: channel mixing Mamba for time series forecasting
+RecMamba: Reconstruction-augmented dual-path Mamba for time series forecasting
+Predicting the relative performance among financial assets: A comparative analysis of different approaches
+Harnessing technical indicators with deep learning based price forecasting for cryptocurrency trading☆
+Multivariate time series anomaly detection with heterogeneous-aware channel independence and global-local channel dependence
+Helformer: an attention-based deep learning model for cryptocurrency price forecasting
+Meta-LSTR: Meta-Learning with Long Short-Term Transformer for futures volatility prediction
+Exploring time series analysis in frequency domain with complex-valued spectral attention and bidirectional variable mamba
+VMD-MSANet: A multi-scale attention network for stock series prediction with Variational Mode Decomposition
+CLAM: A Synergistic Deep Learning Model for Multi-Step Stock Trend Forecasting
+TimeGPT's Potential in Cryptocurrency Forecasting: Efficiency, Accuracy, and Economic Value
+Empowered stock market forecasting using Large Language Model on social media content
+TSCMamba: Mamba meets multi-view learning for time series classification
+ICAIMT: ART-LSTM: Augmented Reverse Training for Data-Efficient Time Series Forecasting
+Multi-Scale TsMixer: A Novel Time-Series Architecture for Predicting A-Share Stock Index Futures
+SOMA: A semantic-guided Order-aware Mamba Architecture for multivariate time series forecasting
+Data-driven stock forecasting models based on neural networks: A review
+Crossmamba: multivariate time series forecasting model for cross-temporal and cross-dimensional dependencies with Mamba
+Reinforcement learning with temporal and variable dependency-aware transformer for stock trading optimization
+A systematic review for transformer-based long-term series forecasting
+An efficient framework for general long-horizon time series forecasting with Mamba and Diffusion Probabilistic Models
+Series decomposition Transformer with period-correlation for stock market index prediction
+A Hybrid EGARCH-Informer Model with Consistent Risk Calibration for Volatility and CVaR Forecasting
+Stock Market Volatility Forecasting: Exploring the Power of Deep Learning
+Kolmogorov-Arnold networks for time series forecasting: a comprehensive review
+A novel deep reinforcement learning framework with BiLSTM-Attention networks for algorithmic trading
+DPEM: Dual-Perspective Enhanced Mamba for multivariate time series forecasting
+Patterns in time series to image phase and multi-step forecasting of financial indices
+Enhancing large language models for bitcoin time series forecasting
+Physical information-guided multidirectional gated recurrent unit network fusing attention to solve the Black-Scholes equation
+BiMT-TCN: A cutting-edge hybrid model for enhanced stock price prediction
+MambaLLM: Integrating Macro-Index and Micro-Stock Data for Enhanced Stock Price Prediction
+DecMamba: Mamba Utilizing Series Decomposition for Multivariate Time Series Forecasting
+Deep Learning in Finance: A Survey of Applications and Techniques
+SPPMFN: Efficient Multimodal Financial Time-Series Prediction Network With Self-Supervised Learning
+Comprehensive Analysis of Machine and Deep Learning Models for Stock Market Prediction
+TIC-FusionNet: A multimodal deep learning framework with temporal decomposition and attention-based fusion for time series forecasting
+Long Short-Term Financial Time Series Forecasting Based on Residual Multiscale TCN Sparse Expert Network and Informer
+Is Mamba effective for time series forecasting?
+A comprehensive survey of deep learning for time series forecasting: architectural diversity and open challenges
+STL-ELM: A computationally efficient hybrid approach for predicting high volatility stock market
+Temporal Implicit Multimodal Networks for Investment and Risk Management
+Cross-Scale Attention for Long-Term Time Series Forecasting
+Artificial intelligence and classical statistical models for time series forecasting: a comprehensive review
+Mamba Adaptive Anomaly Transformer with association discrepancy for time series
+Historical Perspectives in Volatility Forecasting Methods with Machine Learning
+TimeParticle: Particle-like multiscale state space models for time series forecasting
+Long short-term memory networks in learning memory inconsistencies of stock markets
+A dual-layer state space network for Multivariate Time Series Forecasting with dimensional interdependency
+Mamba time series forecasting with uncertainty quantification
+Transformer-Based Models for Probabilistic Time Series Forecasting with Explanatory Variables
+A channel-independent network based on wavelet enhancement for long-term time series forecasting

@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchresult>
+<query>Global</query>
+<document id="1">
+<title>Misspecified diffusion models with high-frequency observations and an application to neural networks</title>
+<url>http://dx.doi.org/10.1016/j.spa.2021.08.007</url>
+<snippet>We study the asymptotic theory of misspecified models for diffusion processes with noisy nonsynchronous observations. Unlike with correctly specified models, the original maximum-likelihood-type estimator has an asymptotic bias under the misspecified setting and fails to achieve an optimal rate of convergence. To address this, we consider a new quasi-likelihood function that allows constructing a maximum-likelihood-type estimator that achieves the optimal rate of convergence. Study of misspecified models enables us to apply machine-learning techniques to the maximum-likelihood approach. With these techniques, we can efficiently study the microstructure of a stock market by using rich information of high-frequency data. Neural networks have particularly good compatibility with the maximum-likelihood approach, so we will consider an example of using a neural network for simulation studies and empirical analysis of high-frequency data from the Tokyo Stock Exchange. We demonstrate that the neural network outperforms polynomial models in volatility predictions for major stocks in Tokyo Stock Exchange. (C) 2021 The Author(s). Published by Elsevier B.V.
+WOS:000697748500008
+</snippet>
+</document>
+
+<document id="2">
+<title>Stochastic differential equation model for detecting digital currency market manipulation: A systematic review</title>
+<url>http://dx.doi.org/10.59400/adecp3728</url>
+<snippet>Digital currency markets exhibit extreme volatility, heavy tails, and bursty order-flow that complicate surveillance and heighten manipulation risk. This systematic review synthesizes the state of the art in stochastic differential equation (SDE)-based approaches for detection and monitoring of abusive practices in cryptocurrencies. Following PRISMA 2020 and PICOS, an Elsevier-indexed search (2015-2025) yielded 273 records; after screening and eligibility assessment, 20 primary studies (2018-2025) were included. The literature clusters into six methodological families: (i) stochastic volatility and jump-diffusion models for heavy-tailed returns and volatility smiles; (ii) Hawkes and related point-process models for clustered order arrivals, spoofing, pump-and-dump, and wash trading; (iii) Markov and regime-switching diffusions that delineate latent "fair" versus manipulated regimes; (iv) hybrid SDE-machine learning frameworks for high-frequency prediction; (v) change-point and sequential detection methods grounded in likelihood ratios and optimal stopping; and (vi) meta-studies consolidating performance trends. Across studies, Hawkes-type intensities consistently outperform Poisson and threshold baselines in event detection; regime-switching models align with known market breaks; and hybrid neural-SDE systems achieve the strongest forecasting but at reduced interpretability. We formalize a taxonomy linking model structure to surveillance objective, and we delineate a practical trade-off between transparency (classical SDEs) and predictive accuracy (hybrid models). The review highlights open needs in explainable hybrid designs, reproducible datasets, and real-time deploy ability for exchanges and regulators. By connecting applied probability, financial engineering, and control, the paper clarifies how SDE frameworks can underpin robust, auditable market-integrity tools for digital assets.
+WOS:001643079700003
+</snippet>
+</document>
+
+<document id="3">
+<title>Semi-closed form cubature and applications to financial diffusion models</title>
+<url>http://dx.doi.org/10.1080/14697688.2012.752102</url>
+<snippet>Cubature methods, a powerful alternative to Monte Carlo due to Kusuoka [Adv. Math. Econ., 2004, 6, 6983] and LyonsVictoir [Proc. R. Soc. Lond. Ser. A, 2004, 460, 169198], involve the solution to numerous auxiliary ordinary differential equations (ODEs). With focus on the NinomiyaVictoir algorithm [Appl. Math. Finance, 2008, 15, 107121], which corresponds to a concrete level 5 cubature method, we study some parametric diffusion models motivated from financial applications, and show the structural conditions under which all involved ODEs can be solved explicitly and efficiently. We then enlarge the class of models for which this technique applies by introducing a (model-dependent) variation of the NinomiyaVictoir method. Our method remains easy to implement; numerical examples illustrate the savings in computation time.
+WOS:000318280600011
+</snippet>
+</document>
+
+<document id="4">
+<title>A recursive recomputation approach for smoothing in nonlinear state-space modeling: An attempt for reducing space complexity</title>
+<url>http://dx.doi.org/10.1109/TSP.2007.899585</url>
+<snippet>In this paper, we develop a new generic implementation scheme for numerical smoothing in nonlinear and Bayesian state-space modeling. Our new generic implementation scheme, which we call recursive recomputation scheme, reduces the space complexity from O(MT) to O(M log T), at the cost of 0 (log T) times computation of filtering distributions in time complexity. This reduction is accomplished by employing carefully designed recursive recomputation. The Japanese stock market price time-series data with T = 956 is taken up as an instance to demonstrate advantage of the proposed scheme. The path-sampling particle smoother is implemented with the scheme to smooth the whole interval estimating the change of volatility. The number of particles is 3000000, and the whole interval is smoothed with 5.3-GB storage, accomplishing saving of storage by a factor of 1/20. The computed smoothing distribution is compared with the ones computed with the existing two other well-known smoothers, the forward-backward smoother and the smoother based on two-filter formula. It turns out that, among the three, ours is the only method which succeeded in computing a reliable and plausible smoothing distribution in the situation.
+WOS:000250374300004
+</snippet>
+</document>
+
+<document id="5">
+<title>A New Deep Learning-Based Zero-Inflated Duration Model for Financial Data Irregularly Spaced in Time</title>
+<url>http://dx.doi.org/10.3389/fphy.2021.651528</url>
+<snippet>In stock trading markets, trade duration (i. e., inter-arrival times of trades) usually exhibits high uncertainty and excessive zero values. To forecast conditional distribution of trade duration, this study proposes a hybrid model called "DL-ZIACD" for short, which addresses the problem of excessive zero values by a zero-inflated distribution. Meanwhile, dynamics of the distribution time-varying parameters are captured by a specially designed deep learning (DL) architecture in which the behavioral patterns of large traders and small individual traders are represented separately by different blocks. The proposed hybrid model takes advantage of the strong fitting ability of deep learning methods while allowing for providing a probabilistic output. This paper empirically applied the established model to a large-scale dataset, containing 9,900,000 transactions of the Chinese Shenzhen Stock Exchange 100 Index (SZSE 100) constituents. To the best of our knowledge, no previous studies have applied conditional duration models to a dataset of such a large scale. For both the central location forecasting and the extreme quantile forecasting, our proposed model exhibited significant superiority over the benchmark models, which indicates that our DL-ZIACD model can provide accurate forecasts in conditional duration distribution.
+WOS:000657434500001
+</snippet>
+</document>
+
+<document id="6">
+<title>A multifactor transformed diffusion model with applications to VIX and VIX futures</title>
+<url>http://dx.doi.org/10.1080/07474938.2019.1690195</url>
+<snippet>Transformed diffusions (TDs) have become increasingly popular in financial modeling for their model flexibility and tractability. While existing TD models are predominately one-factor models, empirical evidence often prefers models with multiple factors. We propose a novel distribution-driven nonlinear multifactor TD model with latent components. Our model is a transformation of a underlying multivariate Ornstein-Uhlenbeck (MVOU) process, where the transformation function is endogenously specified by a flexible parametric stationary distribution of the observed variable. Computationally efficient exact likelihood inference can be implemented for our model using a modified Kalman filter algorithm and the transformed affine structure also allows us to price derivatives in semi-closed form. We compare the proposed multifactor model with existing TD models for modeling VIX and pricing VIX futures. Our results show that the proposed model outperforms all existing TD models both in the sample and out of the sample consistently across all categories and scenarios of our comparison.
+WOS:000501427300001
+</snippet>
+</document>
+
+<document id="7">
+<title>A non-linear dynamic model of the variance risk premium</title>
+<url>http://dx.doi.org/10.1016/j.jeconom.2015.02.038</url>
+<snippet>We propose a new class of non-linear diffusion processes for modeling financial markets data. Our non-linear diffusions are obtained as transformations of affine processes. We show that asset-pricing and estimation is possible and likelihood estimation is straightforward. We estimate a non-linear diffusion model for the VIX index under both the objective measure and the risk-neutral measure where the latter is obtained from futures prices. We find evidence of significant non-linearity under both measures. We define the difference between the P and Q drift as a measure of the variance risk premium and show that it has strong predictive power for stock returns. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000357348300013
+</snippet>
+</document>
+
+<document id="8">
+<title>European vulnerable options pricing under sub-mixed fractional jump-diffusion model with stochastic interest rate</title>
+<url>http://dx.doi.org/10.1080/03610918.2024.2413907</url>
+<snippet>With the development of financial markets, the trading of financial derivatives has become more flexible. To meet the demands of investors, over-the-counter (OTC) trading of options has also become increasingly frequent, raising concerns about accurately pricing vulnerable options. This study investigates the pricing problem of European vulnerable options under the sub-mixed fractional jump-diffusion (SMFJ) model. Firstly, the underlying asset price model and the counterparty company value model are established under the SMFJ model with a sub-mixed fractional Vasicek stochastic interest rate. Then, analytical solutions for the European vulnerable options are obtained using the quasi-martingale measure transformation and the risk-neutral pricing method. Additionally, the accuracy of the pricing formula is verified through the Monte Carlo simulation method. Finally, the rationality and validity of the established model are confirmed by numerical simulations, and the influence of key parameters on the pricing models is analyzed.
+WOS:001337394300001
+</snippet>
+</document>
+
+<document id="9">
+<title>Efficient volatility estimation in a two-factor model</title>
+<url>http://dx.doi.org/10.1111/sjos.12431</url>
+<snippet>We statistically analyze a multivariate Heath-Jarrow-Morton diffusion model with stochastic volatility. The volatility process of the first factor is left totally unspecified while the volatility of the second factor is the product of an unknown process and an exponential function of time to maturity. This exponential term includes some real parameter measuring the rate of increase of the second factor as time goes to maturity. From historical data, we efficiently estimate the time to maturity parameter in the sense of constructing an estimator that achieves an optimal information bound in a semiparametric setting. We also nonparametrically identify the paths of the volatility processes and achieve minimax bounds. We address the problem of degeneracy that occurs when the dimension of the process is greater than two, and give in particular optimal limit theorems under suitable regularity assumptions on the drift process. We consistently analyze the numerical behavior of our estimators on simulated and real datasets of prices of forward contracts on electricity markets.
+WOS:000502856900001
+</snippet>
+</document>
+
+<document id="10">
+<title>Pre-averaging estimators of the ex-post covariance matrix in noisy diffusion models with non-synchronous data</title>
+<url>http://dx.doi.org/10.1016/j.jeconom.2010.05.001</url>
+<snippet>We show how pre-averaging can be applied to the problem of measuring the ex-post covariance of financial asset returns under microstructure noise and non-synchronous trading. A pre-averaged realised covariance is proposed, and we present an asymptotic theory for this new estimator, which can be configured to possess an optimal convergence rate or to ensure positive semi-definite covariance matrix estimates. We also derive a noise-robust Hayashi-Yoshida estimator that can be implemented on the original data without prior alignment of prices. We uncover the finite sample properties of our estimators with simulations and illustrate their practical use on high-frequency equity data. (C) 2010 Elsevier B.V. All rights reserved.
+WOS:000282926000008
+</snippet>
+</document>
+
+<document id="11">
+<title>Specification tests for nonlinear dynamic models</title>
+<url>http://dx.doi.org/10.1111/ectj.12040</url>
+<snippet>We propose a new adequacy test and a graphical evaluation tool for nonlinear dynamic models. The proposed techniques can be applied in any set-up where parametric conditional distribution of the data is specified and, in particular, to models involving conditional volatility, conditional higher moments, conditional quantiles, asymmetry, Value at Risk models, duration models, diffusion models, etc. Compared to other tests, the new test properly controls the nonlinear dynamic behaviour in conditional distribution and does not rely on smoothing techniques that require a choice of several tuning parameters. The test is based on a new kind of multivariate empirical process of contemporaneous and lagged probability integral transforms. We establish weak convergence of the process under parameter uncertainty and local alternatives. We justify a parametric bootstrap approximation that accounts for parameter estimation effects often ignored in practice. Monte Carlo experiments show that the test has good finite-sample size and power properties. Using the new test and graphical tools, we check the adequacy of various popular heteroscedastic models for stock exchange index data.
+WOS:000352033400003
+</snippet>
+</document>
+
+<document id="12">
+<title>Variance reduction approach for the volatility over a finite-time horizon</title>
+<url>http://dx.doi.org/10.1080/03610926.2020.1797803</url>
+<snippet>The volatility is a measure for the uncertainty of an asset's return and is used to reflect the risk level of a financial asset. In this article, we consider the double kernel nonparametric estimator for the volatility function in a diffusion model over a finite-time span based on high frequency sampling data. Under the minimum conditions, the asymptotic mixed normality for the underlying estimator is derived. Moreover, the better finite-sample performance as variance reduction and even mean squared error reduction of the proposed estimator is verified through a Monte Carlo simulation study and an empirical analysis on overnight Shibor in China.
+WOS:000552570400001
+</snippet>
+</document>
+
+<document id="13">
+<title>Structural break-aware pairs trading strategy using deep reinforcement learning</title>
+<url>http://dx.doi.org/10.1007/s11227-021-04013-x</url>
+<snippet>Pairs trading is an effective statistical arbitrage strategy considering the spread of paired stocks in a stable cointegration relationship. Nevertheless, rapid market changes may break the relationship (namely structural break), which further leads to tremendous loss in intraday trading. In this paper, we design a two-phase pairs trading strategy optimization framework, namely structural break-aware pairs trading strategy (SAPT), by leveraging machine learning techniques. Phase one is a hybrid model extracting frequency- and time-domain features to detect structural breaks. Phase two optimizes pairs trading strategy by sensing important risks, including structural breaks and market-closing risks, with a novel reinforcement learning model. In addition, the transaction cost is factored in a cost-aware objective to avoid significant reduction of profitability. Through large-scale experiments in real Taiwan stock market datasets, SAPT outperforms the state-of-the-art strategies by at least 456&#37; and 934&#37; in terms of profit and Sortino ratio, respectively.
+WOS:000685616100004
+</snippet>
+</document>
+
+<document id="14">
+<title>Pricing and hedging path-dependent options under the CEV process</title>
+<url>http://dx.doi.org/10.1287/mnsc.47.7.949.9804</url>
+<snippet>Much of the work on path-dependent options assumes that the underlying asset price follows geometric Brownian motion with constant volatility This paper uses a more general assumption for the asset price process that provides a better fit to the empirical observations. We use the so-called constant elasticity of variance (CEV) diffusion model where the volatility is a function of the underlying asset price. We derive analytical formulae for the prices of important types of path-dependent options under this assumption. We demonstrate that the prices of options, which depend on extrema, such as barrier and lookback options, can be much more sensitive to the specification of the underlying price process than standard call and put options and show that a financial institution that uses the standard geometric Brownian motion assumption is exposed to significant pricing and hedging errors when dealing in path-dependent options.
+WOS:000170475400005
+</snippet>
+</document>
+
+<document id="15">
+<title>Calibrating FBSDEs Driven Models in Finance via NNs</title>
+<url>http://dx.doi.org/10.3390/risks10120227</url>
+<snippet>The curse of dimensionality problem refers to a set of troubles arising when dealing with huge amount of data as happens, e.g., applying standard numerical methods to solve partial differential equations related to financial modeling. To overcome the latter issue, we propose a Deep Learning approach to efficiently approximate nonlinear functions characterizing financial models in a high dimension. In particular, we consider solving the Black-Scholes-Barenblatt non-linear stochastic differential equation via a forward-backward neural network, also calibrating the related stochastic volatility model when dealing with European options. The obtained results exhibit accurate approximations of the implied volatility surface. Specifically, our method seems to significantly reduce the neural network's training time and the approximation error on the test set.
+WOS:000902740400001
+</snippet>
+</document>
+
+<document id="16">
+<title>Estimation of integrated volatility in continuous-time financial models with applications to goodness-of-fit testing</title>
+<url>http://dx.doi.org/10.1111/j.1467-9469.2006.00479.x</url>
+<snippet>Properties of a specification test for the parametric form of the variance function in diffusion processes are discussed. The test is based on the estimation of certain integrals of the volatility function. If the volatility function does not depend on the variable x it is known that the corresponding statistics have an asymptotic normal distribution. However, most models of mathematical finance use a volatility function which depends on the state x. In this paper we prove that in the general case, where sigma depends also on x the estimates of integrals of the volatility converge stably in law to random variables with a non-standard limit distribution. The limit distribution depends on the diffusion process X-t itself and we use this result to develop a bootstrap test for the parametric form of the volatility function, which is consistent in the general diffusion model.
+WOS:000237184600008
+</snippet>
+</document>
+
+<document id="17">
+<title>Nonparametric model validations for hidden Markov models with applications in financial econometrics</title>
+<url>http://dx.doi.org/10.1016/j.jeconom.2011.01.002</url>
+<snippet>We address the nonparametric model validation problem for hidden Markov models with partially observable variables and hidden states. We achieve this goal by constructing a nonparametric simultaneous confidence envelope for transition density function of the observable variables and checking whether the parametric density estimate is contained within such an envelope. Our specification test procedure is motivated by a functional connection between the transition density of the observable variables and the Markov transition kernel of the hidden states. Our approach is applicable for continuous-time diffusion models, stochastic volatility models, nonlinear time series models, and models with market microstructure noise. (C) 2011 Elsevier B.V. All rights reserved.
+WOS:000291065300005
+</snippet>
+</document>
+
+<document id="18">
+<title>AdaRisk: Risk-Adaptive Deep Reinforcement Learning for Vulnerable Nodes Detection</title>
+<url>http://dx.doi.org/10.1109/TKDE.2024.3409869</url>
+<snippet>Vulnerable node detection in uncertain graphs is a typical graph mining problem that seeks to identify nodes at a high risk of breakdown under the joint effect from both the self and contagion risk probability. This is an NP-hard problem that is crucial for risk management in many real-world applications such as networked loans and smart grids. Monte Carlo (MC) simulation and its optimized algorithms are commonly used to approximate the breakdown probability, but these methods require a large number of samples to ensure accuracy, which is computationally expensive for large-scale networks. Although recent studies employ Graph Neural Networks (GNNs) to model the contagion process and accelerate the inference, many of these methods suffer from the over-smoothing problem, leading to suboptimal performance under the long-distance risk contagion process. To this end, we propose a novel risk-adaptive deep reinforcement learning-based framework (AdaRisk) for vulnerable nodes detection in uncertain graphs. In particular, we design the Markov Decision Process (MDP) of the vulnerability estimation process in which our agent would approach the risk adaptively based on contagion probability accumulated in prior iterations. To encode state embeddings that incorporate multi-hop contagion information, the agent utilizes a long-distance adaptable policy network to process the input graph and output actions as the vulnerable probability of nodes. We conducted extensive experiments on four benchmark networks and three real-world financial networks to evaluate our proposed framework's performance. Our results demonstrate that AdaRisk outperforms state-of-the-art baselines in terms of detection performance, and also offers significant running time reductions compared to MC simulation.
+WOS:001336378400126
+</snippet>
+</document>
+
+<document id="19">
+<title>The Seven-League Scheme: Deep Learning for Large Time Step Monte Carlo Simulations of Stochastic Differential Equations</title>
+<url>http://dx.doi.org/10.3390/risks10030047</url>
+<snippet>We propose an accurate data-driven numerical scheme to solve stochastic differential equations (SDEs), by taking large time steps. The SDE discretization is built up by means of the polynomial chaos expansion method, on the basis of accurately determined stochastic collocation (SC) points. By employing an artificial neural network to learn these SC points, we can perform Monte Carlo simulations with large time steps. Basic error analysis indicates that this data-driven scheme results in accurate SDE solutions in the sense of strong convergence, provided the learning methodology is robust and accurate. With a method variant called the compression-decompression collocation and interpolation technique, we can drastically reduce the number of neural network functions that have to be learned, so that computational speed is enhanced. As a proof of concept, 1D numerical experiments confirm a high-quality strong convergence error when using large time steps, and the novel scheme outperforms some classical numerical SDE discretizations. Some applications, here in financial option valuation, are also presented.
+WOS:000774305300001
+</snippet>
+</document>
+
+<document id="20">
+<title>Continuous Mixed-Laplace Jump Diffusion Models for Stocks and Commodities</title>
+<url>http://dx.doi.org/10.3934/QFE.2017.2.145</url>
+<snippet>This paper proposes two jump di ff usion models with and without mean reversion, for stocks or commodities, capable to fit highly leptokurtic processes. The jump component is a continuous mixture of independent point processes with Laplace jumps. As in financial markets, jumps are caused by the arrival of information and sparse information has usually more importance than regular information, the frequencies of shocks are assumed inversely proportional to their average size. In this framework, we find analytical expressions for the density of jumps, for characteristic functions and moments of log-returns. Simple series developments of characteristic functions are also proposed. Options prices or densities are retrieved by discrete Fourier transforms. An empirical study demonstrates the capacity of our models to fit time series with a high kurtosis. The Continuous Mixed-Laplace Jump Di ff usion (CMLJD) is fitted to four major stocks indices (MSWorld, FTSE, S&amp; P and CAC 40), over a period of 10 years. The mean reverting CMLJD is fitted to four time series of commodity prices (Copper, Soy Beans, Crude Oil WTI and Wheat), observed on four years. Finally, examples of implied volatility surfaces for European Call options are presented. The sensitivity of this surface to each parameters is analyzed.
+WOS:000413914500002
+</snippet>
+</document>
+
+<document id="21">
+<title>On the statistical equivalence at suitable frequencies of garch and stochastic volatility models with the corresponding diffusion model</title>
+<url>http://dx.doi.org/</url>
+<snippet>Continuous-time models play a central role in the modern theoretical finance literature, while discrete-time models are often used in the empirical finance literature. The continuous-time models are diffusions governed by stochastic differential equations. Most of the discrete-time models are autoregressive conditionally heteroscedastic (ARCH) models and stochastic volatility (SV) models. The discrete-time models are often regarded as discrete approximations of diffusions because the discrete-time processes weakly converge to the diffusions. It is known that SNV models and multiplicative GARCH models share the same diffusion limits in a weak-convergence sense. Here we investigate a much stronger convergence notion. We show that SV models are asymptotically equivalent to their diffusion limits at the basic frequency of their construction, while multiplicative GARCH models match to the diffusion limits only for observations singled-out at frequencies lower than the square root of the basic frequency of construction. These results also reveal that the structure of the multiplicative GARCH models at frequencies lower than the square root of the basic frequency no longer obey the GARCH framework at the observed frequencies. Instead they behave there like the SV models.
+WOS:000186281600005
+</snippet>
+</document>
+
+<document id="22">
+<title>Efficient estimation for the volatility of stochastic interest rate models</title>
+<url>http://dx.doi.org/10.1007/s00362-020-01166-4</url>
+<snippet>The joint analysis of non-stationary and high frequency financial data poses theoretical challenges due to that such massive data varies with time and possesses no fixed density function. This paper proposes the local linear smoothing to estimate the unknown volatility function in scalar diffusion models based on Gamma asymmetric kernels for high frequency financial big data. Under the mild conditions, we obtain the asymptotic normality for the estimator at both interior and boundary design points. Besides the standard properties of the local linear estimator such as simple bias representation and boundary bias correction, the local linear smoothing using Gamma asymmetric kernels possesses some extra advantages such as variance reduction and resistance to sparse design, which is validated through finite sample simulation study and empirical analysis on 6-month Shanghai Interbank Offered Rate (abbreviated as Shibor) in China.
+WOS:000564394200001
+</snippet>
+</document>
+
+<document id="23">
+<title>Online Kernel estimation of stationary stochastic diffusion models</title>
+<url>http://dx.doi.org/10.1080/14697688.2016.1262054</url>
+<snippet>Nonparametric regression has recently become important in quantitative finance due to its distribution-free property. However, this advantage does not come without any cost. As large sample sizes are always required to adequately estimate local structures, nonparametric regression is computationally intensive in real applications. This paper proposes an online method to decrease the computational cost of nonparametric regression for estimating stationary stochastic diffusion models. We establish asymptotic behaviours of the proposed estimators under appropriate conditions. Numerical examples and an empirical study of US 3-month treasury bill rates are illustrated. The application to financial risk management is also taken into consideration.
+WOS:000402991700008
+</snippet>
+</document>
+
+<document id="24">
+<title>Double Smoothed Volatility Estimation of Potentially Non-stationary Jump-diffusion Model of Shibor</title>
+<url>http://dx.doi.org/10.1111/jtsa.12592</url>
+<snippet>The occurrence-50 of economic policies and other sudden and large shocks often bring out jumps in financial data, which can be characterized through continuous-time jump-diffusion model. In this article, we present the double smoothed non-parametric approach for infinitesimal conditional volatility of jump-diffusion model based on high frequency data. Under certain minimal conditions, we obtain the strong consistency and asymptotic normality for the estimator as the time span T -&gt; infinity and the sample interval Delta n -&gt; 0. The procedure and asymptotic behavior can be applied for both Harris recurrent and positive Harris recurrent processes. The finite sample properties of the underlying double smoothed volatility estimator are verified through Monte Carlo simulation and Shanghai Interbank Offered Rate in China for application.
+WOS:000670037800001
+</snippet>
+</document>
+
+<document id="25">
+<title>A Comparative Review of Specification Tests for Diffusion Models</title>
+<url>http://dx.doi.org/10.1111/insr.12616</url>
+<snippet>Diffusion models play an essential role in modelling continuous-time stochastic processes in the financial field. Therefore, several proposals have been developed in the last decades to test the specification of stochastic differential equations. We provide a survey to collect some developments on goodness-of-fit tests for diffusion models and implement some of these methods to illustrate their finite sample behaviour, regarding size and power, by means of a simulation study. We also apply the ideas of distance covariance to propose a test for the parametric specification of diffusion models, comparing its performance with the other methods and analyzing the effect of the curse of dimensionality. As real data examples, treasury securities with different maturities are considered.
+WOS:001498940700001
+</snippet>
+</document>
+
+<document id="26">
+<title>The volatility structure of the fixed income market under the HJM framework: A nonlinear filtering approach</title>
+<url>http://dx.doi.org/10.1016/j.csda.2008.07.036</url>
+<snippet>The dynamics for interest rate processes within the well-known multi-factor Heath, Jarrow and Morton (HJM) specification are considered. Despite the flexibility of and the notable advances in theoretical research about the HJM model, the number of empirical studies of it is still very sparse. This paucity is principally due to the difficulties in estimating models in this class, which are not only high-dimensional, but also nonlinear and involve latent state variables. The estimation of a fairly broad class of HJM models as a nonlinear filtering problem is undertaken by adopting the local linearization filter, which is known to have some desirable statistical and numerical features, so enabling the estimation of the model via the maximum likelihood method. The estimator is then applied to the US, the UK and the Australian markets. Different two- and three-factor models are found to be the best for each market, with the factors being the level, the slope and the "twist" effect. The contribution of each factor towards overall variability of the interest rates and the financial reward each factor claims are found to differ considerably from one market to another. (C) 2008 Elsevier B.V. All rights reserved.
+WOS:000264907200012
+</snippet>
+</document>
+
+<document id="27">
+<title>Scenario analysis for derivative portfolios via dynamic factor models</title>
+<url>http://dx.doi.org/10.1080/14697688.2019.1698757</url>
+<snippet>A classic approach to financial risk management is the use of scenario analysis to stress test portfolios. In the case of an S&amp;P 500 options portfolio, for example, a scenario analysis might report a P&amp;L of m in the event the S&amp;P 500 falls 5&#37; and its implied volatility surface increases by 3 percentage points. But how accurate is this reported value of m? Such a number is typically computed under the (implicit) assumption that all other risk factors are set to zero. But this assumption is generally not justified as it ignores the often substantial statistical dependence among the risk factors. In particular, the expected values of the non-stressed factors conditional on the values of the stressed factors are generally non-zero. Moreover, even if the non-stressed factors were set to their conditional expected values rather than zero, the reported P&amp;L might still be inaccurate due to convexity effects, particularly in the case of derivatives portfolios. A further weakness of this standard approach to scenario analysis is that the reported P&amp;L numbers are generally not back-tested so their accuracy is not subjected to any statistical tests. There are many reasons for this but perhaps the main one is that scenario analysis for derivatives portfolios is typically conducted without having a probabilistic model for the underlying dynamics of the risk factors under the physical measure P. In this paper we address these weaknesses by embedding the scenario analysis within a dynamic factor model for the underlying risk factors. Such an approach typically requires multivariate state-space models that can model the real-world behavior of financial markets where risk factors are often latent, and that are sufficiently tractable so that we can compute (or simulate from) the conditional distribution of unstressed risk factors. We demonstrate how this can be done for observable as well as latent risk factors in examples drawn from options and fixed income markets. We show how the two forms of scenario analysis can lead to dramatically different results particularly in the case of portfolios that have been designed to be neutral to a subset of the risk factors.
+WOS:000511628400001
+</snippet>
+</document>
+
+<document id="28">
+<title>From CKLS Process to CIR-type and OU-type Processes: Using a Twice-differentiable Mapping and Generalized Girsanov's Theorem</title>
+<url>http://dx.doi.org/10.1007/s10690-025-09563-1</url>
+<snippet>We construct a twice-differentiable mapping T(x):R+-&gt; R+ satisfying dT(x)/dx x(k)=L[T(x)](1/2) for a given constant L and apply it to the CKLS short-rate process lambda(t), which solves the stochastic differential equation (SDE) of the form d lambda t=(a-b lambda(t))dt+sigma(lambda(t))(k)dW(t). By It &amp; ocirc;'s lemma,the transformed process Xtdef=T(lambda(t)) obeys an SDE whose diffusion term is proportional to (lambda(t))(1/2) and whose drift is a non-linear function of lambda t. A critical review of an earlier study on the same transformation reveals substantial errors in its model specification, derivations, and proofs. Next, a generalized Girsanov transformation of measure is introduced to shift the drift. Under the equivalent measure Q, the dynamics of X-t reduces to the classical Cox-Ingersoll-Ross (CIR) form. Leveraging well-known properties concerning uniqueness, strongness, and positivity of lambda(t )induced by the Yamada-Watanabe-Engelbert theorem, we show that the combined twice-differentiable map-ping and Girsanov step is valid precisely when L&gt;0, a&gt;0,b&gt;0,sigma&gt;0 and, most importantly, 1/2&lt;k&lt;1 (which is the parameter range of particular relevance in financial applications) or k=1/2 with 2a &gt;=sigma(2) (which reduces to the CIR process with Feller's condition satisfied). The CIR representation allows us to import a suite of results including stationary density, moment formulas, and boundary be-havior, and, by further mapping to an Ornstein-Uhlenbeck framework ensured by the specific relationship between the coefficients of the two SDEs, to derive addi-tional distributional properties of lambda(t) under Q, including explicit expressions of the transition density, moment generating function and the SDE, respectively. Finally, we demonstrate why the classical Novikov's and Kazamaki's conditions cannot be verified, and then prove directly that the Dol &amp; eacute;ans-Dade exponential associated with our Girsanov transformation is a true martingale (thus can be called Radon-Nikodym derivative), thus we have the soundness of the entire procedure combin-ing T(x) and the Girsanov transformation validated. Our argument adapts a recent result, rather than relying on Novikov's or Kazamaki's conditions, that extends the classical martingale criterion: by applying Feller's explosion test together with his boundary classification, it supplies a necessary and sufficient condition under which the Radon-Nikodym derivative is a true martingale.
+WOS:001600247300001
+</snippet>
+</document>
+
+<document id="29">
+<title>Closed-Form Expansion, Conditional Expectation, and Option Valuation</title>
+<url>http://dx.doi.org/10.1287/moor.2013.0613</url>
+<snippet>Enlightened by the theory of Watanabe [Watanabe S (1987) Analysis of Wiener functionals (Malliavin calculus) and its applications to heat kernels. Ann. Probab. 15:1-39] for analyzing generalized random variables and its further development in Yoshida [Yoshida N (1992a) Asymptotic expansions for statistics related to small diffusions. J. Japan Statist. Soc. 22: 139-159], Takahashi [Takahashi A (1995) Essays on the valuation problems of contingent claims. Ph.D. thesis, Haas School of Business, University of California, Berkeley, Takahashi A (1999) An asymptotic expansion approach to pricing contingent claims. Asia-Pacific Financial Markets 6:115-151] as well as Kunitomo and Takahashi [Kunitomo N, Takahashi A (2001) The asymptotic expansion approach to the valuation of interest rate contingent claims. Math. Finance 11(1):117-151, Kunitomo N, Takahashi A (2003) On validity of the asymptotic expansion approach in contingent claim analysis. Ann. Appl. Probab. 13(3):914-952] etc., we focus on a wide range of multivariate diffusion models and propose a general probabilistic method of small-time asymptotic expansions for approximating option price in simple closed-form up to an arbitrary order. To explicitly construct correction terms, we introduce an efficient algorithm and novel closed-form formulas for calculating conditional expectation of multiplication of iterated stochastic integrals, which are potentially useful in a wider range of topics in applied probability and stochastic modeling for operations research. The performance of our method is illustrated through various models nested in constant elasticity of variance type processes. With an application in pricing options on VIX under GARCH diffusion and its multifactor generalization to the Gatheral double lognormal stochastic volatility models, we demonstrate the versatility of our method in dealing with analytically intractable non-Levy and non-affine models. The robustness of the method is theoretically supported by justifying uniform convergence of the expansion over the whole set of parameters.
+WOS:000335968800012
+</snippet>
+</document>
+
+<document id="30">
+<title>Nonparametric particle filtering and smoothing with quasi-Monte Carlo sampling</title>
+<url>http://dx.doi.org/10.1080/00949655.2010.485315</url>
+<snippet>Sequential Monte Carlo methods (also known as particle filters and smoothers) are used for filtering and smoothing in general state-space models. These methods are based on importance sampling. In practice, it is often difficult to find a suitable proposal which allows effective importance sampling. This article develops an original particle filter and an original particle smoother which employ nonparametric importance sampling. The basic idea is to use a nonparametric estimate of the marginally optimal proposal. The proposed algorithms provide a better approximation of the filtering and smoothing distributions than standard methods. The methods' advantage is most distinct in severely nonlinear situations. In contrast to most existing methods, they allow the use of quasi-Monte Carlo (QMC) sampling. In addition, they do not suffer from weight degeneration rendering a resampling step unnecessary. For the estimation of model parameters, an efficient on-line maximum-likelihood (ML) estimation technique is proposed which is also based on nonparametric approximations. All suggested algorithms have almost linear complexity for low-dimensional state-spaces. This is an advantage over standard smoothing and ML procedures. Particularly, all existing sequential Monte Carlo methods that incorporate QMC sampling have quadratic complexity. As an application, stochastic volatility estimation for high-frequency financial data is considered, which is of great importance in practice. The computer code is partly available as supplemental material.
+WOS:000299726700001
+</snippet>
+</document>
+
+<document id="31">
+<title>Bayesian Inference via Filtering Equations for Ultrahigh Frequency Data (I): Model and Estimation</title>
+<url>http://dx.doi.org/10.1137/16M1094762</url>
+<snippet>We propose a general partially observed framework of Markov processes with marked point process observations for ultrahigh frequency (UHF) data. The model fits well the stylized facts of UHF data in both macro- and micro-movements, subsumes important existing models, and incorporates the influence of other observable economic or market factors. We develop the corresponding Bayes estimation via a filtering equation to quantify parameter uncertainty. Namely, we derive the normalized filtering equation to characterize the evolution of the posterior distribution, present a weak convergence theorem, and construct consistent, easily parallelizable, recursive algorithms to calculate the joint posteriors and the Bayes estimates for streaming UHF data. Moreover, a sufficient condition for the consistency of the Bayes estimators is provided. The general estimation theory is illustrated by four specific models built for U.S. Treasury notes transactions data from GovPX. We show that in this market, both information-based and inventory management-based motives are significant factors in the trade-to-trade price volatility.
+WOS:000429746400002
+</snippet>
+</document>
+
+<document id="32">
+<title>Empirical mode decomposition using deep learning model for financial market forecasting</title>
+<url>http://dx.doi.org/10.7717/peerj-cs.1076</url>
+<snippet>Financial market forecasting is an essential component of financial systems; however, predicting financial market trends is a challenging job due to noisy and non-stationary information. Deep learning is renowned for bringing out excellent abstract features from the huge volume of raw data without depending on prior knowledge, which is potentially fascinating in forecasting financial transactions. This article aims to propose a deep learning model that autonomously mines the statistical rules of data and guides the financial market transactions based on empirical mode decomposition (EMD) with back-propagation neural networks (BPNN). Through the characteristic time scale of data, the intrinsic wave pattern was obtained and then decomposed. Financial market transaction data were analyzed, optimized using PSO, and predicted. Combining the nonlinear and non-stationary financial time series can improve prediction accuracy. The predictive model of deep learning, based on the analysis of the massive financial trading data, can forecast the future trend of financial market price, forming a trading signal when particular confidence is satisfied. The empirical results show that the EMD-based deep learning model has an excellent predicting performance.
+WOS:000856704500001
+</snippet>
+</document>
+
+<document id="33">
+<title>Extracting a common stochastic trend: Theory with some applications</title>
+<url>http://dx.doi.org/10.1016/j.jeconom.2008.12.007</url>
+<snippet>This paper investigates the statistical properties of estimators of the parameters and unobserved series for state space models with integrated time series. in particular, we derive the full asymptotic results for maximum likelihood estimation using the Kalman filter for a Prototypical Class Of Such models-those with a single latent common stochastic trend. Indeed, we establish the consistency and asymptotic mixed normality of the maximum likelihood estimator and show that the conventional method of inference is valid for this class of models. The models we explicitly consider comprise a special - yet useful - class of models that may be employed to extract the common stochastic trend from multiple integrated time series. Such models can be very useful to obtain indices that represent fluctuations of various markets or common latent factors that affect a set of economic and financial variables simultaneously. Moreover, our derivation of the asymptotics of this class makes it clear that the asymptotic Gaussianity and the validity of the conventional inference for the maximum likelihood procedure extends to a larger class of more general state space models involving integrated time series. Finally, we demonstrate the utility of this class of models extracting a common stochastic trend from three sets of time series involving short- and long-term interest rates, stock return volatility and trading volume, and Dow Jones stock prices. 
+WOS:000267109800010
+</snippet>
+</document>
+
+<document id="34">
+<title>A reexamination of diffusion estimators with applications to financial model validation</title>
+<url>http://dx.doi.org/10.1198/016214503388619157</url>
+<snippet>Time-homogeneous diffusion models have been widely used for describing the stochastic dynamics of the underlying economic variables. Recently, Stanton proposed drift and diffusion estimators based on a higher-order approximation scheme and kernel regression method. He claimed that "higher order approximations must outperform lower order approximations" and concluded nonlinearity in the instantaneous return function of short-term interest rates. To examine the impact of higher-order approximations, we develop general and explicit formulas for the asymptotic behavior of both drift and diffusion estimators. We show that these estimators will reduce the numerical approximation errors in asymptotic biases, but their asymptotic variances escalate nearly exponentially with the order of approximation. Simulation studies also confirm our asymptotic results. This variance inflation problem arises not only from nonparametric fitting, but also from parametric fitting. Stanton's work also postulates the interesting question of whether the short-term rate drift is nonlinear. Based on empirical simulation studies, Chapman and Pearson suggested that the nonlinearity might be spurious, due partially to the boundary effect of kernel regression. This prompts us to use the local linear fit based on the first-order approximation, proposed by Fan and Yao, to ameliorate the boundary effect and to construct formal tests of parametric financial models against the nonparametric alternatives. Our simulation results show that the local linear method indeed outperforms the kernel approach. Furthermore, our nonparametric 11 generalized likelihood ratio tests" are indeed versatile and powerful in detecting nonparametric alternatives. Using this formal testing procedure, we show that the evidence against the linear drift of the short-term interest rates is weak, whereas evidence against a family of popular models for the volatility function is very strong. Application to Standard &amp; Poor 500 data is also illustrated.
+WOS:000182584500013
+</snippet>
+</document>
+
+<document id="35">
+<title>Slow diffusion of information and price momentum in stocks: Evidence from options markets</title>
+<url>http://dx.doi.org/10.1016/j.jbankfin.2016.11.010</url>
+<snippet>This paper investigates the source of price momentum in the stock market using information from options markets. We provide direct evidence of the gradual information diffusion model in Hong and Stein (1999): momentum profits are larger for stocks whose information diffuses slowly into the stock market. We exploit the options markets to identify stocks with slow information diffusion speed. As informed traders trade options to realize the information that has not been fully incorporated in the stock price, we are able to enhance the momentum strategy by selecting winner/loser stocks with high growth/large drop in call option implied volatility. Our empirical strategy generates a risk-adjusted alpha of 1.8&#37; per month over the 1996-2011 period, during which the simple momentum strategy fails to perform. The results are robust to the impact of earnings announcement, transaction costs, industry concentration, and choice of options' moneyness and time-to-maturity. Finally, our finding is not driven by existing stock- or option-related characteristics that are known to improve momentum. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000393242900007
+</snippet>
+</document>
+
+<document id="36">
+<title>Goodness-of-fit test for interest rate models: An approach based on empirical processes</title>
+<url>http://dx.doi.org/10.1016/j.csda.2011.06.004</url>
+<snippet>A new test for the goodness of fit of parametric forms of the drift and volatility functions of interest rate models is proposed. The test is based on a marked empirical process of the residuals. More specifically, a marked empirical process is constructed using estimators of the integrated regression function and the integrated conditional variance function for the drift function and the volatility function, respectively. Distributions of these processes are approximated using bootstrap techniques. This test is then applied to simulated classical financial models and is illustrated in an empirical application to a EURIBOR data set. (C) 2011 Elsevier B.V. All rights reserved.
+WOS:000294935600001
+</snippet>
+</document>
+
+<document id="37">
+<title>GARCH quasi-likelihood ratios for SV model and the diffusion limit</title>
+<url>http://dx.doi.org/10.1016/j.spl.2020.108817</url>
+<snippet>There is a widely known intriguing phenomenon that discrete-time GARCH and stochastic volatility (SV) models share the same continuous-time diffusion model as their weak convergence limit, but statistically, the GARCH model is not asymptotically equivalent to the SV or diffusion model. This paper investigates GARCH-type quasi-likelihood ratios for the SV and diffusion models whose own likelihoods are analytically intractable. We show that the two quasi-likelihood ratios for the SV and diffusion models asymptotically have the same closed-form expression that is different from the limiting likelihood ratio of the GARCH model. (C) 2020 Elsevier B.V. All rights reserved.
+WOS:000552009600015
+</snippet>
+</document>
+
+<document id="38">
+<title>Markov-switching and stochastic volatility diffusion models of short-term interest rates</title>
+<url>http://dx.doi.org/10.1198/073500102317351949</url>
+<snippet>This article empirically compares the Markov-switching and stochastic volatility diffusion models of the short rate. The evidence supports the Markov-switching diffusion model. Estimates of the elasticity of volatility parameter for single-regime models unanimously indicate an explosive volatility process, whereas the Markov-switching models estimates are reasonable. It is found that either Markov switching or stochastic volatility, but not both, is needed to adequately fit the data. A robust conclusion is that volatility depends on the level of the short rate. Finally, the Markov-switching model is the best for forecasting. A technical contribution of this article is a presentation of quasi-maximum likelihood estimation techniques for the Markov-switching stochastic-volatility model.
+WOS:000178038200003
+</snippet>
+</document>
+
+<document id="39">
+<title>Discretely Distributed Scheduled Jumps and Interest Rate Derivatives: Pricing in the Context of Central Bank Actions</title>
+<url>http://dx.doi.org/10.3390/economies12030073</url>
+<snippet>Interest rate dynamics are influenced by various economic factors, and central bank meetings play a crucial role concerning this subject matter. This study introduces a novel approach to modeling interest rates, focusing on the impact of central banks' scheduled interventions and their implications for pricing bonds and path-dependent derivatives. We utilize a modified Skellam probability distribution to address the discrete nature of scheduled interest rate jumps and combine them with affine jump-diffusions (AJDs) in order to realistically represent interest rates. We name this class the AJD-Skellam models. Within this class, we provide closed-form formulas for the characteristic functions of a still broad class of interest rate models. The AJD-Skellam models are well-suited for using the interest rate version of the Fourier-cosine series (COS) method for fast and efficient interest rate derivative pricing. Our methodology incorporates this method. The results obtained in the paper demonstrate enhanced accuracy in capturing market behaviors and in pricing interest rate products compared to traditional diffusion models with random jumps. Furthermore, we highlight the applicability of the model to risk management and its potential for broader financial analysis.
+WOS:001191757100001
+</snippet>
+</document>
+
+<document id="40">
+<title>An empirical comparison of transformed diffusion models for VIX and VIX futures</title>
+<url>http://dx.doi.org/10.1016/j.intfin.2016.08.003</url>
+<snippet>Transformed diffusions (TDs) are nonlinear functions of continuous-time affine diffusion processes. Since they are flexible models with tractable analytic properties, financial modelling with TDs has become increasing popular in recent years. We first provide a formal classification of TD models into drift-driven, diffusion-driven, and distribution-driven according to their empirical emphases and specification strategies. Motivated by the stylized distributional features of VIX such as skewness and excess kurtosis, we then propose a pair of new distribution-driven TDs for modelling VIX dynamics and pricing VIX futures by directly incorporating such information into the specification of the transformation. We conduct a comprehensive empirical investigation into the relative performance of the three classes of models against several empirically relevant criteria. Our focus is on the in-sample goodness-of-fit measure and the out-of-sample forecast accuracy for modelling VIX and pricing VIX futures, as well as the stock return predictability of the implied Variance Risk Premium. Our findings demonstrate that the newly proposed distribution-driven models have clear advantages over well-established alternatives in most of our exercises. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000394628500007
+</snippet>
+</document>
+
+<document id="41">
+<title>Value of the distant future: Model-independent results</title>
+<url>http://dx.doi.org/10.1016/j.physa.2016.09.033</url>
+<snippet>This paper shows that the model-independent account of correlations in an interest rate process or a log-consumption growth process leads to declining long-term tails of discount curves. Under the assumption of an exponentially decaying memory in fluctuations of risk-free real interest rates, I derive the analytical expression for an apt value of the long run discount factor and provide a detailed comparison of the obtained result with the outcome of the benchmark risk-free interest rate models. Utilizing the standard consumption-based model with an isoelastic power utility of the representative economic agent, I derive the non-Markovian generalization of the Ramsey discounting formula. Obtained analytical results allowing simple calibration, may augment the rigorous cost-benefit and regulatory impact analysis of long-term environmental and infrastructure projects. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000388547800026
+</snippet>
+</document>
+
+<document id="42">
+<title>Functional data analysis for volatility</title>
+<url>http://dx.doi.org/10.1016/j.jeconom.2011.08.002</url>
+<snippet>We introduce a functional volatility process for modeling volatility trajectories for high frequency observations in financial markets and describe functional representations and data-based recovery of the process from repeated observations. A study of its asymptotic properties, as the frequency of observed trades increases, is complemented by simulations and an application to the analysis of intra-day volatility patterns of the S&amp;P 500 index. The proposed volatility model is found to be useful to identify recurring patterns of volatility and for successful prediction of future volatility, through the application of functional regression and prediction techniques. (C) 2011 Elsevier B.V. All rights reserved.
+WOS:000297610000008
+</snippet>
+</document>
+
+<document id="43">
+<title>Does China transmit financial cycle spillover effects to the G7 countries?</title>
+<url>http://dx.doi.org/10.1080/1331677X.2021.2025123</url>
+<snippet>We use the state space model to describe the financial cycles of China and G7 countries since 1990, and the DY spillover index to quantify the spillover effects of China's financial cycles on G7 countries. We find that China plays the role of a net recipient most of the time. China's financial cycle net spillover index fluctuates widely and is vulnerable to economic events such as the financial crisis. This implies that international capital flows have brought volatility and shocks to the Chinese financial market, such as the Asian financial crisis and the 2008 international financial crisis. In addition, during 2004-2005 and 2014-2015, the G7 countries also suffered from financial cycle spillover from China. The US received most of the financial cycle spillover from China, followed by Canada, Germany, and Italy.
+WOS:000743817600001
+</snippet>
+</document>
+
+<document id="44">
+<title>SEMIPARAMETRIC ESTIMATION FOR A CLASS OF TIME-INHOMOGENEOUS DIFFUSION PROCESSES</title>
+<url>http://dx.doi.org/</url>
+<snippet>We develop two likelihood-based approaches to semiparametrically estimate a class of time-inhomogeneous diffusion processes: log penalized splines (P-splines) and the local log-linear method. Positive volatility is naturally embedded and this positivity is not guaranteed in most existing diffusion models. We investigate different smoothing parameter selections. Separate bandwidths are used for drift and volatility estimation. In the log P-splines approach, different smoothness for different time varying coefficients is feasible by assigning different penalty parameters. We also provide theorems for both approaches and report statistical inference results. Finally, we present a case study using the weekly three-month Treasury bill data from 1954 to 2004. We find that the log P-splines approach seems to capture the volatility dip in mid-1960s the best. We also present ail application to calculate a financial market risk measure called Value at Risk (VaR) using statistical estimates from log P-splines.
+WOS:000265469000024
+</snippet>
+</document>
+
+<document id="45">
+<title>A test for a parametric form of the volatility in second-order diffusion models</title>
+<url>http://dx.doi.org/10.1007/s00180-016-0685-z</url>
+<snippet>Second-order diffusion models have been found to be promising in analyzing financial market data. Based on nonparametric fitting, Nicolau (Stat Probabil Lett 78(16):2700-2704, 2008) suggested that the quadratic function may be an appropriate specification of the volatility when a second-order diffusion model is used to analyze some European and American financial market data sets, which motivates us to develop a formal statistical test for this finding. To achieve the task, a generalized likelihood ratio test is proposed in this paper and a residual-based bootstrap is suggested to compute the p value of the test. The analysis of many real-world financial market data sets demonstrates that the quadratic specification of the volatility function is in general reasonable.
+WOS:000413025300017
+</snippet>
+</document>
+
+<document id="46">
+<title>A goodness-of-fit test for functional time series with applications to Ornstein-Uhlenbeck processes</title>
+<url>http://dx.doi.org/10.1016/j.csda.2024.108092</url>
+<snippet>High-frequency financial data can be collected as a sequence of time-ordered curves, such as intraday prices. The Functional Data Analysis (FDA) framework offers a powerful approach to uncover information embedded in the shape of the daily paths, often unavailable from classical statistical methods. A novel goodness-of-fit test for autoregressive Hilbertian (ARH) models is introduced, imposing only the Hilbert-Schmidt condition on the autocorrelation operator. The test statistic is formulated in terms of a Cram &amp; eacute;r-von Mises norm, with calibration achieved via a wild bootstrap resampling procedure. A simulation study examines the test's finite-sample performance in terms of power and size. Furthermore, a new specification test for diffusion models, including Ornstein-Uhlenbeck processes, is proposed, illustrated with an application to intraday currency exchange rates. Specifically, a two-stage methodology is proffered: firstly, the relationship between functional samples and their lagged values is assessed using an ARH(1) model; second, under linearity, a functional F-test is conducted.
+WOS:001357021200001
+</snippet>
+</document>
+
+<document id="47">
+<title>Asymptotic Normality of Bias Reduction Estimation for Jump Intensity Function in Financial Markets</title>
+<url>http://dx.doi.org/10.1111/jtsa.12727</url>
+<snippet>Continuous-time diffusion models with jumps, especially the jump intensity coefficient, can depict the impact of sudden and large shocks to financial markets. It is possible to disentangle, from the discrete observations, the contributions given by the jumps and those by the diffusion part through threshold functions. Based on this threshold technique, we employ non-parametric local linear threshold estimator for the unknown jump intensity function of a semimartingale with jumps. The asymptotic normality of our estimator is provided in the presence of finite activity jumps under certain regular conditions. The finite-sample performance for the underlying estimator has been shown through a Monte Carlo experiment and an empirical analysis on high frequency returns of indexes in the USA and China.
+WOS:001104146700001
+</snippet>
+</document>
+
+<document id="48">
+<title>Oil prices and sectoral stock returns in the BRICS-T countries: A time-varying approach</title>
+<url>http://dx.doi.org/10.1016/j.resourpol.2022.103044</url>
+<snippet>This paper investigates how exchange rates and oil prices have affected sectoral stock returns in the BRICS-T countries over the period from 2 January 2001 to 22 March 2021. Following the estimation of a benchmark linear model, Bai and Perron (2003) tests are carried out in each case to identify structural breaks, and then a state-space model with time-varying parameters is also estimated. The analysis shows that oil prices have a significant, positive effect on the energy sectors of all BRICS-T countries except India; a negative one on the industrial sectors of all countries except Turkey; a negative one on the financial sectors of Brazil, Russia, India, and South Africa; a negative one on the transportation sectors of India and Turkey and a positive one on that of Russia; finally, the most significant effect is on the chemicals sector, though it varies across countries. The subsamples and time-varying estimates indicate that exchange rate returns have a larger influence than oil price returns. Because energy-dependent sectors are vulnerable to global volatility, appropriate energy regulations should be implemented to reduce risk.
+WOS:000867665400002
+</snippet>
+</document>
+
+<document id="49">
+<title>Stochastic Brennan-Schwartz Diffusion Process: Statistical Computation and Application</title>
+<url>http://dx.doi.org/10.3390/math7111062</url>
+<snippet>In this paper, we study the one-dimensional homogeneous stochastic Brennan-Schwartz diffusion process. This model is a generalization of the homogeneous lognormal diffusion process. What is more, it is used in various contexts of financial mathematics, for example in deriving a numerical model for convertible bond prices. In this work, we obtain the probabilistic characteristics of the process such as the analytical expression, the trend functions (conditional and non-conditional), and the stationary distribution of the model. We also establish a methodology for the estimation of the parameters in the process: First, we estimate the drift parameters by the maximum likelihood approach, with continuous sampling. Then, we estimate the diffusion coefficient by a numerical approximation. Finally, to evaluate the capability of this process for modeling real data, we applied the stochastic Brennan-Schwartz diffusion process to study the evolution of electricity net consumption in Morocco.
+WOS:000502288700059
+</snippet>
+</document>
+
+<document id="50">
+<title>RISK MANAGEMENT OF FINANCIAL CRISES: AN OPTIMAL INVESTMENT STRATEGY WITH MULTIVARIATE JUMP-DIFFUSION MODELS</title>
+<url>http://dx.doi.org/10.1017/asb.2017.2</url>
+<snippet>This paper provides an optimal asset allocation strategy to enhance risk management performance in the face of a financial crisis; this strategy entails constructing a good asset model - a multivariate jump-diffusion (MJD) model which includes idiosyncratic and systematic jumps simultaneously - and choosing suitable asset allocations and objective functions for fund management. This study also provides the dependence structure for the MJD model. The empirical implementation demonstrates that the proposed MJD model provides more detailed information about the financial crisis, allowing fund managers to determine an appropriate asset allocation strategy that enhances investment performance during the crisis.
+WOS:000401148000006
+</snippet>
+</document>
+
+<document id="51">
+<title>TIME-VARYING IMPACTS OF MACROECONOMIC VARIABLES ON STOCK MARKET RETURNS AND VOLATILITY: EVIDENCE FROM PAKISTAN</title>
+<url>http://dx.doi.org/</url>
+<snippet>This paper investigates the time-varying return and volatility spillover impact of exchange rates, interest rates, consumer prices, and industrial production on stock market returns in Pakistan by using monthly data covering the time period 2000-2018. For this purpose, we first estimate GARCH models to obtain the conditional variance. Next, we employ the Gaussian state-space model, which allows the coefficients to vary over time, to estimate the time-varying return and volatility spillover impacts of the underlying variables on stock market returns. We find a significant time-varying impact of inflation rate, interest rates, and exchange rates on stock returns, suggesting that the impacts of these variables on stock returns change over time. The findings also confirm the time-varying volatility impacts, indicating that the intensity and magnitude of the transmission of macroeconomic volatility to stock returns' volatility significantly changes over time. This empirical analysis is helpful for investors and firm managers to design and implement more effective hedging strategies to minimize interest rate, consumer price, and exchange rate risks.
+WOS:000877190200008
+</snippet>
+</document>
+
+<document id="52">
+<title>Parametric and nonparametric models and methods in financial econometrics</title>
+<url>http://dx.doi.org/10.1214/08-SS034</url>
+<snippet>Financial econometrics has become an increasingly popular research field. In this paper we review a few parametric and nonparametric models and methods used in this area. After introducing several widely used continuous-time and discrete-time models, we study in detail dependence structures of discrete samples, including Markovian property, hidden Markovian structure, contaminated observations, and random samples. We then discuss several popular parametric and nonparametric estimation methods. To avoid model mis-specification, model validation plays a key role in financial modeling. We discuss several model validation techniques, including pseudo-likelihood ratio test, nonparametric curve regression based test, residuals based test, generalized likelihood ratio test, simultaneous confidence band construction, and density based test. Finally, we briefly touch on tools for studying large sample properties.
+WOS:000439061500001
+</snippet>
+</document>
+
+</searchresult>

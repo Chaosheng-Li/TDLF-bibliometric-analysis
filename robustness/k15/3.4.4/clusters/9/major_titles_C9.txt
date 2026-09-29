@@ -1,0 +1,25 @@
+Deep graph convolutional reinforcement learning for financial portfolio management-DeepPocket
+Financial portfolio optimization with online deep reinforcement learning and restricted stacked autoencoder-DeepBreath
+To learn or not to learn? Evaluating autonomous, adaptive, automated traders in cryptocurrencies financial bubbles
+Combating emerging financial risks in the big data era: A perspective review
+A New Hybrid VMD-ICSS-BiGRU Approach for Gold Futures Price Forecasting and Algorithmic Trading
+A Gated Recurrent Unit Approach to Bitcoin Price Prediction
+Incorporating textual and management factors into financial distress prediction: A comparative study of machine learning methods
+Diversity-driven knowledge distillation for financial trading using Deep Reinforcement Learning
+Deep hedging of long-term financial derivatives
+Can deep learning predict risky retail investors? A case study in financial risk behavior forecasting
+Deep reinforcement learning based trading agents: Risk curiosity driven learning for financial rules-based policy
+Predicting Financial Risk Associated to Bitcoin Investment by Deep Learning
+A synchronous deep reinforcement learning model for automated multi-stock trading
+Language sentiment in fundamental and noise trading: evidence from crude oil
+Machine Learning for Financial Risk Management: A Survey
+Deep learning in predicting cryptocurrency volatility
+The role of text-extracted investor sentiment in Chinese stock price prediction with the enhancement of deep learning
+A Dual-Attention-Based Stock Price Trend Prediction Model With Dual Features
+Equal risk pricing of derivatives with deep hedging
+Forecasting stock market crisis events using deep and statistical machine learning techniques
+Interpretable Stock Anomaly Detection Based on Spatio-Temporal Relation Networks With Genetic Algorithm
+A parallel multi-module deep reinforcement learning algorithm for stock trading
+Dynamic portfolio rebalancing through reinforcement learning
+A multi-agent deep reinforcement learning framework for algorithmic trading in financial markets
+Time-driven feature-aware jointly deep reinforcement learning for financial signal representation and algorithmic trading

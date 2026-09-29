@@ -1,0 +1,2488 @@
+FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Soleymani, F
+   Paquet, Eric
+TI Deep graph convolutional reinforcement learning for financial portfolio management-DeepPocket
+SO EXPERT SYSTEMS WITH APPLICATIONS
+DE portfolio management; deep reinforcement learning; restricted stacked autoencoder; online leaning; actor-critic; graph convolutional network
+AB Portfolio management aims at maximizing the return on investment while minimizing risk by continuously reallocating the assets forming the portfolio. These assets are not independent but correlated during a short time period. A graph convolutional reinforcement learning framework called DeepPocket is proposed whose objective is to exploit the time-varying interrelations between financial instruments. These interrelations are represented by a graph whose nodes correspond to the financial instruments while the edges correspond to a pair-wise correlation function in between assets. DeepPocket consists of a restricted, stacked autoencoder for feature extraction, a convolutional network to collect underlying local information shared among financial instruments and an actor-critic reinforcement learning agent. The actor-critic structure contains two convolutional networks in which the actor learns and enforces an investment policy which is, in turn, evaluated by the critic in order to determine the best course of action by constantly reallocating the various portfolio assets to optimize the expected return on investment. The agent is initially trained offline with online stochastic batching on historical data. As new data become available, it is trained online with a passive concept drift approach to handle unexpected changes in their distributions. DeepPocket is evaluated against five real-life datasets over three distinct investment periods, including during the Covid-19 crisis, and clearly outperformed market indexes.
+C1 [Soleymani, Farzan; Paquet, Eric] CNR, 1200 Montreal Rd, Ottawa, ON K1K 2E1, Canada.
+RP Paquet, E (corresponding author), CNR, 1200 Montreal Rd, Ottawa, ON K1K 2E1, Canada.
+CR Arfaoui M, 2017, EUROPEAN JOURNAL OF MANAGEMENT AND BUSINESS ECONOMICS, V0, P0
+   Ashraf BN, 2020, RES INT BUS FINANC, V54, P0, DOI 10.1016/j.ribaf.2020.101249
+   Bessler W, 2017, EUR J FINANC, V23, P1, DOI 10.1080/1351847X.2014.953699
+   Bhanja S, 2018, IMPACT DATA NORMALIZ, V0, P0
+   Bronstein MM, 2017, IEEE SIGNAL PROC MAG, V34, P18, DOI 10.1109/MSP.2017.2693418
+   Cervelló-Royo R, 2020, FINANCE MARKETS AND VALUATION, V6, P37, DOI 10.46503/nluf8557
+   Defferrard M, 2016, ADV NEUR IN, V29, P0
+   García F, 2019, J BUS ECON MANAG, V20, P225, DOI 10.3846/jbem.2019.8317
+   García F, 2019, SUSTAINABILITY-BASEL, V11, P0, DOI 10.3390/su11092496
+   Gilmer J, 2017, PR MACH LEARN RES, V70, P0
+   Goodfellow I, 2016, ADAPT COMPUT MACH LE, V0, P0, DOI 10.1038/NATURE14539
+   Jiang Zhengyao, 2017, DEEP REINFORCEMENT L, V0, P0
+   Kipf ThomasN, 2016, CORR, V0, P0
+   Langr J, 2019, GANS IN ACTION-DEEP LEARNING WITH GENERATIVE ADVERSARIAL NETWORKS, V0, P0
+   Maverick JB, 2019, WHAT IS A GOOD SHARPE RATIO?, V0, P0
+   Meng QX, 2017, IEEE IJCNN, V0, PP364, DOI 10.1109/IJCNN.2017.7965877
+   Nti IK, 2020, ARTIF INTELL REV, V53, P3007, DOI 10.1007/s10462-019-09754-z
+   Omidi F, 2017, J COMPUT APPL MATH, V319, P43, DOI 10.1016/j.cam.2016.12.020
+   Pouya AR, 2016, SWARM EVOL COMPUT, V28, P42, DOI 10.1016/j.swevo.2016.01.001
+   Qiu MY, 2016, PLOS ONE, V11, P0, DOI 10.1371/journal.pone.0155133
+   Rocchi J, 2017, PLOS ONE, V12, P0, DOI 10.1371/journal.pone.0176764
+   Sarwar G, 2019, INT J FINANC ECON, V24, P527, DOI 10.1002/ijfe.1677
+   Shuman DI, 2016, APPL COMPUT HARMON A, V40, P260, DOI 10.1016/j.acha.2015.02.005
+   Soleymani F, 2020, EXPERT SYST APPL, V156, P0, DOI 10.1016/j.eswa.2020.113456
+   Stone A, 2017, P IEEE C COMP VIS PA, V0, P5058
+   Wu ZH, 2021, IEEE T NEUR NET LEAR, V32, P4, DOI 10.1109/TNNLS.2020.2978386
+   Yue W, 2017, PHYSICA A, V465, P124, DOI 10.1016/j.physa.2016.08.009
+   Zhang DY, 2020, FINANC RES LETT, V36, P0, DOI 10.1016/j.frl.2020.101528
+   Zhang Si, 2019, COMPUT SOC NETW, V6, P11, DOI 10.1186/s40649-019-0069-y
+   Zhao D, 2016, 2016 IEEE SYMPOSIUM SERIES ON COMPUTATIONAL INTELLIGENCE (SSCI), V0, PP1, DOI 10.1109/SSCI.2016.7849837
+NR 30
+TC 46
+Z9 0
+U1 14.0
+U2 76.0
+J9 EXPERT SYSTEMS WITH APPLICATIONS
+PD NOV
+PY 2021
+VL 182
+BP 
+EP 
+DI 10.1016/j.eswa.2021.115127
+PG 15
+SC COMPUTER SCIENCE; ENGINEERING; OPERATIONS RESEARCH & MANAGEMENT SCIENCE
+UT WOS:000688457900004
+PM 
+ER
+
+PT J
+AU Sun, S
+   Wang, Rundong
+   An, Bo
+TI Reinforcement Learning for Quantitative Trading
+SO ACM TRANSACTIONS ON INTELLIGENT SYSTEMS AND TECHNOLOGY
+DE reinforcement learning; quantitative finance; stock market; survey
+AB Quantitative trading (QT), which refers to the usage of mathematical models and data-driven techniques in analyzing the financial market, has been a popular topic in both academia and financial industry since 1970s. In the last decade, reinforcement learning (RL) has garnered significant interest in many domains such as robotics and video games, owing to its outstanding ability on solving complex sequential decision making problems. RLs impact is pervasive, recently demonstrating its ability to conquer many challenging QT tasks. It is a flourishing research direction to explore RL techniques potential on QT tasks. This paper aims at providing a comprehensive survey of research efforts on RL-based methods for QT tasks. More concretely, we devise a taxonomy of RL-based QT models, along with a comprehensive summary of the state of the art. Finally, we discuss current challenges and propose future research directions in this exciting field.
+C1 [Sun, Shuo; Wang, Rundong; An, Bo] Nanyang Technol Univ, Sch Comp Sci & Engn, Singapore 639798, Singapore.
+RP Sun, S (corresponding author), Nanyang Technol Univ, Sch Comp Sci & Engn, Singapore 639798, Singapore.
+FU National Research Foundation, Singapore under its Industry Alignment Fund -Prepositioning (IAF-PP) Funding Initiative
+CR An B, 2022, IEEE INTELL SYST, V37, P23, DOI 10.1109/MIS.2022.3165994
+   Arantes de Oliveira Renato, 2020, P 1 ACM INT C FINANC, V0, P1
+   Basak S, 2019, N AM J ECON FINANC, V47, P552, DOI 10.1016/j.najef.2018.06.013
+   Benhamou E, 2020, ARXIV, V0, P0
+   Bisi L, 2019, ARXIV, V0, P0
+   Byrd D, 2019, ARXIV, V0, P0
+   Chan E, 2021, QUANTITATIVE TRADING, V2, P0
+   Chauhan L, 2020, PMLR, V0, P1489
+   Chen C, 2019, KDD19: PROCEEDINGS OF THE 25TH ACM SIGKDD INTERNATIONAL CONFERENCCE ON KNOWLEDGE DISCOVERY AND DATA MINING, V0, PP2376, DOI 10.1145/3292500.3330663
+   Chen YM, 2018, CIKM18: PROCEEDINGS OF THE 27TH ACM INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT, V0, PP1655, DOI 10.1145/3269206.3269269
+   Daberius K, 2019, DEEP EXECUTION-VALUE AND POLICY BASED REINFORCEMENT LEARNING FOR TRADING AND BEATING MARKET BENCHMARKS, V0, P0
+   De Prado ML, 2018, ADV FINANCIAL MACHIN, V0, P0
+   Ding Y, 2018, KDD18: PROCEEDINGS OF THE 24TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY & DATA MINING, V0, PP1310, DOI 10.1145/3219819.3220113
+   Emerson S, 2019, 8 INT C EC FINANCE R, V0, P0
+   Fama EF, 2021, THE FAMA PORTFOLIO: SELECTED PAPERS OF EUGENE F. FAMA, V0, PP76, DOI 10.7208/9780226426983-007/html
+   Fang J, 2020, ARXIV, V0, P0
+   Fang Yuchen, 2021, P 35 AAAI C ARTIFICI, V0, P0
+   Fawzi A, 2022, NATURE, V610, P47, DOI 10.1038/s41586-022-05172-4
+   Feng FL, 2019, ACM T INFORM SYST, V37, P0, DOI 10.1145/3309547
+   Fischer Thomas G, 2018, FAU DISCUSSION PAPERS IN ECONOMICS, V0, P0
+   Gai KK, 2018, J NETW COMPUT APPL, V103, P262, DOI 10.1016/j.jnca.2017.10.011
+   Gu SH, 2020, REV FINANC STUD, V33, P2223, DOI 10.1093/rfs/hhaa009
+   Gu SH, 2021, J ECONOMETRICS, V222, P429, DOI 10.1016/j.jeconom.2020.07.009
+   Guéant O, 2019, APPLIED MATHEMATICAL FINANCE, V26, P387, DOI 10.1080/1350486x.2020.1714455
+   Haarnoja T, 2018, PR MACH LEARN RES, V80, P0
+   Hambly B, 2023, ARXIV, V0, P0
+   Hoseinzade E, 2019, EXPERT SYST APPL, V129, P273, DOI 10.1016/j.eswa.2019.03.029
+   Hu ZN, 2018, WSDM18: PROCEEDINGS OF THE ELEVENTH ACM INTERNATIONAL CONFERENCE ON WEB SEARCH AND DATA MINING, V0, PP261, DOI 10.1145/3159652.3159690
+   Huang ZH, 2022, ARXIV, V0, P0
+   Jeong G, 2019, EXPERT SYST APPL, V117, P125, DOI 10.1016/j.eswa.2018.09.036
+   Lee JH, 2020, ARXIV, V0, P0
+   Li W, 2020, PROCEEDINGS OF THE TWENTY-NINTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, V0, P4541
+   Liang ZP, 2018, ARXIV, V0, P0
+   Lillicrap TP, 2019, ARXIV, V0, P0
+   Lim B, 2019, THE JOURNAL OF FINANCIAL DATA SCIENCE, V1, P19, DOI 10.3905/jfds.2019.1.015
+   Lim Y-S, 2018, 26 EUR S ART NEUR NE, V0, P0
+   Lin SY, 2020, PROCEEDINGS OF THE TWENTY-NINTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, V0, P4548
+   Liu G, 2020, PROCEEDINGS OF THE TWENTY-NINTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, V0, P4555
+   Liu XY, 2022, ARXIV, V0, P0
+   Liu Y, 2020, AAAI CONF ARTIF INTE, V34, P2128
+   Murray P, 2022, 3RD ACM INTERNATIONAL CONFERENCE ON AI IN FINANCE, V0, P361, DOI 10.1145/3533271.3561731
+   Ning B, 2020, ARXIV, V0, P0
+   Niu H, 2022, PROCEEDINGS OF THE 31ST ACM INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT, V0, P1573, DOI 10.1145/3511808.3557363
+   Ozbayoglu Ahmet Murat, 2020, APPLIED SOFT COMPUTING, V93, P0, DOI 10.1016/j.asoc.2020.106384
+   Panagiotidis T, 2018, FINANC RES LETT, V27, P235, DOI 10.1016/j.frl.2018.03.016
+   Riva Antonio, 2021, P 2 ACM INT C FINANC, V0, P1
+   Rundo F, 2019, APPL SCI-BASEL, V9, P0, DOI 10.3390/app9245574
+   Sawhney R, 2021, 2021 CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES (NAACL-HLT 2021), V0, P4018
+   Sawhney R, 2021, AAAI CONF ARTIF INTE, V35, P497
+   Sawhney R, 2021, PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE 2021 (WWW 2021), V0, PP11, DOI 10.1145/3442381.3450095
+   Sezer OB, 2020, APPL SOFT COMPUT, V90, P0, DOI 10.1016/j.asoc.2020.106181
+   Shi S, 2019, PROCEEDINGS OF THE 28TH ACM INTERNATIONAL CONFERENCE ON INFORMATION & KNOWLEDGE MANAGEMENT (CIKM 19), V0, PP1613, DOI 10.1145/3357384.3357961
+   Spooner T, 2018, ARXIV, V0, P0
+   Spooner T, 2020, ARXIV, V0, P0
+   Sun S, 2022, ARXIV, V0, P0
+   Sun S, 2022, PROCEEDINGS OF THE 31ST ACM INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT, V0, P1858, DOI 10.1145/3511808.3557283
+   Sun Shuo, 2022, PRUDEX COMPASS SYSTE, V0, P0
+   Sun XL, 2020, FINANC RES LETT, V32, P0, DOI 10.1016/j.frl.2018.12.032
+   Sutton RS, 2018, ADAPT COMPUT MACH LE, V0, P1
+   Vinyals O, 2019, NATURE, V575, P350, DOI 10.1038/s41586-019-1724-z
+   Vittori Edoardo, 2020, P 1 ACM INT C FINANC, V0, P1
+   Vittori Edoardo, 2022, AUGMENTING TRADERS WITH LEARNING MACHINES, V0, P0
+   Vyetrenko S, 2019, ARXIV, V0, P0
+   Wang JY, 2019, KDD19: PROCEEDINGS OF THE 25TH ACM SIGKDD INTERNATIONAL CONFERENCCE ON KNOWLEDGE DISCOVERY AND DATA MINING, V0, PP1900, DOI 10.1145/3292500.3330647
+   Wang Rundong, 2020, ARXIV, V0, P0
+   Wu ZH, 2021, IEEE T NEUR NET LEAR, V32, P4, DOI 10.1109/TNNLS.2020.2978386
+   Xu K, 2020, PROCEEDINGS OF THE TWENTY-NINTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, V0, P4647
+   Xu WT, 2021, PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE 2021 (WWW 2021), V0, PP1, DOI 10.1145/3442381.3450032
+   Xu YM, 2018, PROCEEDINGS OF THE 56TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL), VOL 1, P1970
+   Yang HY, 2020, FIRST ACM INTERNATIONAL CONFERENCE ON AI IN FINANCE, V0, P0, DOI 10.2139/ssrn.3690996
+   Ye YN, 2020, AAAI CONF ARTIF INTE, V34, P1112
+   Yu PQ, 2019, ARXIV, V0, P0
+   Yuan YY, 2020, ELECTRONICS-SWITZ, V9, P0, DOI 10.3390/electronics9091384
+   Zhang Chuheng, 2020, ARXIV, V0, P0
+   Zhang Kun, 2021, P 35 AAAI C ARTIFICI, V0, P0
+   Zhang TP, 2020, ARXIV, V0, P0
+   Zhang YF, 2022, IEEE T KNOWL DATA EN, V34, P236, DOI 10.1109/TKDE.2020.2979700
+   Zhang ZH, 2020, THE JOURNAL OF FINANCIAL DATA SCIENCE, V2, P25, DOI 10.3905/jfds.2020.1.030
+   Zhao Muchen, 2021, P 2 ACM INT C FINANC, V0, P1
+   Zhong Yueyang, 2020, P 29 INT JOINT C ART, V0, P2327
+   Zhou DW, 2020, WEB CONFERENCE 2020: PROCEEDINGS OF THE WORLD WIDE WEB CONFERENCE (WWW 2020), V0, PP2230, DOI 10.1145/3366423.3380288
+NR 81
+TC 36
+Z9 0
+U1 16.0
+U2 56.0
+J9 ACM TRANSACTIONS ON INTELLIGENT SYSTEMS AND TECHNOLOGY
+PD JUN
+PY 2023
+VL 14
+BP 
+EP 
+DI 10.1145/3582560
+PG 29
+SC COMPUTER SCIENCE
+UT WOS:001000229800006
+PM 
+ER
+
+PT J
+AU Zheng, H
+   Zhou, Zhiqiang
+   Chen, Jianyong
+TI RLSTM: A New Framework of Stock Prediction by Using Random Noise for Overfitting Prevention
+SO COMPUTATIONAL INTELLIGENCE AND NEUROSCIENCE
+AB An accurate prediction of stock market index is important for investors to reduce financial risk. Although quite a number of deep learning methods have been developed for the stock prediction, some fundamental problems, such as weak generalization ability and overfitting in training, need to be solved. In this paper, a new deep learning model named Random Long Short-Term Memory (RLSTM) is proposed to get a better predicting result. RLSTM includes prediction module, prevention module, and three full connection layers. Input of the prediction module is a stock or an index which needs to be predicted. That of the prevention module is a random number series. With the index of Shanghai Securities Composite Index (SSEC) and Standard & Poors 500 (S&P500), simulations show that the proposed RLSTM can mitigate the overfitting and outperform others in accuracy of prediction.
+C1 [Zheng, Hongying] Shenzhen Inst Informat Technol, Sch Software Engn, Shenzhen 518172, Peoples R China.   
+[Zhou, Zhiqiang; Chen, Jianyong] Shenzhen Univ, Guangdong Lab Artificial Intelligence & Digital E, Shenzhen 518060, Peoples R China.
+RP Chen, JY (corresponding author), Shenzhen Univ, Guangdong Lab Artificial Intelligence & Digital E, Shenzhen 518060, Peoples R China.
+FU Natural Science Foundation of Guangdong Province [S2018A030313420]; Science and Technology Plan Project of Longgang District [KJD2020D004]; Science and Technology Plan Project of Shenzhen Institute of Technology Information [SZIIT2020PT094]
+CR Adam K, 2016, J FINANC, V71, P33, DOI 10.1111/jofi.12364
+   Baek Y, 2018, EXPERT SYST APPL, V113, P457, DOI 10.1016/j.eswa.2018.07.019
+   Bhanja S, 2018, IMPACT OF DATA NORMALIZATION ON DEEP NEURAL NETWORK FOR TIME SERIES FORECASTING, V0, P0
+   Feng FL, 2019, PROCEEDINGS OF THE TWENTY-EIGHTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, V0, P5843
+   Gao T, 2016, P 7 IEEE INT C SOFTW, V0, P0
+   Goodfellow I, 2016, ADAPT COMPUT MACH LE, V0, P0, DOI 10.1038/NATURE14539
+   Gunduz H, 2017, KNOWL-BASED SYST, V137, P138, DOI 10.1016/j.knosys.2017.09.023
+   Hou XX, 2018, CHIN CONT DECIS CONF, V0, PP2509, DOI 10.1109/CCDC.2018.8407547
+   Kusuma RMI, 2019, USING DEEP LEARNING, V0, P0
+   LHeureux A, 2017, IEEE ACCESS, V5, P7776, DOI 10.1109/ACCESS.2017.2696365
+   Li J, 2017, PROCEEDINGS OF THE 2017 ACM MULTIMEDIA CONFERENCE (MM17), V0, PP1, DOI 10.1145/3123266.3123432
+   Lipton ZC, 2016, ICLR, V0, P0
+   Liu SL, 2017, LECT NOTES COMPUT SC, V10635, P198, DOI 10.1007/978-3-319-70096-0, 21
+   Mudinas Andrius, 2019, MARKET TREND PREDICTION USING SENTIMENT ANALYSIS: LESSONS LEARNED AND PATHS FORWARD, V0, P0
+   Nelson DM, 2017, P 2017 INT JOINT C N, V0, P0
+   Ouahilal M, 2016, COLLOQ INF SCI TECH, V0, PP290, DOI 10.1109/CIST.2016.7805059
+   Rahimyar AH, 2019, STOCK FORECASTING US, V0, P234
+   Ritzmann N, 2018, IEEE IJCNN, V0, P0
+   Sardelich M, 2018, MULTIMODAL DEEP LEAR, V0, P0
+   Stent A, 2018, P 32 INT FLORIDA ART, V0, P0
+   Sun HN, 2017, LECT NOTES COMPUT SC, V10635, P882, DOI 10.1007/978-3-319-70096-0, 90
+   Yan HJ, 2018, WIRELESS PERS COMMUN, V102, P683, DOI 10.1007/s11277-017-5086-2
+   Zhan XK, 2018, LECT NOTES COMPUT SC, V11061, P461, DOI 10.1007/978-3-319-99365-2, 41
+NR 23
+TC 7
+Z9 0
+U1 2.0
+U2 17.0
+J9 COMPUTATIONAL INTELLIGENCE AND NEUROSCIENCE
+PD MAY
+PY 2021
+VL 2021
+BP 
+EP 
+DI 10.1155/2021/8865816
+PG 14
+SC MATHEMATICAL & COMPUTATIONAL BIOLOGY; NEUROSCIENCES & NEUROLOGY
+UT WOS:000665093100002
+PM 34113377
+ER
+
+PT J
+AU Brini, A
+   Tantari, Daniele
+TI Deep reinforcement trading with predictable returns
+SO PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+DE machine learning; reinforcement learning; financial trading; portfolio optimization
+AB Classical portfolio optimization often requires forecasting asset returns and their cor-responding variances in spite of the low signal-to-noise ratio provided in the financial markets. Modern deep reinforcement learning (DRL) offers a framework for optimizing sequential trader decisions but lacks theoretical guarantees of convergence. On the other hand, the performances on real financial trading problems are strongly affected by the goodness of the signal used to predict returns. To disentangle the effects coming from return unpredictability from those coming from algorithm un-trainability, we investigate the performance of model-free DRL traders in a market environment with different known mean-reverting factors driving the dynamics. When the framework admits an exact dynamic programming solution, we can assess the limits and capabilities of different value-based algorithms to retrieve meaningful trading signals in a data-driven manner. We consider DRL agents that leverage classical strategies to increase their performances and we show that this approach guarantees flexibility, outperforming the benchmark strategy when the price dynamics is misspecified and some original assumptions on the market environment are violated with the presence of extreme events and volatility clustering.
+C1 [Brini, Alessio] Duke Univ, Durham, NC 27708 USA.   
+[Tantari, Daniele] Univ Bologna, Bologna, Italy.
+RP Brini, A (corresponding author), Duke Univ, Durham, NC 27708 USA.
+FU GNFM-Indam; Project SERICS - European Union-NextGenerationEU [PE00000014]
+CR Andrychowicz M, 2020, ARXIV, V0, P0
+   Chaouki A, 2020, J FINANCE DATA SCI, V6, P16, DOI 10.1016/j.jfds.2020.06.002
+   Engstrom L, 2020, ARXIV, V0, P0
+   Fan JQ, 2020, PR MACH LEARN RES, V120, P486
+   Feng Y, 2019, ADV. NEURAL INF. PROCESS. SYST., V32, P0
+   Ghiassian S, 2020, INT C MACHINE LEARN, V0, P3524
+   Holzleitner M, 2021, T LARGE SCALE DATA A, V0, PP105, DOI 10.1007/978-3-662-63519-35
+   Jin C, 2020, INT C MACHINE LEARNI, V119, P0
+   Kolm PN, 2019, SSRN ELECTRONIC JOURNAL, V0, P0, DOI 10.2139/ssrn.3449401
+   Lin T, 2020, INTERNATIONAL CONFERENCE ON MACHINE LEARNING, V0, P6083
+   Liu BY, 2023, ARXIV, V0, P0
+   Patzelt F, 2018, PHYS REV E, V97, P0, DOI 10.1103/PhysRevE.97.012304
+   Sutton RS, 2018, ADAPT COMPUT MACH LE, V0, P1
+   Wang ZT, 2022, ARXIV, V0, P0
+   Yang Z, 2019, ADV NEURAL INF PROCESS SYST., V32, P0
+   Zhang ZH, 2020, THE JOURNAL OF FINANCIAL DATA SCIENCE, V2, P25, DOI 10.3905/jfds.2020.1.030
+   van Hasselt H, 2018, ARXIV, V0, P0
+NR 17
+TC 3
+Z9 0
+U1 1.0
+U2 9.0
+J9 PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+PD JUL
+PY 2023
+VL 622
+BP 
+EP 
+DI 10.1016/j.physa.2023.128901
+PG 20
+SC PHYSICS
+UT WOS:001122648800001
+PM 
+ER
+
+PT J
+AU Mikkila, O
+   Kanniainen, Juho
+TI Empirical deep hedging
+SO QUANTITATIVE FINANCE
+DE options; hedging; deep reinforcement learning; stochastic volatility
+AB Existing hedging strategies are typically based on specific financial models: either the strategies are directly based on a given option pricing model or stock price and volatility models are used indirectly by generating synthetic data on which an agent is trained with reinforcement learning. In this paper, we train an agent in a pure data-driven manner. Particularly, we do not need any specifications on volatility or jump dynamics but use large empirical intra-day data from actual stock and option markets. The agent is trained for the hedging of derivative securities using deep reinforcement learning (DRL) with continuous actions. The training data consists of intra-day option price observations on S&P500 index over 6 years, and top of that, we use other data periods for validation and testing. We have two important empirical results. First, a DRL agent trained using synthetic data generated from a calibrated stochastic volatility model outperforms the classic Black-Scholes delta hedging strategy. Second, and more importantly, we find that a DRL agent, which is empirically trained directly using actual intra-day stock and option prices without the prior specification of the underlying volatility or jump processes, has superior performance compared with the use of synthetic data. This implies that DRL can capture the dynamics of S&P500 from the actual intra-day data and to self-learn how to hedge actual options efficiently.
+C1 [Mikkila, Oskari; Kanniainen, Juho] Tampere Univ, Grp Financial Comp & Data Analyt, Tampere, Finland.
+RP Kanniainen, J (corresponding author), Tampere Univ, Grp Financial Comp & Data Analyt, Tampere, Finland.
+CR Buehler H, 2019, QUANT FINANC, V19, P1271, DOI 10.1080/14697688.2019.1571683
+   Cao JY, 2021, THE JOURNAL OF FINANCIAL DATA SCIENCE, V3, P10, DOI 10.3905/jfds.2020.1.052
+   Charpentier A, 2023, COMPUT ECON, V62, P425, DOI 10.1007/s10614-021-10119-4
+   Da Silva B, 2019, ARXIV, V0, P0
+   Du JY, 2020, THE JOURNAL OF FINANCIAL DATA SCIENCE, V2, P44, DOI 10.3905/jfds.2020.1.045
+   François-Lavet V, 2018, FOUND TRENDS MACH LE, V11, P219, DOI 10.1561/2200000071
+   Fujimoto S, 2018, PR MACH LEARN RES, V80, P0
+   Fujimoto S, 2020, GITHUB ADDRESSING FU, V0, P0
+   Giurca A, 2021, DELTA HEDGING DERIVA, V0, P0
+   Halperin I, 2019, QUANT FINANC, V19, P1543, DOI 10.1080/14697688.2019.1622302
+   Halperin I, 2020, J DERIV, V28, P99, DOI 10.3905/jod.2020.1.108
+   Henderson P, 2018, AAAI CONF ARTIF INTE, V0, P3207
+   Kolm PN, 2020, MODERN PERSPECTIVES, V0, P0
+   Kolm PetterN, 2019, THE JOURNAL OF FINANCIAL DATA SCIENCE, V1, P159, DOI 10.3905/JFDS.2019.1.1.159
+   Kondratyev A, 2019, 3384948 SSRN, V0, P0
+   Passalis N, 2020, IEEE T NEUR NET LEAR, V31, P3760, DOI 10.1109/TNNLS.2019.2944933
+   Sutton RS, 2018, ADAPT COMPUT MACH LE, V0, P1
+   Wiese M, 2019, ARXIV, V0, P0
+   Wiese M, 2020, QUANT FINANC, V20, P1419, DOI 10.1080/14697688.2020.1730426
+NR 19
+TC 13
+Z9 0
+U1 1.0
+U2 12.0
+J9 QUANTITATIVE FINANCE
+PD JAN
+PY 2023
+VL 23
+BP 111
+EP 122
+DI 10.1080/14697688.2022.2136037
+PG 12
+SC BUSINESS & ECONOMICS; MATHEMATICS; MATHEMATICAL METHODS IN SOCIAL SCIENCES
+UT WOS:000876149600001
+PM 
+ER
+
+PT J
+AU Xu, W
+   Dai, Bing
+TI Delta-Gamma-Like Hedging with Transaction Cost under Reinforcement Learning Technique
+SO JOURNAL OF DERIVATIVES
+AB Option hedging is critical in financial risk management. The traditional methods to determine the hedging position require assumptions of a frictionless market and continuous hedging. In this article, these two assumptions are removed, and a hedging strategy based on the reinforcement learning technique is proposed. This new strategy maximizes the expectation of the present value of accounting and realized profits of the hedging portfolio while limiting the sensitivity of the hedging position to changes in the underlying asset. The performance of this method is tested on option trading data (from 2004 to 2020) for the Standard and Poors (S&P) 500, S&P 100, and Dow Jones Industrial Average.
+C1 [Xu, Wei] Ryerson Univ, Dept Math, Toronto, ON, Canada.   
+[Dai, Bing] Tongji Univ, Sch Math Sci, Shanghai, Peoples R China.
+RP Xu, W (corresponding author), Ryerson Univ, Dept Math, Toronto, ON, Canada.
+FU Natural Sciences and Engineering Research Council of Canada [RGPIN-2020-04686]; Nature Science Fund of China [71771175]
+CR Buehler H, 2019, QUANT FINANC, V19, P1271, DOI 10.1080/14697688.2019.1571683
+   Cao JY, 2021, THE JOURNAL OF FINANCIAL DATA SCIENCE, V3, P10, DOI 10.3905/jfds.2020.1.052
+   Halperin I, 2020, J DERIV, V28, P99, DOI 10.3905/jod.2020.1.108
+   Hull J, 2017, J BANK FINANC, V82, P180, DOI 10.1016/j.jbankfin.2017.05.006
+   Nian K, 2018, QUANT FINANC, V18, P1115, DOI 10.1080/14697688.2017.1413245
+   Ruf J, 2020, ARXIV200408891, V0, P0
+   Ruf J, 2020, J COMPUT FINANC, V24, P1, DOI 10.21314/JCF.2020.390
+NR 7
+TC 2
+Z9 0
+U1 0.0
+U2 16.0
+J9 JOURNAL OF DERIVATIVES
+PD SUM
+PY 2022
+VL 29
+BP 60
+EP 82
+DI 10.3905/jod.2022.1.156
+PG 23
+SC BUSINESS & ECONOMICS
+UT WOS:000801816500005
+PM 
+ER
+
+PT J
+AU Carbonneau, A
+TI Deep hedging of long-term financial derivatives
+SO INSURANCE MATHEMATICS & ECONOMICS
+DE reinforcement learning; global hedging; variable annuity; lookback option; jump risk
+AB This study presents a deep reinforcement learning approach for global hedging of long-term financial derivatives. A similar setup as in Coleman et al. (2007) is considered with the risk management of lookback options embedded in guarantees of variable annuities with ratchet features. The deep hedging algorithm of Buehler et al. (2019a) is applied to optimize neural networks representing global hedging policies with both quadratic and non-quadratic penalties. To the best of the authors knowledge, this is the first paper that presents an extensive benchmarking of global policies for long-term contingent claims with the use of various hedging instruments (e.g. underlying and standard options) and with the presence of jump risk for equity. Monte Carlo experiments demonstrate the vast superiority of non-quadratic global hedging as it results simultaneously in downside risk metrics two to three times smaller than best benchmarks and in significant hedging gains. Analyses show that the neural networks are able to effectively adapt their hedging decisions to different penalties and stylized facts of risky asset dynamics only by experiencing simulations of the financial market exhibiting these features. Numerical results also indicate that non-quadratic global policies are significantly more geared towards being long equity risk which entails earning the equity risk premium. (C) 2021 Elsevier B.V. All rights reserved.
+C1 [Carbonneau, Alexandre] Concordia Univ, Dept Math & Stat, Montreal, PQ, Canada.
+RP Carbonneau, A (corresponding author), Concordia Univ, Dept Math & Stat, Montreal, PQ, Canada.
+FU Fonds de recherche duQuebec - Nature et technologies (FRQNT) [205683]
+CR Almahdi S, 2017, EXPERT SYST APPL, V87, P267, DOI 10.1016/j.eswa.2017.06.023
+   Augustyniak M, 2017, N AM ACTUAR J, V21, P502, DOI 10.1080/10920277.2017.1316210
+   Augustyniak M, 2017, QUANT FINANC, V17, P1305, DOI 10.1080/14697688.2017.1279342
+   Becker S, 2019, J MACH LEARN RES, V20, P0
+   Buehler H, 2019, DEEP HEDGING: HEDGING DERIVATIVES UNDER GENERIC MARKET FRICTIONS USING REINFORCEMENT LEARNING, V0, P0
+   Buehler H, 2019, QUANT FINANC, V19, P1271, DOI 10.1080/14697688.2019.1571683
+   Cao HK, 2020, SSRN ELECTRONIC JOURNAL, V0, P0, DOI 10.2139/ssrn.3659275
+   Carbonneau A, 2021, QUANT FINANC, V21, P593, DOI 10.1080/14697688.2020.1806343
+   Deng Y, 2017, IEEE T NEUR NET LEAR, V28, P653, DOI 10.1109/TNNLS.2016.2522401
+   Dupuis DJ, 2016, ENERG J, V37, P31, DOI 10.5547/01956574.37.2.ddup
+   Godin F, 2016, QUANT FINANC, V16, P461, DOI 10.1080/14697688.2015.1054865
+   Goodfellow I, 2016, ADAPT COMPUT MACH LE, V0, P0, DOI 10.1038/NATURE14539
+   Halperin I, 2020, THE JOURNAL OF DERIVATIVES, V0, P0
+   Jiang Zhengyao, 2017, DEEP REINFORCEMENT L, V0, P0
+   Kolm PN, 2019, J FINANC DATA SCI, V1, P159
+   Kélani A, 2017, J RISK INSUR, V84, P209, DOI 10.1111/jori.12087
+   Sutton RS, 2018, ADAPT COMPUT MACH LE, V0, P1
+   Trottier DA, 2018, ASTIN BULL, V48, P611, DOI 10.1017/asb.2018.7
+   Trottier DA, 2018, RISKS, V6, P0, DOI 10.3390/risks6030078
+   Unknown -, 2016, PREPRINTS, V0, P0
+NR 20
+TC 22
+Z9 0
+U1 0.0
+U2 19.0
+J9 INSURANCE MATHEMATICS & ECONOMICS
+PD JUL
+PY 2021
+VL 99
+BP 327
+EP 340
+DI 10.1016/j.insmatheco.2021.03.017
+PG 14
+SC BUSINESS & ECONOMICS; MATHEMATICS; MATHEMATICAL METHODS IN SOCIAL SCIENCES
+UT WOS:000667945500025
+PM 
+ER
+
+PT J
+AU Giorgi, F
+   Herzel, Stefano
+   Pigato, Paolo
+TI A reinforcement learning algorithm for trading commodities
+SO APPLIED STOCHASTIC MODELS IN BUSINESS AND INDUSTRY
+DE commodities; portfolio optimization; reinforcement learning; sarsa; threshold models
+AB We propose a reinforcement learning (RL) algorithm for generating a trading strategy in a realistic setting, that includes transaction costs and factors driving the asset dynamics. We benchmark our algorithm against the analytical optimal solution, available when factors are linear and transaction costs are quadratic, showing that RL is able to mimic the optimal strategy. Then we consider a more realistic setting, including non-linear dynamics, that better describes the WTI spot prices time series. For these more general dynamics, an optimal strategy is not known and RL becomes a viable alternative. We show that on synthetic data generated from WTI spot prices, the RL agent outperforms a trader that linearizes the model to apply the theoretical optimal strategy.
+C1 [Giorgi, Federico; Herzel, Stefano; Pigato, Paolo] Univ Roma Tor Vergata, Dept Econ & Finance, Rome, Italy.
+RP Pigato, P (corresponding author), Univ Roma Tor Vergata, Dept Econ & Finance, Rome, Italy.
+FU The authors gratefully acknowledges financial support from University of Rome Tor Vergata via the Project AIF-E83C22002610005. We thank Riccardo Cogo, Giovanni Nappi, Andrea Cosentini and Ranieri Dugo for valuable inputs, and the participants of the XXIII [AIF-E83C22002610005]; University of Rome Tor Vergata; EFMA Meeting 2022
+CR Brini A, 2021, PHYS A, V0, P0
+   Buehler H, 2019, QUANT FINANC, V19, P1271, DOI 10.1080/14697688.2019.1571683
+   Buhler H, 2020, DATA DRIVEN MARKET S, V0, P0
+   Cao JY, 2021, THE JOURNAL OF FINANCIAL DATA SCIENCE, V3, P10, DOI 10.3905/jfds.2020.1.052
+   Christoffersen P, 2019, J FINANC QUANT ANAL, V54, P1083, DOI 10.1017/S0022109018000765
+   Kolm PetterN, 2019, THE JOURNAL OF FINANCIAL DATA SCIENCE, V1, P159, DOI 10.3905/JFDS.2019.1.1.159
+   Vittori E, 2020, OPTION HEDGING RISK, V0, P0
+   Xu T, 2020, COT GAN GENERATING S, V0, P0
+   Zhang ZH, 2020, THE JOURNAL OF FINANCIAL DATA SCIENCE, V2, P25, DOI 10.3905/jfds.2020.1.030
+NR 9
+TC 3
+Z9 0
+U1 1.0
+U2 6.0
+J9 APPLIED STOCHASTIC MODELS IN BUSINESS AND INDUSTRY
+PD MAR
+PY 2024
+VL 40
+BP 373
+EP 388
+DI 10.1002/asmb.2825
+PG 16
+SC OPERATIONS RESEARCH & MANAGEMENT SCIENCE; MATHEMATICS
+UT WOS:001076667500001
+PM 
+ER
+
+PT J
+AU Hirchoua, B
+   Ouhbi, Brahim
+   Frikh, Bouchra
+TI Deep reinforcement learning based trading agents: Risk curiosity driven learning for financial rules-based policy
+SO EXPERT SYSTEMS WITH APPLICATIONS
+DE deep reinforcement learning; partially observable markov decision process; knowledge uncertainty; financial data; trading system; financial engineering
+AB Financial markets are complex dynamic systems influenced by a high number of active agents, which produce a behavior with high randomness and noise. Trading strategies are well depicted as an online decision-making problem involving imperfect information and aiming to maximize the return while restraining the risk. However, it is challenging to obtain an optimal strategy in the complex and dynamic stock market. Therefore, recent developments in similar environments have pushed researchers towards exciting new horizons. In this paper, a novel rule-based policy approach is proposed to train a deep reinforcement learning agent for automated financial trading. Precisely, a continuous virtual environment has been created, with different versions of agents trading against one another. During this multiplex process, the agents which are trained on 504 risky datasets, use the fundamental concepts of proximal policy optimization to improve their own decision making by adjusting their action choice against the uncertainty of states. Risk curiosity-driven learning acts as an intrinsic reward function and is heavily laden with signals to find salient relationships between actions and market behaviors. The trained agent based on curiosity-driven risk has steadily and progressively improved actions quality. The self-learned rules driven by the agent curiosity push the policy towards actions that yield a high performance over the environment. Experiments on 8 real-world stocks are given to verify the appropriateness and efficiency of the self-learned rules. The proposed system has achieved promising performances, made better trades using fewer transactions, and outperformed the state-of-the-art baselines.
+C1 [Hirchoua, Badr; Ouhbi, Brahim] Moulay Ismail Univ UMI, Natl Higher Sch Arts & Crafts ENSAM, Ind Engn & Prod Dept, LM2I Lab, Meknes, Morocco.   
+[Frikh, Bouchra] Sidi Mohamed Ben Abdellah Univ USMBA, Higher Sch Technol EST, Dept Comp Sci, LTTI Lab, Fes, Morocco.
+RP Hirchoua, B (corresponding author), Moulay Ismail Univ UMI, Natl Higher Sch Arts & Crafts ENSAM, Ind Engn & Prod Dept, LM2I Lab, Meknes, Morocco.
+CR Almahdi S, 2017, EXPERT SYST APPL, V87, P267, DOI 10.1016/j.eswa.2017.06.023
+   Arulkumaran K, 2017, IEEE SIGNAL PROC MAG, V34, P26, DOI 10.1109/MSP.2017.2743240
+   Azhikodan Akhil Raj, 2019, INNOVATIONS IN COMPUTER SCIENCE AND ENGINEERING. PROCEEDINGS OF THE FIFTH ICICSE 2017. LECTURE NOTES IN NETWORKS AND SYSTEMS (LNNS 32), V0, PP41, DOI 10.1007/978-981-10-8201-6, 5
+   Buehler H, 2019, QUANT FINANC, V19, P1271, DOI 10.1080/14697688.2019.1571683
+   Carapuço J, 2018, APPL SOFT COMPUT, V73, P783, DOI 10.1016/j.asoc.2018.09.017
+   Chen CT, 2018, 2018 IEEE INTERNATIONAL CONFERENCE ON AGENTS (ICA), V0, PP34, DOI 10.1109/AGENTS.2018.8460078
+   Chow Y, 2018, J MACH LEARN RES, V18, P0
+   Dash R, 2016, APPL SOFT COMPUT, V45, P40, DOI 10.1016/j.asoc.2016.04.014
+   Deng Y, 2017, IEEE T NEUR NET LEAR, V28, P653, DOI 10.1109/TNNLS.2016.2522401
+   Du X, 2016, POSITIONS, V1, P1
+   Ganesh P, 2018, ARXIV PREPRINT ARXIV, V0, P0
+   Goldkamp J, 2019, EXPERT SYST APPL, V135, P113, DOI 10.1016/j.eswa.2019.05.046
+   Huang BM, 2019, ENTERP INF SYST-UK, V13, P132, DOI 10.1080/17517575.2018.1493145
+   Huang Chin-Wei, 2018, ARXIV PREPRINT ARXIV, V0, P0
+   Jeong G, 2019, EXPERT SYST APPL, V117, P125, DOI 10.1016/j.eswa.2018.09.036
+   Jiang P, 2019, APPL ENERG, V235, P786, DOI 10.1016/j.apenergy.2018.11.012
+   Jin O, 2016, PORTFOLIO MANAGEMENT USING REINFORCEMENT LEARNING, V0, P0
+   Lei K, 2020, EXPERT SYST APPL, V140, P0, DOI 10.1016/j.eswa.2019.112872
+   Li SW, 2018, TOURISM MANAGE, V68, P116, DOI 10.1016/j.tourman.2018.03.006
+   Li Y, 2019, IEEE ACCESS, V7, P108014, DOI 10.1109/ACCESS.2019.2932789
+   Liang J, 2017, ARXIV PREPRINT ARXIV, V0, P0
+   Liu JY, 2018, APPL SOFT COMPUT, V66, P149, DOI 10.1016/j.asoc.2018.02.014
+   Lu DW, 2017, ARXIV PREPRINT ARXIV, V0, P0
+   Luo LK, 2017, APPL SOFT COMPUT, V56, P199, DOI 10.1016/j.asoc.2017.03.007
+   Mnih V, 2016, PR MACH LEARN RES, V48, P0
+   Park H, 2020, EXPERT SYST APPL, V158, P0, DOI 10.1016/j.eswa.2020.113573
+   Persio LD, 2017, V11, V0, P7
+   Sastry R, 2019, J FINANC MARK, V44, P1, DOI 10.1016/j.finmar.2018.12.004
+   Schulman J, 2017, PROXIMAL POLICY OPTIMIZATION ALGORITHMS, V0, P0
+   Serrano W, 2018, PROCEDIA COMPUT SCI, V126, P537, DOI 10.1016/j.procs.2018.07.288
+   Si WY, 2017, INT SYM COMPUT INTEL, V0, PP431, DOI 10.1109/ISCID.2017.210
+   Silver D, 2016, NATURE, V529, P484, DOI 10.1038/nature16961
+   Spooner T, 2018, PROCEEDINGS OF THE 17TH INTERNATIONAL CONFERENCE ON AUTONOMOUS AGENTS AND MULTIAGENT SYSTEMS (AAMAS 18), V0, P434
+   Vella V, 2016, EXPERT SYST APPL, V55, P70, DOI 10.1016/j.eswa.2016.01.056
+   Xiao L, 2018, ENERG CONVERS MANAGE, V160, P273, DOI 10.1016/j.enconman.2018.01.038
+   Xing FZ, 2019, LECT NOTES ARTIF INT, V11053, P120, DOI 10.1007/978-3-030-10997-4, 8
+NR 36
+TC 33
+Z9 0
+U1 6.0
+U2 62.0
+J9 EXPERT SYSTEMS WITH APPLICATIONS
+PD MAY
+PY 2021
+VL 170
+BP 
+EP 
+DI 10.1016/j.eswa.2020.114553
+PG 16
+SC COMPUTER SCIENCE; ENGINEERING; OPERATIONS RESEARCH & MANAGEMENT SCIENCE
+UT WOS:000633042500001
+PM 
+ER
+
+PT J
+AU He, F
+   Chen, Chiao-Ting
+   Huang, Szu-Hao
+TI A multi-agent virtual market model for generalization in reinforcement learning based trading strategies
+SO APPLIED SOFT COMPUTING
+DE multi-agent systems; market simulation; reinforcement learning; trading strategy
+AB Many studies have successfully used reinforcement learning (RL) to train an intelligent agent that learns profitable trading strategies from financial market data. Most of RL trading studies have simplified the effect of the actions of the trading agent on the market state. The trading agent is trained to maximize long-term profit by optimizing fixed historical data. However, such approach frequently results in the trading performance during out-of-sample validation being considerably different from that during training. In this paper, we propose a multi-agent virtual market model (MVMM) comprised of multiple generative adversarial networks (GANs) which cooperate with each other to reproduce market price changes. In addition, the action of the trading agent can be superimposed on the current state as the input of the MVMM to generate an action-dependent next state. In this research, real historical data were replaced with the simulated market data generated by the MVMM. The experimental results indicated that the trading strategy of the trained RL agent achieved a 12% higher profit and exhibited low risk of loss in the 2019 China Shanghai Shenzhen 300 stock index futures backtest.
+C1 [He, Fei-Fan] Natl Yang Ming Chiao Tung Univ, Inst Informat Management, 1001 Univ Rd, Hsinchu 300, Taiwan.   
+[Chen, Chiao-Ting] Natl Yang Ming Chiao Tung Univ, Dept Comp Sci, 1001 Univ Rd, Hsinchu 300, Taiwan.   
+[Huang, Szu-Hao] Natl Yang Ming Chiao Tung Univ, Dept Informat Management & Finance, 1001 Univ Rd, Hsinchu 300, Taiwan.
+RP Huang, SH (corresponding author), Natl Yang Ming Chiao Tung Univ, Dept Informat Management & Finance, 1001 Univ Rd, Hsinchu 300, Taiwan.
+FU Ministry of Science and Technology, Taiwan [MOST 111-2221-E-A49-125-MY3, MOST 111-2622-8-A49-013-TM1]; Yuanta Securities; National Yang Ming Chiao Tung University
+CR Canese L, 2021, APPL SCI-BASEL, V11, P0, DOI 10.3390/app11114948
+   Charpentier A, 2023, COMPUT ECON, V62, P425, DOI 10.1007/s10614-021-10119-4
+   Chen H-Y, 2022, IEEE INT CONF AUTOMA, V0, P0
+   Chen YF, 2021, APPL SOFT COMPUT, V112, P0, DOI 10.1016/j.asoc.2021.107788
+   Chen YY, 2021, IEEE ACCESS, V9, P50667, DOI 10.1109/ACCESS.2021.3068768
+   Cheong MS, 2021, IEEE ACCESS, V9, P68302, DOI 10.1109/ACCESS.2021.3077067
+   De Meer Pardo F, 2019, THESIS DELFT U TECHN, V0, P0
+   Feng FL, 2019, ARXIV, V0, P0
+   Gronauer S, 2022, ARTIF INTELL REV, V55, P895, DOI 10.1007/s10462-021-09996-w
+   Huang S-H, 2021, IEEE ACCESS, V0, P0
+   Koshiyama A, 2021, QUANT FINANC, V21, P797, DOI 10.1080/14697688.2020.1790635
+   Kumar A, 2018, ARXIV, V0, P0
+   Kuo CH, 2021, IEEE ACCESS, V9, P50738, DOI 10.1109/ACCESS.2021.3068269
+   Lei K, 2020, EXPERT SYST APPL, V140, P0, DOI 10.1016/j.eswa.2019.112872
+   Li JY, 2020, AAAI CONF ARTIF INTE, V34, P727
+   Li W, 2020, PROCEEDINGS OF THE TWENTY-NINTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, V0, P4541
+   Liang ZP, 2018, ARXIV, V0, P0
+   Liao X, 2020, PROC IEEECVF C COMPU, V0, P9394
+   Liu Y, 2020, AAAI CONF ARTIF INTE, V34, P2128
+   Lussange J, 2021, COMPUT ECON, V57, P113, DOI 10.1007/s10614-020-10038-w
+   Mao W, 2022, INT C MACHINE LEARNI, V0, P15007
+   Shah D, 2019, INT J FINANC STUD, V7, P0, DOI 10.14419/ijdr.v7i1.23529
+   Shavandi A, 2022, EXPERT SYST APPL, V208, P0, DOI 10.1016/j.eswa.2022.118124
+   Shi JC, 2019, AAAI CONF ARTIF INTE, V0, P4902
+   Spooner T, 2018, ARXIV, V0, P0
+   Sutton RS, 2018, ADAPT COMPUT MACH LE, V0, P1
+   Tsantekidis A, 2020, IEEE INT WORKS MACH, V0, P0, DOI 10.1109/mlsp49062.2020.9231849
+   Tsantekidis A, 2020, IEEE T NEUR NET LEAR, V0, P0
+   Wang JY, 2019, KDD19: PROCEEDINGS OF THE 25TH ACM SIGKDD INTERNATIONAL CONFERENCCE ON KNOWLEDGE DISCOVERY AND DATA MINING, V0, PP1900, DOI 10.1145/3292500.3330647
+   Wu Q, 2020, SENSORS-BASEL, V20, P0, DOI 10.3390/s20154291
+   Ye YN, 2020, AAAI CONF ARTIF INTE, V34, P1112
+   Zarkias KS, 2019, INT CONF ACOUST SPEE, V0, PP3067, DOI 10.1109/ICASSP.2019.8683161
+   Zhang CY, 2018, ARXIV, V0, P0
+   Zhang K, 2019, PROCEDIA COMPUT SCI, V147, P400, DOI 10.1016/j.procs.2019.01.256
+   Zhang ZH, 2020, THE JOURNAL OF FINANCIAL DATA SCIENCE, V2, P25, DOI 10.3905/jfds.2020.1.030
+NR 35
+TC 12
+Z9 0
+U1 7.0
+U2 42.0
+J9 APPLIED SOFT COMPUTING
+PD FEB
+PY 2023
+VL 134
+BP 
+EP 
+DI 10.1016/j.asoc.2023.109985
+PG 17
+SC COMPUTER SCIENCE
+UT WOS:000967892700001
+PM 
+ER
+
+PT J
+AU Zemzem, W
+   Tagina, Moncef
+TI Improving exploration in deep reinforcement learning for stock trading
+SO INTERNATIONAL JOURNAL OF COMPUTER APPLICATIONS IN TECHNOLOGY
+DE deep reinforcement learning; noisynet-dqn; exploration; stock trading
+AB Deep reinforcement learning techniques have become quite widespread over the last decades. One challenge is the Exploration-Exploitation Dilemma. Although many exploration techniques for single-agent and multi-agent deep reinforcement learning are proposed and have shown promising results in various domains, their value has not yet been demonstrated in the financial markets. In this paper, we will apply the NoisyNet-DQN method, which was previously tested and brought promising results in Atari games, to the stock trading problem. The trained reinforcement learning agent is employed to trade the S&P500 ETF (SPY) data set. Findings show that this approach can encounter the best trading action to choose at a specific moment and outperforms the classical DQN (Deep QNetwork) method.
+C1 [Zemzem, Wiem; Tagina, Moncef] Univ Manouba, Natl Sch Comp Sci, Manouba, Tunisia.
+RP Zemzem, W (corresponding author), Univ Manouba, Natl Sch Comp Sci, Manouba, Tunisia.
+CR Aradi S, 2022, IEEE T INTELL TRANSP, V23, P740, DOI 10.1109/TITS.2020.3024655
+   Badia AP, 2020, ARXIV, V0, P0
+   Bajpai S, 2021, ARXIV, V0, P0, DOI 10.48550/arXiv.2106.16088
+   Bernstein AV, 2018, PROC SPIE, V10696, P0, DOI 10.1117/12.2309945
+   Charpentier A, 2023, COMPUT ECON, V62, P425, DOI 10.1007/s10614-021-10119-4
+   Chen L, 2019, INT CONF SOFTW ENG, V0, PP29, DOI 10.1109/icsess47205.2019.9040728
+   Dong S, 2021, COMPUT SCI REV, V40, P0, DOI 10.1016/j.cosrev.2021.100379
+   Fang Y, 2019, P IEEE INT C BIG DAT, V0, P0
+   Farazi NP, 2021, TRANSP RES INTERDISC, V11, P0, DOI 10.1016/j.trip.2021.100425
+   Fortunato M, 2019, ARXIV, V0, P0
+   Fortunato M, 2019, ARXIV, V0, P0
+   François-Lavet V, 2018, FOUND TRENDS MACH LE, V11, P219, DOI 10.1561/2200000071
+   Hao JY, 2023, ARXIV, V0, P0
+   Hirsa A, 2021, ARXIV, V0, P0
+   Liu Xiao-Yang, 2020, FINRL: A DEEP REINFORCEMENT LEARNING LIBRARY FOR AUTOMATED STOCK TRADING IN QUANTITATIVE FINANCE, V0, P0, DOI 10.2139/ssrn.3737257
+   Plappert M, 2018, ARXIV, V0, P0
+   Pouyanfar S, 2019, ACM COMPUT SURV, V51, P0, DOI 10.1145/3234150
+   Santos E, 2022, INT J COMPUT APPL T, V69, P150, DOI 10.1504/IJCAT.2022.126882
+   Sutton RS, 2018, ADAPT COMPUT MACH LE, V0, P1
+   Thanh DNH, 2021, INT J COMPUT APPL T, V66, P89, DOI 10.1504/IJCAT.2021.119757
+   Torrado RR, 2018, P IEEE C COMP INT GA, V0, P1
+   Wink M, 2020, DEEP Q-LEARNING TUTORIAL: MINDQN, V0, P0
+   Yang H, 2018, IEEE TRUST, V0, PP1693, DOI 10.1109/TrustCom/BigDataSE.2018.00253
+   Yang H, 2020, DEEP REINFORCEMENT LEARNING FOR AUTOMATED STOCK TRADING: AN ENSEMBLE STRATEGY, V0, P0, DOI 10.2139/SSRN.3690996
+NR 24
+TC 3
+Z9 0
+U1 2.0
+U2 20.0
+J9 INTERNATIONAL JOURNAL OF COMPUTER APPLICATIONS IN TECHNOLOGY
+PD JUN
+PY 2023
+VL 72
+BP 288
+EP 295
+DI 10.1504/IJCAT.2023.133883
+PG 9
+SC COMPUTER SCIENCE
+UT WOS:001080941600005
+PM 
+ER
+
+PT J
+AU Touzani, Y
+   Douzi, Khadija
+TI An LSTM and GRU based trading strategy adapted to the Moroccan market
+SO JOURNAL OF BIG DATA
+DE deep learning; stock market; trading strategies; financial times series
+AB Forecasting stock prices is an extremely challenging job considering the high volatility and the number of variables that influence it (political, economical, social, etc.). Predicting the closing price provides useful information and helps the investor make the right decision. The use of deep learning and more precisely of recurrent neural networks (RNNs) in stock market forecasting is an increasingly common practice in the literature. Long Short Term Memory (LSTM) and Gated Recurrent Unit (GRU) architectures are among the most widely used types of RNNs, given their suitability for sequential data. In this paper, we propose a trading strategy designed for the Moroccan stock market, based on two deep learning models: LSTM and GRU to predict the closing price in the short and medium term respectively. Decision rules for buying and selling stocks are implemented based on the forecasting given by the two models, then over four 3-year periods, we simulate transactions using these decision rules with different settings for each stock. The returns obtained will be used to estimate an expected return. We only hold stocks that outperform a benchmark index (expected return > threshold). The random search is then used to choose one of the available parameters and the performance of the portfolio built from the selected stocks will be tested over a further period. The repetition of this process with a variation of portfolio size makes it possible to select the best possible combination of stock each with the optimized parameter for the decision rules. The proposed strategy produces very promising results and outperforms the performance of indices used as benchmarks in the local market. Indeed, the annualized return of our strategy proposed during the test period is 27.13%, while it is 0.43% for Moroccan all share Indice (MASI), 15.24% for the distributor sector indices, and 19.94% for the pharmaceutical industry indices. Noted that brokerage fees are estimated and subtracted for each transaction. which makes the performance found even more realistic.
+C1 [Touzani, Yassine; Douzi, Khadija] Hassan II Univ, Comp Lab Mohammedia, Fac Sci & Technol Mohammedia, Mohammadia, Morocco.
+RP Touzani, Y (corresponding author), Hassan II Univ, Comp Lab Mohammedia, Fac Sci & Technol Mohammedia, Mohammadia, Morocco.
+CR Althelaya Khaled A, 2018, STOCK MARKET FORECAS, V0, P0
+   ArunKumar KE, 2021, CHAOS SOLITON FRACT, V146, P0, DOI 10.1016/j.chaos.2021.110861
+   Budiharto W, 2021, J BIG DATA-GER, V8, P0, DOI 10.1186/s40537-021-00430-0
+   Cao J, 2019, PHYSICA A, V519, P127, DOI 10.1016/j.physa.2018.11.061
+   Cogswell M, 2016, REDUCING OVERFITTING IN DEEP NETWORKS BY DECORRELATING REPRESENTATIONS, V0, P0
+   Goodfellow I, 2016, ADAPT COMPUT MACH LE, V0, P0, DOI 10.1038/NATURE14539
+   Kumar DP, 2019, INFORM FUSION, V49, P1, DOI 10.1016/j.inffus.2018.09.013
+   Lee SI, 2020, J SUPERCOMPUT, V76, P8040, DOI 10.1007/s11227-018-2577-1
+   Li XD, 2020, INFORM PROCESS MANAG, V57, P0, DOI 10.1016/j.ipm.2020.102212
+   Liu H, 2020, DIGIT SIGNAL PROCESS, V102, P0, DOI 10.1016/j.dsp.2020.102741
+   Livieris IE, 2020, NEURAL COMPUT APPL, V32, P17351, DOI 10.1007/s00521-020-04867-x
+   Nti IK, 2020, APPL COMPUT SYST, V25, P33, DOI 10.2478/acss-2020-0004
+   Patel MM, 2020, J INF SECUR APPL, V55, P0, DOI 10.1016/j.jisa.2020.102583
+   Samarawickrama AJP, 2017, INT CONF IND INF SYS, V0, P70
+   Shahid F, 2020, CHAOS SOLITON FRACT, V140, P0, DOI 10.1016/j.chaos.2020.110212
+   Shewalkar A, 2019, J ARTIF INTELL SOFT, V9, P235, DOI 10.2478/jaiscr-2019-0006
+   Wang SY, 2020, IEEE ACCESS, V8, P208158, DOI 10.1109/ACCESS.2020.3038788
+   Yadav A, 2020, PROCEDIA COMPUT SCI, V167, P2091, DOI 10.1016/j.procs.2020.03.257
+   Zheng S, 2016, PROC CVPR IEEE, V0, PP4480, DOI 10.1109/CVPR.2016.485
+NR 19
+TC 20
+Z9 0
+U1 1.0
+U2 34.0
+J9 JOURNAL OF BIG DATA
+PD SEP
+PY 2021
+VL 8
+BP 
+EP 
+DI 10.1186/s40537-021-00512-z
+PG 16
+SC COMPUTER SCIENCE
+UT WOS:000698944100001
+PM 34603936
+ER
+
+PT J
+AU Kumlungmak, K
+   Vateekul, Peerapon
+TI Multi-Agent Deep Reinforcement Learning With Progressive Negative Reward for Cryptocurrency Trading
+SO IEEE ACCESS
+DE cryptocurrency trading; multi-agent reinforcement learning; portfolio management
+AB Recently, reinforcement learning has been applied to cryptocurrencies to make profitable trades. However, cryptocurrency trading is a very challenging task due to the volatility of the market, especially during bearish periods. In addressing this problem, the existing literature employs single-agent techniques such as deep Q-network (DQN), advantage actor-critic (A2C), and proximal policy optimization (PPO), or their ensembles. Moreover, in the context of cryptocurrencies, the mechanisms for restricting losses during a bearish market are insufficiently robust. Consequently, the performance of reinforcement learning methods for cryptocurrency trading in the existing literature is constrained. To overcome this limitation, we propose a novel cryptocurrency trading method based on multi-agent proximal policy optimization (MAPPO) with a collaborative multi-agent scheme and a local-global reward function to optimize both the individual and collective performance of the agents. Both a multi-objective optimization technique and a multi-scale continuous loss (MSCL) reward are used to train agents using a progressive penalty to avoid consecutive losses of portfolio value. For evaluation, we compared our method to multiple baselines. As a result, better cumulative returns are achieved than when baseline methods are used. In addition, the superiority of our method is emphasized by the result of the bearish test set, where only our method can make a profit. Specifically, our method obtains a 2.36% cumulative return, whereas the baseline methods result in negative cumulative returns. In comparison to FinRL-Ensemble, a reinforcement learning-based method, our method achieves a 46.05% greater cumulative return in the bullish test set.
+C1 [Kumlungmak, Kittiwin; Vateekul, Peerapon] Chulalongkorn Univ, Fac Engn, Dept Comp Engn, Pathumwan 10330, Bangkok, Thailand.
+RP Vateekul, P (corresponding author), Chulalongkorn Univ, Fac Engn, Dept Comp Engn, Pathumwan 10330, Bangkok, Thailand.
+CR Betancourt C, 2021, APPL SCI-BASEL, V11, P0, DOI 10.3390/app11167377
+   Betancourt C, 2021, EXPERT SYST APPL, V164, P114002, DOI 10.1016/j.eswa.2020.114002
+   Bisht K, 2020, 2020 5TH IEEE INTERNATIONAL CONFERENCE ON RECENT ADVANCES AND INNOVATIONS IN ENGINEERING (IEEE - ICRAIE-2020), V0, P0, DOI 10.1109/ICRAIE51050.2020.9358319
+   Chen J, 2020, INVESTOPEDIA, V0, P0
+   Fernando J, 2023, RELATIVE STRENGTH INDEX, V0, P0
+   Fernando J, 2023, SHARPE RATIO: DEFINITION, V0, P0
+   Gao SH, 2021, IEEE T PATTERN ANAL, V43, P652, DOI 10.1109/TPAMI.2019.2938758
+   Gort BJD, 2022, ARXIV, V0, P0
+   Hayes A, 2023, VOLATILITY: MEANING IN FINANCE AND HOW IT WORKS WITH STOCKS, V0, P0
+   Khedr AM, 2021, INTELL SYST ACCOUNT, V28, P3, DOI 10.1002/isaf.1488
+   Liang E, 2018, PR MACH LEARN RES, V80, P0
+   Pant DR, 2018, PROCEEDINGS ON 2018 IEEE 3RD INTERNATIONAL CONFERENCE ON COMPUTING, V0, P128, DOI 10.1109/CCCS.2018.8586824
+   Sattarov O, 2020, APPL SCI-BASEL, V10, P0, DOI 10.3390/app10041506
+   Shintate T, 2019, J RISK FINANC MANAG, V12, P0, DOI 10.3390/jrfm12010017
+   Sun RY, 2021, 2021 IEEE 6TH INTERNATIONAL CONFERENCE ON BIG DATA ANALYTICS (ICBDA 2021), V0, PP76, DOI 10.1109/ICBDA51983.2021.9403210
+   Sutton RS, 2018, ADAPT COMPUT MACH LE, V0, P1
+   Taghian M, 2022, EXPERT SYST APPL, V195, P0, DOI 10.1016/j.eswa.2022.116523
+   Théate T, 2021, EXPERT SYST APPL, V173, P0, DOI 10.1016/j.eswa.2021.114632
+   Tsai YC, 2022, ANALYTICS, V1, P35, DOI 10.3390/analytics1010004
+   Unknown -, 2021, GLOBAL CRYPTOCURRENCY CHARTS-TOTAL MARKET CAP, V0, P0
+   Vo AD, 2019, INTERNATIONAL JOURNAL OF KNOWLEDGE ENGINEERING, V5, P47, DOI 10.18178/ijke.2019.5.2.116
+   Weng LG, 2020, NEUROCOMPUTING, V402, P171, DOI 10.1016/j.neucom.2020.04.004
+   Yang H, 2020, P 1 ACM INT C AI FIN, V0, PP1, DOI 10.1145/3383455.3422540
+   Yao Weiye, 2022, 2022 7TH INTERNATIONAL CONFERENCE ON BIG DATA ANALYTICS (ICBDA), V0, PP310, DOI 10.1109/ICBDA55095.2022.9760343
+   Zhang YF, 2022, IEEE T KNOWL DATA EN, V34, P236, DOI 10.1109/TKDE.2020.2979700
+NR 25
+TC 2
+Z9 0
+U1 3.0
+U2 22.0
+J9 IEEE ACCESS
+PD JUN
+PY 2023
+VL 11
+BP 66440
+EP 66455
+DI 10.1109/ACCESS.2023.3289844
+PG 16
+SC COMPUTER SCIENCE; ENGINEERING; TELECOMMUNICATIONS
+UT WOS:001025450700001
+PM 
+ER
+
+PT J
+AU Carbonneau, A
+   Godin, Frederic
+TI Deep Equal Risk Pricing of Financial Derivatives with Non-Translation Invariant Risk Measures
+SO RISKS
+DE finance; option pricing; hedging; reinforcement learning; deep learning
+AB The objective is to study the use of non-translation invariant risk measures within the equal risk pricing (ERP) methodology for the valuation of financial derivatives. The ability to move beyond the class of convex risk measures considered in several prior studies provides more flexibility within the pricing scheme. In particular, suitable choices for the risk measure embedded in the ERP framework, such as the semi-mean-square-error (SMSE), are shown herein to alleviate the price inflation phenomenon observed under the tail value at risk-based ERP as documented in previous work. The numerical implementation of non-translation invariant ERP is performed through deep reinforcement learning, where a slight modification is applied to the conventional deep hedging training algorithm so as to enable obtaining a price through a single training run for the two neural networks associated with the respective long and short hedging strategies. The accuracy of the neural network training procedure is shown in simulation experiments not to be materially impacted by such modification of the training algorithm.
+C1 [Carbonneau, Alexandre; Godin, Frederic] Concordia Univ, Dept Math & Stat, Montreal, PQ H3G 1M8, Canada.
+RP Godin, F (corresponding author), Concordia Univ, Dept Math & Stat, Montreal, PQ H3G 1M8, Canada.
+CR Alfeus M, 2022, INT J THEOR APPL FIN, V25, P0, DOI 10.1142/S0219024922500121
+   Bao WH, 2019, ARXIV, V0, P0
+   Betancourt C, 2021, EXPERT SYST APPL, V164, P114002, DOI 10.1016/j.eswa.2020.114002
+   Buehler H, 2019, QUANT FINANC, V19, P1271, DOI 10.1080/14697688.2019.1571683
+   Cao HK, 2020, SSRN ELECTRONIC JOURNAL, V0, P0, DOI 10.2139/ssrn.3659275
+   Cao JY, 2021, THE JOURNAL OF FINANCIAL DATA SCIENCE, V3, P10, DOI 10.3905/jfds.2020.1.052
+   Carbonneau A, 2021, ARXIV, V0, P0
+   Carbonneau A, 2021, INSUR MATH ECON, V99, P327, DOI 10.1016/j.insmatheco.2021.03.017
+   Carbonneau A, 2021, QUANT FINANC, V21, P593, DOI 10.1080/14697688.2020.1806343
+   Chong Wing Fung, 2021, ARXIV, V0, P0, DOI 10.1017/S1748499523000027
+   García-Galicia M, 2019, EXPERT SYST APPL, V129, P27, DOI 10.1016/j.eswa.2019.03.055
+   Godin F, 2019, INSUR MATH ECON, V87, P130, DOI 10.1016/j.insmatheco.2019.04.006
+   Halperin I, 2020, J DERIV, V28, P99, DOI 10.3905/jod.2020.1.108
+   He XJ, 2020, QUANT FINANC, V20, P935, DOI 10.1080/14697688.2020.1718193
+   Horvath B, 2021, RISKS, V9, P0, DOI 10.3390/risks9070138
+   Lütkebohmert E, 2022, QUANT FINANC, V22, P1465, DOI 10.1080/14697688.2022.2056073
+   Ma GY, 2022, INT J THEOR APPL FIN, V25, P0, DOI 10.1142/S0219024922500224
+   Marzban S, 2021, ARXIV, V0, P0
+   Marzban S, 2022, QUANT FINANC, V22, P47, DOI 10.1080/14697688.2021.1993614
+   Ning B, 2021, APPLIED MATHEMATICAL FINANCE, V28, P361, DOI 10.1080/1350486x.2022.2077783
+   Pendharkar PC, 2018, EXPERT SYST APPL, V103, P1, DOI 10.1016/j.eswa.2018.02.032
+   Wang HR, 2020, MATH FINANC, V30, P1273, DOI 10.1111/mafi.12281
+   Wu DV, 2023, ARXIV, V0, P0
+   Ye YN, 2020, AAAI CONF ARTIF INTE, V34, P1112
+NR 24
+TC 2
+Z9 0
+U1 0.0
+U2 6.0
+J9 RISKS
+PD AUG
+PY 2023
+VL 11
+BP 
+EP 
+DI 10.3390/risks11080140
+PG 27
+SC BUSINESS & ECONOMICS
+UT WOS:001056913400001
+PM 
+ER
+
+PT J
+AU Loh, LKY
+   Kueh, Hee Kheng
+   Parikh, Nirav Janak
+   Chan, Harry
+   Ho, Nicholas Jun Hui
+   Chua, Matthew Chin Heng
+TI An Ensembling Architecture Incorporating Machine Learning Models and Genetic Algorithm Optimization for Forex Trading
+SO FINTECH
+DE ensemble model; deep reinforcement learning; deep learning; genetic algorithm; recommender system
+AB Algorithmic trading has become the standard in the financial market. Traditionally, most algorithms have relied on rule-based expert systems which are a set of complex if/then rules that need to be updated manually to changing market conditions. Machine learning (ML) is the natural next step in algorithmic trading because it can directly learn market patterns and behaviors from historical trading data and factor this into trading decisions. In this paper, a complete end-to-end system is proposed for automated low-frequency quantitative trading in the foreign exchange (Forex) markets. The system utilizes several State of the Art (SOTA) machine learning strategies that are combined under an ensemble model to derive the market signal for trading. Genetic Algorithm (GA) is used to optimize the strategies for maximizing profits. The system also includes a money management strategy to mitigate risk and a back-testing framework to evaluate system performance. The models were trained on EUR-USD pair Forex data from Jan 2006 to Dec 2019, and subsequently evaluated on unseen samples from Jan 2020 to Dec 2020. The system performance is promising under ideal conditions. The ensemble model achieved about 10% nett P&L with -0.7% drawdown level based on 2020 trading data. Further work is required to calibrate trading costs & execution slippage in real market conditions. It is concluded that with the increased market volatility due to the global pandemic, the momentum behind machine learning algorithms that can adapt to a changing market environment will become even stronger.
+C1 [Loh, Leonard Kin Yung; Kueh, Hee Kheng; Parikh, Nirav Janak; Chan, Harry; Ho, Nicholas Jun Hui; Chua, Matthew Chin Heng] Natl Univ Singapore, Inst Syst Sci, 25 Heng Mui Keng Terrace, Singapore 119516, Singapore.
+RP Chua, MCH (corresponding author), Natl Univ Singapore, Inst Syst Sci, 25 Heng Mui Keng Terrace, Singapore 119516, Singapore.
+FU PH7
+CR Althelaya KA, 2018, INT CONF INFORM COMM, V0, PP151, DOI 10.1109/IACS.2018.8355458
+   Anzel K, 2020, IG, V0, P0
+   Bao W, 2017, PLOS ONE, V12, P0, DOI 10.1371/journal.pone.0180944
+   Brownlee J, 2017, TRANSFORM IN PYTHON, V0, P0
+   Brownlee Jason, 2019, MACHINE LEARNING MAS, V0, P0
+   Carapuço J, 2018, APPL SOFT COMPUT, V73, P783, DOI 10.1016/j.asoc.2018.09.017
+   Chen J, 2021, PULLBACK DEFINITION, V0, P0
+   Chollet F, 2017, DEEP LEARNING WITH PYTHON, V0, P0
+   Deka A, 2019, INTERNATIONAL JOURNAL OF SCIENTIFIC RESEARCH AND MANAGEMENT (IJSRM), V7, P0, DOI 10.18535/ijsrm/v7i8.em01
+   Downey L, 2021, TRANSACTION COSTS, V0, P0
+   Eapen J, 2019, 2019 IEEE 9TH ANNUAL COMPUTING AND COMMUNICATION WORKSHOP AND CONFERENCE (CCWC), V0, PP264, DOI 10.1109/ccwc.2019.8666592
+   Escudero P, 2021, APPL SCI-BASEL, V11, P0, DOI 10.3390/app11125658
+   Farley A, 2020, STRATEGIES APPLICATIONS BEHIND THE 50-DAY EMA (INTC, V0, P0
+   Fetalvero N, 2020, TECH ASIA, V0, P0
+   Folger J, 2021, 10 WAYS TO AVOID LOSING MONEY IN FOREX, V0, P0
+   Gan K, 2018, P 2018 IEEE INT C AR, V0, PP1, DOI 10.1109/IICAIET.2018.8638452
+   Gudelek MU, 2017, 2017 IEEE SYMPOSIUM SERIES ON COMPUTATIONAL INTELLIGENCE (SSCI), V0, P74
+   Hayes A, 2021, FOREX TRADING ROBOT, V0, P0
+   Islam MS, 2021, SOFT COMPUTING LETTERS, V3, P100009, DOI 10.1016/j.socl.2020.100009
+   Kuepper J, 2021, RISK MANAGEMENT TECHNIQUES FOR ACTIVE TRADERS, V0, P0
+   Lioudis N, 2019, HOW GLOBAL EVENTS AFFECT THE FOREX MARKET, V0, P0
+   Maurer TA, 2019, ECONOMETRIC MODELING: CAPITAL MARKETS-PORTFOLIO THEORY EJOURNAL, V0, P0
+   Mehtab S, 2020, INTERNATIONAL JOURNAL OF BUSINESS FORECASTING AND MARKETING INTELLIGENCE, V6, P272, DOI 10.1504/ijbfmi.2020.115691
+   Ng R, 2019, RAPID FRACTIONAL DIFFERENCING TO MINIMIZE MEMORY LOSS WHILE MAKING A TIME SERIES STATIONARY, V0, P0
+   Nti IK, 2020, J BIG DATA-GER, V7, P0, DOI 10.1186/s43067-020-00021-8
+   Palachy S, 2019, DETECTING STATIONARITY IN TIME SERIES DATA, V0, P0
+   Qi L, 2020, P 2020 IEEE AS PAC C, V0, P1
+   Rabin K, 2021, HOW IS AI REVOLUTIONIZING FX MARKET IN A WAY WE DIDNT EVEN REALIZE, V0, P0
+   Rundo F, 2019, APPL SCI-BASEL, V9, P0, DOI 10.3390/app9204460
+   Sezer OB, 2018, APPL SOFT COMPUT, V70, P525, DOI 10.1016/j.asoc.2018.04.024
+   Sutton RS, 2018, ADAPT COMPUT MACH LE, V0, P1
+   Thu TNT, 2018, NO TITLE CAPTURED, V0, PP1, DOI 10.1109/ICIRD.2018.8376303
+   Théate T, 2021, EXPERT SYST APPL, V173, P0, DOI 10.1016/j.eswa.2021.114632
+   Tzveta I, 2022, AN INTRODUCTION TO NON-STATIONARY PROCESSES, V0, P0
+   Wilson J, 2020, AITHORITY, V0, P0
+   Yang C, 2020, MATH PROBL ENG, V2020, P0, DOI 10.1155/2020/2746845
+   Yang H, 2018, LECT NOTES COMPUT SC, V11305, P35, DOI 10.1007/978-3-030-04221-9, 4
+   Yu XP, 2021, APPL SCI-BASEL, V11, P0, DOI 10.3390/app11093984
+   Yuan YY, 2020, ELECTRONICS-SWITZ, V9, P0, DOI 10.3390/electronics9091384
+   Zeng ZW, 2020, IEEE IJCNN, V0, P0
+   github, 2021, PEERCHEMIST FINTA, V0, P0
+   github, 2021, TWOPIRLLC PANDAS-TA, V0, P0
+NR 42
+TC 8
+Z9 0
+U1 2.0
+U2 2.0
+J9 FINTECH
+PD MAR
+PY 2022
+VL 1
+BP 100
+EP 124
+DI 10.3390/fintech1020008
+PG 25
+SC BUSINESS & ECONOMICS; COMPUTER SCIENCE
+UT WOS:001572617100001
+PM 
+ER
+
+PT J
+AU Kabbani, T
+   Duman, Ekrem
+TI Deep Reinforcement Learning Approach for Trading Automation in the Stock Market
+SO IEEE ACCESS
+DE stock markets; mathematical models; supervised learning; markov processes; approximation algorithms; q-learning; portfolios; deep learning; reinforcement learning; sentiment analysis; autonomous systems; autonomous agent; deep reinforcement learning; mdp; sentiment analysis; stock market; technical indicators; twin delayed deep deterministic policy gradient
+AB Deep Reinforcement Learning (DRL) algorithms can scale to previously intractable problems. The automation of profit generation in the stock market is possible using DRL, by combining the financial assets price "prediction" step and the "allocation" step of the portfolio in one unified process to produce fully autonomous systems capable of interacting with their environment to make optimal decisions through trial and error. This work represents a DRL model to generate profitable trades in the stock market, effectively overcoming the limitations of supervised learning approaches. We formulate the trading problem as a Partially Observed Markov Decision Process (POMDP) model, considering the constraints imposed by the stock market, such as liquidity and transaction costs. We then solve the formulated POMDP problem using the Twin Delayed Deep Deterministic Policy Gradient (TD3) algorithm reporting a 2.68 Sharpe Ratio on unseen data set (test data). From the point of view of stock market forecasting and the intelligent decision-making mechanism, this paper demonstrates the superiority of DRL in financial markets over other types of machine learning and proves its credibility and advantages in strategic decision-making.
+C1 [Kabbani, Taylan; Duman, Ekrem] Ozyegin Univ, Dept Ind Engn, TR-34794 Istanbul, Turkey.
+RP Kabbani, T (corresponding author), Ozyegin Univ, Dept Ind Engn, TR-34794 Istanbul, Turkey.
+CR Akhmetzyanov A, 2020, HUMAN INTERACTION EM, V0, P168
+   Araci D, 2019, ARXIV, V0, P0
+   Chakraborty S, 2019, ARXIV, V0, P0
+   Conegundes L, 2020, IEEE IJCNN, V0, P0, DOI 10.1109/ijcnn48605.2020.9206938
+   De Prado ML, 2018, J PORTFOLIO MANAGE, V44, P120, DOI 10.2139/ssrn.3104816
+   Deng Y, 2017, IEEE T NEUR NET LEAR, V28, P653, DOI 10.1109/TNNLS.2016.2522401
+   Hao YP, 2020, APPL SCI-BASEL, V10, P0, DOI 10.3390/app10113961
+   Henderson P, 2018, AAAI CONF ARTIF INTE, V0, P3207
+   Kau S, 2017, ALGORITHMIC TRADING, V0, P0
+   Liang J, 2017, ARXIV170610059, V0, P0
+   Lillicrap TP, 2019, ARXIV, V0, P0
+   Liu X, 2018, ARXIV, V0, P0
+   Meng TL, 2019, DATA, V4, P0, DOI 10.3390/data4030110
+   Sutton RS, 2018, ADAPT COMPUT MACH LE, V0, P1
+   Tsantekidis A, 2017, CONF BUS INFORM, V1, P7, DOI 10.1109/CBI.2017.23
+   Unknown -, 2018, ARXIV, V0, P0
+   Vargas MR, 2018, IEEE IJCNN, V0, P0
+   Yang Q, 2019, ACM T INTEL SYST TEC, V10, P0, DOI 10.1145/3298981
+NR 18
+TC 27
+Z9 0
+U1 6.0
+U2 57.0
+J9 IEEE ACCESS
+PD JUN
+PY 2022
+VL 10
+BP 93564
+EP 93574
+DI 10.1109/ACCESS.2022.3203697
+PG 11
+SC COMPUTER SCIENCE; ENGINEERING; TELECOMMUNICATIONS
+UT WOS:000853807800001
+PM 
+ER
+
+PT J
+AU Ngo, VM
+   Nguyen, Huan Huu
+   Nguyen, Phuc Van
+TI Does reinforcement learning outperform deep learning and traditional portfolio optimization models in frontier and developed financial markets?
+SO RESEARCH IN INTERNATIONAL BUSINESS AND FINANCE
+DE reinforcement learning; machine learning; portfolio construction models; sharpe ratio; mean -variance models
+AB Advancements in machine learning have opened up a wide range of new possibilities for using advanced computer algorithms, such as reinforcement learning in portfolio risk management. However, very little evidence has been provided on the superior performance of reinforcement learning models over traditional optimization models following the mean-variance framework in different financial market settings. This study uses two experiments with data from the Viet-namese and U.S. securities markets to justify whether advanced machine learning models could outperform traditional portfolios cumulative returns while optimizing the Sharpe ratio. The re-sults suggest that reinforcement learning consistently outperforms the established methods and benchmarks in both experiments, even when using a very similar degree of diversification in portfolio construction and the same input data. This study confirms the ability of reinforcement learning to provide dynamic responses to market conditions and redefine the risk-return standard in the financial system.
+C1 [Ngo, Vu Minh; Nguyen, Huan Huu] Univ Econ Ho Chi Minh City UEH, Business Coll, Sch Banking, 59C Nguyen Dinh Chieu St,Ward 6,Dist 3, Ho Chi Minh City, Vietnam.   
+[Nguyen, Phuc Van] Massey Univ New Zealand, Private Bag 11 222, Palmerston North 4442, New Zealand.   
+[Nguyen, Phuc Van] Ho Chi Minh Univ Banking HUB, Nguyen Thai Binh Ward, 36 Ton Dam St,Dist 1, Ho Chi Minh City, Vietnam.
+RP Ngo, VM (corresponding author), Univ Econ Ho Chi Minh City UEH, Business Coll, Sch Banking, 59C Nguyen Dinh Chieu St,Ward 6,Dist 3, Ho Chi Minh City, Vietnam.
+CR Abiodun OI, 2018, HELIYON, V4, P0, DOI 10.1016/j.heliyon.2018.e00938
+   Anh DLT, 2021, J ECON STUD, V48, P836, DOI 10.1108/JES-06-2020-0312
+   Arnott R, 2019, THE JOURNAL OF FINANCIAL DATA SCIENCE, V1, P64, DOI 10.3905/jfds.2019.1.064
+   Arroyo J, 2019, IEEE ACCESS, V7, P124233, DOI 10.1109/ACCESS.2019.2938659
+   Bartram SM, 2021, THE JOURNAL OF FINANCIAL DATA SCIENCE, V3, P9, DOI 10.3905/jfds.2021.1.071
+   Bisoi R, 2019, APPL SOFT COMPUT, V74, P652, DOI 10.1016/j.asoc.2018.11.008
+   Candar M, 2022, LECT NOTE NETW SYST, V505, P131, DOI 10.1007/978-3-031-09176-6, 16
+   Giang NK, 2022, BLOOMBERG, V0, P0
+   Gu SH, 2020, REV FINANC STUD, V33, P2223, DOI 10.1093/rfs/hhaa009
+   Jurczenko E, 2020, MACHINE LEARNING ASS, V0, P0
+   KACZMAREK T, 2021, EC RES E KON ISTRAZ, V0, P1
+   Kolm PetterN, 2019, THE JOURNAL OF FINANCIAL DATA SCIENCE, V1, P159, DOI 10.3905/JFDS.2019.1.1.159
+   Lahmiri S, 2020, CHAOS SOLITON FRACT, V133, P0, DOI 10.1016/j.chaos.2020.109641
+   Li Y, 2022, ARXIV, V0, P0
+   Li YM, 2020, IEEE INTL CONF IND I, V0, PP397, DOI 10.1109/INDIN45582.2020.9442214
+   Liang Z, 2018, ARXIV, V0, P0
+   Long W, 2019, KNOWL-BASED SYST, V164, P163, DOI 10.1016/j.knosys.2018.10.034
+   Ma YL, 2021, EXPERT SYST APPL, V165, P0, DOI 10.1016/j.eswa.2020.113973
+   Meng TL, 2019, DATA, V4, P0, DOI 10.3390/data4030110
+   Mostafa S, 2021, NEURAL ENGINEERING TECHNIQUES FOR AUTISM SPECTRUM DISORDER, V0, PP23, DOI 10.1016/B978-0-12-822822-7.00003-X
+   Saltiel D, 2020, ECML PKDD DEMO TRACK, V0, P0
+   Sirignano J, 2019, QUANT FINANC, V19, P1449, DOI 10.1080/14697688.2019.1622295
+   Soleymani F, 2020, EXPERT SYST APPL, V156, P0, DOI 10.1016/j.eswa.2020.113456
+   Statista, 2022, LARG STOCK EXCH OP M, V0, P0
+   Taljaard BH, 2021, QUANT FINANC, V21, P1855, DOI 10.1080/14697688.2021.1889020
+   The Ministry of Finance, 2022, VIETN STOCK MARK HAS, V0, P0
+   Vo XV, 2018, J BEHAV EXP FINANC, V17, P10, DOI 10.1016/j.jbef.2017.12.002
+   WEN W, 2022, APPL SCI 2021, V11, P11208
+   Wang HR, 2020, MATH FINANC, V30, P1273, DOI 10.1111/mafi.12281
+   Wang PJ, 2021, RES INT BUS FINANC, V58, P0, DOI 10.1016/j.ribaf.2021.101479
+   Wang WY, 2020, EXPERT SYST APPL, V143, P0, DOI 10.1016/j.eswa.2019.113042
+   Wang XQ, 2020, J AM COLL RADIOL, V17, P796, DOI 10.1016/j.jacr.2020.01.006
+   Wu ME, 2021, APPL INTELL, V51, P8119, DOI 10.1007/s10489-021-02262-0
+   Wu WB, 2021, MANAGE SCI, V67, P4577, DOI 10.1287/mnsc.2020.3696
+   Yu P, 2019, RWSDM WORKSHOP, V1, P0
+   Zhang ZH, 2019, IEEE T SIGNAL PROCES, V67, P3001, DOI 10.1109/TSP.2019.2907260
+   Zhang ZH, 2020, THE JOURNAL OF FINANCIAL DATA SCIENCE, V2, P25, DOI 10.3905/jfds.2020.1.030
+   Zhang ZH, 2020, THE JOURNAL OF FINANCIAL DATA SCIENCE, V2, P8, DOI 10.3905/jfds.2020.1.042
+   Zhou F, 2019, APPL SOFT COMPUT, V84, P0, DOI 10.1016/j.asoc.2019.105747
+NR 39
+TC 15
+Z9 0
+U1 9.0
+U2 63.0
+J9 RESEARCH IN INTERNATIONAL BUSINESS AND FINANCE
+PD APR
+PY 2023
+VL 65
+BP 
+EP 
+DI 10.1016/j.ribaf.2023.101936
+PG 27
+SC BUSINESS & ECONOMICS
+UT WOS:000971941700001
+PM 
+ER
+
+PT J
+AU Fu, K
+   Yu, Yidong
+   Li, Bing
+TI Multi-Feature Supervised Reinforcement Learning for Stock Trading
+SO IEEE ACCESS
+DE & nbsp;supervised reinforcement learning; finance and operations; reinforcement learning; deep deterministic policy gradient; long short-term memory
+AB Deep reinforcement learning (DRL) algorithm is often used to find the best trading strategy in algorithmic trading. However, the classical DRL model is difficult to achieve rapid convergence, and the features extracted from the market data are relatively simple, resulting in incomplete DRL learning information. In this paper, we propose a supervised reinforcement learning method, a hybrid optimal investment strategy formation method consisting of long short-term memory neural network (LSTM) and deep deterministic policy gradient (DDPG). By participating in reinforcement learning in the early stage of supervised learning, agents can obtain guiding prior experience, thus reducing the cost of agent learning and accelerating convergence. In addition, multi-feature state input is added to the model to optimize the agents learning of the environment. Compared with DDPG algorithm, LSTM-DDPG algorithm achieves convergence faster. Experiments on three regional stock markets in China, the United States and Europe show that LSTM-DDPG algorithm has higher profit and lower risk than B & H, MACD and LSTM trading strategies.
+C1 [Fu, Kui; Yu, Yidong; Li, Bing] Wuhan Univ Technol, Sch Econ, Wuhan 430070, Hubei, Peoples R China.
+RP Fu, K (corresponding author), Wuhan Univ Technol, Sch Econ, Wuhan 430070, Hubei, Peoples R China.
+FU National Natural Science Foundation of China [72004174]
+CR Gallego F, 2023, ENERGY AND AI, V13, P0
+   Gülmez B, 2023, EXPERT SYST APPL, V227, P0, DOI 10.1016/j.eswa.2023.120346
+   Ji SW, 2019, MATHEMATICS-BASEL, V7, P0, DOI 10.3390/math7100898
+   Jia ZC, 2021, SENSORS-BASEL, V21, P0, DOI 10.3390/s21196571
+   Kim K, 2022, IEEE ACCESS, V10, P50641, DOI 10.1109/ACCESS.2022.3174361
+   Kim Y, 2021, IEEE ACCESS, V9, P56178, DOI 10.1109/ACCESS.2021.3072435
+   Ladosz P, 2022, INFORM FUSION, V85, P1, DOI 10.1016/j.inffus.2022.03.003
+   Lillicrap TP, 2019, ARXIV, V0, P0
+   Liu JL, 2019, ARXIV, V0, P0
+   Ma C, 2021, NEUROCOMPUTING, V449, P290, DOI 10.1016/j.neucom.2021.04.005
+   Nabipour M, 2020, IEEE ACCESS, V8, P150199, DOI 10.1109/ACCESS.2020.3015966
+   Oelschläger L, 2023, STAT MODEL, V23, P107, DOI 10.1177/1471082X211034048
+   Song Y, 2019, APPL INTELL, V49, P897, DOI 10.1007/s10489-018-1308-x
+   Vanguri NY, 2023, INT J INF TECH DECIS, V0, P0, DOI 10.1142/S0219622023500049
+   Wang YF, 2018, 2018 17TH INTERNATIONAL SYMPOSIUM ON DISTRIBUTED COMPUTING AND APPLICATIONS FOR BUSINESS ENGINEERING AND SCIENCE (DCABES), V0, PP173, DOI 10.1109/DCABES.2018.00052
+   Weng LG, 2020, NEUROCOMPUTING, V402, P171, DOI 10.1016/j.neucom.2020.04.004
+   Xuan Ji, 2021, INTERNATIONAL JOURNAL OF CROWD SCIENCE, V5, P0, DOI 10.1108/ijcs-05-2020-0012
+   Yaoming Li, 2021, IAENG INTERNATIONAL JOURNAL OF COMPUTER SCIENCE, V48, P1
+   Zhang R, 2020, CHIN CONT DECIS CONF, V0, PP3175, DOI 10.1109/CCDC49329.2020.9164222
+NR 19
+TC 3
+Z9 0
+U1 3.0
+U2 44.0
+J9 IEEE ACCESS
+PD JUN
+PY 2023
+VL 11
+BP 77840
+EP 77855
+DI 10.1109/ACCESS.2023.3298821
+PG 16
+SC COMPUTER SCIENCE; ENGINEERING; TELECOMMUNICATIONS
+UT WOS:001041941300001
+PM 
+ER
+
+PT J
+AU Sun, Q
+   Gong, Xueyuan
+   Si, Yain-Whar
+TI Transaction-aware inverse reinforcement learning for trading in stock markets
+SO APPLIED INTELLIGENCE
+DE finance; transaction-aware; inverse reinforcement learning; algorithmic trading
+AB Training automated trading agents is a long-standing topic that has been widely discussed in artificial intelligence for the quantitative finance. Reinforcement learning (RL) is designed to solve the sequential decision-making tasks, like the stock trading. The output of the RL is the policy which can be presented as the probability values of the possible actions based on a given state. The policy is optimized by the reward function. However, even if the profit is considered as the natural reward function, a trading agent equipped with an RL model has several serious problems. Specifically, profit is only obtained after executing sell action, different profits exist at the same time step due to the varying-length transactions and the hold action deals with two opposite states, empty or nonempty position. To alleviate these shortcomings, in this paper, we introduce a new trading action called wait for the empty position status and design the appropriate rewards to all actions. Based on the new action space and reward functions, a novel approach named Transaction-aware Inverse Reinforcement Learning (TAIRL) is proposed. TAIRL rewards all trading actions for avoiding the reward bias and dilemma. TAIRL is evaluated by backtesting on 12 stocks of US, UK and China stock markets, and compared against other state-of-art RL methods and moving average trading methods. The experimental results show that the agent of TAIRL achieves the state-of-art performance in profitability and anti-risk ability.
+C1 [Sun, Qizhou; Si, Yain-Whar] Univ Macau, Dept Comp & Informat Sci, Ave Univ, Macau, Peoples R China.   
+[Gong, Xueyuan] Jinan Univ, Sch Intelligent Syst Sci & Engn, Skinny Dog Rd, Guangzhou, Peoples R China.
+RP Si, YW (corresponding author), Univ Macau, Dept Comp & Informat Sci, Ave Univ, Macau, Peoples R China.
+FU Research Services and Knowledge Transfer Office, University of Macau
+CR Alpaydin E, 2020, INTRO MACHINE LEARNI, V0, P0
+   Haarnoja T, 2018, PR MACH LEARN RES, V80, P0
+   Hessel M, 2018, AAAI CONF ARTIF INTE, V0, P3215
+   Li Y, 2019, IEEE ACCESS, V7, P108014, DOI 10.1109/ACCESS.2019.2932789
+   Li ZC, 2021, ICAIF 2021: THE SECOND ACM INTERNATIONAL CONFERENCE ON AI IN FINANCE, V0, P0, DOI 10.1145/3490354.3494413
+   Liu X-Y, 2021, P 2 ACM INT C AI FI, V0, P1
+   Liu Y, 2020, AAAI CONF ARTIF INTE, V34, P2128
+   Marchesini E, 2022, 2022 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA 2022), V0, PP5525, DOI 10.1109/ICRA46639.2022.9812341
+   Mariani MC, 2019, QUANTITATIVE FINANCE, V0, P0
+   Nguyen H, 2019, 2019 THIRD IEEE INTERNATIONAL CONFERENCE ON ROBOTIC COMPUTING (IRC 2019), V0, PP590, DOI 10.1109/IRC.2019.00120
+   Nielsen A, 2019, PRACTICAL TIME SERIES ANALYSIS: PREDICTION WITH STATISTICS AND MACHINE LEARNING, V0, P0
+   Niroui F, 2019, IEEE ROBOT AUTOM LET, V4, P610, DOI 10.1109/LRA.2019.2891991
+   Sutton RS, 2020, A BRADFORD BOOK, V0, P0
+   Wang Y, 2020, UNCERTAINTY IN ARTIFICIAL INTELLIGENCE, V0, P113, DOI 10.48550/ARXIV.1903.07940
+   Wu X, 2020, INFORM SCIENCES, V538, P142, DOI 10.1016/j.ins.2020.05.066
+   Yang SY, 2018, EXPERT SYST APPL, V114, P388, DOI 10.1016/j.eswa.2018.07.056
+   Zhang WP, 2022, PATTERN RECOGN, V125, P0, DOI 10.1016/j.patcog.2022.108543
+NR 17
+TC 4
+Z9 0
+U1 2.0
+U2 7.0
+J9 APPLIED INTELLIGENCE
+PD DEC
+PY 2023
+VL 53
+BP 28186
+EP 28206
+DI 10.1007/s10489-023-04959-w
+PG 21
+SC COMPUTER SCIENCE
+UT WOS:001181809800048
+PM 
+ER
+
+PT J
+AU Funahashi, H
+TI Deep learning for derivatives pricing: a comparative study of asymptotic and quasi-process corrections
+SO ANNALS OF OPERATIONS RESEARCH
+DE artificial neural network; derivatives; local and stochastic volatility model; asymptotic expansion; monte carlo simulation; stochastic differential equation
+AB In this study, we compare two methods for using neural networks to efficiently learn the price of derivatives. The first method, proposed by Funahashi (Quant Financ 21(4):575-592, 2021a), involves training the neural networks to learn the difference between the derivative price and its asymptotic expansion, rather than learning the derivative price directly. The target derivative price is then obtained by adding the approximate solution with the predicted value of neural networks. This method reduces the required amount of learning data, often by a factor of one hundred to one thousand, compared to the case where the derivative price is directly learned through neural networks. In the second method, established in this paper, the neural networks learn the difference between the derivative price written on the underlying asset price that follows the target complex stochastic process and the derivative price written on the underlying asset price that has a relatively simple stochastic process that has a closed-form solution for the target derivative prices. This method provides an alternative valuation method when no efficient approximate solution for the derivative value is observed and if one can arbitrarily determine the model parameters of the quasi-process that approximates the original process. We also propose a unified method to determine the model parameters of quasi-processes from underlying asset processes. These methods prove valuable in cases where general analytic solutions are absent, as seen in widely used financial models such as the stochastic volatility models. These cases involve time-consuming numerical calculations to generate learning data, highlighting the value of the two methods, which significantly compress calculation times.
+C1 [Funahashi, Hideharu] Kanagawa Univ, Fac Econ, 3-27-1 Rokkakubashi,Kanagawa Ku, Yokohama, Kanagawa 2218686, Japan.
+RP Funahashi, H (corresponding author), Kanagawa Univ, Fac Econ, 3-27-1 Rokkakubashi,Kanagawa Ku, Yokohama, Kanagawa 2218686, Japan.
+FU JSPS KAKENHI [JP22K13436]
+CR Buccioni V, 2023, MASTERS THESIS, V0, P0
+   Buehler H, 2019, QUANT FINANC, V19, P1271, DOI 10.1080/14697688.2019.1571683
+   Funahashi H, 2021, INT J THEOR APPL FIN, V24, P0, DOI 10.1142/S021902492150014X
+   Funahashi H, 2021, QUANT FINANC, V21, P575, DOI 10.1080/14697688.2020.1812702
+   Funahashi H, 2023, QUANT FINANC, V23, P229, DOI 10.1080/14697688.2022.2150561
+   Horvath B, 2021, QUANT FINANC, V21, P11, DOI 10.1080/14697688.2020.1817974
+   Itkin A, 2019, ARXIV, V0, P0
+   Kienitz J, 2020, WORKING PAPER, V0, P0
+   Liang J, 2021, QUANT FINANC, V21, P1309, DOI 10.1080/14697688.2021.1881149
+   Liu SQ, 2019, J MATH IND, V9, P0, DOI 10.1186/s13362-019-0066-7
+   Liu SQ, 2019, RISKS, V7, P0, DOI 10.3390/risks7010016
+   Ruf J, 2020, J COMPUT FINANC, V24, P1, DOI 10.21314/JCF.2020.390
+   Valentina B, 2023, MASTER THESIS, V0, P0
+NR 13
+TC 0
+Z9 0
+U1 1.0
+U2 3.0
+J9 ANNALS OF OPERATIONS RESEARCH
+PD JUL
+PY 2024
+VL 0
+BP 
+EP 
+DI 10.1007/s10479-024-06114-1
+PG 45
+SC OPERATIONS RESEARCH & MANAGEMENT SCIENCE
+UT WOS:001264583000001
+PM 
+ER
+
+PT J
+AU Lee, N
+   Moon, Jun
+TI Offline Reinforcement Learning for Automated Stock Trading
+SO IEEE ACCESS
+DE portfolio allocation; reinforcement learning; sequence modeling; sharpe ratio; transformer; stock market
+AB Recently, with the increasing interest in investments in financial stock markets, several methods have been proposed to automatically trade stocks and/or predict future stock prices using machine learning techniques, such as reinforcement learning (RL), LSTM, and transformers. Among them, RL has been applied to manage portfolio assets with a sequence of optimal actions. The most important factor in investing in stocks is the utilization of past stock price data. However, existing RL algorithms applied to stock markets do not consider past stock data when taking optimal actions, as RL is formulated based on the Markov property. In other words, it means that the existing RL algorithm infers action based on the current state only. To resolve this limitation, we propose Transformer Actor-Critic with Regularization (TACR) using decision transformer to train the model with the correlation of past MDP (Markov Decision Process) elements using an attention network. In addition, a critic network is added to improve the performance by updating the parameters based on the evaluation of an action. For an efficient learning method, we train our model using an offline RL algorithm through suboptimal trajectories. To prevent overestimating the value of actions and reduce learning time, we train TACR through a regularization technique with an added behavior cloning. The experimental results using various stock market datasets show that TACR performs better than other state-of-the-art methods in terms of the Sharpe ratio and profit.
+C1 [Lee, Namyeong; Moon, Jun] Hanyang Univ, Dept Artificial Intelligence, Seoul 04763, South Korea.
+RP Moon, J (corresponding author), Hanyang Univ, Dept Artificial Intelligence, Seoul 04763, South Korea.
+FU National Research Foundation of Korea (NRF) Grant - Ministry of Science and ICT, South Korea [NRF-2021R1A2C2094350]; Institute of Information & Communications Technology Planning and Evaluation (IITP) Grant - Korea Government (MSIT) [2020-0-01373]
+CR Chen DL, 2019, ARXIV, V0, P0
+   Chen LL, 2021, ADV NEUR IN, V34, P0
+   Dankwa S, 2019, ICVISP 2019: PROCEEDINGS OF THE 3RD INTERNATIONAL CONFERENCE ON VISION, V0, P0, DOI 10.1145/3387168.3387199
+   Devlin J, 2019, ARXIV, V0, P0
+   Ding QG, 2020, PROCEEDINGS OF THE TWENTY-NINTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, V0, P4640
+   Fu Justin, 2020, ARXIV, V0, P0
+   Fujimoto S, 2021, ADV NEUR IN, V34, P0
+   Haarnoja T, 2018, PR MACH LEARN RES, V80, P0
+   Janner M, 2021, ADV NEUR IN, V34, P0
+   Kumar Aviral, 2020, ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS, V33, P1179
+   Levine S, 2020, ARXIV, V0, P0
+   Li X, 2019, ARXIV, V0, P0
+   Li XY, 2019, ARXIV, V0, P0
+   Liang ZP, 2018, ARXIV, V0, P0
+   Lillicrap TP, 2019, ARXIV, V0, P0
+   Liu XY, 2022, ARXIV, V0, P0
+   Liu Xiao-Yang, 2020, FINRL: A DEEP REINFORCEMENT LEARNING LIBRARY FOR AUTOMATED STOCK TRADING IN QUANTITATIVE FINANCE, V0, P0, DOI 10.2139/ssrn.3737257
+   Ponomarev ES, 2019, J COMMUN TECHNOL EL+, V64, P1450, DOI 10.1134/S1064226919120131
+   Qiu CR, 2019, IEEE INTERNET THINGS, V6, P8577, DOI 10.1109/JIOT.2019.2921159
+   Radford A, 2018, LANGUAGE MODELS ARE UNSUPERVISED MULTITASK LEARNERS, V0, P0, DOI 10.18653/V1/N18-1202
+   Radford Alec, 2019, LANGUAGE MODELS ARE UNSUPERVISED MULTITASK LEARNERS, V1, P9, DOI 10.4018/978-1-5225-9348-5.CH006
+   Sampedro C, 2019, J INTELL ROBOT SYST, V95, P601, DOI 10.1007/s10846-018-0898-1
+   Sutton RS, 2018, ADAPT COMPUT MACH LE, V0, P1
+   Wang JY, 2019, KDD19: PROCEEDINGS OF THE 25TH ACM SIGKDD INTERNATIONAL CONFERENCCE ON KNOWLEDGE DISCOVERY AND DATA MINING, V0, PP1900, DOI 10.1145/3292500.3330647
+   Ye YN, 2020, AAAI CONF ARTIF INTE, V34, P1112
+   Yoo J, 2021, KDD 21: PROCEEDINGS OF THE 27TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY & DATA MINING, V0, PP2037, DOI 10.1145/3447548.3467297
+   Zhao XY, 2019, ARXIV, V0, P0
+NR 27
+TC 4
+Z9 0
+U1 2.0
+U2 19.0
+J9 IEEE ACCESS
+PD JUN
+PY 2023
+VL 11
+BP 112577
+EP 112589
+DI 10.1109/ACCESS.2023.3324458
+PG 13
+SC COMPUTER SCIENCE; ENGINEERING; TELECOMMUNICATIONS
+UT WOS:001091995600001
+PM 
+ER
+
+PT J
+AU Sun, Q
+   Si, Yain-Whar
+TI Supervised actor-critic reinforcement learning with action feedback for algorithmic trading
+SO APPLIED INTELLIGENCE
+DE finance; reinforcement learning; supervised learning; algorithmic trading
+AB Reinforcement learning is one of the promising approaches for algorithmic trading in financial markets. However, in certain situations, buy or sell orders issued by an algorithmic trading program may not be fulfilled entirely. By considering the actual scenarios from the financial markets, in this paper, we propose a novel framework named Supervised Actor-Critic Reinforcement Learning with Action Feedback (SACRL-AF) for solving this problem. The action feedback mechanism of SACRL-AF notifies the actor about the dealt positions and corrects the transitions of the replay buffer. Meanwhile, the dealt positions are used as the labels for the supervised learning. Recent studies have shown that Deep Deterministic Policy Gradient (DDPG) and Twin Delayed Deep Deterministic Policy Gradient (TD3) are more stable and superior to other actor-critic algorithms. Against this background, based on the proposed SACRL-AF framework, two reinforcement learning algorithms henceforth referred to as Supervised Deep Deterministic Policy Gradient with Action Feedback (SDDPG-AF) and Supervised Twin Delayed Deep Deterministic Policy Gradient with Action Feedback (STD3-AF) are proposed in this paper. Experimental results show that SDDPG-AF and STD3-AF achieve the state-of-art performance in profitability.
+C1 [Sun, Qizhou; Si, Yain-Whar] Univ Macau, Dept Comp & Informat Sci, Ave da Univ, Taipa, Macau, Peoples R China.
+RP Si, YW (corresponding author), Univ Macau, Dept Comp & Informat Sci, Ave da Univ, Taipa, Macau, Peoples R China.
+FU University of Macau [MYRG2019-00136-FST]
+CR Fujimoto S, 2018, PR MACH LEARN RES, V80, P0
+   Fujita Y, 2021, J MACH LEARN RES, V22, P1
+   Haarnoja T, 2018, PR MACH LEARN RES, V80, P0
+   Henderson P, 2018, AAAI CONF ARTIF INTE, V0, P3207
+   Kurniawati H, 2022, ANNU REV CONTR ROBOT, V5, P253, DOI 10.1146/annurev-control-042920-092451
+   Lawler GF, 2018, INTROD. TO STOCH. PROCESS, V0, P0, DOI 10.1201/9781315273600
+   Liang E, 2018, PR MACH LEARN RES, V80, P0
+   Liu X-Y, 2020, DEEP RL WORKSH NEURI, V0, P0
+   Liu X-Y, 2021, ACM INT C FINANCE IC, V0, P0
+   Moritz P, 2018, PROCEEDINGS OF THE 13TH USENIX SYMPOSIUM ON OPERATING SYSTEMS DESIGN AND IMPLEMENTATION, V0, P561
+   Paszke A, 2019, ADV NEUR IN, V32, P0
+   Rockefeller B, 2019, TECHNICAL ANAL DUMMI, V0, P0
+   Sewak M, 2019, DEEP REINFORCEMENT LEARNING, V0, P0, DOI 10.1007/978-981-13-8285-7
+   Shang MY, 2021, INFORM SCIENCES, V570, P708, DOI 10.1016/j.ins.2021.04.088
+   Sutton RS, 2020, INTRO REINFORCEMENT, V135, P0
+   Tokui S, 2019, KDD19: PROCEEDINGS OF THE 25TH ACM SIGKDD INTERNATIONAL CONFERENCCE ON KNOWLEDGE DISCOVERY AND DATA MINING, V0, PP2002, DOI 10.1145/3292500.3330756
+   Vezeris D, 2019, J RISK FINANC MANAG, V12, P0, DOI 10.3390/jrfm12020096
+   Wang L, 2018, KDD18: PROCEEDINGS OF THE 24TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY & DATA MINING, V0, PP2447, DOI 10.1145/3219819.3219961
+   Wang YH, 2019, PR MACH LEARN RES, V115, P113
+   Wu X, 2020, INFORM SCIENCES, V538, P142, DOI 10.1016/j.ins.2020.05.066
+   Yang HY, 2020, FIRST ACM INTERNATIONAL CONFERENCE ON AI IN FINANCE, V0, P0, DOI 10.2139/ssrn.3690996
+   Zhang YN, 2021, FUTURE GENER COMP SY, V123, P128, DOI 10.1016/j.future.2021.04.018
+   Zhang YN, 2022, IEEE T INTELL TRANSP, V23, P7708, DOI 10.1109/TITS.2021.3071862
+NR 23
+TC 8
+Z9 0
+U1 2.0
+U2 18.0
+J9 APPLIED INTELLIGENCE
+PD JUL
+PY 2023
+VL 53
+BP 16875
+EP 16892
+DI 10.1007/s10489-022-04322-5
+PG 18
+SC COMPUTER SCIENCE
+UT WOS:000900092800003
+PM 
+ER
+
+PT J
+AU Pham, U
+   Luu, Quoc
+   Tran, Hien
+TI Multi-agent reinforcement learning approach for hedging portfolio problem
+SO SOFT COMPUTING
+DE deep reinforcement learning; hedging; trading; portfolio
+AB Developing a hedging strategy to reduce risk of losses for a given set of stocks in a portfolio is a difficult task due to cost of the hedge. In Vietnam stock market, cross-hedge is involved hedging a long position of a stock because there is no put option for the stock. In addition, only VN30 stock index futures contracts are traded on Hanoi Stock Exchange. Inspired by recently achievement of deep reinforcement learning, we explore feasibility to construct a hedging strategy automatically by leveraging cooperative multi-agent in reinforcement learning techniques without advanced domain knowledge. In this work, we use 10 popular stocks on Ho Chi Minh Stock Exchange, and VN30F1M (VN30 Index Futures contracts within one month settlement) to develop a stock market simulator (including transaction fee, tax, and settlement date of transactions) for reinforcement learning agent training. We use daily return as input data for training process. Results suggest that the agent can learn trading and hedging policy to make profit and reduce losses. Furthermore, we also find that our agent can protect portfolios and make positive profit in case market collapses systematically. In practice, this work can help Vietnams stock market investors to improve performance and reduce losses in trading, especially when the volatility cannot be controlled.
+C1 [Pham, Uyen] Univ Econ & Law, Econ Math, Ho Chi Minh City, Vietnam.   
+[Luu, Quoc] John von Neumann Inst, Quantitat & Computat Finance, Ho Chi Minh City, Vietnam.   
+[Tran, Hien] Tan Tao Univ, Sch Engn, Long An, Vietnam.
+RP Pham, U (corresponding author), Univ Econ & Law, Econ Math, Ho Chi Minh City, Vietnam.
+FU Vietnam National Foundation for Science and Technology Development (NAFOSTED) [101.02-2019.319]
+CR Buehler H, 2019, QUANT FINANC, V19, P1271, DOI 10.1080/14697688.2019.1571683
+   Evans R, 2016, DEEPMIND BLOG, V20, P158
+   Halperin I, 2017, QLBS Q LEARNER BLACK, V0, P0
+   Harley T, 2018, ARXIV PREPRINT ARXIV, V0, P0
+   Hashme S, 2019, ARXIV PREPRINT ARXIV, V0, P0
+   Jonathan Kochems, 2019, DEEP HEDGING HEDGING, V0, P0
+   Kelly M, 2018, ADVNEURAL INFORM PRO, V0, P9827
+   Liang E, 2017, RLLIB: ABSTRACTIONS FOR DISTRIBUTED REINFORCEMENT LEARNING., V0, P0
+   Miller MB, 2018, QUANTITATIVE FINANCIAL RISK MANAGEMENT, V0, P0
+   Pekelis A, 2016, AS FIN ASS ASIANFA 2, V0, P0
+   Silver D, 2017, NATURE, V550, P354, DOI 10.1038/nature24270
+   Stephen R, 2020, J FINANCIAL DATA SCI, V0, P0
+   Sutton RS, 2018, ADAPT COMPUT MACH LE, V0, P1
+   Veloso M, 2019, ARXIV PREPRINT ARXIV, V0, P0
+   Zhang K, 2019, ARXIV PREPRINT ARXIV, V0, P0
+NR 15
+TC 12
+Z9 0
+U1 3.0
+U2 53.0
+J9 SOFT COMPUTING
+PD JUN
+PY 2021
+VL 25
+BP 7877
+EP 7885
+DI 10.1007/s00500-021-05801-6
+PG 9
+SC COMPUTER SCIENCE
+UT WOS:000641235700008
+PM 33897298
+ER
+
+PT J
+AU Song, Z
+   Wang, Yining
+   Qian, Pin
+   Song, Sifan
+   Coenen, Frans
+   Jiang, Zhengyong
+   Su, Jionglong
+TI From deterministic to stochastic: an interpretable stochastic model-free reinforcement learning framework for portfolio optimization
+SO APPLIED INTELLIGENCE
+DE portfolio management; reinforcement learning; deep learning; quantitative finance
+AB As a fundamental problem in algorithmic trading, portfolio optimization aims to maximize the cumulative return by continuously investing in various financial derivatives within a given time period. Recent years have witnessed the transformation from traditional machine learning trading algorithms to reinforcement learning algorithms due to their superior nature of sequential decision making. However, the exponential growth of the imperfect and noisy financial data that is supposedly leveraged by the deterministic strategy in reinforcement learning, makes it increasingly challenging for one to continuously obtain a profitable portfolio. Thus, in this work, we first reconstruct several deterministic and stochastic reinforcement algorithms as benchmarks. On this basis, we introduce a risk-aware reward function to balance the risk and return. Importantly, we propose a novel interpretable stochastic reinforcement learning framework which tailors a stochastic policy parameterized by Gaussian Mixtures and a distributional critic realized by quantiles for the problem of portfolio optimization. In our experiment, the proposed algorithm demonstrates its superior performance on U.S. market stocks with a 63.1% annual rate of return while at the same time reducing the market value max drawdown by 10% when back-testing during the stock market crash around March 2020.
+C1 [Song, Zitao; Wang, Yining; Song, Sifan; Jiang, Zhengyong] Xian Jiaotong Liverpool Univ, Dept Math Sci, Suzhou, Peoples R China.   
+[Qian, Pin] Xian Jiaotong Liverpool Univ, Dept Comp Sci, Suzhou, Peoples R China.   
+[Coenen, Frans] Univ Liverpool, Dept Comp Sci, Liverpool, Merseyside, England.   
+[Su, Jionglong] Xian Jiaotong Liverpool Univ, XJTLU Entrepreneur Coll Taicang, Sch AI & Adv Comp, Suzhou, Peoples R China.
+RP Jiang, ZY (corresponding author), Xian Jiaotong Liverpool Univ, Dept Math Sci, Suzhou, Peoples R China.; Su, JL (corresponding author), Xian Jiaotong Liverpool Univ, XJTLU Entrepreneur Coll Taicang, Sch AI & Adv Comp, Suzhou, Peoples R China.
+CR Chen YM, 2018, CIKM18: PROCEEDINGS OF THE 27TH ACM INTERNATIONAL CONFERENCE ON INFORMATION AND KNOWLEDGE MANAGEMENT, V0, PP1655, DOI 10.1145/3269206.3269269
+   Fang Yuchen, 2021, ARXIV, V0, P0
+   Fujimoto S, 2018, ARXIV, V0, P0
+   Haarnoja T, 2018, PR MACH LEARN RES, V80, P0
+   Haarnoja T, 2019, ARXIV, V0, P0
+   Investopedia, 2024, DICTIONARY, V0, P0
+   Liang ZP, 2018, ARXIV, V0, P0
+   Lillicrap TP, 2019, ARXIV, V0, P0
+   Lucarelli G, 2020, NEURAL COMPUT APPL, V0, P0, DOI 10.1007/s00521-020-05359-8
+   Neftci EO, 2019, NAT MACH INTELL, V1, P133, DOI 10.1038/s42256-019-0025-4
+   Stanko S, 2019, IJCCI: PROCEEDINGS OF THE 11TH INTERNATIONAL JOINT CONFERENCE ON COMPUTATIONAL INTELLIGENCE, V0, PP412, DOI 10.5220/0008175604120423
+   Sutton RS, 2018, ADAPT COMPUT MACH LE, V0, P1
+   Unknown -, 2020, NAMING THE CORONAVIRUS DISEASE (COVID-19) AND THE VIRUS THAT CAUSES IT, V0, P0
+   Wang JY, 2019, KDD19: PROCEEDINGS OF THE 25TH ACM SIGKDD INTERNATIONAL CONFERENCCE ON KNOWLEDGE DISCOVERY AND DATA MINING, V0, PP1900, DOI 10.1145/3292500.3330647
+   Wang Rundong, 2020, ARXIV, V0, P0
+   Wu X, 2020, INFORM SCIENCES, V538, P142, DOI 10.1016/j.ins.2020.05.066
+   Yu PQ, 2019, ARXIV, V0, P0
+NR 17
+TC 9
+Z9 0
+U1 2.0
+U2 53.0
+J9 APPLIED INTELLIGENCE
+PD JUN
+PY 2023
+VL 53
+BP 15188
+EP 15203
+DI 10.1007/s10489-022-04217-5
+PG 16
+SC COMPUTER SCIENCE
+UT WOS:000881894700001
+PM 36405345
+ER
+
+PT J
+AU Pickard, R
+   Lawryshyn, Yuri
+TI Deep Reinforcement Learning for Dynamic Stock Option Hedging: A Review
+SO MATHEMATICS
+DE reinforcement learning; neural networks; dynamic stock option hedging; quantitative finance; financial risk management
+AB This paper reviews 17 studies addressing dynamic option hedging in frictional markets through Deep Reinforcement Learning (DRL). Specifically, this work analyzes the DRL models, state and action spaces, reward formulations, data generation processes and results for each study. It is found that policy methods such as DDPG are more commonly employed due to their suitability for continuous action spaces. Despite diverse state space definitions, a lack of consensus exists on variable inclusion, prompting a call for thorough sensitivity analyses. Mean-variance metrics prevail in reward formulations, with episodic return, VaR and CvaR also yielding comparable results. Geometric Brownian motion is the primary data generation process, supplemented by stochastic volatility models like SABR (stochastic alpha, beta, rho) and the Heston model. RL agents, particularly those monitoring transaction costs, consistently outperform the Black-Scholes Delta method in frictional environments. Although consistent results emerge under constant and stochastic volatility scenarios, variations arise when employing real data. The lack of a standardized testing dataset or universal benchmark in the RL hedging space makes it difficult to compare results across different studies. A recommended future direction for this work is an implementation of DRL for hedging American options and an investigation of how DRL performs compared to other numerical American option hedging methods.
+C1 [Pickard, Reilly] Univ Toronto, Dept Mech & Ind Engn, Toronto, ON M5S 3G8, Canada.   
+[Lawryshyn, Yuri] Univ Toronto, Dept Chem Engn & Appl Chem, Toronto, ON M5S 3E5, Canada.
+RP Pickard, R (corresponding author), Univ Toronto, Dept Mech & Ind Engn, Toronto, ON M5S 3G8, Canada.
+FU Center for Management of Technology & Entrepreneurship (CMTE)
+CR AlMahamid F, 2021, CAN CON EL COMP EN, V0, P0, DOI 10.1109/CCECE53047.2021.9569056
+   Ashraf NM, 2021, PLOS ONE, V16, P0, DOI 10.1371/journal.pone.0252754
+   Assa H, 2021, ASSESSING REINFORCEMENT DELTA HEDGING, V0, P0
+   Atashbar T, 2022, IMF WORKING PAPERS, V2022, P0
+   Barth-Maron G, 2018, ARXIV, V0, P0
+   Botvinick M, 2019, TRENDS COGN SCI, V23, P408, DOI 10.1016/j.tics.2019.02.006
+   Buehler H, 2019, QUANT FINANC, V19, P1271, DOI 10.1080/14697688.2019.1571683
+   Buehler H, 2020, SWISS FINANCE INSTITUTE RESEARCH PAPER NO. 19-80, V0, P0
+   Cannelli L, 2023, J FINANCE DATA SCI, V9, P0, DOI 10.1016/j.jfds.2023.100101
+   Cao JY, 2021, THE JOURNAL OF FINANCIAL DATA SCIENCE, V3, P10, DOI 10.3905/jfds.2020.1.052
+   Cao JY, 2023, FRONT ARTIF INTELL, V6, P0, DOI 10.3389/frai.2023.1129370
+   Carbonneau A, 2021, INSUR MATH ECON, V99, P327, DOI 10.1016/j.insmatheco.2021.03.017
+   Charpentier A, 2023, COMPUT ECON, V62, P425, DOI 10.1007/s10614-021-10119-4
+   Chong WF, 2023, ANN ACTUAR SCI, V17, P503, DOI 10.1017/S1748499523000027
+   Dabney W, 2018, AAAI CONF ARTIF INTE, V0, P2892
+   Du JY, 2020, THE JOURNAL OF FINANCIAL DATA SCIENCE, V2, P44, DOI 10.3905/jfds.2020.1.045
+   Espeholt L, 2018, ARXIV, V0, P0
+   Fathi A, 2023, ARXIV, V0, P0
+   Fedus W, 2020, ARXIV, V0, P0
+   François-Lavet V, 2018, FOUND TRENDS MACH LE, V11, P219, DOI 10.1561/2200000071
+   Fujimoto S, 2018, ARXIV, V0, P0
+   Gasperov B, 2021, MATHEMATICS-BASEL, V9, P0, DOI 10.3390/math9212689
+   Giurca B, 2021, DELTA HEDGING OF DERIVATIVES USING DEEP REINFORCEMENT LEARNING, V0, P0
+   Goodfellow I, 2020, COMMUN ACM, V63, P139, DOI 10.1145/3422622
+   Halperin I, 2019, QUANT FINANC, V19, P1543, DOI 10.1080/14697688.2019.1622302
+   Halperin I, 2020, J DERIV, V28, P99, DOI 10.3905/jod.2020.1.108
+   Hambly B, 2023, MATH FINANC, V33, P437, DOI 10.1111/mafi.12382
+   Kim H, 2021, ARXIV, V0, P0
+   Kolm PetterN, 2019, THE JOURNAL OF FINANCIAL DATA SCIENCE, V1, P159, DOI 10.3905/JFDS.2019.1.1.159
+   Lillicrap TP, 2019, ARXIV, V0, P0
+   Liu P, 2023, THE JOURNAL OF FINANCIAL DATA SCIENCE, V5, P136, DOI 10.3905/jfds.2023.1.124
+   Malibari N, 2023, ARXIV, V0, P0
+   Mandelli F, 2023, ARXIV, V0, P0
+   Mikkilä O, 2023, QUANT FINANC, V23, P111, DOI 10.1080/14697688.2022.2136037
+   Mosavi A, 2020, MATHEMATICS-BASEL, V8, P0, DOI 10.3390/math8101640
+   Mousavi SS, 2018, LECT NOTE NETW SYST, V16, P426, DOI 10.1007/978-3-319-56991-8, 32
+   Murray P, 2022, 3RD ACM INTERNATIONAL CONFERENCE ON AI IN FINANCE, V0, P361, DOI 10.1145/3533271.3561731
+   Ning Wang, 2020, 2020 39TH CHINESE CONTROL CONFERENCE (CCC), V0, PP3701, DOI 10.23919/CCC50068.2020.9188558
+   Pham U, 2021, SOFT COMPUT, V25, P7877, DOI 10.1007/s00500-021-05801-6
+   Pricope TV, 2021, DEEP REINFORCEMENT LEARNING IN QUANTITATIVE ALGORITHMIC TRADING: A REVIEW, V0, P0, DOI 10.48550/ARXIV.2106.00123
+   Sato Y, 2019, ARXIV, V0, P0
+   Singh V, 2022, INT. J. INF. MANAG. DATA INSIGHTS, V2, P0, DOI 10.1016/J.JJIMEI.2022.100094
+   Sivamayil K, 2023, ENERGIES, V16, P0, DOI 10.3390/en16031512
+   Sun S, 2023, ACM T INTEL SYST TEC, V14, P0, DOI 10.1145/3582560
+   Sutton RS, 2018, ADAPT COMPUT MACH LE, V0, P1
+   Vittori E, 2021, P ICAIF 20 P 1 ACM I, V0, P0
+   Wachowicz E, 2020, J BUS FINANC LIBR, V25, P184, DOI 10.1080/08963568.2020.1847552
+   Wang HN, 2020, FRONT INFORM TECH EL, V21, P1726, DOI 10.1631/FITEE.1900533
+   Xiao B, 2021, INT CONF DAT MIN WOR, V0, PP1112, DOI 10.1109/ICDMW53433.2021.00145
+   Xu W, 2022, J DERIV, V29, P60, DOI 10.3905/jod.2022.1.156
+   Zheng C, 2023, ARXIV, V0, P0
+   Zou L, 2022, META-LEARNING: THEORY. ALGORITHMS AND APPLICATIONS, V0, P0
+NR 52
+TC 2
+Z9 0
+U1 5.0
+U2 19.0
+J9 MATHEMATICS
+PD DEC
+PY 2023
+VL 11
+BP 
+EP 
+DI 10.3390/math11244943
+PG 19
+SC MATHEMATICS
+UT WOS:001130789100001
+PM 
+ER
+
+PT J
+AU Millea, A
+TI Deep Reinforcement Learning for Trading-A Critical Survey
+SO DATA
+DE deep reinforcement learning; model-based rl; hierarchy; trading; cryptocurrency; foreign exchange; stock market; risk; prediction; reward shaping
+AB Deep reinforcement learning (DRL) has achieved significant results in many machine learning (ML) benchmarks. In this short survey, we provide an overview of DRL applied to trading on financial markets with the purpose of unravelling common structures used in the trading community using DRL, as well as discovering common issues and limitations of such approaches. We include also a short corpus summarization using Google Scholar. Moreover, we discuss how one can use hierarchy for dividing the problem space, as well as using model-based RL to learn a world model of the trading environment which can be used for prediction. In addition, multiple risk measures are defined and discussed, which not only provide a way of quantifying the performance of various algorithms, but they can also act as (dense) reward-shaping mechanisms for the agent. We discuss in detail the various state representations used for financial markets, which we consider critical for the success and efficiency of such DRL agents. The market in focus for this survey is the cryptocurrency market; the results of this survey are two-fold: firstly, to find the most promising directions for further research and secondly, to show how a lack of consistency in the community can significantly impede research and the development of DRL agents for trading.
+C1 [Millea, Adrian] Imperial Coll London, London, London SW7 2AZ, England.
+RP Millea, A (corresponding author), Imperial Coll London, London, London SW7 2AZ, England.
+FU EPSRC Centre for Doctoral Training in High Performance Embedded and Distributed Systems at Imperial College London [EP/L016796/1]
+CR Abdolmaleki A, 2016, PROCEEDINGS OF THE 2016 GENETIC AND EVOLUTIONARY COMPUTATION CONFERENCE (GECCO16 COMPANION), V0, PP153, DOI 10.1145/2908961.2930952
+   Arulkumaran K, 2017, IEEE SIGNAL PROC MAG, V34, P26, DOI 10.1109/MSP.2017.2743240
+   Bisht K, 2020, 2020 5TH IEEE INTERNATIONAL CONFERENCE ON RECENT ADVANCES AND INNOVATIONS IN ENGINEERING (IEEE - ICRAIE-2020), V0, P0, DOI 10.1109/ICRAIE51050.2020.9358319
+   Boukas I, 2020, ARXIV, V0, P0
+   Briola A, 2021, ARXIV, V0, P0
+   Bu SJ, 2018, LECT NOTES COMPUT SC, V11314, P468, DOI 10.1007/978-3-030-03493-1, 49
+   Chakraborty S, 2019, ARXIV, V0, P0
+   Chen YT, 2020, NEUROCOMPUTING, V399, P491, DOI 10.1016/j.neucom.2020.03.011
+   Clements WR, 2020, ARXIV, V0, P0
+   Conegundes L, 2020, IEEE IJCNN, V0, P0, DOI 10.1109/ijcnn48605.2020.9206938
+   Dubois P, 2020, PHYSICA D, V408, P0, DOI 10.1016/j.physd.2020.132495
+   Filos A, 2019, REINFORCEMENT LEARNI, V0, P0
+   Fischer TG, 2018, FAU DISCUSSION PAPERS IN ECONOMICS, V0, P0
+   Foerster JN, 2016, ARXIV, V0, P0
+   Gao Y, 2021, ICAART: PROCEEDINGS OF THE 13TH INTERNATIONAL CONFERENCE ON AGENTS AND ARTIFICIAL INTELLIGENCE - VOL 2, V0, PP132, DOI 10.5220/0010233201320140
+   Gran PK, 2019, THESIS NTNU TRONDHEI, V0, P0
+   He X, 2021, KNOWL-BASED SYST, V212, P0, DOI 10.1016/j.knosys.2020.106622
+   Henrique BM, 2018, J FINANCE DATA SCI, V4, P183, DOI 10.1016/j.jfds.2018.04.003
+   Heravi JR, 2019, LEARNING REPRESENTAT, V0, P0
+   Hirchoua B, 2021, EXPERT SYST APPL, V170, P0, DOI 10.1016/j.eswa.2020.114553
+   Hu ZX, 2021, APPL SYST INNOV, V4, P0, DOI 10.3390/asi4010009
+   Huotari T, 2020, AXIOMS, V9, P0, DOI 10.3390/axioms9040130
+   Islam MR, 2018, INT CONF INFORM COMM, V0, PP69, DOI 10.1109/ICT4M.2018.00022
+   Jaderberg M, 2016, ARXIV, V0, P0
+   Jeong G, 2019, EXPERT SYST APPL, V117, P125, DOI 10.1016/j.eswa.2018.09.036
+   Jiang ZY, 2017, ARXIV, V0, P0
+   Ke NR, 2018, INT C LEARN REPR, V0, P0
+   Leem J, 2020, PLOS ONE, V15, P0, DOI 10.1371/journal.pone.0236178
+   Lei K, 2020, EXPERT SYST APPL, V140, P0, DOI 10.1016/j.eswa.2019.112872
+   Li YX, 2018, ARXIV, V0, P0
+   Lillicrap TP, 2019, ARXIV, V0, P0
+   Lucarelli G, 2019, ARTIFICIAL INTELLIGENCE APPLICATIONS AND INNOVATIONS: 15TH IFIP WG 12.5 INTERNATIONAL CONFERENCE, V0, P0
+   Lucarelli G, 2020, NEURAL COMPUT APPL, V0, P0, DOI 10.1007/s00521-020-05359-8
+   Mehtab S, 2020, ARXIV, V0, P0
+   Meng TL, 2019, DATA, V4, P0, DOI 10.3390/data4030110
+   Moon SH, 2019, ARXIV, V0, P0
+   Mosavi A, 2020, MATHEMATICS-BASEL, V8, P0, DOI 10.3390/math8101640
+   Mousavi SS, 2018, LECT NOTE NETW SYST, V16, P426, DOI 10.1007/978-3-319-56991-8, 32
+   Pant DR, 2018, PROCEEDINGS ON 2018 IEEE 3RD INTERNATIONAL CONFERENCE ON COMPUTING, V0, P128, DOI 10.1109/CCCS.2018.8586824
+   Rathan Karunya, 2019, 2019 3RD INTERNATIONAL CONFERENCE ON TRENDS IN ELECTRONICS AND INFORMATICS (ICOEI). PROCEEDINGS, V0, PP190, DOI 10.1109/ICOEI.2019.8862585
+   Ren HS, 2019, KDD19: PROCEEDINGS OF THE 25TH ACM SIGKDD INTERNATIONAL CONFERENCCE ON KNOWLEDGE DISCOVERY AND DATA MINING, V0, PP3009, DOI 10.1145/3292500.3330680
+   Rundo F, 2019, APPL SCI-BASEL, V9, P0, DOI 10.3390/app9204460
+   Sadighian J, 2020, ARXIV, V0, P0
+   Sato Y, 2019, ARXIV, V0, P0
+   Sebastiao H, 2021, FINANC INNOV, V7, P0, DOI 10.1186/s40854-020-00217-x
+   Selvin S, 2017, 2017 INTERNATIONAL CONFERENCE ON ADVANCES IN COMPUTING, V0, P1643, DOI 10.1109/ICACCI.2017.8126078
+   Shi S, 2019, PROCEEDINGS OF THE 28TH ACM INTERNATIONAL CONFERENCE ON INFORMATION & KNOWLEDGE MANAGEMENT (CIKM 19), V0, PP1613, DOI 10.1145/3357384.3357961
+   Song YG, 2018, ARXIV, V0, P0
+   Stooke A, 2021, PR MACH LEARN RES, V139, P0
+   Suri K, 2021, ARXIV, V0, P0
+   Sutton RS, 2018, ADAPT COMPUT MACH LE, V0, P1
+   Taghian M, 2020, ARXIV, V0, P0
+   Tan SK, 2020, FINANC RES LETT, V32, P0, DOI 10.1016/j.frl.2018.12.023
+   Théate T, 2021, EXPERT SYST APPL, V173, P0, DOI 10.1016/j.eswa.2021.114632
+   Tsantekidis A, 2021, NEURAL NETWORKS, V140, P193, DOI 10.1016/j.neunet.2021.02.026
+   Vijh M, 2020, PROCEDIA COMPUT SCI, V167, P599, DOI 10.1016/j.procs.2020.03.326
+   Vo AD, 2019, INTERNATIONAL JOURNAL OF KNOWLEDGE ENGINEERING, V5, P47, DOI 10.18178/ijke.2019.5.2.116
+   Wang J, 2018, 2018 17TH IEEE INTERNATIONAL CONFERENCE ON MACHINE LEARNING AND APPLICATIONS (ICMLA), V0, PP97, DOI 10.1109/ICMLA.2018.00022
+   Wang Rundong, 2020, ARXIV, V0, P0
+   Wei HR, 2019, ARXIV, V0, P0
+   Weng LG, 2020, NEUROCOMPUTING, V402, P171, DOI 10.1016/j.neucom.2020.04.004
+   Wu J, 2019, IEEE IJCNN, V0, P0, DOI 10.1109/ijcnn.2019.8851831
+   Wu ME, 2021, APPL INTELL, V51, P8119, DOI 10.1007/s10489-021-02262-0
+   Wu X, 2020, INFORM SCIENCES, V538, P142, DOI 10.1016/j.ins.2020.05.066
+   Xu ZW, 2018, ARXIV, V0, P0
+   Yang HY, 2020, FIRST ACM INTERNATIONAL CONFERENCE ON AI IN FINANCE, V0, P0, DOI 10.2139/ssrn.3690996
+   Yashaswi K, 2021, ARXIV, V0, P0
+   Yu PQ, 2019, ARXIV, V0, P0
+   Zhang Z, 2020, THESIS U OXFORD OXFO, V0, P0
+NR 69
+TC 25
+Z9 0
+U1 1.0
+U2 17.0
+J9 DATA
+PD NOV
+PY 2021
+VL 6
+BP 
+EP 
+DI 10.3390/data6110119
+PG 25
+SC COMPUTER SCIENCE; SCIENCE & TECHNOLOGY - OTHER TOPICS
+UT WOS:000913177200001
+PM 
+ER
+
+PT J
+AU Ludkovski, M
+TI Statistical Machine Learning for Quantitative Finance
+SO ANNUAL REVIEW OF STATISTICS AND ITS APPLICATION
+DE surrogates; machine learning in finance; parametric option pricing
+AB We survey the active interface of statistical learning methods and quantitative finance models. Our focus is on the use of statistical surrogates, also known as functional approximators, for learning input-output relationships relevant for financial tasks. Given the disparate terminology used among statisticians and financial mathematicians, we begin by reviewing the main ingredients of surrogate construction and the motivating financial tasks. We then summarize the major surrogate types, including (deep) neural networks, Gaussian processes, gradient boosting machines, smoothing splines, and Chebyshev polynomials. The second half of the article dives deeper into the major applications of statistical learning in finance, covering (a) parametric option pricing, (b) learning the implied/local volatility surface, 
+C1 [Ludkovski, M.] Univ Calif Santa Barbara, Dept Stat & Appl Probabil, Santa Barbara, CA 93106 USA.
+RP Ludkovski, M (corresponding author), Univ Calif Santa Barbara, Dept Stat & Appl Probabil, Santa Barbara, CA 93106 USA.
+FU National Science Foundation [DMS-1821240]
+CR Bachouch A, 2022, METHODOL COMPUT APPL, V24, P143, DOI 10.1007/s11009-019-09767-9
+   Balata A, 2018, ARXIV, V0, P0
+   Balata A, 2021, EUR J OPER RES, V290, P640, DOI 10.1016/j.ejor.2020.08.041
+   Baldacci Bastien, 2019, MARKET MAKING INCENT, V0, P0
+   Bayer C, 2019, ARXIV, V0, P0
+   Becker S, 2019, J MACH LEARN RES, V20, P0
+   Becker S, 2020, J RISK FINANC MANAG, V13, P0, DOI 10.3390/jrfm13070158
+   Belomestny D, 2019, ARXIV, V0, P0
+   Belomestny Denis, 2018, ADVANCED SIMULATION-BASED METHODS FOR OPTIMAL STOPPING AND CONTROL: WITH APPLICATIONS IN FINANCE, V0, P0
+   Benth FE, 2021, DIGIT FINANC, V3, P209, DOI 10.1007/s42521-021-00030-w
+   Binois M, 2018, J COMPUT GRAPH STAT, V27, P808, DOI 10.1080/10618600.2018.1458625
+   Buehler H, 2019, QUANT FINANC, V19, P1271, DOI 10.1080/14697688.2019.1571683
+   Cao JY, 2021, THE JOURNAL OF FINANCIAL DATA SCIENCE, V3, P10, DOI 10.3905/jfds.2020.1.052
+   Capponi A, 2022, MACHINE LEARNING FIN, V0, P0
+   Carmona R, 2021, ARXIV, V0, P0
+   Charpentier A, 2023, COMPUT ECON, V62, P425, DOI 10.1007/s10614-021-10119-4
+   Chataigner M, 2020, RISKS, V8, P0, DOI 10.3390/risks8030082
+   Chataigner M, 2021, SIAM J FINANC MATH, V12, PSC58, DOI 10.1137/20M1381538
+   Chataigner M, 2021, THESIS, V0, P0
+   Chen T, 2021, SIAM J FINANC MATH, V12, P1226, DOI 10.1137/20M1336023
+   Cheridito P, 2022, ARXIV, V0, P0
+   Crépey S, 2020, J COMPUT FINANC, V24, P47, DOI 10.21314/JCF.2020.386
+   Davies J, 2020, J BODYW MOV THER, V24, P1, DOI 10.1016/j.jbmt.2019.04.006
+   De Spiegeleer J, 2018, QUANT FINANC, V18, P1635, DOI 10.1080/14697688.2018.1495335
+   Deschatre T, 2021, ARXIV, V0, P0
+   Dixon MatthewF, 2020, MACHINE LEARNING IN FINANCE: FROM THEORY TO PRACTICE, V0, P0, DOI 10.1007/978-3-030-41068-1
+   Elie R, 2020, AAAI CONF ARTIF INTE, V34, P7143
+   Fecamp S, 2021, J COMPUT FINANC, V25, P51, DOI 10.21314/JCF.2021.006
+   Ferguson R, 2018, SSRN 3244821, V0, P0
+   Gass M, 2018, FINANC STOCH, V22, P701, DOI 10.1007/s00780-018-0361-y
+   Gevret H, 2018, RES REP, V0, P0
+   Giurca A, 2021, DELTA HEDGING DERIVA, V0, P0
+   Glau K, 2019, INT J COMPUT MATH, V96, P2302, DOI 10.1080/00207160.2019.1599364
+   Glau K, 2019, J COMPUT FINANC, V23, P1, DOI 10.21314/JCF.2019.375
+   Glau K, 2019, SIAM J SCI COMPUT, V41, PB153, DOI 10.1137/18M1193001
+   Glau K, 2020, SIAM J FINANC MATH, V11, P897, DOI 10.1137/19M1244172
+   Gonon L, 2021, FINANC STOCH, V25, P615, DOI 10.1007/s00780-021-00462-7
+   Goudenège L, 2020, QUANT FINANC, V20, P573, DOI 10.1080/14697688.2019.1701698
+   GoudenŠge L, 2019, ARXIV, V0, P0
+   Gramacy RB, 2020, SURROGATES GAUSSIAN, V0, P0
+   Guéant O, 2019, APPLIED MATHEMATICAL FINANCE, V26, P387, DOI 10.1080/1350486x.2020.1714455
+   Halperin I, 2020, J DERIV, V28, P99, DOI 10.3905/jod.2020.1.108
+   Hambly B, 2023, ARXIV, V0, P0
+   Han JQ, 2020, PR MACH LEARN RES, V107, P221
+   Horvath B, 2021, QUANT FINANC, V21, P11, DOI 10.1080/14697688.2020.1817974
+   Hu RM, 2020, ARXIV, V0, P0
+   Hu WB, 2020, QUANT FINANC, V20, P851, DOI 10.1080/14697688.2020.1713393
+   Huh J, 2019, EXPERT SYST APPL, V127, P128, DOI 10.1016/j.eswa.2019.03.008
+   Huré C, 2021, SIAM J NUMER ANAL, V59, P525, DOI 10.1137/20M1316640
+   Itkin A, 2019, ARXIV, V0, P0
+   Jain S, 2019, J COMPUT SCI-NETH, V33, P95, DOI 10.1016/j.jocs.2019.03.001
+   Kirkby JL, 2019, INT J THEOR APPL FIN, V22, P0, DOI 10.1142/S0219024919500389
+   Kolm PetterN, 2019, THE JOURNAL OF FINANCIAL DATA SCIENCE, V1, P159, DOI 10.3905/JFDS.2019.1.1.159
+   Lauriere M, 2021, MEAN FIELD GAMES, V0, P221
+   Leal L, 2021, ARXIV, V0, P0
+   Liu SQ, 2019, J MATH IND, V9, P0, DOI 10.1186/s13362-019-0066-7
+   Ludkovski M, 2018, J COMPUT FINANC, V22, P37, DOI 10.21314/JCF.2018.347
+   Ludkovski M, 2020, ENERGY SYST, V11, P377, DOI 10.1007/s12667-018-0318-4
+   Ludkovski M, 2021, MLOSP REGRESSION MON, V0, P0
+   Ludkovski M, 2022, APPL MATH FINANCE, V28, P330
+   Ludkovski M, 2022, ARXIV, V0, P0
+   Ludkovski M, 2022, MATHEMATICS IN ACTION, V11, P73, DOI 10.5802/msia.18
+   Maran A, 2021, 3872744 SSRN, V0, P0
+   Reppen AM, 2022, ARXIV, V0, P0
+   Risk J, 2018, SIAM J FINANC MATH, V9, P1137, DOI 10.1137/17M1158380
+   Ruf J, 2020, J COMPUT FINANC, V24, P1, DOI 10.21314/JCF.2020.390
+   Ruf J, 2022, J BUS ECON STAT, V40, P1442, DOI 10.1080/07350015.2021.1931241
+   Sirignano J, 2018, J COMPUT PHYS, V375, P1339, DOI 10.1016/j.jcp.2018.08.029
+   Vatter T, 2019, DEEP SMOOTHING IMPLI, V0, P0
+   Zanger DZ, 2018, MATH FINANC, V28, P447, DOI 10.1111/mafi.12125
+   Zhang R, 2019, QUANT FINANC, V19, P519, DOI 10.1080/14697688.2018.1524155
+   Zheng Y, 2021, KDD 21: PROCEEDINGS OF THE 27TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY & DATA MINING, V0, PP3968, DOI 10.1145/3447548.3467115
+NR 72
+TC 5
+Z9 0
+U1 12.0
+U2 134.0
+J9 ANNUAL REVIEW OF STATISTICS AND ITS APPLICATION
+PD JUN
+PY 2023
+VL 10
+BP 271
+EP 295
+DI 10.1146/annurev-statistics-032921-042409
+PG 25
+SC MATHEMATICS
+UT WOS:000945740600012
+PM 
+ER
+
+PT J
+AU Guo, C
+   Thompson, Russell G
+   Foliente, Greg
+   Peng, Xiaoshuai
+TI Reinforcement learning enabled dynamic bidding strategy for instant delivery trading
+SO COMPUTERS & INDUSTRIAL ENGINEERING
+DE instant delivery; sequential auctions; reinforcement learning; bidding strategies
+AB Due to the great potential to enable collaboration and improve consolidation, auctions have been identified as a possible effective option to improve the efficiency of instant delivery. Instant delivery markets are complex and dynamic systems influenced by highly random demand. Conventional bidding strategies require perfect market information and cannot be adjusted effectively according to the evolution of requests. To address this problem, this paper proposes an auction-based trading platform to enable freight transportation procurement and develops a Reinforcement Learning (RL) enabled dynamic bidding strategy to optimize carriers behavior in sequential auctions. In the RL enabled dynamic bidding strategy, three RL algorithms, including Q-learning, Deep Q Network and experience replay based Q-learning are used to improve carriers bidding ability. The simulation results demonstrate that compared with the conventional bidding strategy, the RL enabled dynamic bidding strategies with any of the three RL algorithms can help carrier secure more auctions and gain more profit in a competitive marketplace. In addition, the advantages of the RL enabled dynamic bidding strategies are more obvious and the performance is more stable in more uncertain market environments.
+C1 [Guo, Chaojie; Thompson, Russell G.; Foliente, Greg] Univ Melbourne, Dept Infrastruct Engn, Parkville, Vic 3010, Australia.   
+[Peng, Xiaoshuai] Northeastern Univ, Sch Business Adm, Dept Operat & Logist Management, Shenyang 110167, Peoples R China.
+RP Peng, XS (corresponding author), Northeastern Univ, Sch Business Adm, Dept Operat & Logist Management, Shenyang 110167, Peoples R China.
+CR Cheng Y, 2019, NEUROCOMPUTING, V360, P97, DOI 10.1016/j.neucom.2019.06.009
+   Crainic TG, 2016, TRANSP RES PROC, V12, P383, DOI 10.1016/j.trpro.2016.02.074
+   Dablanc L, 2017, SUPPLY CHAIN FORUM, V18, P203, DOI 10.1080/16258312.2017.1375375
+   Du J, 2019, IEEE INTERNET THINGS, V6, P9030, DOI 10.1109/JIOT.2019.2926255
+   Firdausiyah N, 2017, D3, V73, P0
+   Firdausiyah N, 2019, TRANSPORT RES E-LOG, V125, P74, DOI 10.1016/j.tre.2019.02.011
+   Firdausiyah N, 2020, TRANSPORTATION RESEARCH PROCEDIA, V46, P125
+   Gu QC, 2020, COMPUT IND ENG, V149, P0, DOI 10.1016/j.cie.2020.106809
+   Guo CJ, 2021, TRANSPORT RES E-LOG, V146, P0, DOI 10.1016/j.tre.2020.102206
+   Hong J, 2019, TRANSPORT RES C-EMER, V103, P328, DOI 10.1016/j.trc.2018.12.010
+   Karaenke P, 2019, MANAGE SCI, V65, P5884, DOI 10.1287/mnsc.2018.3208
+   Kasiviswanathan S, 2018, ARXIV PREPRINT ARXIV, V0, P0
+   Lafkihi M, 2019, TRANSPORT RES E-LOG, V125, P348, DOI 10.1016/j.tre.2019.03.021
+   Sutton RS, 2018, ADAPT COMPUT MACH LE, V0, P1
+   Xu SX, 2017, TRANSPORT SCI, V51, P1365, DOI 10.1287/trsc.2016.0694
+   Xu SX, 2018, IISE TRANS, V50, P837, DOI 10.1080/24725854.2018.1450541
+   Zhang J, 2019, TRANSPORT RES E-LOG, V123, P180, DOI 10.17632/dx7sds7ms8.3
+   Zhang Y, 2020, NEUROCOMPUTING, V397, P404, DOI 10.1016/j.neucom.2019.08.106
+   Zhou W, 2019, NETW SPAT ECON, V19, P409, DOI 10.1007/s11067-018-9385-2
+NR 19
+TC 13
+Z9 0
+U1 4.0
+U2 37.0
+J9 COMPUTERS & INDUSTRIAL ENGINEERING
+PD OCT
+PY 2021
+VL 160
+BP 
+EP 
+DI 10.1016/j.cie.2021.107596
+PG 12
+SC COMPUTER SCIENCE; ENGINEERING
+UT WOS:000697025700001
+PM 
+ER
+
+PT J
+AU Tsantekidis, A
+   Passalis, Nikolaos
+   Tefas, Anastasios
+TI Modeling limit order trading with a continuous action policy for deep reinforcement learning
+SO NEURAL NETWORKS
+DE financial trading; limit orders; policy gradient; deep reinforcement learning
+AB Limit Orders allow buyers and sellers to set a "limit price"they are willing to accept in a trade. On the other hand, market orders allow for immediate execution at any price. Thus, market orders are susceptible to slippage, which is the additional cost incurred due to the unfavorable execution of a trade order. As a result, limit orders are often preferred, since they protect traders from excessive slippage costs due to larger than expected price fluctuations. Despite the price guarantees of limit orders, they are more complex compared to market orders. Orders with overly optimistic limit prices might never be executed, which increases the risk of employing limit orders in Machine Learning (ML)-based trading systems. Indeed, the current ML literature for trading almost exclusively relies on market orders. To overcome this limitation, a Deep Reinforcement Learning (DRL) approach is proposed to model trading agents that use limit orders. The proposed method (a) uses a framework that employs a continuous probability distribution to model limit prices, while (b) provides the ability to place market orders when the risk of no execution is more significant than the cost of slippage. Extensive experiments are conducted with multiple currency pairs, using hourly price intervals, validating the effectiveness of the proposed method and paving the way for introducing limit order modeling in DRL-based trading.& COPY; 2023 Elsevier Ltd. All rights reserved.
+C1 [Tsantekidis, Avraam; Passalis, Nikolaos; Tefas, Anastasios] Aristotle Univ Thessaloniki, Sch Informat, Thessaloniki, Greece.
+RP Tsantekidis, A (corresponding author), Aristotle Univ Thessaloniki, Sch Informat, Thessaloniki, Greece.
+FU European Union; Greek national funds through the Operational Program Competitiveness, Entrepreneurship and Innovation [T2EDK-02094]; State Scholarship Foundation (IKY) according to the "Strengthening Human Research Resources through the Pursuit of Doctoral Re-search"
+CR Dilokthanakul N, 2019, IEEE T NEUR NET LEAR, V30, P3409, DOI 10.1109/TNNLS.2019.2891792
+   Dorado-Moreno M, 2020, NEURAL NETWORKS, V123, P401, DOI 10.1016/j.neunet.2019.12.017
+   Ganesh S, 2019, ARXIV, V0, P0
+   He X, 2021, REINFORCEMENT LEARNI, V0, P0
+   Jarusek R, 2022, NEURAL NETWORKS, V145, P342, DOI 10.1016/j.neunet.2021.10.024
+   Karpe M, 2020, ARXIV, V0, P0
+   Latif S, 2023, ARTIF INTELL REV, V56, P2193, DOI 10.1007/s10462-022-10224-2
+   Li BY, 2022, ARXIV, V0, P0
+   Li HR, 2020, IEEE T NEUR NET LEAR, V31, P2064, DOI 10.1109/TNNLS.2019.2927869
+   Li Y, 2022, KNOWL-BASED SYST, V250, P0, DOI 10.1016/j.knosys.2022.108965
+   Lillicrap TP, 2019, ARXIV, V0, P0
+   Lin ZQ, 2022, NEURAL NETWORKS, V147, P25, DOI 10.1016/j.neunet.2021.12.003
+   Neunert Michael, 2020, P C ROB LEARN, V0, P735
+   Peng HY, 2021, INFORM FUSION, V70, P88, DOI 10.1016/j.inffus.2021.01.005
+   Spooner T, 2018, ARXIV, V0, P0
+   Sui ZZ, 2021, IEEE T NEUR NET LEAR, V32, P2358, DOI 10.1109/TNNLS.2020.3004893
+   Sutton RS, 2018, ADAPT COMPUT MACH LE, V0, P1
+   Tsantekidis A, 2021, IEEE T NEUR NET LEAR, V32, P2837, DOI 10.1109/TNNLS.2020.2997523
+   Tsantekidis A, 2021, NEURAL NETWORKS, V140, P193, DOI 10.1016/j.neunet.2021.02.026
+   Wang JX, 2021, NEURAL NETWORKS, V135, P115, DOI 10.1016/j.neunet.2020.12.001
+   Yang M, 2021, IEEE T NEUR NET LEAR, V32, P49, DOI 10.1109/TNNLS.2020.2975035
+   Zhang HM, 2021, 2021 IEEE 6TH INTERNATIONAL CONFERENCE ON BIG DATA ANALYTICS (ICBDA 2021), V0, PP230, DOI 10.1109/ICBDA51983.2021.9403049
+   Zhang K, 2022, IEEE T CIRC SYST VID, V32, P1034, DOI 10.1109/TCSVT.2021.3072412
+   Zhang X, 2019, KNOWL INF SYST, V61, P1071, DOI 10.1007/s10115-018-1315-6
+NR 24
+TC 7
+Z9 0
+U1 2.0
+U2 6.0
+J9 NEURAL NETWORKS
+PD AUG
+PY 2023
+VL 165
+BP 506
+EP 515
+DI 10.1016/j.neunet.2023.05.051
+PG 10
+SC COMPUTER SCIENCE; NEUROSCIENCES & NEUROLOGY
+UT WOS:001035284400001
+PM 37348431
+ER
+
+PT J
+AU Borrageiro, G
+   Firoozye, Nick
+   Barucca, Paolo
+TI Reinforcement Learning for Systematic FX Trading
+SO IEEE ACCESS
+DE transfer learning; reinforcement learning; costs; time series analysis; currencies; task analysis; portfolios; policy gradients; recurrent reinforcement learning; online learning; transfer learning; financial time series
+AB We explore online inductive transfer learning, with a feature representation transfer from a radial basis function network formed of Gaussian mixture model hidden processing units to a direct, recurrent reinforcement learning agent. This agent is put to work in an experiment, trading the major spot market currency pairs, where we accurately account for transaction and funding costs. These sources of profit and loss, including the price trends that occur in the currency markets, are made available to the agent via a quadratic utility, who learns to target a position directly. We improve upon earlier work by targeting a risk position in an online transfer learning context. Our agent achieves an annualised portfolio information ratio of 0.52 with a compound return of 9.3%, net of execution and funding cost, over a 7-year test set; this is despite forcing the model to trade at the close of the trading day at 5 pm EST when trading costs are statistically the most expensive.
+C1 [Borrageiro, Gabriel; Firoozye, Nick; Barucca, Paolo] UCL, Dept Comp Sci, London WC1E 6BT, England.
+RP Borrageiro, G (corresponding author), UCL, Dept Comp Sci, London WC1E 6BT, England.
+CR Aboussalah AM, 2020, EXPERT SYST APPL, V140, P0, DOI 10.1016/j.eswa.2019.112891
+   Azhikodan Akhil Raj, 2019, INNOVATIONS IN COMPUTER SCIENCE AND ENGINEERING. PROCEEDINGS OF THE FIFTH ICICSE 2017. LECTURE NOTES IN NETWORKS AND SYSTEMS (LNNS 32), V0, PP41, DOI 10.1007/978-981-10-8201-6, 5
+   Betancourt C, 2021, EXPERT SYST APPL, V164, P114002, DOI 10.1016/j.eswa.2020.114002
+   Borrageiro G, 2021, ARXIV210308414, V0, P0
+   Grinold RC, 2019, ADVANCES IN ACTIVE PORTFOLIO MANAGEMENT: NEW DEVELOPMENTS IN QUANTITATIVE INVESTING, V0, P0
+   Klein Salvalaio Bruno, 2019, 2019 8TH BRAZILIAN CONFERENCE ON INTELLIGENT SYSTEMS (BRACIS). PROCEEDINGS, V0, PP383, DOI 10.1109/BRACIS.2019.00074
+   Lei K, 2020, EXPERT SYST APPL, V140, P0, DOI 10.1016/j.eswa.2019.112872
+   Luo SY, 2019, TRANSPORT RES E-LOG, V131, P68, DOI 10.1016/j.tre.2019.09.013
+   Roberts S, 2019, ARXIV191110107, V0, P0
+   Sutton RS, 2018, ADAPT COMPUT MACH LE, V0, P1
+   Tamar A, 2017, IEEE T AUTOMAT CONTR, V62, P3323, DOI 10.1109/TAC.2016.2644871
+   Tsay RS, 2019, NONLINEAR TIME SERIES ANALYSIS, V0, P0
+   Wang XD, 2020, 2020 12TH INTERNATIONAL CONFERENCE ON ADVANCED COMPUTATIONAL INTELLIGENCE (ICACI), V0, PP349, DOI 10.1109/icaci49185.2020.9177746
+   Yang Q, 2020, TRANSFER LEARNING, V0, PP1, DOI 10.1017/9781139061773
+   Ye ZK, 2020, LECT NOTES COMPUT SC, V12112, P638, DOI 10.1007/978-3-030-59410-7, 42
+NR 15
+TC 6
+Z9 0
+U1 0.0
+U2 18.0
+J9 IEEE ACCESS
+PD JUN
+PY 2022
+VL 10
+BP 5024
+EP 5036
+DI 10.1109/ACCESS.2021.3139510
+PG 13
+SC COMPUTER SCIENCE; ENGINEERING; TELECOMMUNICATIONS
+UT WOS:000744483700001
+PM 
+ER
+
+PT J
+AU Tsantekidis, A
+   Passalis, Nikolaos
+   Toufa, Anastasia-Sotiria
+   Saitas-zarkias, Konstantinos
+   Chairistanidis, Stergios
+   Tefas, Anastasios
+TI Price Trailing for Financial Trading Using Deep Reinforcement Learning
+SO IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS
+DE training; noise measurement; data models; learning systems; instruments; time series analysis; task analysis; deep reinforcement learning (rl); market-wide trading; price gtrailing
+AB Machine learning methods have recently seen a growing number of applications in financial trading. Being able to automatically extract patterns from past price data and consistently apply them in the future has been the focus of many quantitative trading applications. However, developing machine learning-based methods for financial trading is not straightforward, requiring carefully designed targets/rewards, hyperparameter fine-tuning, and so on. Furthermore, most of the existing methods are unable to effectively exploit the information available across various financial instruments. In this article, we propose a deep reinforcement learning-based approach, which ensures that consistent rewards are provided to the trading agent, mitigating the noisy nature of profit-and-loss rewards that are usually used. To this end, we employ a novel price trailing-based reward shaping approach, significantly improving the performance of the agent in terms of profit, Sharpe ratio, and maximum drawdown. Furthermore, we carefully designed a data preprocessing method that allows for training the agent on different FOREX currency pairs, providing a way for developing market-wide RL agents and allowing, at the same time, to exploit more powerful recurrent deep learning models without the risk of overfitting. The ability of the proposed methods to improve various performance metrics is demonstrated using a challenging large-scale data set, containing 28 instruments, provided by Speedlab AG.
+C1 [Tsantekidis, Avraam; Passalis, Nikolaos; Toufa, Anastasia-Sotiria; Saitas-Zarkias, Konstantinos; Tefas, Anastasios] Aristotle Univ Thessaloniki, Sch Informat, Thessaloniki 54124, Greece.   
+[Saitas-Zarkias, Konstantinos] KTH Royal Inst Technol, S-11428 Stockholm, Sweden.   
+[Chairistanidis, Stergios] Speedlab AG, Res Dept, CH-6330 Cham, Switzerland.
+RP Tsantekidis, A (corresponding author), Aristotle Univ Thessaloniki, Sch Informat, Thessaloniki 54124, Greece.
+FU European Union; Greek National Funds through the Operational Program Competitiveness, Entrepreneurship and Innovation [T2EDK-02094]; State Scholarship Foundation (IKY) (Strengthening Human Research Resources through the Pursuit of Doctoral Research Act) through the Human Resources Development, Education and Lifelong Learning 2014-2020 Program
+CR Cavalcante RC, 2016, EXPERT SYST APPL, V55, P194, DOI 10.1016/j.eswa.2016.02.006
+   Dabney W, 2018, AAAI CONF ARTIF INTE, V0, P2892
+   Deng Y, 2017, IEEE T NEUR NET LEAR, V28, P653, DOI 10.1109/TNNLS.2016.2522401
+   Greff K, 2017, IEEE T NEUR NET LEAR, V28, P2222, DOI 10.1109/TNNLS.2016.2582924
+   Grzes M, 2017, AAMAS17: PROCEEDINGS OF THE 16TH INTERNATIONAL CONFERENCE ON AUTONOMOUS AGENTS AND MULTIAGENT SYSTEMS, V0, P565
+   Huang Chien Yi, 2018, ARXIV180702787, V0, P0
+   Hussein A, 2017, IEEE IJCNN, V0, PP510, DOI 10.1109/IJCNN.2017.7965896
+   Ntakaris A, 2018, P SSRN, V0, P1
+   Schulman John, 2017, PREPRINT, V0, P0
+   Sutton RS, 2018, ADAPT COMPUT MACH LE, V0, P1
+   Tran DT, 2019, IEEE T NEUR NET LEAR, V30, P1407, DOI 10.1109/TNNLS.2018.2869225
+   Tsantekidis A, 2017, CONF BUS INFORM, V1, P7, DOI 10.1109/CBI.2017.23
+   Tsantekidis A, 2017, EUR SIGNAL PR CONF, V0, PP2511, DOI 10.23919/EUSIPCO.2017.8081663
+   Unknown -, 2017, AAAI, V0, P0
+   van Hasselt H, 2016, AAAI CONF ARTIF INTE, V0, P2094
+NR 15
+TC 41
+Z9 0
+U1 3.0
+U2 82.0
+J9 IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS
+PD JUL
+PY 2021
+VL 32
+BP 2837
+EP 2846
+DI 10.1109/TNNLS.2020.2997523
+PG 10
+SC COMPUTER SCIENCE; ENGINEERING
+UT WOS:000670541500004
+PM 32516114
+ER
+
+PT J
+AU Vicente, OF
+   Fernandez, Fernando
+   Garcia, Javier
+TI Automated market maker inventory management with deep reinforcement learning
+SO APPLIED INTELLIGENCE
+DE reinforcement learning; market-making; stock markets; inventory risk management; stochastic dynamic control; artificial intelligence
+AB Stock markets are the result of the interaction of multiple participants, and market makers are one of them. Their main goal is to provide liquidity and market depth to the stock market by streaming bids and offers at both sides of the order book, at different price levels. This activity allows the rest of the participants to have more available prices to buy or sell stocks. In the last years, reinforcement learning market maker agents have been able to be profitable. But profit is not the only measure to evaluate the quality of a market maker. Inventory management arises as a risk source that must be under control. In this paper, we focus on inventory risk management designing an adaptive reward function able to control inventory depending on designer preferences. To achieve this, we introduce two control coefficients, AIIF (Alpha Inventory Impact Factor) and DITF (Dynamic Inventory Threshold Factor), which modulate dynamically the behavior of the market maker agent according to its evolving liquidity with good results. In addition, we analyze the impact of these factors in the trading operative, detailing the underlying strategies performed by these intelligent agents in terms of operative, profitability and inventory management. Last, we present a comparison with other existing reward functions to illustrate the robustness of our approach.
+C1 [Vicente, Oscar Fernandez; Fernandez, Fernando] Univ Carlos III, Ave Univ, Leganes 28911, Comunidad De Ma, Spain.   
+[Garcia, Javier] Univ Santiago De Compostela, Praza Obradoiro 0, Santiago De Compostela 15705, A Coruna, Spain.
+RP Vicente, OF (corresponding author), Univ Carlos III, Ave Univ, Leganes 28911, Comunidad De Ma, Spain.
+FU Universidad Carlos III de Madrid; JPMorgan Chase amp; Co.
+CR Adams S, 2022, ARTIF INTELL REV, V55, P4307, DOI 10.1007/s10462-021-10108-x
+   Amrouni S, 2021, ICAIF 2021: THE SECOND ACM INTERNATIONAL CONFERENCE ON AI IN FINANCE, V0, P0, DOI 10.1145/3490354.3494433
+   Behboudian P, 2022, NEURAL COMPUT APPL, V34, P1673, DOI 10.1007/s00521-021-06259-1
+   Byrd D, 2020, PROCEEDINGS OF THE 2020 ACM SIGSIM CONFERENCE ON PRINCIPLES OF ADVANCED DISCRETE SIMULATION, V0, P11, DOI 10.1145/3384441.3395986
+   Clifton J, 2020, ANNU REV STAT APPL, V7, P279, DOI 10.1146/annurev-statistics-031219-041220
+   Ganesh S, 2019, ARXIV, V0, P0
+   García J, 2020, ENG APPL ARTIF INTEL, V96, P0, DOI 10.1016/j.engappai.2020.104021
+   Gasperov B, 2021, IEEE ACCESS, V9, P61611, DOI 10.1109/ACCESS.2021.3074782
+   Gasperov B, 2021, MATHEMATICS-BASEL, V9, P0, DOI 10.3390/math9212689
+   Hayes CF, 2022, AUTON AGENT MULTI-AG, V36, P0, DOI 10.1007/s10458-022-09552-y
+   Hua YC, 2021, IEEE-CAA J AUTOMATIC, V8, P303, DOI 10.1109/JAS.2021.1003817
+   Kuo CH, 2021, IEEE ACCESS, V9, P50738, DOI 10.1109/ACCESS.2021.3068269
+   Li Q, 2022, ACM T INTEL SYST TEC, V13, P0, DOI 10.1145/3495162
+   Li ZF, 2022, IEEE T NEUR NET LEAR, V33, P3961, DOI 10.1109/TNNLS.2021.3055147
+   Lim Y-S, 2018, 26 EUR S ART NEUR NE, V0, P0
+   Liu H, 2022, IEEE T IND INFORM, V18, P4361, DOI 10.1109/TII.2021.3128240
+   Liu H, 2022, NEUROCOMPUTING, V468, P469, DOI 10.1016/j.neucom.2021.10.050
+   Lokhacheva KA, 2020, P INT SESS FACT REG, V0, PP256, DOI 10.2991/FRED-19.2020.52
+   Mallozzi P, 2018, 2018 SECOND IEEE INTERNATIONAL CONFERENCE ON ROBOTIC COMPUTING (IRC), V0, PP250, DOI 10.1109/IRC.2018.00053
+   Mani M, 2019, GAIW, V0, P0
+   Masini RP, 2023, J ECON SURV, V37, P76, DOI 10.1111/joes.12429
+   Otto F, 2021, REINFORCEMENT LEARN. ALGORITHMS ANAL. APPL., V0, P109
+   Ramírez J, 2022, ARTIF INTELL REV, V55, P3213, DOI 10.1007/s10462-021-10085-1
+   Selser M, 2021, SSRN ELECTRONIC JOURNAL, V0, P0, DOI 10.2139/ssrn.3829984
+   Spooner T, 2018, PROCEEDINGS OF THE 17TH INTERNATIONAL CONFERENCE ON AUTONOMOUS AGENTS AND MULTIAGENT SYSTEMS (AAMAS 18), V0, P434
+   Sutton RS, 2018, ADAPT COMPUT MACH LE, V0, P1
+   Veasna K, 2023, COMPUT METHOD APPL M, V403, P0, DOI 10.1016/j.cma.2022.115740
+   Vicente OF, 2021, ICAIF 2021: THE SECOND ACM INTERNATIONAL CONFERENCE ON AI IN FINANCE, V0, P0, DOI 10.1145/3490354.3494448
+   Zhang G, 2020, SSRN ELECTRONIC JOURNAL, V0, P0, DOI 10.2139/ssrn.3646753
+   Zhang ZH, 2021, APPLIED MATHEMATICAL FINANCE, V28, P79, DOI 10.1080/1350486x.2021.1967767
+   Zhong YY, 2020, PROCEEDINGS OF THE TWENTY-NINTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, V0, P4461
+NR 31
+TC 6
+Z9 0
+U1 8.0
+U2 39.0
+J9 APPLIED INTELLIGENCE
+PD OCT
+PY 2023
+VL 53
+BP 22249
+EP 22266
+DI 10.1007/s10489-023-04647-9
+PG 18
+SC COMPUTER SCIENCE
+UT WOS:001019914800010
+PM 
+ER
+
+PT J
+AU Olorunnimbe, K
+   Viktor, Herna
+TI Deep learning in the stock market-a systematic survey of practice, backtesting, and applications
+SO ARTIFICIAL INTELLIGENCE REVIEW
+DE deep learning; machine learning; neural network; stock market; financial market; quantitative analysis; backtesting; practice and application
+AB The widespread usage of machine learning in different mainstream contexts has made deep learning the technique of choice in various domains, including finance. This systematic survey explores various scenarios employing deep learning in financial markets, especially the stock market. A key requirement for our methodology is its focus on research papers involving backtesting. That is, we consider whether the experimentation mode is sufficient for market practitioners to consider the work in a real-world use case. Works meeting this requirement are distributed across seven distinct specializations. Most studies focus on trade strategy, price prediction, and portfolio management, with a limited number considering market simulation, stock selection, hedging strategy, and risk management. We also recognize that domain-specific metrics such as "returns" and "volatility" appear most important for accurately representing model performance across specializations. Our study demonstrates that, although there have been some improvements in reproducibility, substantial work remains to be done regarding model explainability. Accordingly, we suggest several future directions, such as improving trust by creating reproducible, explainable, and accountable models and emphasizing prediction of longer-term horizons-potentially via the utilization of supplementary data-which continues to represent a significant unresolved challenge.
+C1 [Olorunnimbe, Kenniy; Viktor, Herna] Univ Ottawa, Sch Elect Engn & Comp Sci, Ottawa, ON, Canada.
+RP Viktor, H (corresponding author), Univ Ottawa, Sch Elect Engn & Comp Sci, Ottawa, ON, Canada.
+CR ADOSOGLOU G, 2020, EXPERT SYST APPL, V0, P0
+   Aceto G, 2019, IEEE T NETW SERV MAN, V16, P445, DOI 10.1109/TNSM.2019.2899085
+   Adadi A, 2018, IEEE ACCESS, V6, P52138, DOI 10.1109/ACCESS.2018.2870052
+   Ahrefs, 2020, GOOGL SEARCH OP COMP, V0, P0
+   Amel-Zadeh A, 2020, ANALYSIS-UK, V0, P0, DOI 10.2139/ssrn.3520684
+   Arimond A, 2020, NEURAL NETWORKS VALU, V0, P0, DOI 10.2139/ssrn.3591996
+   Arnott RD, 2018, A BACKTESTING PROTOCOL IN THE ERA OF MACHINE LEARNING, V0, PP1, DOI 10.2139/SSRN.3275654
+   BAO W, 2019, MULTIAGENT DEEP REIN, V0, P0
+   Baek Y, 2018, EXPERT SYST APPL, V113, P457, DOI 10.1016/j.eswa.2018.07.019
+   Buehler H, 2020, SSRN ELECTRONIC JOURNAL, V0, P0, DOI 10.2139/ssrn.3632431
+   Chakole J, 2020, EXPERT SYST, V37, P0, DOI 10.1111/exsy.12514
+   Chalvatzis C, 2020, APPL SOFT COMPUT, V96, P0, DOI 10.1016/j.asoc.2020.106567
+   Chen L, 2018, IEEE ACCESS, V6, P48625, DOI 10.1109/ACCESS.2018.2859809
+   Chen YY, 2018, 2018 IEEE INTERNATIONAL CONFERENCE ON AGENTS (ICA), V0, PP113, DOI 10.1109/AGENTS.2018.8459920
+   Chow KV, 2021, HANDBOOK OF FINANCIAL ECONOMETRICS, V0, P0
+   De Prado ML, 2018, ADV FINANCIAL MACHIN, V0, P0
+   Derivative, 2020, LIST EL TRAD PROT, V0, P0
+   Fabozzi FJ, 2018, J PORTFOLIO MANAGE, V45, P141, DOI 10.3905/jpm.2018.45.1.141
+   Fang YJ, 2019, ALGORITHMS, V12, P0, DOI 10.3390/a12020035
+   Ferguson Ryan, 2018, DEEPLY LEARNING DERIVATIVES, V0, P0
+   François-Lavet V, 2018, FOUND TRENDS MACH LE, V11, P219, DOI 10.1561/2200000071
+   Ganesh P, 2018, PAPERS ARXIVABS18090, V0, P0
+   Gundersen OE, 2018, AI MAG, V39, P56, DOI 10.1609/aimag.v39i3.2816
+   Haibe-Kains B, 2020, NATURE, V586, PE14, DOI 10.1038/s41586-020-2766-y
+   Haiying Zhang, 2020, 2020 15TH INTERNATIONAL CONFERENCE ON COMPUTER SCIENCE & EDUCATION (ICCSE), V0, PP222, DOI 10.1109/ICCSE49874.2020.9201745
+   Hargrave M, 2019, SHARPE RATIO DEFINIT, V0, P0
+   Hayes A, 2020, MAXIMUM DRAWDOWN MDD, V0, P0
+   Hu GS, 2018, 2018 IEEE INTERNATIONAL CONFERENCE ON ACOUSTICS, V0, P2706, DOI 10.1109/ICASSP.2018.8462215
+   Hu ZX, 2021, APPL SYST INNOV, V4, P0, DOI 10.3390/asi4010009
+   Insights D, 2019, LEADERS FINANCIAL SE, V0, P0
+   Ivanov S, 2019, MODERN DEEP REINFORCEMENT LEARNING ALGORITHMS, V0, P0
+   Jiang WW, 2021, EXPERT SYST APPL, V184, P0, DOI 10.1016/j.eswa.2021.115537
+   Jun Wang, 2020, 2020 PROCEEDINGS OF ASIA-PACIFIC CONFERENCE ON IMAGE PROCESSING, V0, P266, DOI 10.1109/IPEC49694.2020.9115114
+   Kenton W, 2019, SORTINO RATIO DEFINI, V0, P0
+   Kenton W, 2020, SOCIAL LICENSE OPERA, V0, P0
+   Kenton Will, 2020, CALMAR RATIO, V0, P0
+   Kim S, 2019, ARXIV 190210877, V0, P0
+   Koshiyama A, 2021, QUANT FINANC, V21, P797, DOI 10.1080/14697688.2020.1790635
+   Kusuma RMI, 2019, USING DEEP LEARNING, V0, P0
+   Lee SI, 2019, ARXIV 190306478, V0, P0
+   Li AW, 2020, IEEE ACCESS, V8, P185232, DOI 10.1109/ACCESS.2020.3030226
+   Li X, 2019, PROCEEDINGS OF THE 36TH INTERNATIONAL CONFERENCE ON MACHINE LEARNING, V0, P0
+   Li YM, 2020, COMPUTING, V102, P1305, DOI 10.1007/s00607-019-00773-w
+   Liang Z, 2018, ADVERSARIAL DEEP REINFORCEMENT LEARNING IN PORTFOLIO MANAGEMENT, V0, P0
+   Liu M, 2018, ROBUST LOG OPTIMAL S, V0, P0
+   Lu J, 2019, IEEE T KNOWL DATA EN, V31, P2346, DOI 10.1109/TKDE.2018.2876857
+   Maeda I, 2020, J RISK FINANC MANAG, V13, P0, DOI 10.3390/jrfm13040071
+   Majaski Christina, 2020, FUNDAMENTALS, V0, P0
+   Montiel J, 2018, J MACH LEARN RES, V19, P0
+   Montiel J, 2020, ARXIV 201204740, V0, P0
+   Muller VC, 2020, STANFORD ENCYCLOPEDIA OF PHILOSOPHY, V0, P0
+   Murphy CB, 2019, COMPOUND ANN GROWTH, V0, P0
+   Nascita Alfredo, 2021, IEEE TRANSACTIONS ON NETWORK AND SERVICE MANAGEMENT, V18, P4225, DOI 10.1109/TNSM.2021.3098157
+   Ntakaris A, 2019, IEEE ACCESS, V7, P82390, DOI 10.1109/ACCESS.2019.2924353
+   Ozbayoglu Ahmet Murat, 2020, APPLIED SOFT COMPUTING, V93, P0, DOI 10.1016/j.asoc.2020.106384
+   Paleyes A, 2020, ARXIV ABS201109926, V0, P0
+   Park H, 2020, EXPERT SYST APPL, V158, P0, DOI 10.1016/j.eswa.2020.113573
+   Passalis N, 2019, ARXIV 190207892, V0, P0
+   Paszke A, 2019, ADV NEUR IN, V32, P0
+   Raman Natraj, 2019, ADVANCES IN PRACTICAL APPLICATIONS OF SURVIVABLE AGENTS AND MULTI-AGENT SYSTEMS. THE PAAMS COLLECTION. 17TH INTERNATIONAL CONFERENCE, V0, P200, DOI 10.1007/978-3-030-24209-1, 17
+   Ruf J, 2020, HEDGING LINEAR REGRE, V0, P0
+   ScrapeStorm, 2020, AI POWERED RES TOOL, V0, P0
+   Silva TR, 2020, IEEE IJCNN, V0, P0, DOI 10.1109/ijcnn48605.2020.9207278
+   Soleymani F, 2020, EXPERT SYST APPL, V156, P0, DOI 10.1016/j.eswa.2020.113456
+   The Institute for Ethical AI & Machine Learning, 2020, 8 PRINCIPLES RESPONS, V0, P0
+   Theate T, 2020, APPL DEEP REINFORCEM, V0, P0
+   Thiebes S, 2021, ELECTRON MARK, V31, P447, DOI 10.1007/s12525-020-00441-4
+   Tong Sun, 2019, 2019 18TH IEEE INTERNATIONAL CONFERENCE ON MACHINE LEARNING AND APPLICATIONS (ICMLA), V0, PP118, DOI 10.1109/ICMLA.2019.00027
+   Tornes Adam, 2021, ENABLING THE FUTURE OF ACADEMIC RESEARCH WITH THE TWITTER API, V0, P0
+   Unknown -, 2020, GOOGLE SCHOLAR, V0, P0
+   Unknown -, 2020, HOW IT WORKS, V0, P0
+   WU J, 2019, P INT JOINT C NEUR N, V2019, P0
+   Wachowicz E, 2020, J BUS FINANC LIBR, V25, P184, DOI 10.1080/08963568.2020.1847552
+   Wang J, 2018, 2018 17TH IEEE INTERNATIONAL CONFERENCE ON MACHINE LEARNING AND APPLICATIONS (ICMLA), V0, PP97, DOI 10.1109/ICMLA.2018.00022
+   Wang J, 2019, PROCEEDINGS OF THE TWENTY-EIGHTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, V0, P3705
+   Wang J, 2019, RESIDUAL SWITCHING N, V0, P0
+   Wang JY, 2019, KDD19: PROCEEDINGS OF THE 25TH ACM SIGKDD INTERNATIONAL CONFERENCCE ON KNOWLEDGE DISCOVERY AND DATA MINING, V0, PP1900, DOI 10.1145/3292500.3330647
+   Wang YL, 2018, 2018 INTERNATIONAL APPLIED COMPUTATIONAL ELECTROMAGNETICS SOCIETY SYMPOSIUM IN CHINA (ACES-CHINA 2018), V0, P0
+   Wikipedia, 2020, NEURON, V0, P0
+   Wikipedia, 2020, VANISHING GRADIENT P, V0, P0
+   Wojtas M, 2020, ARXIV 201008973, V0, P0
+   Wu JMT, 2020, NEURAL COMPUT APPL, V0, P0, DOI 10.1007/s00521-020-05377-6
+   Xiao C, 2021, INTRODUCTION TO DEEP LEARNING FOR HEALTHCARE, V0, P0
+   Yang J, 2019, DEEP LEARNING STOCK, V0, P0
+   Yang SY, 2018, EXPERT SYST APPL, V114, P388, DOI 10.1016/j.eswa.2018.07.056
+   Ying Lei, 2020, ICCAI 20: PROCEEDINGS OF THE 2020 6TH INTERNATIONAL CONFERENCE ON COMPUTING AND ARTIFICIAL INTELLIGENCE, V0, PP51, DOI 10.1145/3404555.3404604
+   Zhang C, 2020, DOUBLEENSEMBLE NEW E, V0, P0
+   Zhang H, 2020, J PHYS, V0, P0, DOI 10.1088/1742-6596/1549/2/022124
+   Zhang JT, 2021, PROC IEEE INT CONF S, V0, PP35, DOI 10.1109/ICSME52107.2021.00010
+   Zhang ZH, 2019, IEEE T SIGNAL PROCES, V67, P3001, DOI 10.1109/TSP.2019.2907260
+   Zhang ZH, 2020, THE JOURNAL OF FINANCIAL DATA SCIENCE, V2, P25, DOI 10.3905/jfds.2020.1.030
+NR 91
+TC 57
+Z9 0
+U1 8.0
+U2 106.0
+J9 ARTIFICIAL INTELLIGENCE REVIEW
+PD MAR
+PY 2023
+VL 56
+BP 2057
+EP 2109
+DI 10.1007/s10462-022-10226-0
+PG 53
+SC COMPUTER SCIENCE
+UT WOS:000819273700001
+PM 35791405
+ER
+
+PT J
+AU Koshiyama, A
+   Blumberg, Stefano B
+   Firoozye, Nick
+   Treleaven, Philip
+   Flennerhag, Sebastian
+TI QuantNet: transferring learning across trading strategies
+SO QUANTITATIVE FINANCE
+DE transfer learning; trading strategies; deep learning; sequential transfer-learning; parameter-based transfer; backtest overfitting
+AB Systematic financial trading strategies account for over 80% of trade volume in equities and a large chunk of the foreign exchange market. In spite of the availability of data from multiple markets, current approaches in trading rely mainly on learning trading strategies per individual market. In this paper, we take a step towards developing fully end-to-end global trading strategies that leverage systematic trends to produce superior market-specific trading strategies. We introduce QuantNet: an architecture that learns market-agnostic trends and use these to learn superior market-specific trading strategies. Each market-specific model is composed of an encoder-decoder pair. The encoder transforms market-specific data into an abstract latent representation that is processed by a global model shared by all markets, while the decoder learns a market-specific trading strategy based on both local and global information from the market-specific encoder and the global model. QuantNet uses recent advances in transfer and meta-learning, where market-specific parameters are free to specialize on the problem at hand, whilst market-agnostic parameters are driven to capture signals from all markets. By integrating over idiosyncratic market data we can learn general transferable dynamics, avoiding the problem of overfitting to produce strategies with superior returns. We evaluate QuantNet on historical data across 3103 assets in 58 global equity markets. Against the top performing baseline, QuantNet yielded 51% higher Sharpe and 69% Calmar ratios. In addition, we show the benefits of our approach over the non-transfer learning variant, with improvements of 15% and 41% in Sharpe and Calmar ratios. A link to QuantNet code is made available in the appendix.
+C1 [Koshiyama, Adriano; Blumberg, Stefano B.; Firoozye, Nick; Treleaven, Philip] UCL, London, England.   
+[Flennerhag, Sebastian] Univ Manchester, Manchester, Lancs, England.
+RP Koshiyama, A (corresponding author), UCL, London, England.
+FU CNPQ [0001]
+CR Aggarwal S, 2017, INTERNATIONAL JOURNAL OF COMPUTER APPLICATIONS, V162, P40, DOI 10.5120/ijca2017913283
+   Araci Dogu, 2019, FINBERT: FINANCIAL SENTIMENT ANALYSIS WITH PRE-TRAINED LANGUAGE MODELS, V0, P0
+   Arik SÖ, 2017, ADV NEUR IN, V30, P0
+   Avramovic A, 2017, WE HIGH FREQUENCY TR, V0, P0
+   Baltzer M, 2019, J FINANC MARK, V42, P56, DOI 10.1016/j.finmar.2018.08.003
+   BarclayHedge, 2017, BARCL CTAS ASS MAN, V0, P0
+   Blumberg SB, 2018, LECT NOTES COMPUT SC, V11070, P118, DOI 10.1007/978-3-030-00928-1, 14
+   Blumberg SB, 2019, LECT NOTES COMPUT SC, V11767, P411, DOI 10.1007/978-3-030-32251-9, 45
+   Buehler H, 2019, QUANT FINANC, V19, P1271, DOI 10.1080/14697688.2019.1571683
+   Chen S, 2019, MED3D TRANSFER LEARN, V0, P0
+   De Prado ML, 2018, ADV FINANCIAL MACHIN, V0, P0
+   Devlin J, 2019, 2019 CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES (NAACL HLT 2019), VOL. 1, P4171
+   Dichtl H, 2020, REV FINANC ECON, V38, P352, DOI 10.1002/rfe.1078
+   Du Plessis J, 2017, J ALTERN INVEST, V19, P40, DOI 10.3905/jai.2017.19.3.040
+   El Bsat S, 2017, AAAI CONF ARTIF INTE, V0, P1847
+   Elton EJ, 2019, J BANK FINANC, V106, P265, DOI 10.1016/j.jbankfin.2019.07.004
+   Escovedo T, 2018, APPL SOFT COMPUT, V62, P119, DOI 10.1016/j.asoc.2017.10.031
+   FLENNERHAG S, 2020, ICLR, V0, P0
+   Feng GH, 2020, J FINANC, V75, P1327, DOI 10.1111/jofi.12883
+   Firoozye N, 2019, OPTIMAL DYNAMIC STRA, V0, P0
+   Fischer T, 2018, EUR J OPER RES, V270, P654, DOI 10.1016/j.ejor.2017.11.054
+   Flennerhag S, 2018, ADV NEUR IN, V31, P0
+   Gao ZM, 2020, 2020 5TH IEEE INTERNATIONAL CONFERENCE ON BIG DATA ANALYTICS (IEEE ICBDA 2020), V0, PP268, DOI 10.1109/ICBDA49040.2020.9101333
+   Gu SH, 2020, REV FINANC STUD, V33, P2223, DOI 10.1093/rfs/hhaa009
+   He X, 2019, AAAI CONF ARTIF INTE, V0, P3763
+   Heaton JB, 2017, APPL STOCH MODEL BUS, V33, P3, DOI 10.1002/asmb.2209
+   Hiew JZG, 2019, BERT BAS FIN SENT IN, V0, P0
+   Jeong G, 2019, EXPERT SYST APPL, V117, P125, DOI 10.1016/j.eswa.2018.09.036
+   Jiang S, 2019, IEEE T NEUR NET LEAR, V0, P0
+   KOUW WM, 2019, IEEE INT WORKS MACH, V0, PPNIL98, DOI 10.1109/mlsp.2019.8918731
+   Kornblith S, 2019, PROC CVPR IEEE, V0, PP2656, DOI 10.1109/CVPR.2019.00277
+   Koshiyama A, 2019, THE JOURNAL OF FINANCIAL DATA SCIENCE, V1, P63, DOI 10.3905/jfds.2019.1.013
+   Lee Y, 2018, PR MACH LEARN RES, V80, P0
+   Li W, 2018, INT C APPL TECHN CYB, V0, P64
+   Li XD, 2018, IEEE ACCESS, V6, P73110, DOI 10.1109/ACCESS.2018.2881689
+   Li Y, 2019, COMPUTING, V0, P1
+   Lim B, 2019, THE JOURNAL OF FINANCIAL DATA SCIENCE, V1, P19, DOI 10.3905/jfds.2019.1.015
+   Liu Yang, 2019, INFORM SYST RES, V0, P0, DOI 10.48550/arXiv.1907.11692
+   Liu ZY, 2019, APPL SOFT COMPUT, V75, P494, DOI 10.1016/j.asoc.2018.11.006
+   Lu D, 2017, AGENT INSPIRED TRADI, V0, P0
+   Molyboga M, 2018, PORTFOLIO MANAGEMENT, V0, P0
+   Nunes M, 2019, EXPERT SYST APPL, V119, P362, DOI 10.1016/j.eswa.2018.11.012
+   Park W, 2019, PROC CVPR IEEE, V0, PP3962, DOI 10.1109/CVPR.2019.00409
+   Pendharkar PC, 2018, EXPERT SYST APPL, V103, P1, DOI 10.1016/j.eswa.2018.02.032
+   Qu C, 2019, PROCEEDINGS OF THE TWELFTH ACM INTERNATIONAL CONFERENCE ON WEB SEARCH AND DATA MINING (WSDM19), V0, PP699, DOI 10.1145/3289600.3290978
+   Radford Alec, 2019, LANGUAGE MODELS ARE UNSUPERVISED MULTITASK LEARNERS, V1, P9, DOI 10.4018/978-1-5225-9348-5.CH006
+   Reddi SJ, 2019, CONVERGENCE ADAM, V0, P0
+   Sezer OB, 2020, APPL SOFT COMPUT, V90, P0, DOI 10.1016/j.asoc.2020.106181
+   Somasundaram A, 2019, NEURAL COMPUT APPL, V31, P3, DOI 10.1007/s00521-018-3633-8
+   Thomann A, 2019, FACTOR BASED TACTICA, V0, P0
+   Tomas M, 2019, DEEP CALIBRATION ROU, V0, P0
+   Unknown -, 2019, TRANSFER ADAPTATION LEARNING: A DECADE SURVEY, V0, P0
+   Vargas MR, 2017, IEEE INT CONF COMP, V0, PP60, DOI 10.1109/CIVEMSA.2017.7995302
+   Voumard A, 2019, ECML PKDD, V0, P1
+   Wang W, 2019, ACM T INTEL SYST TEC, V10, P0, DOI 10.1145/3293318
+   Wang Y, 2019, GENERALIZING FROM A FEW EXAMPLES: A SURVEY ON FEW-SHOT LEARNING, V0, P0
+   Yang Q, 2020, TRANSFER LEARNING, V0, P234
+   Yang Zhilin, 2018, ADV NEURAL INFORM PR, V0, P8950
+   Yu SJ, 2019, NEURAL NETWORKS, V117, P104, DOI 10.1016/j.neunet.2019.05.003
+   Zhang MQ, 2019, PHYSICA A, V517, P1, DOI 10.1016/j.physa.2018.10.053
+   Zhang Y, 2017, SURVEY MULTI TASK LE, V0, P0
+   Zhang ZH, 2020, THE JOURNAL OF FINANCIAL DATA SCIENCE, V2, P25, DOI 10.3905/jfds.2020.1.030
+   Zhuang FZ, 2021, P IEEE, V109, P43, DOI 10.1109/JPROC.2020.3004555
+   Zintgraf LM, 2018, FAST CONTEXT ADAPTAT, V0, P0
+NR 64
+TC 2
+Z9 0
+U1 1.0
+U2 35.0
+J9 QUANTITATIVE FINANCE
+PD JUN
+PY 2022
+VL 22
+BP 1071
+EP 1090
+DI 10.1080/14697688.2021.1999487
+PG 20
+SC BUSINESS & ECONOMICS; MATHEMATICS; MATHEMATICAL METHODS IN SOCIAL SCIENCES
+UT WOS:000725953000001
+PM 
+ER
+
+PT J
+AU Huang, Y
+   Song, Yunlin
+TI A new hybrid method of recurrent reinforcement learning and BiLSTM for algorithmic trading
+SO JOURNAL OF INTELLIGENT & FUZZY SYSTEMS
+DE reinforcement learning; deep learning; trading strategy; sharpe ratio
+AB Recently, the algorithmic trading of financial assets is rapidly developing with the rise of deep learning. In particular, deep reinforcement learning, as a combination of deep learning and reinforcement learning, stands out among many approaches in the field of decision-making because of its high performance, strong generalization, and high fitting ability. In this paper, we attempt to propose a hybrid method of recurrent reinforcement learning (RRL) and deep learning to figure out the algorithmic trading problem of determining the optimal trading position in the daily trading activities of the stock market. We adopt deep neural network (DNN), long short-term memory neural network (LSTM), and bidirectional long short-term memory neural network (BiLSTM) to automatically extract higher-level abstract feature information from sequential trading data, respectively, and then generate optimal trading strategies by interacting with the environment in a reinforcement learning framework. In particular, the BiLSTM consisting of two LSTM models with opposite directions is able to make full use of the information from both directions in attempting to capture more effective information. In experiments, the daily data of Dow Jones, S&P500, and NASDAQ (from Jan-01, 2005 to Dec-31, 2020) are applied to verify the performance of the newly proposed DNN-RL, LSTM-RL, and BiLSTM-RL trading systems. Experimental results show that the proposed methods significantly outperform the benchmark methods, such as RRL and Buy and Hold, with higher scalability and better robustness. Especially, BiLSTM-RL performs better than other methods.
+C1 [Huang, Yuling] Macau Univ Sci & Technol, Sch Comp Sci & Engn, Taipa, Macao, Peoples R China.   
+[Song, Yunlin] Macau Univ Sci & Technol, Sch Business, Taipa, Macao, Peoples R China.
+RP Song, YL (corresponding author), Macau Univ Sci & Technol, Sch Business, Taipa, Macao, Peoples R China.
+FU Faculty Research Grants, Macau University of Science and Technology [FRG-22-001-INT]
+CR Aboussalah AM, 2020, EXPERT SYST APPL, V140, P0, DOI 10.1016/j.eswa.2019.112891
+   Al Aradi M, 2020, 2020 INT C DATA ANAL, V0, P1
+   Althelaya KA, 2018, INT CONF INFORM COMM, V0, PP151, DOI 10.1109/IACS.2018.8355458
+   Ampountolas A, 2023, J RISK FINANC MANAG, V16, P0, DOI 10.3390/jrfm16010025
+   Bhandari HN, 2022, MACHINE LEARNING APP, V0, P0
+   Chandola D, 2022, ANN DATA SCI, V0, P1
+   Chen S, 2019, QUANT FINANC, V19, P1507, DOI 10.1080/14697688.2019.1622287
+   Ge J, 2022, P 2022 14 INT C MACH, V0, P34
+   Gerritsen DF, 2020, FINANC RES LETT, V34, P0, DOI 10.1016/j.frl.2019.08.011
+   Huang QH, 2018, WORLD WIDE WEB, V21, P1473, DOI 10.1007/s11280-018-0534-9
+   Istiake Sunny Md Arif, 2020, 2020 2ND NOVEL INTELLIGENT AND LEADING EMERGING SCIENCES CONFERENCE (NILES), V0, PP87, DOI 10.1109/NILES50944.2020.9257950
+   Koker TE, 2020, J RISK FINANC MANAG, V13, P0, DOI 10.3390/jrfm13080178
+   Lee MC, 2022, NEURAL COMPUT APPL, V34, P13267, DOI 10.1007/s00521-021-06828-4
+   Li F, 2022, SCI PROGRAMMING-NETH, V0, P0
+   Li YW, 2022, SCI PROGRAMMING-NETH, V2022, P0, DOI 10.1155/2022/4698656
+   Lin F, 2022, MODERN ECONOMICS & MANAGEMENT FORUM, V3, P48, DOI 10.32629/memf.v3i1.650
+   Malibari N, 2022, APPL SCI, V0, P0
+   Md AQ, 2022, NOVEL OPTIMIZATION A, V0, P0
+   Mundra A, 2020, J INTELL FUZZY SYST, V38, P5949, DOI 10.3233/JIFS-179681
+   Nguyen HT, 2021, STUDIES IN COMPUTATIONAL INTELLIGENCE, V981, P285, DOI 10.1007/978-3-030-76620-7
+   Ni HH, 2021, WORLD WIDE WEB, V24, P849, DOI 10.1007/s11280-021-00880-9
+   Rustam Z, 2018, AIP CONF PROC, V2023, P0, DOI 10.1063/1.5064205
+   Shah J, 2021, 2021 INT C COMMUNICA, V0, P1
+   Shen JY, 2020, J BIG DATA-GER, V7, P0, DOI 10.1186/s40537-020-00333-6
+   Soni P, 2022, JOURNAL OF PHYSICS: CONFERENCE SERIES, V2161, P0
+   Sutton RS, 2018, ADAPT COMPUT MACH LE, V0, P1
+   Tang XY, 2022, SYMMETRY-BASEL, V14, P0, DOI 10.3390/sym14112292
+   Xu YM, 2018, PROCEEDINGS OF THE 56TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL), VOL 1, P1970
+   Yang M, 2022, PROCEDIA COMPUT SCI, V199, P18, DOI 10.1016/j.procs.2022.01.003
+   Zhang ZR, 2021, EXPERT SYST APPL, V183, P0, DOI 10.1016/j.eswa.2021.115378
+   Zhou P, 2022, P INT C STAT APPL MA, V12163, P1151
+   Zhou ZK, 2018, WORLD WIDE WEB, V21, P1093, DOI 10.1007/s11280-017-0495-4
+   Zolfaghari M, 2021, EXPERT SYST APPL, V182, P0, DOI 10.1016/j.eswa.2021.115149
+NR 33
+TC 6
+Z9 0
+U1 3.0
+U2 22.0
+J9 JOURNAL OF INTELLIGENT & FUZZY SYSTEMS
+PD JUN
+PY 2023
+VL 45
+BP 1939
+EP 1951
+DI 10.3233/JIFS-223101
+PG 13
+SC COMPUTER SCIENCE
+UT WOS:001045474700005
+PM 
+ER
+
+PT J
+AU Carbonneau, A
+   Godin, Frederic
+TI Equal risk pricing of derivatives with deep hedging
+SO QUANTITATIVE FINANCE
+DE reinforcement learning; deep learning; option pricing; hedging; convex risk measures
+AB This article provides a universal and tractable methodology based on deep reinforcement learning to implement the equal risk pricing framework for financial derivatives pricing under very general conditions. The equal risk pricing framework entails solving for a derivative price which equates the optimally hedged residual risk exposure associated, respectively, with the long and short positions in the contingent claim. The solution to the hedging optimization problem considered, which is inspired from the [Marzban, S., Delage, E. and Li, J.Y., Equal risk pricing and hedging of financial derivatives with convex risk measures. arXiv preprint arXiv:2002.02876, 2020.] framework relying on convex risk measures, is obtained through the use of the deep hedging algorithm of [Buehler, H., Gonon, L., Teichmann, J. and Wood, B., Deep hedging.Q. Finance, 2019,19, 1271-1291]. Consequently, the current papers approach allows for the pricing and the hedging of a very large number of contingent claims (e.g. vanilla options, exotic options, options with multiple underlying assets) with multiple liquid hedging instruments under a wide variety of market dynamics (e.g. regime-switching, stochastic volatility, jumps). A novel epsilon-completeness measure allowing for the quantification of the residual hedging risk associated with a derivative is also proposed. The latter measure generalizes the one presented in [Bertsimas, D., Kogan, L. and Lo, A.W., Hedging derivative securities and incomplete markets: an epsilon-arbitrage approach.Oper. Res., 2001,49, 372-397.] based on the quadratic penalty. Monte Carlo simulations are performed under a large variety of market dynamics to demonstrate the practicability of our approach, to perform benchmarking with respect to traditional methods and to conduct sensitivity analyses. Numerical results show, among others, that equal risk prices of out-of-the-money options are significantly higher than risk-neutral prices stemming from conventional changes of measure across all dynamics considered. This finding is shown to be shared by different option categories which include vanilla and exotic options.
+C1 [Carbonneau, Alexandre; Godin, Frederic] Concordia Univ, Dept Math & Stat, Montreal, PQ, Canada.
+RP Carbonneau, A (corresponding author), Concordia Univ, Dept Math & Stat, Montreal, PQ, Canada.
+FU FRQNT (Fonds de Recherche du QuebecNature et Technologies) [205683]; NSERC (Natural Sciences and Engineering Research Council of Canada) [RGPIN-2017-06837]
+CR Augustyniak M, 2017, QUANT FINANC, V17, P1305, DOI 10.1080/14697688.2017.1279342
+   Buehler H, 2019, QUANT FINANC, V19, P1271, DOI 10.1080/14697688.2019.1571683
+   Godin F, 2016, QUANT FINANC, V16, P461, DOI 10.1080/14697688.2015.1054865
+   Godin F, 2019, INSUR MATH ECON, V87, P130, DOI 10.1016/j.insmatheco.2019.04.006
+   Goodfellow I, 2016, ADAPT COMPUT MACH LE, V0, P0, DOI 10.1038/NATURE14539
+   Guo I, 2017, J ECON DYN CONTROL, V76, P136, DOI 10.1016/j.jedc.2017.01.005
+   Halperin I, 2020, THE JOURNAL OF DERIVATIVES, V0, P0
+   Kolm PetterN, 2019, THE JOURNAL OF FINANCIAL DATA SCIENCE, V1, P159, DOI 10.3905/JFDS.2019.1.1.159
+   Marzban S, 2020, ARXIV200202876, V0, P0
+NR 9
+TC 22
+Z9 0
+U1 2.0
+U2 36.0
+J9 QUANTITATIVE FINANCE
+PD APR
+PY 2021
+VL 21
+BP 593
+EP 608
+DI 10.1080/14697688.2020.1806343
+PG 16
+SC BUSINESS & ECONOMICS; MATHEMATICS; MATHEMATICAL METHODS IN SOCIAL SCIENCES
+UT WOS:000567616900001
+PM 
+ER
+
+PT J
+AU Jiang, C
+   Wang, Jianhua
+TI A Portfolio Model with Risk Control Policy Based on Deep Reinforcement Learning
+SO MATHEMATICS
+DE deep reinforcement learning; portfolio management; long- and short-term risk control
+AB It was shown that deep reinforcement learning (DRL) has the potential to solve portfolio management problems in recent years. The Twin Delayed Deep Deterministic policy gradient algorithm (TD3) is an actor-critic method, a typical DRL method in continuous action space. Despite the success of DRL in financial trading, surprisingly, most of the literature ignores the element of risk control. The research is proposed to combine long- and short-term risk (LSTR) control with the TD3 algorithm to build a portfolio model with risk management capabilities. Using Chinese stock data from the Shanghai Stock Exchange, we train and validate the proposed portfolio model. Performances were compared to the TD3 model without risk control. The results indicated that our proposal offers better risk control and investment returns.
+C1 [Jiang, Caiyu; Wang, Jianhua] Wuhan Univ Technol, Sch Sci, Wuhan 430070, Peoples R China.
+RP Wang, JH (corresponding author), Wuhan Univ Technol, Sch Sci, Wuhan 430070, Peoples R China.
+CR Bai YZ, 2020, LECT NOTES COMPUT SC, V12275, P472, DOI 10.1007/978-3-030-55393-7, 42
+   Elavia T, 2022, J PORTFOLIO MANAGE, V48, P199, DOI 10.3905/jpm.2021.1.319
+   Fujimoto S, 2018, PR MACH LEARN RES, V80, P0
+   Huang DJ, 2018, ACM T INTEL SYST TEC, V9, P0, DOI 10.1145/3200692
+   Huang G, 2025, ARXIV, V0, P0
+   Lillicrap TP, 2019, ARXIV, V0, P0
+   Liu XY, 2022, ARXIV, V0, P0
+   Wang TY, 2022, EXPERT SYST APPL, V198, P0, DOI 10.1016/j.eswa.2022.116842
+   Yue H, 2022, ELECTRONICS-SWITZ, V11, P0, DOI 10.3390/electronics11091506
+   Zhang ZH, 2020, THE JOURNAL OF FINANCIAL DATA SCIENCE, V2, P25, DOI 10.3905/jfds.2020.1.030
+NR 10
+TC 9
+Z9 0
+U1 2.0
+U2 57.0
+J9 MATHEMATICS
+PD JAN
+PY 2023
+VL 11
+BP 
+EP 
+DI 10.3390/math11010019
+PG 16
+SC MATHEMATICS
+UT WOS:000909261200001
+PM 
+ER
+
+PT J
+AU Jin, B
+TI A Mean-VaR Based Deep Reinforcement Learning Framework for Practical Algorithmic Trading
+SO IEEE ACCESS
+DE portfolios; training; optimization; deep learning; q-learning; neural networks; stock markets; reinforcement learning; deep reinforcement learning; algorithmic trading; actor-critic architecture; trading strategy
+AB It is difficult to automatically produce trading signals based on previous transaction data and the financial status of assets because of the significant noise and unpredictability of capital markets. This paper proposes an innovative algorithm to solve the optimal portfolio problem in stock market trading activities. Our novel portfolio trading strategy utilizes three features to outperform other benchmark strategies in a real-market environment. First, we propose a mean-VaR portfolio optimization model, the solution of which is based on the actor-critic architecture. Unlike the existing literature that learns the expectation of cumulative returns, the critic module learns the cumulative returns distribution by quantile regression, and the actor module outputs the optimal portfolio weight by maximizing the objective function of the optimization model. Secondly, we use a linear transformation function to realize short selling to ensure investors have profit opportunities in the bear market. Third, A multi-process method, called Ape-x, was used to accelerate the speed of deep reinforcement learning training. To validate our proposed approach, we conduct backtesting for two representative portfolios and observe that the proposed model in this work is superior to the benchmark strategies.
+C1 [Jin, Boyi] Shandong Univ Finance & Econ, Sch Insurance, Jinan 250014, Peoples R China.
+RP Jin, BY (corresponding author), Shandong Univ Finance & Econ, Sch Insurance, Jinan 250014, Peoples R China.
+CR Alimoradi MR, 2018, APPL SOFT COMPUT, V68, P478, DOI 10.1016/j.asoc.2018.03.051
+   Asodekar E, 2022, LECT NOTES ARTIF INT, V13515, P187, DOI 10.1007/978-3-031-16564-1, 18
+   Barra S, 2020, IEEE-CAA J AUTOMATIC, V7, P683, DOI 10.1109/JAS.2020.1003132
+   Betancourt C, 2021, EXPERT SYST APPL, V164, P114002, DOI 10.1016/j.eswa.2020.114002
+   Bär S, 2022, ATP MAG, V63, P52, DOI 10.17560/atp.v63i5.2584
+   Carta S, 2021, APPL INTELL, V51, P889, DOI 10.1007/s10489-020-01839-5
+   Chen L, 2019, INT CONF SOFTW ENG, V0, PP29, DOI 10.1109/icsess47205.2019.9040728
+   Dabney W, 2018, AAAI CONF ARTIF INTE, V0, P2892
+   Ding FQ, 2020, IEEE ACCESS, V8, P63666, DOI 10.1109/ACCESS.2020.2982662
+   Fischer T, 2018, EUR J OPER RES, V270, P654, DOI 10.1016/j.ejor.2017.11.054
+   Fujimoto S, 2018, PR MACH LEARN RES, V80, P0
+   Horgan D, 2018, ARXIV, V0, P0
+   Huang CY, 2018, ARXIV, V0, P0
+   Hussonnois M, 2022, INT CONF UBIQ FUTUR, V0, PP18, DOI 10.1109/ICUFN55119.2022.9829674
+   Jeong G, 2019, EXPERT SYST APPL, V117, P125, DOI 10.1016/j.eswa.2018.09.036
+   Kim R, 2019, ARXIV, V0, P0
+   Laserna J, 2022, LECT NOTES COMPUT SC, V13569, P47, DOI 10.1007/978-3-031-19983-7, 4
+   Liang ZP, 2018, ARXIV, V0, P0
+   Lillicrap TP, 2019, ARXIV, V0, P0
+   Lucarelli G, 2020, NEURAL COMPUT APPL, V0, P0, DOI 10.1007/s00521-020-05359-8
+   Mantalos P, 2020, J APPL STAT, V47, P1031, DOI 10.1080/02664763.2019.1671323
+   Namdari A, 2021, OPERATIONS RESEARCH FORUM, V2, P0, DOI 10.1007/s43069-021-00071-2
+   Park H, 2020, EXPERT SYST APPL, V158, P0, DOI 10.1016/j.eswa.2020.113573
+   Pendharkar PC, 2018, EXPERT SYST APPL, V103, P1, DOI 10.1016/j.eswa.2018.02.032
+   Ryu B, 2020, P 30 ANN INT C COMP, V0, P83
+   Schnaubelt M, 2022, EUR J OPER RES, V296, P993, DOI 10.1016/j.ejor.2021.04.050
+   Soleymani F, 2021, EXPERT SYST APPL, V182, P0, DOI 10.1016/j.eswa.2021.115127
+   Taghian M, 2022, EXPERT SYST APPL, V195, P0, DOI 10.1016/j.eswa.2022.116523
+   Tovarnov MS, 2022, ARXIV, V0, P0
+   Vezeris D, 2019, J RISK FINANC MANAG, V12, P0, DOI 10.3390/jrfm12020096
+   Wu X, 2020, INFORM SCIENCES, V538, P142, DOI 10.1016/j.ins.2020.05.066
+   Xu SJ, 2019, PROCEEDINGS OF THE AAAI CONFERENCE ON ARTIFICIAL INTELLIGENCE AND INTERACTIVE DIGITAL ENTERTAINMENT, V15, P94, DOI 10.1609/aiide.v15i1.5230
+   Yuan MF, 2022, IEEE ROBOT AUTOM LET, V7, P818, DOI 10.1109/LRA.2021.3134249
+   Zhang ZH, 2020, THE JOURNAL OF FINANCIAL DATA SCIENCE, V2, P25, DOI 10.3905/jfds.2020.1.030
+NR 34
+TC 8
+Z9 0
+U1 3.0
+U2 25.0
+J9 IEEE ACCESS
+PD JUN
+PY 2023
+VL 11
+BP 28920
+EP 28933
+DI 10.1109/ACCESS.2023.3259108
+PG 14
+SC COMPUTER SCIENCE; ENGINEERING; TELECOMMUNICATIONS
+UT WOS:000966081600001
+PM 
+ER
+
+PT J
+AU Lim, QYE
+   Cao, Qi
+   Quek, Chai
+TI Dynamic portfolio rebalancing through reinforcement learning
+SO NEURAL COMPUTING & APPLICATIONS
+DE reinforcement learning; dynamic portfolio rebalancing; portfolio optimisation; price prediction
+AB Portfolio managements in financial markets involve risk management strategies and opportunistic responses to individual trading behaviours. Optimal portfolios constructed aim to have a minimal risk with highest accompanying investment returns, regardless of market conditions. This paper focuses on providing an alternative view in maximising portfolio returns using Reinforcement Learning (RL) by considering dynamic risks appropriate to market conditions through dynamic portfolio rebalancing. The proposed algorithm is able to improve portfolio management by introducing the dynamic rebalancing of portfolios with vigorous risk through an RL agent. This is done while accounting for market conditions, asset diversifications, risk and returns in the global financial market. Studies have been performed in this paper to explore four types of methods with variations in fully portfolio rebalancing and gradual portfolio rebalancing, which combine with and without the use of the Long Short-Term Memory (LSTM) model to predict stock prices for adjusting the technical indicator centring. Performances of the four methods have been evaluated and compared using three constructed financial portfolios, including one portfolio with global market index assets with different risk levels, and two portfolios with uncorrelated stock assets from different sectors and risk levels. Observed from the experiment results, the proposed RL agent for gradual portfolio rebalancing with the LSTM model on price prediction outperforms the other three methods, as well as returns of individual assets in these three portfolios. The improvements of the returns using the RL agent for gradual rebalancing with prediction model are achieved at about 27.9-93.4% over those of the full rebalancing without prediction model. It has demonstrated the ability to dynamically adjust portfolio compositions according to the market trends, risks and returns of the global indices and stock assets.
+C1 [Lim, Qing Yang Eddy; Quek, Chai] Nanyang Technol Univ, Sch Comp Sci & Engn, Singapore, Singapore.   
+[Cao, Qi] Univ Glasgow, Sch Comp Sci, Singapore Campus, Singapore, Singapore.
+RP Cao, Q (corresponding author), Univ Glasgow, Sch Comp Sci, Singapore Campus, Singapore, Singapore.
+CR Aboussalah AM, 2020, EXPERT SYST APPL, V140, P0, DOI 10.1016/j.eswa.2019.112891
+   Ahn W, 2018, INT J IND ENG-THEORY, V25, P559
+   Almahdi S, 2017, EXPERT SYST APPL, V87, P267, DOI 10.1016/j.eswa.2017.06.023
+   Baker B, 2020, INT C LEARN REPR, V0, P0
+   Brown RA, 2018, FINANCE AND MARKET, V0, P0, DOI 10.18686/fm.v0.1097
+   Cheong D, 2017, APPL SOFT COMPUT, V61, P593, DOI 10.1016/j.asoc.2017.08.042
+   García-Galicia M, 2019, EXPERT SYST APPL, V129, P27, DOI 10.1016/j.eswa.2019.03.055
+   Garí Y, 2021, ENG APPL ARTIF INTEL, V102, P0, DOI 10.1016/j.engappai.2021.104288
+   Hirchoua B, 2021, EXPERT SYST APPL, V170, P0, DOI 10.1016/j.eswa.2020.114553
+   Huotari T, 2020, AXIOMS, V9, P0, DOI 10.3390/axioms9040130
+   Jeong G, 2019, EXPERT SYST APPL, V117, P125, DOI 10.1016/j.eswa.2018.09.036
+   Jiang ZY, 2017, PROCEEDINGS OF THE 2017 INTELLIGENT SYSTEMS CONFERENCE (INTELLISYS), V0, PP905, DOI 10.1109/IntelliSys.2017.8324237
+   Krasheninnikova E, 2019, ENG APPL ARTIF INTEL, V80, P8, DOI 10.1016/j.engappai.2019.01.010
+   Kristjanpoller RW, 2018, APPL SOFT COMPUT, V67, P106, DOI 10.1016/j.asoc.2018.02.055
+   Lee J, 2020, PROCEEDINGS OF THE TWENTY-NINTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, V0, P4520
+   Lei K, 2020, EXPERT SYST APPL, V140, P0, DOI 10.1016/j.eswa.2019.112872
+   Leković M, 2018, EKONOMSKI HORIZONTI, V20, P173, DOI 10.5937/ekonhor1802173l
+   Li Y, 2019, IEEE ACCESS, V7, P108014, DOI 10.1109/ACCESS.2019.2932789
+   Liagkouras K, 2018, ENG APPL ARTIF INTEL, V67, P260, DOI 10.1016/j.engappai.2017.10.010
+   Lim S, 2020, IEEE ACCESS, V8, P140234, DOI 10.1109/ACCESS.2020.3013097
+   Liu CK, 2018, COGN SYST RES, V52, P685, DOI 10.1016/j.cogsys.2018.07.032
+   Lucarelli G, 2020, NEURAL COMPUT APPL, V0, P0, DOI 10.1007/s00521-020-05359-8
+   Mashrur A, 2020, IEEE ACCESS, V8, P203203, DOI 10.1109/ACCESS.2020.3036322
+   Meng TL, 2019, DATA, V4, P0, DOI 10.3390/data4030110
+   Park H, 2020, EXPERT SYST APPL, V158, P0, DOI 10.1016/j.eswa.2020.113573
+   Pendharkar PC, 2018, EXPERT SYST APPL, V103, P1, DOI 10.1016/j.eswa.2018.02.032
+   Quintana D, 2017, APPL SCI-BASEL, V7, P0, DOI 10.3390/app7101079
+   Serrano W, 2020, NEURAL COMPUT APPL, V32, P4187, DOI 10.1007/s00521-019-04231-8
+   Serrano W, 2022, NEURAL COMPUT APPL, V34, P855, DOI 10.1007/s00521-021-05903-0
+   Silva YLTV, 2019, EXPERT SYST APPL, V133, P225, DOI 10.1016/j.eswa.2019.05.018
+   Soleymani F, 2020, EXPERT SYST APPL, V156, P0, DOI 10.1016/j.eswa.2020.113456
+   Sutton RS, 2018, ADAPT COMPUT MACH LE, V0, P1
+   University of Toronto, 2019, J MECH INST DES, V4, P119, DOI 10.22574/jmid.2019.11.005
+NR 33
+TC 22
+Z9 0
+U1 4.0
+U2 76.0
+J9 NEURAL COMPUTING & APPLICATIONS
+PD MAY
+PY 2022
+VL 34
+BP 7125
+EP 7139
+DI 10.1007/s00521-021-06853-3
+PG 15
+SC COMPUTER SCIENCE
+UT WOS:000734701200001
+PM 
+ER
+
+PT J
+AU Santos, GC
+   Garruti, Daniel
+   Barboza, Flavio
+   de souza, Kamyr Gomes
+   Domingos, Jean Carlos
+   Veiga, Antonio
+TI Management of investment portfolios employing reinforcement learning
+SO PEERJ COMPUTER SCIENCE
+DE technologies reinforcement learning; finance; portfolio optimization; investment; stock market; data-driven investing; market risk management
+AB Investors are presented with a multitude of options and markets for pursuing higher returns, a task that often proves complex and challenging. This study examines the effectiveness of reinforcement learning (RL) algorithms in optimizing investment portfolios, comparing their performance with traditional strategies and benchmarking against American and Brazilian indices. Additionally, it was explore the impact of incorporating commodity derivatives into portfolios and the associated transaction costs. The results indicate that the inclusion of derivatives can significantly enhance portfolio performance while reducing volatility, presenting an attractive opportunity for investors. RL techniques also demonstrate superior effectiveness in portfolio optimization, resulting in an average increase of 12% in returns without a commensurate increase in risk. Consequently, this research makes a substantial contribution to the field of finance. It not only sheds light on the application of RL but also provides valuable insights for academia. Furthermore, it challenges conventional notions of market efficiency and modern portfolio theory, offering practical implications. It suggests that data -driven investment management holds the potential to enhance efficiency, mitigate conflicts of interest, and reduce biased decision -making, thereby transforming the landscape of financial investment.
+C1 [Santos, Gustavo Carvalho; Veiga, Antonio] Univ Fed Uberlandia, Fac Engn Eletr, Uberlandia, MG, Brazil.   
+[Garruti, Daniel; Barboza, Flavio; de Souza, Kamyr Gomes; Domingos, Jean Carlos] Univ Fed Uberlandia, Fac Gestao & Negocios, Uberlandia, MG, Brazil.
+RP Barboza, F (corresponding author), Univ Fed Uberlandia, Fac Gestao & Negocios, Uberlandia, MG, Brazil.
+FU Sapiens Agro (Sapiens Inteligencia Ltda)
+CR AI4Finance-Foundation, 2021, FINRL PORTFOLIO ALLOCATION TUTORIAL, V0, P0
+   Achiam J, 2018, SPINNING UP IN DEEP REINFORCEMENT LEARNING, V0, P0
+   Barchart, 2022, BARCHART-COMMODITY, V0, P0
+   Ben-David S, 2020, ARXIV, V0, P0
+   Fujimoto S, 2018, PR MACH LEARN RES, V80, P0
+   Haarnoja T, 2018, PR MACH LEARN RES, V80, P0
+   Haarnoja T, 2019, ARXIV, V0, P0
+   Henderson P, 2018, AAAI CONF ARTIF INTE, V0, P3207
+   Hyndman RJ, 2018, FORECASTING PRINCIPL, V2nd, P0
+   Investingcom, 2022, INVESTING.COM - STOCK MARKET QUOTES & FINANCIAL NEWS, V0, P0
+   Jang J, 2023, EXPERT SYST APPL, V218, P0, DOI 10.1016/j.eswa.2023.119556
+   Lillicrap TP, 2019, ARXIV, V0, P0
+   Lin SY, 2020, PROCEEDINGS OF THE TWENTY-NINTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, V0, P4548
+   Liu X-Y, 2021, FINRL: DEEP REINFORCEMENT LEARNING FRAMEWORK TO AUTOMATE TRADING IN QUANTITATIVE FINANCE, V0, P0, DOI 10.2139/ssrn.3955949
+   Liu Xiao-Yang, 2020, FINRL: A DEEP REINFORCEMENT LEARNING LIBRARY FOR AUTOMATED STOCK TRADING IN QUANTITATIVE FINANCE, V0, P0, DOI 10.2139/ssrn.3737257
+   Loke ZX, 2023, IEEE ACCESS, V11, P33100, DOI 10.1109/ACCESS.2023.3263198
+   Millea A, 2023, INT J FINANC STUD, V11, P0, DOI 10.3390/ijfs11010010
+   Pinciroli L, 2021, ENERGIES, V14, P0, DOI 10.3390/en14206743
+   Roberts S, 2020, ARXIV, V0, P0
+   Santos GC, 2021, ENERGIES, V14, P0, DOI 10.3390/en14237987
+   Santos GC, 2022, EXACTA, V22, P766, DOI 10.5585/exactaep.2022.21882
+   Song ZT, 2023, APPL INTELL, V53, P15188, DOI 10.1007/s10489-022-04217-5
+   Sutton RS, 2018, ADAPT COMPUT MACH LE, V0, P1
+   Vinyals O, 2019, NATURE, V575, P350, DOI 10.1038/s41586-019-1724-z
+   Xiao QY, 2023, PEERJ COMPUT SCI, V9, P0, DOI 10.7717/peerj-cs.1293
+   Yahoo Finance, 2022, YAHOO FINANCE - STOCK MARKET LIVE, V0, P0
+   Yang H, 2018, IEEE TRUST, V0, PP1693, DOI 10.1109/TrustCom/BigDataSE.2018.00253
+   Zhao Y, 2020, IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY., V69, P11165
+NR 28
+TC 2
+Z9 0
+U1 0.0
+U2 13.0
+J9 PEERJ COMPUTER SCIENCE
+PD DEC
+PY 2023
+VL 9
+BP 
+EP 
+DI 10.7717/peerj-cs.1695
+PG 27
+SC COMPUTER SCIENCE
+UT WOS:001239744500003
+PM 38192465
+ER
+
+PT J
+AU Kwak, D
+   Choi, Sungyoon
+   Chang, Woojin
+TI Self-attention based deep direct recurrent reinforcement learning with hybrid loss for trading signal generation
+SO INFORMATION SCIENCES
+DE recurrent reinforcement learning; self-attention mechanism; algorithmic trading; decision support
+AB Algorithmic trading based on machine learning has the advantage of using intrinsic features and embedded causality in complex stock price time series. We propose a novel algorithmic trading model based on recurrent reinforcement learning, optimized for making consecutive trading signals. This paper elaborates on how temporal features from complex observation are optimally extracted to maximize the expected rewards of the reinforcement learning model. Our model incorporates the hybrid learning loss to allow sequences of hidden features for reinforcement learning to contain the original states characteristics fully. The self-attention mechanism is also introduced to our model for learning the temporal importance of the hidden representation series, which helps the reinforcement learning model to be aware of temporal dependence for its decision-making. In this paper, we verify the effectiveness of proposed model using some major market indices and the representative stocks in each sector of S&P500. The augmented structure that we propose has a significant dominance on trading performance. Our proposed model, self-attention based deep direct recurrent reinforcement learning with hybrid loss (SA-DDR-HL), shows superior performance over well-known baseline benchmark models, including machine learning and time series models. 
+C1 [Kwak, Dongkyu; Chang, Woojin] Seoul Natl Univ, 1 Gwanak Ro, Seoul 08826, South Korea.   
+[Choi, Sungyoon] NCSOFT Corp, Knowledge AI Lab, Seongnam Si 13494, Gyeonggi Do, South Korea.
+RP Chang, W (corresponding author), Seoul Natl Univ, 1 Gwanak Ro, Seoul 08826, South Korea.
+CR Alhnaity B, 2020, ENG APPL ARTIF INTEL, V95, P0, DOI 10.1016/j.engappai.2020.103873
+   Ha VS, 2019, INT CONF ADV COMMUN, V0, PP511, DOI 10.23919/ICACT.2019.8701943
+   Haarnoja T, 2018, PR MACH LEARN RES, V80, P0
+   Justus D, 2018, IEEE INT CONF BIG DA, V0, PP3873, DOI 10.1109/BigData.2018.8622396
+   Lecarpentier Erwan, 2019, ARXIV, V0, P0
+   Lei K, 2020, EXPERT SYST APPL, V140, P0, DOI 10.1016/j.eswa.2019.112872
+   Li Y, 2019, IEEE ACCESS, V7, P108014, DOI 10.1109/ACCESS.2019.2932789
+   Li ZC, 2020, IEEE T COMPUT SOC SY, V7, P569, DOI 10.1109/TCSS.2020.2970805
+   Moews B, 2019, EXPERT SYST APPL, V120, P197, DOI 10.1016/j.eswa.2018.11.027
+   Pane YP, 2019, ENG APPL ARTIF INTEL, V78, P236, DOI 10.1016/j.engappai.2018.11.006
+   Pumsirirat A, 2018, INT J ADV COMPUT SC, V9, P18
+   Ryman-Tubb NF, 2018, ENG APPL ARTIF INTEL, V76, P130, DOI 10.1016/j.engappai.2018.07.008
+   Sezer OB, 2020, APPL SOFT COMPUT, V90, P0, DOI 10.1016/j.asoc.2020.106181
+   Shudong Yang, 2020, 2020 INTERNATIONAL WORKSHOP ON ELECTRONIC COMMUNICATION AND ARTIFICIAL INTELLIGENCE (IWECAI), V0, PP98, DOI 10.1109/IWECAI50956.2020.00027
+   Stai E, 2018, MULTIMED TOOLS APPL, V77, P283, DOI 10.1007/s11042-016-4209-1
+   Sutton RS, 2018, ADAPT COMPUT MACH LE, V0, P1
+   Wang WN, 2018, MULTIMED TOOLS APPL, V77, P4203, DOI 10.1007/s11042-017-4587-z
+NR 17
+TC 18
+Z9 0
+U1 3.0
+U2 51.0
+J9 INFORMATION SCIENCES
+PD APR
+PY 2023
+VL 623
+BP 592
+EP 606
+DI 10.1016/j.ins.2022.12.042
+PG 15
+SC COMPUTER SCIENCE
+UT WOS:000915273900001
+PM 
+ER
+
+PT J
+AU Carbonneau, A
+   Godin, Frederic
+TI Deep equal risk pricing of illiquid derivatives with multiple hedging instruments
+SO JOURNAL OF COMPUTATIONAL FINANCE
+DE equal risk pricing (erp); deep hedging; market-consistent pricing; reinforcement learning; illiquid derivatives
+AB This paper leverages the equal risk pricing (ERP) framework for the valuation of illiquid financial derivatives. Such a method sets the derivative price as the premium, which leads to equal residual optimal hedging risk for agents hedging the long and short positions on the derivative. The inclusion of multiple hedging instruments such as liquid vanilla options in the hedging procedure ensures that information contained in the price of these liquid assets is transferred to the price of the illiquid asset. This property leads to genuine market-consistent pricing, which allows the use of observables (liquid instrument prices) to determine nonobservable prices (ie, that of illiquid derivatives) to be maximized. The ERP problem is solved numerically through deep reinforcement learning. Several numerical experiments are provided to study the properties of equal risk prices of derivatives when multiple options are used as hedging instruments. Notably, the equal risk prices produced with option hedges are typically lower than those obtained through hedges relying exclusively on the underlying asset, which is caused by a reduction in the level of market incompleteness when options become available for trading.
+C1 [Carbonneau, Alexandre; Godin, Frederic] Concordia Univ, Dept Math & Stat, Sir George William Campus, 1455 Maisonneuve Blvd West, Montreal, PQ H3G 1M8, Canada.
+RP Carbonneau, A (corresponding author), Concordia Univ, Dept Math & Stat, Sir George William Campus, 1455 Maisonneuve Blvd West, Montreal, PQ H3G 1M8, Canada.
+FU Fonds de recherche du Quebec - Nature et technologies (FRQNT) [205683]; Natural Sciences and Engineering Research Council of Canada (NSERC) [RGPIN-2017-06837]; Montreal Exchange
+CR Alfeus M, 2022, INT J THEOR APPL FIN, V25, P0, DOI 10.1142/S0219024922500121
+   Barigou K, 2022, ASTIN BULL, V52, P211, DOI 10.1017/asb.2021.31
+   Buehler H, 2019, QUANT FINANC, V19, P1271, DOI 10.1080/14697688.2019.1571683
+   Buehler H, 2019, SSRN ELECTRONIC JOURNAL, V0, P0, DOI 10.2139/ssrn.3355706
+   Cao HK, 2020, SSRN ELECTRONIC JOURNAL, V0, P0, DOI 10.2139/ssrn.3659275
+   Carbonneau A, 2021, INSUR MATH ECON, V99, P327, DOI 10.1016/j.insmatheco.2021.03.017
+   Carbonneau A, 2021, QUANT FINANC, V21, P593, DOI 10.1080/14697688.2020.1806343
+   Chen JCY, 2023, SSRN ELECTRONIC JOURNAL, V0, P0, DOI 10.2139/ssrn.4628457
+   Cont R, 2023, APPLIED MATHEMATICAL FINANCE, V30, P94, DOI 10.1080/1350486x.2023.2277960
+   Francois P, 2023, SSRN ELECTRONIC JOURNAL, V0, P0, DOI 10.2139/ssrn.4319972
+   He XJ, 2020, QUANT FINANC, V20, P935, DOI 10.1080/14697688.2020.1718193
+   Horvath B, 2021, RISKS, V9, P0, DOI 10.3390/risks9070138
+   Ma GY, 2022, INT J THEOR APPL FIN, V25, P0, DOI 10.1142/S0219024922500224
+   Marzban S, 2022, QUANT FINANC, V22, P47, DOI 10.1080/14697688.2021.1993614
+NR 14
+TC 0
+Z9 0
+U1 1.0
+U2 4.0
+J9 JOURNAL OF COMPUTATIONAL FINANCE
+PD DEC
+PY 2024
+VL 28
+BP 
+EP 
+DI 10.21314/JCF.2024.012
+PG 96
+SC BUSINESS & ECONOMICS
+UT WOS:001443976200001
+PM 
+ER
+
+PT J
+AU Brim, A
+   Flann, Nicholas S
+TI Deep reinforcement learning stock market trading, utilizing a CNN with candlestick images
+SO PLOS ONE
+AB Billions of dollars are traded automatically in the stock market every day, including algorithms that use neural networks, but there are still questions regarding how neural networks trade. The black box nature of a neural network gives pause to entrusting it with valuable trading funds. A more recent technique for the study of neural networks, feature map visualizations, yields insight into how a neural network generates an output. Utilizing a Convolutional Neural Network (CNN) with candlestick images as input and feature map visualizations gives a unique opportunity to determine what in the input images is causing the neural network to output a certain action. In this study, a CNN is utilized within a Double Deep Q-Network (DDQN) to outperform the S&P 500 Index returns, and also analyze how the system trades. The DDQN is trained and tested on the 30 largest stocks in the S&P 500. Following training the CNN is used to generate feature map visualizations to determine where the neural network is placing its attention on the candlestick images. Results show that the DDQN is able to yield higher returns than the S&P 500 Index between January 2, 2020 and June 30, 2020. Results also show that the CNN is able to switch its attention from all the candles in a candlestick image to the more recent candles in the image, based on an event such as the coronavirus stock market crash of 2020.
+C1 [Brim, Andrew; Flann, Nicholas S.] Utah State Univ, Dept Comp Sci, Logan, UT 84322 USA.
+RP Brim, A (corresponding author), Utah State Univ, Dept Comp Sci, Logan, UT 84322 USA.
+CR Brim Andrew, 2020, 2020 10 ANN COMPUTIN, V0, P0
+   Bui VH, 2020, IEEE T SMART GRID, V11, P457, DOI 10.1109/TSG.2019.2924025
+   Carta S, 2021, EXPERT SYST APPL, V164, P0, DOI 10.1016/j.eswa.2020.113820
+   Fama Eugene F, 2021, FAMA PORTFOLIO, V0, P121
+   Han XF, 2019, APPL ENERG, V254, P0, DOI 10.1016/j.apenergy.2019.113708
+   Kim T, 2019, PLOS ONE, V14, P0, DOI 10.1371/journal.pone.0212320
+   Li K, 2019, IEEE T VEH TECHNOL, V68, P12215, DOI 10.1109/TVT.2019.2945037
+   Li YM, 2020, COMPUTING, V102, P1305, DOI 10.1007/s00607-019-00773-w
+   Nguyen Anh, 2019, UNDERSTANDING NEURAL NETWORKS VIA FEATURE VISUALIZATION: A SURVEY, V0, PP55, DOI 10.1007/978-3-030-28954-64
+   Okuyama Takafumi, 2018, 2018 INT C INTELLIGE, V0, P0
+   Olah C, 2017, DISTILL, V2, P0, DOI 10.23915/distill.00007
+   Sasaki Hikaru, 2017, 2017 56 ANN C SOC IN, V0, P0
+   Selvin S, 2017, 2017 INTERNATIONAL CONFERENCE ON ADVANCES IN COMPUTING, V0, P1643, DOI 10.1109/ICACCI.2017.8126078
+   Shi Y, 2021, APPL SOFT COMPUT, V107, P0, DOI 10.1016/j.asoc.2021.107320
+   Sutton RS, 2018, ADAPT COMPUT MACH LE, V0, P1
+   Tsai Yao-Hung Hubert, 2019, ARXIV PREPRINT ARXIV:1908.11775, V0, P0
+   Yang CL, 2020, SENSORS-BASEL, V20, P0, DOI 10.3390/s20010168
+   Zhang QC, 2019, IEEE T SERV COMPUT, V12, P739, DOI 10.1109/TSC.2018.2867482
+   Zhang Yi, 2018, 2018 IEEE INTELLIGEN, V0, P0
+NR 19
+TC 9
+Z9 0
+U1 3.0
+U2 43.0
+J9 PLOS ONE
+PD FEB
+PY 2022
+VL 17
+BP 
+EP 
+DI 10.1371/journal.pone.0263181
+PG 25
+SC SCIENCE & TECHNOLOGY - OTHER TOPICS
+UT WOS:000796435800012
+PM 35180250
+ER
+

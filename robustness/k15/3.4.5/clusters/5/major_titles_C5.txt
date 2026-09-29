@@ -1,0 +1,120 @@
+Asymmetric Reinforcement Learning and Conditioned Responses During the 2007-2009 Global Financial Crisis: Evidence from Taiwan
+Do they recall their past? CEOs' liquidity policies across firms as they switch jobs
+GARCHNet: Value-at-Risk Forecasting with GARCH Models Based on Neural Networks
+Analytic option pricing and risk measures under a regime-switching generalized hyperbolic model with an application to equity-linked insurance
+A Fractal forecasting model for financial time series
+Maximum Entropy Evaluation of Asymptotic Hedging Error under a Generalised Jump-Diffusion Model
+A hybrid econometrics and machine learning based modeling of realized volatility of natural gas
+Non-parametric estimation of forecast distributions in non-Gaussian, non-linear state space models
+Accurate Stock Price Forecasting Based on Deep Learning and Hierarchical Frequency Decomposition
+Dynamic linkages among equity markets in the Middle East and North African countries
+Filtering the intensity of public concern from social media count data with jumps
+Chinese Financial News Analysis for Sentiment and Stock Prediction: A Comparative Framework with Language Models
+Does the Open Limit Order Book Matter in Explaining Informational Volatility?
+Testing commodity futures market efficiency under time-varying risk premiums and heteroscedastic prices
+Brent Crude Oil Price Forecast Utilizing Deep Neural Network Architectures
+Feature Engineering for Mid-Price Prediction With Deep Learning
+Forecasting multi-frequency intraday exchange rates using deep learning models
+High-Frequency Trading, Short Squeeze and ARMA-GARCH-Fractal Neural Networks
+Deep Equal Risk Pricing of Financial Derivatives with Non-Translation Invariant Risk Measures
+Language sentiment in fundamental and noise trading: evidence from crude oil
+Modelling of S&P 500 Index Price Based on US Economic Indicators: Machine Learning Approach
+Reservoir computing vs. neural networks in financial forecasting
+Implementation of deep learning models in predicting ESG index volatility
+The role of text-extracted investor sentiment in Chinese stock price prediction with the enhancement of deep learning
+Equal risk pricing of derivatives with deep hedging
+Barrier option hedging under constraints: A viscosity approach
+Forecasting Digital Asset Return: An Application of Machine Learning Model
+The volatility effect on precious metals price returns in a stochastic volatility in mean model with time-varying parameters
+Forecasting Bitcoin with technical analysis: A not-so-random forest?
+Deep learning networks for stock market analysis and prediction: Methodology, data representations, and case studies
+Specification tests for nonlinear dynamic models
+Options pricing with time changed Levy processes under imprecise information
+Statistical analysis and applications of financial network data in the era of digital intelligence
+Cryptocurrency price prediction using traditional statistical and machine-learning techniques: A survey
+Integrating Macroeconomic and Technical Indicators into Forecasting the Stock Market: A Data-Driven Approach
+Level shifts in stock returns driven by large shocks
+Pricing Path-Independent Payoffs with Exotic Features in the Fractional Diffusion Model
+GLOBAL PATTERNS AND EXTREME EVENTS IN SOVEREIGN RISK PREMIA: A FUZZY VS DEEP LEARNING COMPARATIVE
+Hybrid data decomposition-based deep learning for Bitcoin prediction and algorithm trading
+Dynamic paired comparison models with stochastic variances
+Forecasting the volatility of stock price index: A hybrid model integrating LSTM with multiple GARCH-type models
+Inference of Binary Regime Models with Jump Discontinuities
+Trading strategy of structured mutual fund based on deep learning network
+Forecasting VIX using interpretable Kolmogorov-Arnold networks
+Financial contagion risk and the stochastic discount factor
+Model Complexity and Out-of-Sample Performance: Evidence from S&P 500 Index Returns
+Neural networks for estimating Macro Asset Pricing model in football clubs
+Forecasting commodity prices: empirical evidence using deep learning tools
+No-arbitrage semi-martingale restrictions for continuous-time volatility models subject to leverage effects, jumps and i.i.d. noise: Theory and testable distributional implications
+Stability of numerical methods under the regime-switching jump-diffusion model with variable coefficients
+Comparing volatility forecasting models during the global financial crisis
+Detecting asset price bubbles using deep learning
+Price predictability in limit order book with deep learning model
+A novel recurrent neural network algorithm with long short-term memory model for futures trading
+Inference for time-varying lead-lag relationships from ultra-high-frequency data
+Index tracking through deep latent representation learning
+First-Passage-Time Distribution for Variable-Diffusion Processes
+A novel crude oil price forecasting model using decomposition and deep learning networks
+Algorithmic Trading and Financial Forecasting Using Advanced Artificial Intelligence Methodologies
+Fuzzy Rule-Based Prediction of Gold Prices using News Affect
+A New Hybrid VMD-ICSS-BiGRU Approach for Gold Futures Price Forecasting and Algorithmic Trading
+FIRE SALES FORENSICS: MEASURING ENDOGENOUS RISK
+Forecasting Bitcoin returns using machine learning algorithms: impact of investor sentiment
+Modeling Stylized Facts in FX Markets with FINGAN-BiLSTM: A Deep Learning Approach to Financial Time Series
+Forecasting Bitcoin Volatility Spikes From Whale Transactions and CryptoQuant Data Using Synthesizer Transformer Models
+Forecasting the overnight return direction of stock market index combining global market indices: A multiple-branch deep learning approach
+A hybrid optimized deep learning model via the Golden Jackal Optimizer for accurate stock price forecasting
+Bitcoin Research in Business and Economics: A Bibliometric and Topic Modeling Review
+Stock market prediction based on deep hybrid RNN model and sentiment analysis
+Stock Index Forecasting Using a Novel Integrated Model Based on CEEMDAN and TCN-GRU-CBAM
+Novel deep learning model for bitcoin price prediction by multiplicative LSTM with attention mechanism and technical indicators
+Novel volatility forecasting using deep learning-Long Short Term Memory Recurrent Neural Networks
+Parametric estimation of hidden stochastic model by contrast minimization and deconvolution
+FORECASTING STOCK MARKET INDEX BASED ON PATTERN-DRIVEN LONG SHORT-TERM MEMORY
+COMBINATION OF DEEP-LEARNING MODELS TO FORECAST STOCK PRICE OF AAPL AND TSLA
+Meta-LSTR: Meta-Learning with Long Short-Term Transformer for futures volatility prediction
+Portfolio constructions in cryptocurrency market: A CVaR-based deep reinforcement learning approach
+High dimensional dynamic stochastic copula models
+Herding behaviour and volatility in the Athens Stock Exchange
+Data-driven stock forecasting models based on neural networks: A review
+Hybrid ML models for volatility prediction in financial risk management
+A new hybrid method of recurrent reinforcement learning and BiLSTM for algorithmic trading
+A Review on Recent Advancements in FOREX Currency Prediction
+Herding towards higher moment CAPM, contagion of herding and macroeconomic shocks: Evidence from five major developed markets
+Jumps in Equity Index Returns Before and During the Recent Financial Crisis: A Bayesian Analysis
+Implied parameter estimation for jump diffusion option pricing models: Pricing accuracy and the role of loss and evaluation functions
+A non-linear dynamic model of the variance risk premium
+European vulnerable options pricing under sub-mixed fractional jump-diffusion model with stochastic interest rate
+A Hybrid EGARCH-Informer Model with Consistent Risk Calibration for Volatility and CVaR Forecasting
+A new approach to characterizing and forecasting electricity price volatility
+Pre-averaging estimators of the ex-post covariance matrix in noisy diffusion models with non-synchronous data
+Improved stochastic estimator of time-varying autoregressive models with heteroscedastic variance process and application
+An empirical assessment of symmetric and asymmetric jump-diffusion models for the Nigerian stock market indices
+Graph-Based Stock Recommendation by Time-Aware Relational Attention Network
+A closed-form expansion approach for pricing discretely monitored variance swaps
+Stock market forecasting with super-high dimensional time-series data using ConvLSTM, trend sampling, and specialized data augmentation
+A hybrid deep learning model for cryptocurrency returns forecasting: Comparison of the performance of financial markets and impact of external variables
+Financial options pricing with regime-switching jump-diffusions
+Topological data analysis of financial time series: Landscapes of crashes
+Jump Detection and Noise Separation by a Singular Wavelet Method for Predictive Analytics of High-Frequency Data
+Herding behavior and contagion in the cryptocurrency market
+Online Spot Volatility-Estimation and Decomposition with Nonlinear Market Microstructure Noise Models
+Empirical mode decomposition using deep learning model for financial market forecasting
+Extracting a common stochastic trend: Theory with some applications
+Volatility Forecasting for High-Frequency Financial Data Based on Web Search Index and Deep Learning Model
+Cross-market volatility forecasting with attention-based spatial-temporal graph convolutional networks
+An empirical comparison of transformed diffusion models for VIX and VIX futures
+A comprehensive investigation on the predictive power of economic policy uncertainty from non-US countries for US stock market returns
+Sentiment-aware jump forecasting
+Does China transmit financial cycle spillover effects to the G7 countries?
+Dynamic Co-Movements among Oil Prices and Financial Assets: A Scientometric Analysis
+A switching ARCH model for the German DAX index
+A goodness-of-fit test for functional time series with applications to Ornstein-Uhlenbeck processes
+Oil prices and sectoral stock returns in the BRICS-T countries: A time-varying approach
+STATE DEPENDENCE OF AGGREGATED RISK AVERSION: EVIDENCE FOR THE GERMAN STOCK MARKET
+Deep learning and time series-to-image encoding for financial forecasting
+Forecasting the S&P 500 Index Using Mathematical-Based Sentiment Analysis and Deep Learning Models: A FinBERT Transformer Model and LSTM
+Incorporating financial news for forecasting Bitcoin prices based on long short-term memory networks
+Sector-level sentiment analysis with deep learning
+Deep equal risk pricing of illiquid derivatives with multiple hedging instruments

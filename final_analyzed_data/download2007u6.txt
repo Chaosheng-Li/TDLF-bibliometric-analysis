@@ -1,0 +1,502 @@
+PT J
+AU Lee, JW
+   Park, J
+   O, J
+   Lee, J
+   Hong, E
+AF Lee, Jae Won
+   Park, Jonghun
+   O, Jangmin
+   Lee, Jongwoo
+   Hong, Euyseok
+TI A,Multiagent approach to Q-learning for daily stock trading
+SO IEEE TRANSACTIONS ON SYSTEMS MAN AND CYBERNETICS PART A-SYSTEMS AND HUMANS
+LA English
+DT Article
+DE financial prediction; intelligent multiagent systems; portfolio management; Q-learning; stock trading
+ID prediction; system; recurrent
+AB The portfolio management for trading in the stock market poses a challenging stochastic control problem of significant commercial interests to finance industry. To date, many researchers have proposed various methods to build an intelligent portfolio management system that can recommend financial decisions for daily stock trading. Many promising results have been reported from the supervised learning community on the possibility of building a profitable trading system. More recently, several studies have shown that even the problem of integrating stock price prediction results with trading strategies can be successfully addressed by applying reinforcement learning algorithms. Motivated by this, we present a new stock trading framework that attempts to further enhance the performance of reinforcement learning-based systems. The proposed approach incorporates multiple Q-learning agents, allowing them to effectively divide and conquer the stock trading problem by defining necessary roles for cooperatively carrying out stock pricing and selection decisions. Furthermore, in an attempt to address the complexity issue when considering a large amount of data to obtain long-term dependence among the stock prices, we present a representation scheme that can succinctly summarize the history of price changes. Experimental results on a Korean stock market show that the proposed trading framework outperforms those trained by other alternative approaches both in terms of profit and risk management.
+C1 Seoul Natl Univ, Dept Ind Engn, Seoul 151742, South Korea.
+   Sungshin Womens Univ, Sch Comp Sci & Engn, Seoul 136742, South Korea.
+   Seoul Natl Univ, Sch Engn & Comp Sci, Seoul 151742, South Korea.
+   Sookmyung Womens Univ, Dept Multimedia Sci, Seoul 140742, South Korea.
+C3 Seoul National University (SNU); Sungshin Women's University; Seoul National University (SNU); Sookmyung Women's University
+RP Park, J (corresponding author), Seoul Natl Univ, Dept Ind Engn, Seoul 151742, South Korea.
+EM jwlee@sungshin.ac.kr; jonghun@snu.ac.kr; rupino11@naver.com; bigrain@sookmyung.ac.kr; hes@sungshin.ac.kr
+CR Caruana R, 2001, ADV NEUR IN, V13, P402
+   Chenoweth T, 1996, APPL ARTIF INTELL, V10, P523, DOI 10.1080/088395196118416
+   Chou SCT, 1997, ANN OPER RES, V75, P335, DOI 10.1023/A:1018923916424
+   DEMPSTER MAH, 2000, PROFITABILITY INTRA, V0, P0
+   FAMA EF, 1988, J FINANC ECON, V22, P3, DOI 10.1016/0304-405X(88)90020-7
+   Gao Xiu, 2000, P INT C NEURAL INFOR, V0, P832
+   GRANVILLE JE, 1960, STRATEGY DAILY STOCK, V0, P0
+   Kearns M, 2003, IEEE INTELL SYST, V18, P22, DOI 10.1109/MIS.2003.1249166
+   Lee KH, 1999, EXPERT SYST APPL, V16, P357, DOI 10.1016/S0957-4174(99)00011-1
+   Lee RST, 2004, IEEE T SYST MAN CY A, V34, P421, DOI 10.1109/TSMCA.2004.824871
+   Luo Y, 2002, IEEE NETWORK, V16, P20, DOI 10.1109/65.980541
+   MALKIEL BG, 1996, RANDOM WALK DOWN WAL, V0, P0
+   Mitchell TM, 2007, MACHINE LEARNING, VVolume 1, P0
+   Moody J, 2001, IEEE T NEURAL NETWOR, V12, P875, DOI 10.1109/72.935097
+   Moody J, 1998, J FORECASTING, V17, P441, DOI 10.1002/(SICI)1099-131X(1998090)17:5/6<441::AID-FOR707>3.3.CO;2-R
+   Neuneier R, 1998, ADV NEUR IN, V10, P936
+   Neuneier R, 1999, ADV NEUR IN, V11, P1031
+   Nison Steve, 1991, JAPANESE CANDLESTICK CHARTING TECHNIQUES, V0, P0
+   Pantazopoulos KN, 1998, IEEE T SYST MAN CY B, V28, P520, DOI 10.1109/3477.704291
+   Saad EW, 1998, IEEE T NEURAL NETWOR, V9, P1456, DOI 10.1109/72.728395
+   Sutton AG Barto RS, 1998, REINFORCEMENT LEARNING, V0, P0
+NR 21
+TC 77
+Z9 97
+U1 1
+U2 65
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1083-4427
+EI 1558-2426
+J9 IEEE T SYST MAN CY A
+JI IEEE Trans. Syst. Man Cybern. Paart A-Syst. Hum.
+PD NOV 15
+PY 2007
+VL 37
+IS 6
+BP 864
+EP 877
+DI 10.1109/TSMCA.2007.904825
+PG 14
+WC Computer Science, Cybernetics; Computer Science, Theory & Methods
+SC Computer Science
+GA 226LK
+UT WOS:000250590400002
+DA 2025-12-31
+ER
+
+PT J
+AU Durham, GB
+AF Durham, Garland B.
+TI SV mixture models with application to S&P 500 index returns
+SO JOURNAL OF FINANCIAL ECONOMICS
+LA English
+DT Article; Proceedings Paper
+DE stochastic volatility; stock returns; forecasting
+ID stochastic volatility models; carlo maximum-likelihood; state-space models; time-series; option prices; distributions; implicit; market; jumps
+AB Understanding both the dynamics of volatility and the shape of the distribution of returns conditional on the volatility state is important for many financial applications. A simple single-factor stochastic volatility model appears to be sufficient to capture most of the dynamics. It is the shape of the conditional distribution that is the problem. This paper examines the idea of modeling this distribution as a discrete mixture of normals. The flexibility of this class of distributions provides a transparent look into the tails of the returns distribution. Model diagnostics suggest that the model, SV-mix, does a good job of capturing the salient features of the data. In a direct comparison against several affine-jump models, SV-mix is strongly preferred by Akaike and Schwarz information criteria. (c) 2007 Elsevier B.V. All rights reserved.
+C1 Univ Colorado, Leeds Sch Business, Boulder, CO 80309 USA.
+C3 University of Colorado System; University of Colorado Boulder
+RP Durham, GB (corresponding author), Univ Colorado, Leeds Sch Business, 419 UCB, Boulder, CO 80309 USA.
+EM garland.durham@colorado.edu
+CR Andersen TG, 2002, J FINANC, V57, P1239, DOI 10.1111/1540-6261.00460
+   Unknown -, 2000, WILEY SERIES PROBABI, V0, P0
+   Bai J, 2003, REV ECON STAT, V85, P531, DOI 10.1162/003465303322369704
+   Bates DS, 2000, J ECONOMETRICS, V94, P181, DOI 10.1016/S0304-4076(99)00021-4
+   Bates DS, 1996, REV FINANC STUD, V9, P69, DOI 10.1093/rfs/9.1.69
+   Bates DS, 2003, J ECONOMETRICS, V116, P387, DOI 10.1016/S0304-4076(03)00113-1
+   Bollerslev T, 1996, J ECONOMETRICS, V73, P151, DOI 10.1016/0304-4076(95)01736-4
+   Bontemps C, 2005, J ECONOMETRICS, V124, P149, DOI 10.1016/j.jeconom.2004.02.014
+   Chernov M, 2003, J ECONOMETRICS, V116, P225, DOI 10.1016/S0304-4076(03)00108-8
+   Crisan D, 2001, STAT ENG IN, V0, P17
+   Diebold FX, 1998, INT ECON REV, V39, P863, DOI 10.2307/2527342
+   Ding ZX, 1996, J ECONOMETRICS, V73, P185, DOI 10.1016/0304-4076(95)01737-2
+   DUAN JC, 2003, UNPUB SPECIFICATION, V0, P0
+   Durbin J, 2000, J ROY STAT SOC B, V62, P3, DOI 10.1111/1467-9868.00218
+   Durbin J, 1997, BIOMETRIKA, V84, P669, DOI 10.1093/biomet/84.3.669
+   Durham GB, 2006, J ECONOMETRICS, V133, P273, DOI 10.1016/j.jeconom.2005.03.016
+   Eraker B, 2004, J FINANC, V59, P1367, DOI 10.1111/j.1540-6261.2004.00666.x
+   Eraker B, 2003, J FINANC, V58, P1269, DOI 10.1111/1540-6261.00566
+   ESCOBAR MD, 1995, J AM STAT ASSOC, V90, P577, DOI 10.2307/2291069
+   Gallant AR, 1997, J ECONOMETRICS, V81, P159, DOI 10.1016/S0304-4076(97)00039-0
+   GEWEKE J, 2001, UNPUB COMPOUND MARKO, V0, P0
+   GHYSELS E, 2004, UNPUB THERE RISK RET, V0, P0
+   HONG Y, 2002, UNPUB NONPARAMETRIC, V0, P0
+   Jackwerth JC, 1996, J FINANC, V51, P1611, DOI 10.2307/2329531
+   Liesenfeld R, 2003, J EMPIR FINANC, V10, P505, DOI 10.1016/S0927-5398(02)00072-5
+   Pan J, 2002, J FINANC ECON, V63, P3, DOI 10.1016/S0304-405X(01)00088-5
+   PRIEBE CE, 1994, J AM STAT ASSOC, V89, P796
+   ROBERTS CP, 2004, M CARLO STAT METHODS, V0, P0
+   Sandmann G, 1998, J ECONOMETRICS, V87, P271, DOI 10.1016/S0304-4076(98)00016-5
+   Schwert GW, 1990, FINANCIAL ANALYSTS JOURNAL, V46, P23
+   Shephard N, 1997, BIOMETRIKA, V84, P653, DOI 10.1093/biomet/84.3.653
+NR 31
+TC 50
+Z9 55
+U1 1
+U2 14
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0304-405X
+EI 
+J9 J FINANC ECON
+JI J. Financ. Econ.
+PD SEP 15
+PY 2007
+VL 85
+IS 3
+BP 822
+EP 856
+DI 10.1016/j.jfineco.2006.06.005
+PG 35
+WC Business, Finance; Economics
+SC Business & Economics
+GA 209SW
+UT WOS:000249409300008
+DA 2026-01-04
+ER
+
+PT J
+AU Nakamura, K
+   Tsuchiya, T
+AF Nakamura, Kazuyuki
+   Tsuchiya, Takashi
+TI A recursive recomputation approach for smoothing in nonlinear state-space modeling: An attempt for reducing space complexity
+SO IEEE TRANSACTIONS ON SIGNAL PROCESSING
+LA English
+DT Article
+DE Hidden Markov model; particle filter; smoothing; space complexity; state-space model
+ID time-series; automatic computation; derivatives; algorithm; systems; filter
+AB In this paper, we develop a new generic implementation scheme for numerical smoothing in nonlinear and Bayesian state-space modeling. Our new generic implementation scheme, which we call recursive recomputation scheme, reduces the space complexity from O(MT) to O(M log T), at the cost of 0 (log T) times computation of filtering distributions in time complexity. This reduction is accomplished by employing carefully designed recursive recomputation. The Japanese stock market price time-series data with T = 956 is taken up as an instance to demonstrate advantage of the proposed scheme. The path-sampling particle smoother is implemented with the scheme to smooth the whole interval estimating the change of volatility. The number of particles is 3000000, and the whole interval is smoothed with 5.3-GB storage, accomplishing saving of storage by a factor of 1/20. The computed smoothing distribution is compared with the ones computed with the existing two other well-known smoothers, the forward-backward smoother and the smoother based on two-filter formula. It turns out that, among the three, ours is the only method which succeeded in computing a reliable and plausible smoothing distribution in the situation.
+C1 Inst Stat Math, Tokyo 1068569, Japan.
+   Japan Sci & Technol Agcy, Tokyo 1068569, Japan.
+   Grad Univ Adv Studies, Dept Stat Sci, Tokyo 1068569, Japan.
+C3 Research Organization of Information & Systems (ROIS); Institute of Statistical Mathematics (ISM) - Japan; Japan Science & Technology Agency (JST); Graduate University for Advanced Studies - Japan
+RP Nakamura, K (corresponding author), Inst Stat Math, Tokyo 1068569, Japan.
+EM nakakazu@ism.ac.jp; tsuchiya@sun312.ism.ac.jp
+CR Berz M, 1996, COMPUTATIONAL DIFFER, V0, P0
+   BRIERS M, 2004, TR 498 CUEDFINFENG, V0, P0
+   BRIERS M, 2005, GENERALIZED 2 FILTER, V0, P0
+   Doucet A, 2000, STAT COMPUT, V10, P197, DOI 10.1023/A:1008935410038
+   DOUCET A, 2001, SEQUENTIAL M CARLO M, V0, P0
+   Godsill SJ, 2004, J AM STAT ASSOC, V99, P156, DOI 10.1198/016214504000000151
+   GORDON NJ, 1993, IEE PROC-F, V140, P107, DOI 10.1049/ip-f-2.1993.0015
+   Grice JA, 1997, COMPUT APPL BIOSCI, V13, P45
+   Griewank, 1992, OPTIM METHOD SOFTW, V1, P35, DOI 10.1080/10556789208805505
+   Griewank A, 2000, FRONTIERS APPL MATH, V0, P0
+   Griewank Andreas, 1991, AUTOMATIC DIFFERENTIATION OF ALGORITHMS, V0, P0
+   HAIRER M, 2006, ANAL SPDES ARISING 2, V0, P0
+   Higuchi T, 2001, STAT ENG IN, V0, P429
+   Higuchi T, 1997, J STAT COMPUT SIM, V59, P1, DOI 10.1080/00949659708811843
+   Hurzeler M, 1998, J COMPUT GRAPH STAT, V7, P175, DOI 10.2307/1390812
+   IRI M, 1988, J COMPUT APPL MATH, V24, P365, DOI 10.1016/0377-0427(88)90298-1
+   IRI M, 1984, JAPAN J APPLIED MATH, V1, P223, DOI 10.1007/BF03167059
+   KASHIWAGI N, 1993, ANN I STAT MATH, V45, P21, DOI 10.1007/BF00773666
+   KITAGAWA G, 1987, J AM STAT ASSOC, V82, P1032, DOI 10.2307/2289375
+   Kitagawa G, 1998, J AM STAT ASSOC, V93, P1203, DOI 10.2307/2669862
+   KITAGAWA G, 1994, ANN I STAT MATH, V46, P605, DOI 10.1007/BF00773470
+   Kitagawa G, 1996, J COMPUT GRAPH STAT, V5, P1, DOI 10.1080/10618600.1996.10474692
+   Kitagawa G, 1993, PROCEEDINGS OF THE 2ND US-JAPAN JOINT SEMINAR ON STATISTICAL TIME SERIES ANALYSIS, V0, P110
+   Klaas Mike, 2006, P 21 INT C MACHINE L, V0, PP481, DOI 10.1145/1143844.1143905
+   Kubota K, 1998, OPTIM METHOD SOFTW, V10, P319, DOI 10.1080/10556789808805717
+   Miklós I, 2005, BMC BIOINFORMATICS, V6, P0, DOI 10.1186/1471-2105-6-231
+   VOLIN YM, 1981, COMPUT CHEM ENG, V5, P21, DOI 10.1016/0098-1354(81)80003-8
+   VOLIN YM, 1985, COMPUT MATH APPL, V11, P1099, DOI 10.1016/0898-1221(85)90188-9
+NR 28
+TC 2
+Z9 2
+U1 0
+U2 8
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 1053-587X
+EI 1941-0476
+J9 IEEE T SIGNAL PROCES
+JI IEEE Trans. Signal Process.
+PD NOV 15
+PY 2007
+VL 55
+IS 11
+BP 5167
+EP 5178
+DI 10.1109/TSP.2007.899585
+PG 12
+WC Engineering, Electrical & Electronic
+SC Engineering
+GA 223MH
+UT WOS:000250374300004
+DA 2025-12-31
+ER
+
+PT J
+AU Bellalah, M
+   Aboura, S
+AF Bellalah, Mondher
+   Aboura, Sofiane
+TI Information Asymmetry in the French Market around Crises
+SO INTERNATIONAL JOURNAL OF BUSINESS
+LA English
+DT Article
+DE Information costs; Implied volatility; Jump diffusion model
+AB This paper posits itself in the stream of literature related to event studies and in particular the September 11th event. It is the first study to our knowledge that investigates the impact on the French financial market of September 11th, 2001 and September 21st, 2001. Was there any information asymmetry around these two dates? How did French investors react to these tragic events? We implement an information cost model and a jump diffusion model to capture the magnitude of shocks in stock price processes. We found that the information linked with the domestic event has been straight away absorbed while the information related to the international event has been spread out between the 12th and 17th September.
+C1 [Bellalah, Mondher] Univ Cergy, Cergy, France.
+   [Bellalah, Mondher] ISC Grp, Dallas, TX USA.
+   [Aboura, Sofiane] Univ Paris 09, Paris, France.
+C3 CY Cergy Paris Universite; Universite PSL; Universite Paris-Dauphine
+RP Bellalah, M (corresponding author), Univ Cergy, Cergy, France.
+EM Mondher.bellalah@eco.u-cergy.fr
+CR BALL CA, 1983, J FINANC QUANT ANAL, V18, P53, DOI 10.2307/2330804
+   BALL CA, 1985, J FINANC, V40, P155, DOI 10.2307/2328053
+   Bellalah M, 1995, FINANCIAL REV, V30, P17
+   Bellalah M, 2004, WILLMOTTS MAGAZINE, V0, P0
+   Bellincioni M, 2000, ECONOMICA, V0, P75
+   BLACK F, 1973, J POLIT ECON, V81, P637, DOI 10.1086/260062
+   Coval J, 2000, J FINANC, V0, P2045
+   Falkenstein EG, 1996, J FINANC, V51, P111, DOI 10.2307/2329304
+   Forester R, 1999, J FINANC, V0, P981
+   HESTON SL, 1993, REV FINANC STUD, V6, P327, DOI 10.1093/rfs/6.2.327
+   KADLEC GB, 1994, J FINANC, V49, P611, DOI 10.1111/j.1540-6261.1994.tb05154.x
+   Maltz AM, 1996, J INT MONEY FINANC, V15, P717
+   MERTON RC, 1987, J FINANC, V42, P483, DOI 10.2307/2328367
+   TESAR LL, 1995, J INT MONEY FINANC, V14, P467, DOI 10.1016/0261-5606(95)00023-8
+NR 14
+TC 0
+Z9 0
+U1 0
+U2 0
+PU PREMIER PUBLISHING, INC
+PI FRESNO
+PA PO BOX 27647, FRESNO, CA 93729 USA
+SN 1083-4346
+EI 
+J9 INT J BUS
+JI Int. J. Bus.
+PD SUM 15
+PY 2007
+VL 12
+IS 3
+BP 301
+EP 309
+DI 
+PG 9
+WC Business
+SC Business & Economics
+GA V04GZ
+UT WOS:000213794800002
+DA 2025-12-31
+ER
+
+PT J
+AU Menkveld, AJ
+   Koopman, SJ
+   Lucas, A
+AF Menkveld, Albert J.
+   Koopman, Siem Jan
+   Lucas, Andre
+TI Modeling around-the-clock price discovery for cross-listed stocks using state space methods
+SO JOURNAL OF BUSINESS & ECONOMIC STATISTICS
+LA English
+DT Article
+DE efficient price; financial markets; high-frequency data; Kalman filter; unobserved components time series models
+ID market integration; intraday analysis; security market; information; volatility; returns; microstructure; exchanges; liquidity; variance
+AB U.S. trading in non-U.S. stocks has grown dramatically. Around the clock, these stocks trade in the home market, in the U.S. market, and, potentially, in both markets simultaneously. We develop a general methodology based on a state space model to study 24-hour price discovery in a multiple-markets setting. As opposed to the standard variance ratio approach, this model deals naturally with (1) simultaneous quotes in an overlap, (2) missing observations in a nonoverlap, (3) noise due to transitory microstructure effects, and (4) contemporaneous correlation in returns due to market-wide factors. We apply our model to Dutch stocks, cross-listed in the United States. Our findings suggest a minor role for the New York Stock Exchange in price discovery for Dutch shares, in spite of its nontrivial and growing market share.
+C1 Vrije Univ Amsterdam, Dept Finance, NL-1081 HV Amsterdam, Netherlands.
+   Vrije Univ Amsterdam, Dept Econometr, NL-1081 HV Amsterdam, Netherlands.
+   Vrije Univ Amsterdam, Tinbergen Inst, NL-1081 HV Amsterdam, Netherlands.
+C3 Vrije Universiteit Amsterdam; Vrije Universiteit Amsterdam; Vrije Universiteit Amsterdam; Tinbergen Institute
+RP Menkveld, AJ (corresponding author), Vrije Univ Amsterdam, Dept Finance, NL-1081 HV Amsterdam, Netherlands.
+EM ajmenkveld@feweb.vu.nl; s.j.koopman@feweb.vu.nl; alucas@feweb.vu.nl
+CR AMIHUD Y, 1987, J FINANC, V42, P533
+   Bacidore JM, 2002, J FINANC ECON, V63, P133, DOI 10.1016/S0304-405X(01)00092-7
+   Barclay MJ, 2003, REV FINANC STUD, V16, P1041, DOI 10.1093/rfs/hhg030
+   BARCLAY MJ, 1993, J FINANC ECON, V34, P281, DOI 10.1016/0304-405X(93)90029-B
+   BARUCH S, 2003, MULTIMARKET TRADING, V0, P0
+   CABALLE J, 1994, ECONOMETRICA, V62, P695, DOI 10.2307/2951665
+   Campbell JohnY, 1997, THE ECONOMETRICS OF FINANCIAL MARKETS, V2, P0
+   Chan K, 2003, J FINANC, V58, P1221, DOI 10.1111/1540-6261.00564
+   Chan KC, 1996, J BANK FINANC, V20, P1161, DOI 10.1016/0378-4266(95)00041-0
+   CHOWDHRY B, 1991, REV FINANC STUD, V4, P483, DOI 10.1093/rfs/4.3.483
+   CRAIG A, 1995, J FINANC ECON, V39, P161, DOI 10.1016/0304-405X(94)00822-I
+   Durbin J, 2001, TIME SERIES ANALYSIS BY STATE SPACE METHODS, V0, P0
+   Eun CS, 2003, J FINANC, V58, P549, DOI 10.1111/1540-6261.00537
+   FLEMING MJ, 2003, HEAT WAVES METEOR SH, V0, P0
+   Forster MM, 1996, J FINANC INTERMED, V5, P95, DOI 10.1006/jfin.1996.0007
+   FRENCH KR, 1986, J FINANC ECON, V17, P5, DOI 10.1016/0304-405X(86)90004-8
+   George TJ, 2001, REV FINANC STUD, V14, P979, DOI 10.1093/rfs/14.4.979
+   GERETY MS, 1994, REV FINANC STUD, V7, P609, DOI 10.1093/rfs/7.3.609
+   Grammig J, 2005, ROLE US TRADING PRIC, V0, P0
+   Gramming J, 2005, JOURNAL OF EMPIRICAL FINANCE, V12, P139, DOI 10.1016/j.jempfin.2003.10.004
+   HALLING M, 2005, 4987 CTR EC POL RES, V0, P0
+   Hansen PR, 2006, J BUS ECON STAT, V24, P127, DOI 10.1198/073500106000000071
+   HARVEY CR, 1991, REV FINANC STUD, V4, P543, DOI 10.1093/rfs/4.3.543
+   HASBROUCK J, 1995, J FINANC, V50, P1175, DOI 10.2307/2329348
+   HASBROUCK J, 1993, REV FINANC STUD, V6, P191, DOI 10.1093/rfs/6.1.191
+   Hau H, 2001, J FINANC, V56, P1959, DOI 10.1111/0022-1082.00396
+   Hupperets ECJ, 2002, J FINANC MARK, V5, P57, DOI 10.1016/S1386-4181(01)00019-2
+   JONES CM, 1994, J FINANC ECON, V36, P127, DOI 10.1016/0304-405X(94)90032-9
+   Karolyi GA, 2006, REVIEW OF FINANCE, V10, P99, DOI 10.1007/s10679-006-6980-8
+   Koopman S, 1999, ECONOMET J, V2, P113, DOI 10.1111/1368-423x.00023
+   KYLE AS, 1985, ECONOMETRICA, V53, P1315, DOI 10.2307/1913210
+   Madhavan A, 1998, J FINANC ECON, V48, P189, DOI 10.1016/S0304-405X(98)00008-7
+   Madhavan A, 2000, JOURNAL OF FINANCIAL MARKETS, V3, P205, DOI 10.1016/S1386-4181(00)00007-0
+   MENKVELD AJ, 2005, AFA 2002 ANN C, V0, P0
+   MOULTON PC, 2005, TALE 2 TIME ZONES CR, V0, P0
+   OLDFIELD GS, 1980, J FINANC, V35, P729, DOI 10.2307/2327495
+   Pagano M, 2001, EUR ECON REV, V45, P770, DOI 10.1016/S0014-2921(01)00132-5
+   PASCUAL R, 2001, 0145 U CARL 3 MADR, V0, P0
+   ROLL R, 1986, J FINANC, V39, P1127
+   Ronen T, 1997, J FINANC QUANT ANAL, V32, P183, DOI 10.2307/2331172
+   Solnik B, 1996, INTERNATIONAL INVESTMENTS, V0, P0
+   STOLL HR, 1990, REV FINANC STUD, V3, P37, DOI 10.1093/rfs/3.1.37
+   STOLL HR, 1978, J FINANC, V33, P1133, DOI 10.2307/2326945
+   Stoll HR, 2001, FINANC ANAL J, V57, P16, DOI 10.2469/faj.v57.n4.2461
+   SUBRAHMANYAM A, 1991, REV FINANC STUD, V4, P17, DOI 10.1093/rfs/4.1.17
+   Werner IM, 1996, REV FINANC STUD, V9, P619, DOI 10.1093/rfs/9.2.619
+NR 46
+TC 39
+Z9 61
+U1 1
+U2 21
+PU AMER STATISTICAL ASSOC
+PI ALEXANDRIA
+PA 732 N WASHINGTON ST, ALEXANDRIA, VA 22314-1943 USA
+SN 0735-0015
+EI 1537-2707
+J9 J BUS ECON STAT
+JI J. Bus. Econ. Stat.
+PD APR 15
+PY 2007
+VL 25
+IS 2
+BP 213
+EP 225
+DI 10.1198/073500106000000594
+PG 13
+WC Economics; Social Sciences, Mathematical Methods; Statistics & Probability
+SC Business & Economics; Mathematical Methods In Social Sciences; Mathematics
+GA 153ID
+UT WOS:000245424700012
+DA 2025-12-31
+ER
+
+PT J
+AU Andersen, TG
+   Bollerslev, T
+   Dobrev, D
+AF Andersen, Torben G.
+   Bollerslev, Tim
+   Dobrev, Dobrislav
+TI No-arbitrage semi-martingale restrictions for continuous-time volatility models subject to leverage effects, jumps and i.i.d. noise: Theory and testable distributional implications
+SO JOURNAL OF ECONOMETRICS
+LA English
+DT Article
+DE high-frequency data; realized volatility; jump detection; financial time sampling; normality tests
+ID market microstructure noise; high-frequency data; stochastic volatility; realized variance; stock returns; asset returns; speculative prices; foreign-exchange; arch models; dynamics
+AB We develop a sequential procedure to test the adequacy of jump-diffusion models for return distributions. We rely on intraday data and nonparametric volatility measures, along with a new jump detection technique and appropriate conditional moment tests, for assessing the import of jumps and leverage effects. A novel robust-to-jumps approach is utilized to alleviate microstructure frictions for realized volatility estimation. Size and power of the procedure are explored through Monte Carlo methods. Our empirical findings support the jump-diffusive representation for S&P500 futures returns but reveal it is critical to account for leverage effects and jumps to maintain the underlying semi-martingale assumption. (c) 2006 Elsevier B.V. All rights reserved.
+C1 Northwestern Univ, JL Kellogg Grad Sch Management, Dept Finance, Evanston, IL 60208 USA.
+   Duke Univ, Dept Econ, Durham, NC 27708 USA.
+   NBER, Cambridge, MA 02138 USA.
+C3 Northwestern University; Duke University; National Bureau of Economic Research
+RP Andersen, TG (corresponding author), Northwestern Univ, JL Kellogg Grad Sch Management, Dept Finance, Evanston, IL 60208 USA.
+EM t-andersen@kellogg.northwestern.edu; boller@econ.duke.edu; d-dobrev@kellogg.northwestern.edu
+CR Aït-Sahalia Y, 2002, J FINANC, V57, P2075, DOI 10.1111/1540-6261.00489
+   Aït-Sahalia Y, 2005, REV FINANC STUD, V18, P351, DOI 10.1093/rfs/hhi016
+   Alizadeh S, 2002, J FINANC, V57, P1047, DOI 10.1111/1540-6261.00454
+   Andersen TG, 2004, HDB FINANCIAL ECONOM, V0, P0
+   Andersen TG, 2000, RISK, V13, P105
+   Andersen TG, 1997, J FINANC, V52, P975, DOI 10.2307/2329513
+   Andersen TG, 1996, J FINANC, V51, P169, DOI 10.2307/2329306
+   Andersen TG, 2001, J FINANC ECON, V61, P43, DOI 10.1016/S0304-405X(01)00055-1
+   Andersen TG, 2006, J BUS ECON STAT, V24, P173, DOI 10.1198/073500106000000134
+   Andersen TG, 2004, INT ECON REV, V45, P1079, DOI 10.1111/j.0020-6598.2004.00298.x
+   Andersen TG, 2002, J FINANC, V57, P1239, DOI 10.1111/1540-6261.00460
+   Andersen TG, 1998, INT ECON REV, V39, P885, DOI 10.2307/2527343
+   Andersen TG, 2001, J AM STAT ASSOC, V96, P42, DOI 10.1198/016214501750332965
+   Andersen TG, 2003, ECONOMETRICA, V71, P579, DOI 10.1111/1468-0262.00418
+   Andersen TG, 2005, ECONOMETRICA, V73, P279, DOI 10.1111/j.1468-0262.2005.00572.x
+   Andersen TG, 2003, AM ECON REV, V93, P38, DOI 10.1257/000282803321455151
+   ANDERSEN TG, 2005, UNPUB JUMPS COMMON S, V0, P0
+   ANDERSEN TG, 2005, ROUGHING IT UP INCLU, V0, P0
+   ANDERSEN TG, 2005, UNPUB REAL TIME PRIC, V0, P0
+   Andersen TorbenG, 1997, J EMPIR FINANC, V4, P115, DOI 10.1016/S0927-5398(97)00004-2
+   Ané T, 2000, J FINANC, V55, P2259, DOI 10.1111/0022-1082.00286
+   Back K, 1991, J MATH ECON, V20, P317
+   BALL CA, 1983, J FINANC QUANT ANAL, V18, P53, DOI 10.2307/2330804
+   BANDI FM, 2004, UNPUB SEPARATING MIC, V0, P0
+   BANDI FM, 2004, UNPUB MICROSTRUCTURE, V0, P0
+   Barndorff-Nielsen OE, 2001, J ROY STAT SOC B, V63, P167, DOI 10.1111/1467-9868.00282
+   Barndorff-Nielsen OE, 2002, J APPL ECONOM, V17, P457, DOI 10.1002/jae.691
+   Barndorff-Nielsen OE, 2002, J ROY STAT SOC B, V64, P253, DOI 10.1111/1467-9868.00336
+   Barndorff-Nielsen OleE, 2006, J FINANC ECONOMET, V4, P1, DOI 10.1093/jjfinec/nbh001
+   Barndorff-Nielsen OleE, 2006, JOURNAL OF FINANCIAL ECONOMETRICS, V4, P1. 1, DOI 10.1093/JJFINEC/NBI022
+   Bates DS, 2000, J ECONOMETRICS, V94, P181, DOI 10.1016/S0304-4076(99)00021-4
+   Bekaert G, 2000, REV FINANC STUD, V13, P1, DOI 10.1093/rfs/13.1.1
+   BOLLENA B, 2002, J EMPIR FINANC, V9, P551, DOI 10.1016/S0927-5398(02)00010-5
+   BOLLERSLEV T, 1987, REV ECON STAT, V69, P542, DOI 10.2307/1925546
+   BOLLERSLEV T, 2005, UNPUB LEVERAGE VOLAT, V0, P0
+   Bontemps C, 2005, J ECONOMETRICS, V124, P149, DOI 10.1016/j.jeconom.2004.02.014
+   BONTEMPS C, 2002, TESTING NORMALITY, V0, P0
+   CAMPBELL J, 1992, J FINANC ECON, V31, P282
+   Carr P, 2003, MATH FINANC, V13, P345, DOI 10.1111/1467-9965.00020
+   Carr P, 2002, J BUS, V75, P305, DOI 10.1086/338705
+   Chan WH, 2002, J BUS ECON STAT, V20, P377, DOI 10.1198/073500102288618513
+   Chang Y, 2004, TAKING NEW CONTOUR N, V0, P0
+   Chernov M, 2003, J ECONOMETRICS, V116, P225, DOI 10.1016/S0304-4076(03)00108-8
+   Chib S, 2002, J ECONOMETRICS, V108, P281, DOI 10.1016/S0304-4076(01)00137-3
+   CLARK PK, 1973, ECONOMETRICA, V41, P135, DOI 10.2307/1913889
+   Comte F, 1998, MATH FINANC, V8, P291, DOI 10.1111/1467-9965.00057
+   Corsi F, 2001, ECON NOTES, V30, P183
+   Dacorogna MichelM, 2001, INTRO HIGH FREQUENCY, V0, P0
+   DAMBIS KE, 1965, THEOR PROBAB APPL+, V10, P401, DOI 10.1137/1110048
+   DAVIDSON J, 1994, STOCHASTIC LIMIT THE, V0, P0
+   Drost FC, 1998, J BUS ECON STAT, V16, P237, DOI 10.2307/1392579
+   DUBINS LE, 1965, P NATL ACAD SCI USA, V53, P913, DOI 10.1073/pnas.53.5.913
+   EPPS TW, 1976, ECONOMETRICA, V44, P305, DOI 10.2307/1912726
+   Eraker B, 2004, J FINANC, V59, P1367, DOI 10.1111/j.1540-6261.2004.00666.x
+   Eraker B, 2003, J FINANC, V58, P1269, DOI 10.1111/1540-6261.00566
+   Forsberg L, 2002, J APPL ECONOMET, V17, P535, DOI 10.1002/jae.685
+   Gallant AR, 1999, REV ECON STAT, V81, P617, DOI 10.1162/003465399558481
+   GARMAN MB, 1980, J BUS, V53, P67, DOI 10.1086/296072
+   GENCAY R, 2004, VOLATILITY RETURN DY, V0, P0
+   GILLEMOT L, 2005, THERES MORE VOLATILI, V0, P0
+   Hansen PR, 2006, J BUS ECON STAT, V24, P127, DOI 10.1198/073500106000000071
+   HARRIS L, 1986, J FINANC ECON, V16, P99, DOI 10.1016/0304-405X(86)90044-9
+   Huang X, 2005, JOURNAL OF FINANCIAL ECONOMETRICS, V3, P456, DOI 10.1093/JJFINEC/NBI025
+   JARQUE CM, 1980, ECON LETT, V6, P255, DOI 10.1016/0165-1765(80)90024-5
+   Johannes M, 2004, J FINANC, V59, P227, DOI 10.1111/j.1540-6321.2004.00632.x
+   Karatzas I, 2004, BROWNIAN MOTION AND STOCHASTIC CALCULUS, V0, P0
+   LAI TL, 1983, ANN STAT, V11, P478, DOI 10.1214/aos/1176346154
+   Maheu JM, 2004, J FINANC, V59, P755, DOI 10.1111/j.1540-6261.2004.00648.x
+   MANCINI C, 2005, UNPUB U FIRENZE, V0, P0
+   MANCINI C, 2004, SCANDINAVIAN ACTUARI, V104, P42
+   Meddahi N, 2002, J APPL ECONOMET, V17, P479, DOI 10.1002/jae.689
+   MERTON RC, 1976, J FINANC ECON, V3, P125, DOI 10.1016/0304-405X(76)90022-2
+   NELSON DB, 1991, ECONOMETRICA, V59, P347, DOI 10.2307/2938260
+   NELSON DB, 1992, J ECONOMETRICS, V52, P61, DOI 10.1016/0304-4076(92)90065-Y
+   NELSON DB, 1990, J ECONOMETRICS, V45, P7, DOI 10.1016/0304-4076(90)90092-8
+   Oomen RCA, 2005, JOURNAL OF FINANCIAL ECONOMETRICS, V4, P555
+   Oomen RCA, 2006, J BUS ECON STAT, V24, P219, DOI 10.1198/073500106000000044
+   Pan J, 2002, J FINANC ECON, V63, P3, DOI 10.1016/S0304-405X(01)00088-5
+   PARKINSON M, 1980, J BUS, V53, P61, DOI 10.1086/296071
+   PETERS RT, 2004, UNPUB TESTING DIFFUS, V0, P0
+   TAUCHEN GE, 1983, ECONOMETRICA, V51, P485, DOI 10.2307/1912002
+   TODOROV V, 2005, UNPUB SIMULATION MET, V0, P0
+   WOOD RA, 1985, J FINANC, V40, P723, DOI 10.1111/j.1540-6261.1985.tb04996.x
+   Zhang L, 2005, J AM STAT ASSOC, V100, P1394, DOI 10.1198/016214505000000169
+   Zhou B, 1996, J BUS ECON STAT, V14, P45, DOI 10.2307/1392098
+   ZHOU B, 1998, NONLINEAR MODELLING OF HIGH FREQUENCY FINANCIAL TIME SERIES, V0, P0
+NR 86
+TC 192
+Z9 246
+U1 1
+U2 28
+PU ELSEVIER SCIENCE SA
+PI LAUSANNE
+PA PO BOX 564, 1001 LAUSANNE, SWITZERLAND
+SN 0304-4076
+EI 
+J9 J ECONOMETRICS
+JI J. Econom.
+PD MAY 15
+PY 2007
+VL 138
+IS 1
+BP 125
+EP 180
+DI 10.1016/j.jeconom.2006.05.018
+PG 56
+WC Economics; Mathematics, Interdisciplinary Applications; Social Sciences, Mathematical Methods
+SC Business & Economics; Mathematics; Mathematical Methods In Social Sciences
+GA 161XP
+UT WOS:000246050700008
+DA 2026-01-04
+ER
+

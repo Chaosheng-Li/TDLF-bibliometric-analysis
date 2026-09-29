@@ -1,0 +1,22 @@
+Reinforcement Learning for Quantitative Trading
+Deep reinforcement trading with predictable returns
+Empirical deep hedging
+Deep hedging of long-term financial derivatives
+A multi-agent virtual market model for generalization in reinforcement learning based trading strategies
+Improving exploration in deep reinforcement learning for stock trading
+Deep Equal Risk Pricing of Financial Derivatives with Non-Translation Invariant Risk Measures
+Offline Reinforcement Learning for Automated Stock Trading
+Supervised actor-critic reinforcement learning with action feedback for algorithmic trading
+Multi-agent reinforcement learning approach for hedging portfolio problem
+From deterministic to stochastic: an interpretable stochastic model-free reinforcement learning framework for portfolio optimization
+Deep Reinforcement Learning for Dynamic Stock Option Hedging: A Review
+Statistical Machine Learning for Quantitative Finance
+Modeling limit order trading with a continuous action policy for deep reinforcement learning
+Reinforcement Learning for Systematic FX Trading
+Equal risk pricing of derivatives with deep hedging
+A Portfolio Model with Risk Control Policy Based on Deep Reinforcement Learning
+A Mean-VaR Based Deep Reinforcement Learning Framework for Practical Algorithmic Trading
+Management of investment portfolios employing reinforcement learning
+Self-attention based deep direct recurrent reinforcement learning with hybrid loss for trading signal generation
+Deep equal risk pricing of illiquid derivatives with multiple hedging instruments
+Deep reinforcement learning stock market trading, utilizing a CNN with candlestick images

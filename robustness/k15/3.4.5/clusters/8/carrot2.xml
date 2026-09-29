@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchresult>
+<query>Global</query>
+<document id="1">
+<title>PAIRS TRADING WITH TOPOLOGICAL DATA ANALYSIS</title>
+<url>http://dx.doi.org/10.1142/S021902492450002X</url>
+<snippet>In this paper, we propose a pairs trading strategy using the theory of topological data analysis (TDA). The proposed strategy is model-free. We propose a TDA-based distance to measure dependence between a pair of stochastic processes. We derive an upper bound of this distance in terms of a function of the canonical correlation of the processes, which allows for interpretability of this distance. We also study Karhunen-Loeve expansions of certain processes to qualitatively explore their shape properties. We check the performance of the strategy on simulated data from correlated geometric Brownian motion, correlated Ornstein-Uhlenbeck process and DCC-GARCH. We also examine the profitability of the proposed strategy on high-frequency data from the National Stock Exchange of India in 2018. We compare the method to a Euclidean distance-based method for pairs trading. We propose a pairs trading strategy evaluation framework using a Bayesian model for comparing gains from these two strategies. We find that the proposed approach based on TDA is more profitable and trades more frequently than the Euclidean distance-based strategy.
+WOS:001189909000004
+</snippet>
+</document>
+
+<document id="2">
+<title>Sentiment-driven cryptocurrency forecasting: analyzing LSTM, GRU, Bi-LSTM, and temporal attention model (TAM)</title>
+<url>http://dx.doi.org/10.1007/s13278-025-01463-6</url>
+<snippet>Predicting cryptocurrency prices is challenging due to market volatility and external influences like social media sentiment. This study integrates Twitter sentiment analysis with deep learning models (LSTM, GRU, Bi-LSTM, and Temporal Attention Model) to enhance Bitcoin price forecasting. Sentiment features were extracted using VADER and RoBERTa, with findings showing that RoBERTa-based models significantly outperform VADER. Bi-LSTM (RoBERTa) achieved the lowest MAPE of 2.01&#37;, demonstrating the effectiveness of deep contextual embeddings. SHAP analysis identified Sentiment Momentum, RoBERTa Compound Score, and VADER Negativity Score as key predictors of price movements. These results highlight the value of sentiment-driven forecasting and provide insights for traders, investors, and researchers.
+WOS:001488073100001
+</snippet>
+</document>
+
+<document id="3">
+<title>A Computationally Efficient Framework for Vector Representation of Persistence Diagrams</title>
+<url>http://dx.doi.org/</url>
+<snippet>In Topological Data Analysis, a common way of quantifying the shape of data is to use a persistence diagram (PD). PDs are multisets of points in R2 computed using tools of algebraic topology. However, this multi-set structure limits the utility of PDs in applications. Therefore, in recent years efforts have been directed towards extracting informative and efficient summaries from PDs to broaden the scope of their use for machine learning tasks. We propose a computationally efficient framework to convert a PD into a vector in Rn, called a vectorized persistence block (VPB). We show that our representation possesses many of the desired properties of vector-based summaries such as stability with respect to input noise, low computational cost and flexibility. Through simulation studies, we demonstrate the effectiveness of VPBs in terms of performance and computational cost for various learning tasks, namely clustering, classification and change point detection.
+WOS:001003320300001
+</snippet>
+</document>
+
+<document id="4">
+<title>Intelligent cryptocurrency trading system using integrated AdaBoost-LSTM with market turbulence knowledge</title>
+<url>http://dx.doi.org/10.1016/j.asoc.2023.110568</url>
+<snippet>The Bitcoin market is firmly positioned as a global asset market. However, due to its extremely high volatility and the lack of a custom Bitcoin trading system, investors find it difficult to establish an effective investment strategy in this market. In this study, we build an intelligent Bitcoin trading system to maximize profitability by predicting the market. We propose a fusion approach combining technology with economic knowledge to achieve accurate predictions. Firstly, we provide an ensemble prediction framework that integrates the AdaBoost algorithm with the LSTM deep learning model as a form of technological convergence. This dramatically improves the predictive performance due to the high representational capacity of LSTM and the overfitting minimization capability of AdaBoost. Secondly, to account for the repeated structural volatility in the market, we combine the econometrics Markov regime-switching model with the AdaBoost-LSTM model to predict the period of market turbulence caused by structural breaks in the regime. Our prediction model suggests that market turbulence lasting longer than 21 days could be a potentially high-risk investment in the future. Finally, we have developed a Bitcoin-customized trading algorithm that maximizes rewards by predicting upward movements in prices and warning of high-risk investments during a long-lasting turbulent regime. In trading tests, our system yielded a cumulative return of 2.4 times and 4.0 times on 1day and 5-day forecasts, respectively, compared to other representative trading strategies such as the stochastic oscillator.
+WOS:001055103900001
+</snippet>
+</document>
+
+<document id="5">
+<title>Early Warning Signals of Financial Crises Using Persistent Homology and Critical Slowing Down: Evidence From Different Correlation Tests</title>
+<url>http://dx.doi.org/10.3389/fams.2022.940133</url>
+<snippet>In this study, a new market representation from persistence homology, known as the L-1-norm time series, is used and applied independently with three critical slowing down indicators [autocorrelation function at lag 1, variance, and mean for power spectrum (MPS)] to examine two historical financial crises (Dotcom crash and Lehman Brothers bankruptcy) in the US market. The captured signal is the rising trend in the indicator time series, which can be determined by Kendall's tau correlation test. Furthermore, we examined Pearson's and Spearman's rho correlation tests as potential substitutes for Kendall's tau correlation. After that, we determined a correlation threshold and predicted the whole available date. The point of comparison between these correlation tests is to determine which test is significant and consistent in classifying the rising trend. The results of such a comparison will suggest the best test that can classify the observed rising trend and detect early warning signals (EWSs) of impending financial crises. Our outcome shows that the L-1-norm time series is more likely to increase before the two financial crises. Kendall's tau, Pearson's, and Spearman's rho correlation tests consistently indicate a significant rising trend in the MPS time series before the two financial crises. Based on the two evaluation scores (the probability of successful anticipation and probability of erroneous anticipation), by using the L-1-norm time series with MPS, our result in the whole prediction demonstrated that Spearman's rho correlation (46.15 and 53.85&#37;) obtains the best score as compared to Kendall's tau (42.31 and 57.69&#37;) and Pearson's (40 and 60&#37;) correlations. Therefore, by using Spearman's rho correlation test, L-1-norm time series with MPS is shown to be a better way to detect EWSs of US financial crises.
+WOS:000827396400001
+</snippet>
+</document>
+
+<document id="6">
+<title>Improving financial distress prediction using textual sentiment of annual reports</title>
+<url>http://dx.doi.org/10.1007/s10479-022-04633-3</url>
+<snippet>An accurate prediction of financial distress is beneficial to investors and allows banks and other financial institutions to build an early warning system to avoid risk contagion. This study investigated financial distress prediction using textual sentiment extracted from listed firms' annual reports in the Chinese market. The sentiments reflected by the firms' management discussions and analysis (MD&amp;A) sections and audit reports were extracted separately through the application of deep learning algorithms. We found that the sentiment score extracted from MD&amp;A sections was more optimistic compared with that extracted from audit reports. Moreover, the experimental results demonstrated that the modeling performance was significantly improved with the incorporation of textual sentiment scores, and the inclusion of sentiment from audit reports lead to a more significant incremental improvement than that from the MD&amp;A sections. However, when both sentiment scores were included in the modeling input, the improvement in predictive accuracy was insignificant compared to the model using audit report scores only. Our study highlights the predictive power of textual information in annual reports, and shows that the textual sentiment of annual reports should be applied in distress modeling. The results provide implications for the utilization of soft information in credit risk modeling in the context of Chinese market, and such application can be further explored in other areas of operational research studies.
+WOS:000769273200002
+</snippet>
+</document>
+
+<document id="7">
+<title>Topological features of multivariate distributions: Dependency on the covariance matrix</title>
+<url>http://dx.doi.org/10.1016/j.cnsns.2021.105996</url>
+<snippet>Topological data analysis provides a new perspective on many problems in the domain of complex systems. Here, we establish the dependency of mean values of functional p-norms of 'persistence landscapes' on a uniform scaling of the underlying multivariate distribu-tion. Furthermore, we demonstrate that average values of p-norms are decreasing, when the covariance in a system is increasing. To illustrate the complex dependency of these topological features on changes in the variance-covariance matrix, we conduct numerical experiments utilizing bi-variate distributions with known statistical properties. Our results help to explain the puzzling behavior of p-norms derived from daily log-returns of major equity indices on European and US markets at the inception phase of the global financial meltdown caused by the COVID-19 pandemic. 
+WOS:000706846700001
+</snippet>
+</document>
+
+<document id="8">
+<title>Why topological data analysis detects financial bubbles?</title>
+<url>http://dx.doi.org/10.1016/j.cnsns.2023.107665</url>
+<snippet>We present a heuristic argument for the propensity of Topological Data Analysis (TDA) to detect early warning signals of critical transitions in financial time series. Our argument is based on the Log-Periodic Power Law Singularity (LPPLS) model, which characterizes financial bubbles as super-exponential growth (or decay) of an asset price superimposed with oscillations increasing in frequency and decreasing in amplitude when approaching a critical transition (tipping point). We show that whenever the LPPLS model is fitting with the data, TDA generates early warning signals. As an application, we illustrate this approach on a sample of positive and negative bubbles in the Bitcoin historical price.
+WOS:001109716700001
+</snippet>
+</document>
+
+<document id="9">
+<title>Forecasting Bitcoin Volatility Spikes From Whale Transactions and CryptoQuant Data Using Synthesizer Transformer Models</title>
+<url>http://dx.doi.org/10.1109/ACCESS.2025.3584243</url>
+<snippet>The cryptocurrency market is highly volatile compared to traditional financial markets. Hence, forecasting its volatility is crucial for risk management. In this paper, we investigate CryptoQuant data (e.g. on-chain analytics, exchange and miner data) and whale-alert tweets, and explore their relationship to Bitcoin's next-day volatility, with a focus on extreme volatility spikes. We propose a deep learning Synthesizer Transformer model for forecasting volatility. Our results show that the model outperforms existing state-of-the-art models when forecasting extreme volatility spikes for Bitcoin using CryptoQuant data as well as whale-alert tweets. We analysed our model with the Captum XAI library to investigate which features are most important. We also backtested our prediction results with different baseline trading strategies and the results show that we are able to minimize drawdown while keeping steady profits. Our findings underscore that the proposed method is a useful tool for forecasting extreme volatility movements in the Bitcoin market.
+WOS:001543412300001
+</snippet>
+</document>
+
+<document id="10">
+<title>From forecasting to trading: A multimodal-data-driven approach to reversing carbon market losses</title>
+<url>http://dx.doi.org/10.1016/j.eneco.2025.108350</url>
+<snippet>The carbon market is characterized by inherent nonlinearity and high volatility, significantly influenced by several market and factor exposures. These include the energy market, financial market, foreign exchange market, international carbon markets, environmental factors, public attention, and market sentiment. Given the multifaceted determinants of carbon prices, this study has bridged a gap in the existing research by transitioning from traditional historical-data-driven methods to an innovative multimodal-data-driven framework integrating both structured and unstructured data. Combining decomposition techniques with feature filtering, we analyze the dynamic relationships between multiple variables and different frequency components of carbon prices, particularly within the relatively young and understudied Chinese carbon market. Furthermore, we calculate entropy values to distinguish between high-complexity and low-complexity sub-sequences and implement an adaptive forecasting process fusing conventional statistical approaches with prevalent deep learning methods, improving interpretability and forecasting accuracy. The proposed method has a prediction RMSE of only 0.3471 in the carbon market of Hubei, China, and a prediction MAPE of 0.9491 in the newly established national unified carbon market. Building upon the forecasting results, this paper makes a further extension by proposing an interval-constrained trading strategy that encapsulates the predictive uncertainties, providing an effective risk management tool in the volatile carbon market. Enterprises can improve their cumulative return rate by 2 &#37; to 14 &#37; through the improvement of our trading strategies, and the maximum drawdown can be reduced by about 2 &#37;. Notably, our strategy's potential for reversing losses to gains, could offer actionable insights for enterprises' decision-making processes.
+WOS:001441318900001
+</snippet>
+</document>
+
+<document id="11">
+<title>VECTOR SUMMARIES OF PERSISTENCE DIAGRAMS FOR PERMUTATION-BASED HYPOTHESIS TESTING</title>
+<url>http://dx.doi.org/10.3934/fods.2024002</url>
+<snippet>. Over the past decade, the techniques of topological data analysis (TDA) have grown into prominence to describe the shape of data. In recent years, there has been increasing interest in developing statistical methods and in particular hypothesis testing procedures for TDA. Under the statistical perspective, persistence diagrams - the central multi-scale topological descriptors of data provided by TDA - are viewed as random observations sampled from some population or process. In this context, one of the earliest works on hypothesis testing focuses on the two-group permutation-based approach where the associated loss function is defined in terms of within-group pairwise bottleneck or Wasserstein distances between persistence diagrams [42]. However, in situations where persistence diagrams are large in size or number, the permutation test in question gets computationally more costly to apply. To address this limitation, we instead consider pairwise distances between vectorized functional summaries of persistence diagrams for the loss function. In the present work, we explore the utility of the Betti function in this regard, which is one of the simplest function summaries of persistence diagrams. We introduce an alternative vectorization method for the Betti function based on integration and prove stability results with respect to the Wasserstein distance. Moreover, we propose a new shuffling technique of group labels to increase the power of the test. Through several experimental studies, on both synthetic and real data, we show that the vectorized Betti function leads to competitive results compared to the baseline method involving the Wasserstein distances for the permutation test.
+WOS:001157617200001
+</snippet>
+</document>
+
+<document id="12">
+<title>A novel deep reinforcement learning framework with BiLSTM-Attention networks for algorithmic trading</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2023.122581</url>
+<snippet>The financial market, as a complex nonlinear dynamic system frequently influenced by various factors, such as international investment capital, is very challenging to build trading strategies from the obtained market information. Deep Reinforcement Learning (DRL) combines the perceptual capability of deep learning and the control decision making capability of reinforcement learning to learn the mapping between financial market states and trading decisions by interacting with the environment. In this paper, an enhanced stock trading strategy, denominated efficient deep State-Action-Reward-State-Action (SARSA), is presented to tackle the algorithmic trading problem of determining optimal trading positions in the daily trading activities of the stock market. This algorithm is recognized for its properties of stable learning and convergence, attributes of critical significance within the financial domain, where stability assumes paramount importance, and excessive risk-taking should be averted. Furthermore, a novel deep network architecture called Bidirectional Long Short -Term Memory (BiLSTM)-Attention is introduced to address the challenge of accurately presenting the complex and volatile stock market. The BiLSTM-Attention greatly enhances the network's capacity to recognize key features and patterns in stock market data, allowing agents to focus on the most relevant aspects of the data. Evaluations on DJI, SP500, GE, IXIC datasets from January 1, 2008 to December 31, 2022 show that our efficient deep SARSA algorithm outperforms a wide range of traditional strategies (B&amp;H, S&amp;H, MR, TF) and DRL-based strategies (TDQN, DQN-Vanilla). For example, on the IXIC dataset, the efficient deep SARSA strategy achieves an attractive Cumulative Return (CR) of 582.17&#37; and a Sharpe Ratio (ShR) of 1.86, outperforming all other methods. These experimental results prove the performance of our method in enhancing stock trading strategies.
+WOS:001119234300001
+</snippet>
+</document>
+
+<document id="13">
+<title>An analysis of crude oil prices in the last decade (2011-2020): With deep learning approach</title>
+<url>http://dx.doi.org/10.1371/journal.pone.0268996</url>
+<snippet>Crude Oil is one of the most important commodities in this world. We have studied the effects of Crude Oil inventories on crude oil prices over the last ten years (2011 to 2020). We tried to figure out how the Crude Oil price variance responds to inventory announcements. We then introduced several other financial instruments to study the relation of these instruments with Crude Oil variation. To undertake this task, we took the help of several mathematical tools including machine learning tools such as Long Short Term Memory(LSTM) methods, etc. The previous researches in this area primarily focussed on statistical methods such as GARCH (1,1) etc. (Bu (2014)). Various researches on the price of crude oil have been undertaken with the help of LSTM. But the variation of crude oil price has not yet been studied. In this research, we studied the variance of crude oil prices with the help of LSTM. This research will be beneficial for the options traders who would like to get benefit from the variance of the underlying instrument.
+WOS:000949067800080
+</snippet>
+</document>
+
+<document id="14">
+<title>Bitcoin Research in Business and Economics: A Bibliometric and Topic Modeling Review</title>
+<url>http://dx.doi.org/10.3390/fintech4040068</url>
+<snippet>This study conducts a bibliometric review of Bitcoin research in the Business and Economics domains, using VOSviewer to visualize network structures and Bidirectional Encoder Representations from Transformers Topic (BERTopic) to derive semantically coherent topic clusters. The analysis identifies five major research themes: (1) Diversification, hedging, and safe-haven properties; (2) Market dynamics, efficiency, and investor behavior; (3) Bitcoin price and volatility prediction attempts; (4) Environmental impact of Bitcoin; and (5) Financial impact of Central Bank Digital Currency (CBDC). Based on these themes, the study recommends further investigation into the influence of Exchange-Traded Fund (ETF) approvals, regulatory frameworks, and institutional investor participation on Bitcoin's safe-haven potential; the role of market dynamics and regulatory interventions; early detection of herding behavior and price bubbles; the integration of machine learning and deep-learning models for price prediction; the environmental costs associated with mining; and the evolving regulatory and implementation challenges of CBDCs. Overall, this review synthesizes existing scholarship and outlines future research directions for the rapidly evolving cryptocurrency ecosystem.
+WOS:001647171600001
+</snippet>
+</document>
+
+<document id="15">
+<title>Committee of Multi-scale Nonlinear Learning Frameworks for accurate stock price forecasting</title>
+<url>http://dx.doi.org/10.1016/j.engappai.2025.112325</url>
+<snippet>Dependable stock price predictions are vital for optimizing economic policies and investment strategies in both national and corporate settings. However, the intrinsic volatility and intricacy of stock prices pose considerable challenges. Thus, this paper introduces a novel Committee of Multi-scale Nonlinear Learning Frameworks (CoML) that employs a three-stage model: decomposition, reconstruction, and prediction. First, a complete ensemble empirical mode decomposition with adaptive noise is adopted to decompose the original stock prices into multiple intrinsic mode functions. Secondly, a fine-to-coarse algorithm is applied to reconstruct the intrinsic mode functions, so as to effectively extract short-term fluctuations and long-term trends. Finally, an ensemble of nonlinear models including bidirectional long short-term memory (BiLSTM), support vector regression (SVR) and multi-layer perceptron (MLP) is used to learn and forecast features extracted to obtain high performance. Experimental results indicate that the model performs exceptionally well in both emerging and developed markets highlighting the innovative capabilities of CoML in highly complex and volatile financial markets. The proposed model is further validated using Model Confidence Set and the results indicate that the model is statistically significant.
+WOS:001579033600005
+</snippet>
+</document>
+
+<document id="16">
+<title>Topological tail dependence: Evidence from forecasting realized volatility</title>
+<url>http://dx.doi.org/10.1016/j.jfds.2023.100107</url>
+<snippet>This paper proposes a novel theory, coined as Topological Tail Dependence Theory, that links the mathematical theory behind Persistent Homology (PH) and the financial stock market theory. This study also proposes a novel algorithm to measure topological stock market changes as well as the incorporation of these topological changes into forecasting realized volatility (RV) models to improve their forecast performance during turbulent periods. The results of the empirical experimentation of this study provide evidence that the predictions drawn from the Topological Tail Dependence Theory are correct and indicate that the employment of PH information allows nonlinear and neural network models to better forecast RV during a turbulent period.
+WOS:001301346000001
+</snippet>
+</document>
+
+<document id="17">
+<title>A hybrid deep learning model for cryptocurrency returns forecasting: Comparison of the performance of financial markets and impact of external variables</title>
+<url>http://dx.doi.org/10.1016/j.ribaf.2024.102575</url>
+<snippet>This study introduces a finetuned hybrid forecasting model combining both Discrete Wavelet Transform (DWT) and Long Short-Term Memory network (LSTM) to predict dirty and clean cryptocurrency returns (Bitcoin and Ripple). The findings show that the proposed DWT-LSTM model outperforms a large set of benchmark models in terms of forecasting accuracy. We investigate a broader set of predictors involving financial markets (other cryptocurrencies and commodities) and external variables (blockchain information, Twitter economic uncertainty, and CO2 emissions). Our findings underline the comparable performance of the considered predictors, with the Twitter Economic Uncertainty index being the best predictor of Bitcoin returns and S&amp;P GSCI Energy being the best predictor of Ripple returns. We also highlight the superior performance of the trading strategies based on our forecasting results.
+WOS:001330536500001
+</snippet>
+</document>
+
+<document id="18">
+<title>A hybrid forecasting model based on deep learning feature extraction and statistical arbitrage methods for stock trading strategies</title>
+<url>http://dx.doi.org/10.1002/for.2978</url>
+<snippet>The time series data of financial markets are nonlinear, owing to rapid data accumulation. Thus, research on stock price prediction has always been a challenge. This study proposes a quantitative trading strategy that combines basic quantitative trading rules and deep learning methods to help investors realize arbitrage. We combine basic quantitative trading arbitrage with deep learning frameworks to fully extract market characteristics and develop trading strategies for investors. The hybrid forecasting model is a new signal-trading system that uses a genetic algorithm to obtain optimal parameters for the technical indicator timing method of the moving average price. The deep learning structure of the CNN-Bi-LSTM, with the attention mechanism and modified loss function, optimizes the trading signal to achieve local optimization. Its core concept is to determine the trading signal through the local trend of price fluctuations and then correct the trading signal through the prediction results. A-shares in the Chinese market trading data are used as the statistical arbitrage analysis process to output actual trading signals and verify the effectiveness of the system. The results demonstrate that an arbitrage strategy based only on moving average trading rules is ineffective. With the optimization of the deep learning CNN-Bi-LSTM framework, the arbitrage ability improves significantly. The optimized strategy can increase the final profit by 1.6042 to the greatest extent. The annualized revenue increased by 35.16&#37;, and the winning rate increased by 15.22&#37;. In addition, we consider the transaction costs during the simulated transaction process. An optimized trading strategy can effectively seize arbitrage opportunities; hence, its profitability and stability are significantly improved.
+WOS:000962150900001
+</snippet>
+</document>
+
+<document id="19">
+<title>Patch-tLSTM: A multi-step prediction model for precious metal futures with high accuracy</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2025.128733</url>
+<snippet>Multi-step prediction of futures market prices presents a core challenge in the field of financial engineering. The price fluctuations of high-value precious metals, such as gold, silver, copper, palladium, and platinum, are influenced by various factors, including macroeconomics and geopolitics. However, previous studies have typically focused on next-day price predictions. A common effect of error accumulation arises when addressing multi-step predictions. As the prediction step exceeds eight trading days, ensuring prediction accuracy becomes increasingly tricky. This study proposes a Patch-tLSTM hybrid model that extracts relevant signals from original features by combining Seasonal-Trend decomposition based on LOESS (STL) with Complete Ensemble Empirical Mode Decomposition of Adaptive Noise (CEEMDAN). The model effectively captures local fluctuations using the Patch layer and introduces an innovative tLSTM module that incorporates multi-scale convolution, an attention mechanism, and an adaptive gating mechanism within the xLSTM architecture. Experiments show that our model exhibits lower prediction errors than the baseline model in the scenario of 16-step forecasting of gold prices. The mean absolute error (MAE) of our model is 0.0165, while the MAE of the DLinear model is 0.0191, which is 13.6&#37; lower overall. Our model is significantly better than other models through the significance test. This shows that our model can maintain a high prediction accuracy even at a longer prediction step.
+WOS:001523383000002
+</snippet>
+</document>
+
+<document id="20">
+<title>Novel optimization approach for realized volatility forecast of stock price index based on deep reinforcement learning model</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2023.120880</url>
+<snippet>Accurately predicting volatility has always been the focus of government decision-making departments, financial regulators and academia. Therefore, it is very crucial to precisely predict the realized volatility (RV) of the stock price index. In this paper, we take the RV sequences of Shanghai Stock Exchange Composite Index (SSEC), Standard &amp; Poor 500 index (SPX) and Financial Times Stock Exchange Index (FTSE) as the research objects, and propose a predictive model based on optimized variational mode decomposition (VMD), deep learning models including deep belief network (DBN), long short-term memory network (LSTM) and gated recurrent unit (GRU), and reinforcement learning Q-learning algorithm. Firstly, the original RV sequence is decomposed by using the VMD ideal parameters optimized by grey wolf optimizer (GWO) to obtain the intrinsic mode functions (IMFs). Then, DBN, LSTM and GRU are used to predict same IMF simultaneously. Finally, the optimal weights of the above three models are determined by the Q-learning algorithm to construct an integrated model, and the final results are obtained after accumulating the predicted values of each IMF. The predictive performance of the model was evaluated by four loss functions: the mean average error (MAE), mean squared error (MSE), heterogeneous mean average error (HMAE), heterogeneous mean squared error (HMSE) and modified Diebold and Mariano test (MDM). The experimental results show that the constructed GVMD-Q-DBN-LSTM-GRU method has better performance that the comparison model in both emerging and developed markets.
+WOS:001039299400001
+</snippet>
+</document>
+
+<document id="21">
+<title>Can topological transitions in cryptocurrency systems serve as early warning signals for extreme fluctuations in traditional markets?</title>
+<url>http://dx.doi.org/10.1016/j.physa.2024.130194</url>
+<snippet>This study employs persistent homology in Topological data analysis (TDA) to investigate the early warning potential of the cryptocurrency system for fluctuations in traditional financial markets. By examining the time-varying characteristics of the system's topological structure, we aim to find evidence that these transitions can predict extreme market fluctuations. Our research indicates that cryptocurrencies exhibit stylized facts similar to those of traditional financial assets and that the overall topological structure of the cryptocurrency system demonstrates significant temporal evolutionary characteristics. Moreover, empirical findings reveal a notable time lag between the turning points in the topological structure of the cryptocurrency system and extreme fluctuations in the U.S. stock market. Specifically, these turning points typically occur 0-5 calendar days before the market fluctuations, suggesting their potential as early warning signals. The sensitivity of both in-sample and out-of-sample warning results reaches 60&#37;, supporting the practical applicability of this approach. Extreme fluctuations not predicted are primarily caused by sudden external events, indicating that the proposed method is better suited for early warning of endogenous market volatility. We also explain these results from the perspectives of market efficiency theory, information spillover effects, and behavioral finance. Ultimately, this analysis enhances our understanding of the cryptocurrency market's evolutionary process and provides valuable insights for both investors and regulators.
+WOS:001367608000001
+</snippet>
+</document>
+
+<document id="22">
+<title>Dimension Expansion for Learning Money Laundering Activities Hidden in Transaction Network</title>
+<url>http://dx.doi.org/10.1109/TCSS.2025.3599534</url>
+<snippet>Due to the anonymity and decentralization inherent in blockchains, they have gradually become a new breeding ground for money laundering. Anti-money laundering (AML) in blockchains is urgently needed. A conventional AML method involves analyzing transaction features derived from blockchain records that define money transfers within a transaction network. However, this method often fails to identify all illicit transactions, as some are obscured within the network due to their indistinguishable features compared to both known licit and illicit transactions. Fortunately, all transactions involve at least two addresses (accounts), and the account features of illicit transactions are distinguishable because they reflect the social information of the parties involved. This insight provides a pathway to uncover hidden illicit transactions. In this article, we propose the account enhanced transactions classification ($\mathsf{ATC}$) model to enhance the performance of illicit transaction detection. The $\mathsf{ATC}$ expands the dimensionality of transaction feature vectors by concatenating the corresponding accounts, represented as a variable number of high-dimensional feature vectors. In addition, $\mathsf{ATC}$ employs clustering, pooling, and persistent homology techniques to address the challenges associated with learning from these dimension-expanded features. Experimental results on the Elliptic++ dataset demonstrate the advantages of $\mathsf{ATC}$ with an accuracy of 98.28&#37;, precision of 99.64&#37;, recall of 91.85&#37;, and an F1 score of 95.59&#37;, significantly outperforming other comparative methods.
+WOS:001582310300001
+</snippet>
+</document>
+
+<document id="23">
+<title>On the topology of cryptocurrency markets</title>
+<url>http://dx.doi.org/10.1016/j.irfa.2023.102759</url>
+<snippet>Cryptocurrency markets are characterised by high volatility, high returns and comparative immaturity relative to equity and commodity markets. Topological Data Analysis (TDA) persistence norms are effective tools for the analysis of noisy dynamical systems like the cryptocurrency markets. We show how information from the shape of daily return data adds additional inference on activity within the cryptocurrency markets. TDA persistence norms embed volatility and connectedness between coins as well as incorporating information from uncertainty indexes, financial market performance and commodity returns. Our TDA measures are robust to noise and are consistent across a raft of alternative coin selections. Further, we exposit how persistence norms peak to forewarn of crashes and stay low as markets face exogenous shocks. We demonstrate the clear advantages of TDA for the study of cryptocurrency markets and develop the next steps for exploiting the potential of TDA for application to cryptocurrency markets.
+WOS:001041738500001
+</snippet>
+</document>
+
+<document id="24">
+<title>Interpretable Stock Anomaly Detection Based on Spatio-Temporal Relation Networks With Genetic Algorithm</title>
+<url>http://dx.doi.org/10.1109/ACCESS.2021.3077067</url>
+<snippet>Instability in financial markets represents a considerable risk to investors; examples of instability include a market crash caused by systematic risks and abnormal stock price volatility caused by artificial hype. The early detection of abnormal behavior can help investors adjust their strategy and reduce investment risks. We proposed a spatiotemporal convolutional neural network-based relational network (STCNN-RN) model that can learn the complex correlations between multiple financial time-series data sets, and we used genetic algorithms with a constrained gene to discover the time points for outlier companies by fitting the STCNN-RN model; we used these outlier points to identify abnormal situations. Most research on identifying anomalous patterns has been unable to sufficiently explain the reason for anomalies to investors. We applied an interpretability model to enable investors to understand these anomalous time points in relation to companies and discover the key factors giving rise to the anomalies. The experiment results revealed that the proposed model can be used to model multiple financial time-series data sets and to capture anomalous situations in relevant companies. Because this study explored the discovery of anomaly phenomena in all transaction data and the explanation of these abnormalities, investors can understand a stock market situation holistically.
+WOS:000649571200001
+</snippet>
+</document>
+
+<document id="25">
+<title>A Novel Hybrid Model for Loan Default Prediction in Maritime Finance Based on Topological Data Analysis and Machine Learning</title>
+<url>http://dx.doi.org/10.1109/ACCESS.2025.3566066</url>
+<snippet>The global shipping industry, pivotal to international trade, faces inherent financial vulnerabilities due to cyclical asset values, volatile freight rates, and high leverage, rendering traditional credit risk models inadequate. This study proposes a novel framework integrating topological data analysis (TDA) and machine learning (ML) to enhance default prediction in maritime finance. By constructing correlation-based networks of shipping firms and extracting topological persistence features, such as cyclical trends and structural interdependencies, via Vietoris-Rips complexes, the model captures nonlinear risk patterns overlooked by conventional metrics. Network properties (e.g., centrality, clustering) and financial indicators (loan terms, vessel attributes, economic indices) are synthesized, enabling Graph Neural Networks (GNNs) to leverage relational and topological insights. Evaluated on a dataset of shipping loans spanning financial, operational, and macroeconomic variables, the TDA-enhanced models demonstrate significant improvements: logistic regression accuracy rose from 62.8&#37; to 85.1&#37;. At the same time, ROC-AUC for SVM and XGBoost reached 0.931 and 0.973, respectively. Key features like loan amount, vessel age, and debt-to-equity ratios exhibited strong correlations with defaults. Results underscore that incorporating TDA-derived persistence features improves early detection of financial distress, particularly in capturing systemic risks from interconnected market shocks. This hybrid approach offers a robust tool for lenders and policymakers to mitigate defaults in a sector critical to global commerce.
+WOS:001488486000032
+</snippet>
+</document>
+
+<document id="26">
+<title>Novel forecasting of white maize futures volatility: a hybrid GARCH-based bi-directional LSTM model</title>
+<url>http://dx.doi.org/10.1080/23322039.2025.2484422</url>
+<snippet>Price volatility in grain markets, especially for maize, has substantial socio-economic impacts, particularly in low-income regions where food security remains a critical concern. Accurate forecasting of grain price volatility is therefore crucial in safeguarding the financial interests of commodity traders, as well as shielding consumers from detrimental effects of inflationary food prices. This study proposes a hybrid Bi-directional Long Short-Term Memory (BLSTM) model, integrated with generalised autoregressive conditional heteroscedasticity (GARCH)-type methods, to forecast white maize futures volatility in South Africa. By comparing the forecasting accuracy of the hybrid BLSTM model against several benchmarks, including standard LSTM and BLSTM models, our results demonstrate notable improvements in prediction accuracy, as shown through heteroscedasticity-adjusted performance metrics. The key contribution of this research is its enhancement of volatility forecasting by combining advanced machine learning with traditional econometric approaches, bridging a gap in predictive accuracy for commodity price dynamics. Additionally, this study supports the United Nations Sustainable Development Goals (SDGs), particularly Zero Hunger and Responsible Consumption and Production, by improving food price stability and risk management in agriculture. This approach exemplifies the evolving role of data science in financial analysis, offering market participants an effective tool to manage price risk and improve food security.Impact StatementThis study introduces a novel hybrid forecasting model that integrates GARCH-type econometric techniques with Bi-directional Long Short-Term Memory (BLSTM) neural networks to predict the realised volatility of white maize futures. As white maize is a staple food, accurate volatility forecasting directly contributes to improved food security and price stability. The model significantly outperforms traditional approaches and standard deep learning models across multiple forecast horizons, offering a powerful risk management tool for farmers, traders, and policymakers. By enhancing the accuracy of agricultural price forecasts, this research supports the United Nations Sustainable Development Goals (SDGs), particularly Zero Hunger (SDG 2) and Responsible Consumption and Production (SDG 12), while also demonstrating the value of advanced data science methods in addressing real-world socio-economic challenges.
+WOS:001455850200001
+</snippet>
+</document>
+
+<document id="27">
+<title>A TOPOLOGICAL APPROACH FOR CAPTURING HIGH-ORDER INTERACTIONS IN GRAPH DATA WITH APPLICATIONS TO ANOMALY DETECTION IN TIME-VARYING CRYPTOCURRENCY TRANSACTION GRAPHS</title>
+<url>http://dx.doi.org/</url>
+<snippet>Time-varying graphs are increasingly common in financial, social and biological data analysis applications. Feature extraction that efficiently encodes the complex structure of sparse, multi-layered, dynamic graphs presents computational and methodological challenges. In the past decade, topological data analysis has become a popular method of studying the shape of data. This is achieved by building an increasing sequence of simplicial complexes (called filtration) indexed by a scale parameter on top of the data to keep track of topological changes along with the filtration. This multi-scale summary, called persistence diagram (PD), is often vectorized to be used in machine learning algorithms. This paper introduces a topological approach to extract information on higher-order interactions encoded in persistence diagrams from graph data. Our framework has two main steps: first, we convert the graph into a higher-dimensional simplicial complex by adding structures such as triangles, tetrahedrons etc., and compute a PD using the so-called lower-star filtration which utilizes quantitative node attributes. Then, we vectorize the PD by averaging the associated Betti function over successive scale values of a onedimensional grid using integration. A notable aspect of our procedure is that it avoids embedding a graph into a metric space. We show that the proposed vectorization summary is robust against input noise with respect to the L 1 1-Wasserstein distance. In simulation studies, the proposed approach leads to improved change point detection rates and outperforms one of the state-ofthe-art methods for anomaly detection in time-varying graphs. In real data application, our approach leads to up to a 20&#37; gain in anomalous price prediction in the Ethereum crypto currency transaction network.
+WOS:001217173400001
+</snippet>
+</document>
+
+<document id="28">
+<title>A stochastic volatility model with random level shifts and its applications to S&amp;P 500 and NASDAQ return indices</title>
+<url>http://dx.doi.org/10.1111/j.1368-423X.2012.00394.x</url>
+<snippet>This paper proposes a framework for the modelling, inference and forecasting of volatility in the presence of level shifts of unknown timing, magnitude and frequency. First, we consider a stochastic volatility model comprising both a level shift and a short-memory component, with the former modelled as a compound binomial process and the latter as an AR(1). Next, we adopt a Bayesian approach for inference and develop algorithms to obtain posterior distributions of the parameters and the two latent components. Then, we apply the model to daily S&amp;P 500 and NASDAQ returns over the period 1980.1-2010.12. The results show that although the occurrence of a level shift is rare, about once every 2 years, this component clearly contributes most to the variation in the volatility. The half-life of a typical shock from the AR(1) component is short, on average between 9 and 15 days. Interestingly, isolating the level shift component from the overall volatility reveals a stronger relationship between volatility and business cycle movements. Although the paper focuses on daily index returns, the methods developed can potentially be used to study the low-frequency variation in realized volatility or the volatility of other financial or macroeconomic variables.
+WOS:000327305600003
+</snippet>
+</document>
+
+<document id="29">
+<title>Time-resolved topological data analysis of market instabilities</title>
+<url>http://dx.doi.org/10.1016/j.physa.2021.125816</url>
+<snippet>We apply the novel econometric method, based on the time-resolved topological data analysis, to detect approaching market instabilities in multiple sectors of North American economy. Using the Takens' embedding and the sliding window's technique, we detect transient loops that appear in a topological space associated with financial time series and measure their persistence. The latter is encoded in L-p-norms of real-valued functions referred to as "persistence landscapes''. We study the impact of hyperparameters of the method - the size of a rolling window and the dimensionality of the Takens' embedding - by conducting Monte Carlo simulations with synthetic time series sampled from the Student's t-distribution with varying degrees of freedom. These numeric experiments reveal that the average value of L-1-norm is growing with a rising size of a sliding window and dimensionality of embedding. This finding drives the choice of hyperparameters of the method applied to financial time series. We collect significant evidence that the variance of L1-norm derived from daily log-returns of the sector-level aggregates of credit default swap (CDS) spreads with the sliding window of 50 days and 4D embedding can serve as a leading indicator of an approaching financial crash caused by endogenous market forces and that the equity market lagged the CDS market in this discovery. (C) 2021 Elsevier B.V. All rights reserved.
+WOS:000632566200005
+</snippet>
+</document>
+
+<document id="30">
+<title>Prediction of the Stock Market From Linguistic Phrases: A Deep Neural Network Approach</title>
+<url>http://dx.doi.org/10.4018/JDM.322020</url>
+<snippet>Automation of financial data collection, generation, accumulation, and interpretation for decision making may reduce volatility in the stock market and increase liquidity occasionally. Thus, future markets' prediction factoring in the sentiment of investors and algorithmic traders is an exciting area for research with deep learning techniques emerging to understand the market and its future direction. The paper develops two FINBERT deep neural network models pre-trained on the financial phrase dataset, the first one to extract sentiment from the NSE market news. The second model is adopted to predict the stock market movement of NSE with the above sentiment, historical stock prices, return on investment, and risk as predictors. The accuracy is compared with RNN and LSTM and baseline machine learning classifiers like naive bayes and support vector machine (SVM). The accuracy of the FINBERT model is found to out-perform the deep learning algorithms and above baseline machine learning classifiers thus justifying the importance of the FINBERT model in stock market prediction.
+WOS:000999494000006
+</snippet>
+</document>
+
+<document id="31">
+<title>Network-Based prediction of financial cross-sector risk spillover in China: A deep learning approach</title>
+<url>http://dx.doi.org/10.1016/j.najef.2024.102151</url>
+<snippet>There are complex risk correlations between financial sectors, and the risks generated by different financial sectors propagate, accrue, and cluster through the network of correlations, posing a threat to the entire financial system. This research constructs static and dynamic cross -sector risk spillover networks using VAR and generalized variance decomposition, and forecasts the evolution of risk spillover networks using recurrent neural network models such as RNN and LSTM. The results indicate that the risk spillover network will change rapidly in response to risk events, and that the total volatility spillover will increase during times of crisis, while banks and securities are the most important risk propagating and receiving sectors. The LSTM model can achieve more effective dynamic prediction of the multidimensional network, and the predicted network is essentially consistent with the actual network. According to the findings of the study, forecasting changes in the structure of financial sector networks may provide early warning of systemic financial risk and assist to a better understanding of the risk link between financial sectors.
+WOS:001222022200002
+</snippet>
+</document>
+
+<document id="32">
+<title>StockPred: a framework for stock Price prediction</title>
+<url>http://dx.doi.org/10.1007/s11042-021-10579-8</url>
+<snippet>Recently, Stock Price prediction becomes a significant practical aspect of the economic arena. The stock price prediction is generally considered as one of the most exciting challenges due to the noise and volatility characteristics of stock market behavior. Therefore, this paper proposes a framework to address these challenges and efficiently predicting stock price using learning models such as Long Short Term Memory (LSTM), Convolutional Neural Network (CNN), Support Vector Machine (SVM), Linear Regression, Logistic Regression, K-Neighbors, Decision Tree, Random Forest, Stacked-LSTM, and Bidirectional-LSTM. Numerous experiments with different scenarios are performed to evaluate the projected framework with the stock price dataset. The results demonstrate that the applied models within the framework such as the CNN model outperformed the other models in stock price prediction at different circumstances based on several evaluation metrics like R-Square (R2), Root Mean Square Error (RMSE), Root Mean Square (RMS), Mean Square Error (MSE), Mean Average Error (MAE) and Mean Average Percentage Error (MAPE).
+WOS:000617415000003
+</snippet>
+</document>
+
+<document id="33">
+<title>Understanding Changes in the Topology and Geometry of Financial Market Correlations during a Market Crash</title>
+<url>http://dx.doi.org/10.3390/e23091211</url>
+<snippet>In econophysics, the achievements of information filtering methods over the past 20 years, such as the minimal spanning tree (MST) by Mantegna and the planar maximally filtered graph (PMFG) by Tumminello et al., should be celebrated. Here, we show how one can systematically improve upon this paradigm along two separate directions. First, we used topological data analysis (TDA) to extend the notions of nodes and links in networks to faces, tetrahedrons, or k-simplices in simplicial complexes. Second, we used the Ollivier-Ricci curvature (ORC) to acquire geometric information that cannot be provided by simple information filtering. In this sense, MSTs and PMFGs are but first steps to revealing the topological backbones of financial networks. This is something that TDA can elucidate more fully, following which the ORC can help us flesh out the geometry of financial networks. We applied these two approaches to a recent stock market crash in Taiwan and found that, beyond fusions and fissions, other non-fusion/fission processes such as cavitation, annihilation, rupture, healing, and puncture might also be important. We also successfully identified neck regions that emerged during the crash, based on their negative ORCs, and performed a case study on one such neck region.
+WOS:000700638600001
+</snippet>
+</document>
+
+<document id="34">
+<title>Forecasting nonlinear green bond yields in China: Deep learning for improved accuracy and policy awareness</title>
+<url>http://dx.doi.org/10.1016/j.frl.2025.107889</url>
+<snippet>This study develops a convolutional neural network bidirectional long short-term memory model with an attention mechanism to forecast yields in China's green bond market. The model incorporates macroeconomic indicators, financial variables, policy factors, and issuer heterogeneity to enhance predictive accuracy. Empirical results show the model outperforms traditional approaches in point forecasting. It also offers superior robustness under identical confidence levels, increasing its utility for risk management and policy assessment in green finance. It is a practical tool for regulators, investors, and issuers.
+WOS:001529318200006
+</snippet>
+</document>
+
+<document id="35">
+<title>An improved K-means algorithm based on persistent homology</title>
+<url>http://dx.doi.org/10.1016/j.jocs.2025.102680</url>
+<snippet>The traditional K-means algorithm has several limitations, including sensitivity to initial center, unstable clustering results, local optimal clustering results, and a large number of iterations. In this paper, we propose an improved clustering algorithm called PH-K-means that utilizes the persistent homology to identify k clusters in the data set. The algorithm calculates the length of the longest Betti number to obtain k Betti numbers, which represent the k clusters respectively. The data is then output in k Betty numbers, and the average value of the data in each Betti number is used as the initialization center of k clusters. The algorithm iterates until the difference of the square sum of the errors in the adjacent two clusters is less than the threshold value. The PH-K-means algorithm is tested on seven common data sets, and the results show that it has high accuracy, stable clustering results, and requires fewer iterations than traditional K-means, K-means++, UK-means, and K-means algorithms.
+WOS:001545707000001
+</snippet>
+</document>
+
+<document id="36">
+<title>Multilayer topology-aware graph contrastive learning for fraud detection in the Ethereum transaction network</title>
+<url>http://dx.doi.org/10.1093/jrsssa/qnaf135</url>
+<snippet>Fraud detection in blockchain networks presents unique challenges due to the decentralized and pseudonymous nature of transactions. This study introduces a novel Multilayer Topology-Aware Graph Contrastive Learning (MTGCL) framework to detect fraudulent activity within the Ethereum transaction network. The proposed approach leverages node-level and topology-level representations, integrating persistent homology to capture high-order structural patterns and enhance anomaly detection. By employing adaptive graph augmentation and self-supervised contrastive learning, MTGCL effectively improves fraud detection performance. Empirical evaluations demonstrate that MTGCL outperforms existing graph contrastive learning models in classification accuracy across multiple time periods while maintaining competitive computational efficiency. The framework also exhibits scalability for large-scale blockchain analysis, achieving lower computational costs compared with other baselines methods. These findings highlight MTGCL's potential for real-world applications, offering valuable insights for financial institutions, cryptocurrency exchanges, regulatory bodies, and blockchain analytics firms in combating fraudulent activities and enhancing anti-money laundering compliance.
+WOS:001565723600001
+</snippet>
+</document>
+
+<document id="37">
+<title>Enhancing Stock Price Forecasting With a Hybrid SES-DA-BiLSTM-BO Model: Superior Accuracy in High-Frequency Financial Data Analysis</title>
+<url>http://dx.doi.org/10.1109/ACCESS.2024.3502175</url>
+<snippet>Stock price forecasting is a critical component of financial market analysis and plays a key role in formulating investment strategies, affecting a wide range of stakeholders. To address the inherent complexities and dynamic fluctuations in stock prices, innovative modeling techniques are required. Deep Learning (DL) approaches, particularly Recurrent Neural Networks (RNNs) and Long Short-Term Memory (LSTM) networks, have shown notable promise in enhancing prediction accuracy for stock prices. This study introduces a novel hybrid Single Exponential Smoothing with Dual Attention based Bi-directional LSTM optimize with Bayesian Optimization (SES-DA-BiLSTM-BO) designed to predict future stock prices accurately using Life Insurance Corporation of India (LIC) stock price dataset with 1-minute, 3-minute, and 10-minute intervals. The model aims to forecast stock prices, identify market trends, and reveal influential factors more effectively. The performance of the proposed SES-DA-BiLSTM-BO model was evaluated using key metrics: Directional Accuracy (DA=0.4816), Mean Absolute Percentage Error (MAPE=0.0006), Win/Loss Ratio (WLR=0.7517), and Theil's U-Statistic (TUS=0.0006). These results demonstrate its superior performance compared to traditional models such as Moving Average (MA), Auto-Regressive (AR), Auto-Regressive Moving Average (ARMA), Auto-Regressive Integrated Moving Average (ARIMA), Single Exponential Smoothing (SES) and LSTM models. By outperforming baseline model on various error metrics, the proposed SES-DA-BiLSTM-BO hybrid model exhibits improved predictive capabilities and lower loss functions, making its highly reliable for forecasting stock prices under diverse market conditions. The integration of statistical methods with deep learning in this hybrid approach offers a scalable and efficient solution for optimizing investment strategies, enhancing market efficiency, and contributing to economic stability by reducing the impact of market volatility.
+WOS:001409550200015
+</snippet>
+</document>
+
+<document id="38">
+<title>A Statistical Recurrent Stochastic Volatility Model for Stock Markets</title>
+<url>http://dx.doi.org/10.1080/07350015.2022.2028631</url>
+<snippet>The stochastic volatility (SV) model and its variants are widely used in the financial sector, while recurrent neural network (RNN) models are successfully used in many large-scale industrial applications of deep learning. We combine these two methods in a nontrivial way and propose a model, which we call the statistical recurrent stochastic volatility (SR-SV) model, to capture the dynamics of stochastic volatility. The proposed model is able to capture complex volatility effects, for example, nonlinearity and long-memory auto-dependence, overlooked by the conventional SV models, is statistically interpretable and has an impressive out-of-sample forecast performance. These properties are carefully discussed and illustrated through extensive simulation studies and applications to five international stock index datasets: the German stock index DAX30, the Hong Kong stock index HSI50, the France market index CAC40, the U.S. stock market index SP500 and the Canada market index TSX250. An user-friendly software package together with the examples reported in the article are available at https://github.com/vbayeslab.
+WOS:000762124700001
+</snippet>
+</document>
+
+<document id="39">
+<title>Uncertainty, volatility and the persistence norms of financial time series</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2023.119894</url>
+<snippet>Norms of Persistent Homology, introduced in topological data analysis, are indicators of system instability, analogous to the changing predictability that is captured in financial market uncertainty indexes. Differen-tiating observed and unobserved measures of uncertainty, this paper demonstrates a contemporaneous link between persistence norms and uncertainty of all known types. Extending to a dynamic modelling framework provides evidence that unobserved uncertainty Granger causes persistence norms. Further, study of dynamic correlations between persistence norms, volatility and unobserved uncertainty shows that correlations between unobserved uncertainty and persistence norms increase ahead of market crashes. Evidence from the dynamic analysis of the persistence norm-uncertainty relationship provided herein supports the early conclusion that persistence norms provide a signal of impending market crashes. Persistence norms therefore have potential as a further tool in asset pricing, capturing signals from financial time series beyond volatility.
+WOS:000972018200001
+</snippet>
+</document>
+
+<document id="40">
+<title>Volatility forecasting for stock market incorporating macroeconomic variables based on GARCH-MIDAS and deep learning models</title>
+<url>http://dx.doi.org/10.1002/for.2899</url>
+<snippet>Empirical experiments have shown that macroeconomic variables can affect the volatility of stock market. However, the frequencies of macroeconomic variables are low and different from the stock market volatility, and few literature considers the low-frequency macroeconomic variables as input indicators for deep learning models. In this paper, we forecast the stock market volatility incorporating low-frequency macroeconomic variables based on a hybrid model integrating the deep learning method with generalized autoregressive conditional heteroskedasticity and mixed data sampling (GARCH-MIDAS) model to process the mixing frequency data. This paper firstly takes macroeconomic variables as exogenous variables then uses the GARCH-MIDAS model to deal with the problem of different frequencies between the macroeconomic variables and stock market volatility and to forecast the short-term volatility and finally takes the predicted short-term volatility as the input indicator into machine learning and deep learning models to forecast the realized volatility of stock market. It is found that adding macroeconomic variables can significantly improve the forecasting ability in the comparison of the forecasting effects of the same model before and after adding the macroeconomic variables. Additionally, in the comparison of the forecasting effects among different models, it is also found that the forecasting effect of the deep learning model is the best, the machine learning model is worse, and the traditional econometric model is the worst.
+WOS:000836894800001
+</snippet>
+</document>
+
+<document id="41">
+<title>FinTDA: Python package for estimating market change through persistent homology diagrams</title>
+<url>http://dx.doi.org/10.1016/j.simpa.2024.100637</url>
+<snippet>This paper presents a user-friendly version of Persistent Homology (PH) graph code to model financial market structures and changes. By leveraging Topological Data Analysis (TDA), the code offers an effective approach for analyzing high-dimensional stock data, enabling the identification of persistent topological features indicative of market changes. The code's potential applications in financial stability prediction, investment strategy development, and educational advancement are discussed. This contribution aims to facilitate the adoption of PH techniques in finance, promising significant implications for academic research and practical market analysis.
+WOS:001224064800001
+</snippet>
+</document>
+
+<document id="42">
+<title>Wasserstein distance loss function for financial time series deep learning</title>
+<url>http://dx.doi.org/10.1016/j.simpa.2024.100639</url>
+<snippet>This paper presents user-friendly code for the implementation of a loss function for neural network time series models that exploits the topological structures of financial data. By leveraging the recently-discovered presence of topological features present in financial time series data, the code offers a more effective approach for creating forecasting models for such data given the fact that it allows neural network models to not only learn temporal patterns of the data, but also topological patterns. This paper aims to facilitate the adoption of the loss function proposed by Souto and Moradi (2024a) in financial time series by practitioners and researchers.
+WOS:001226911900001
+</snippet>
+</document>
+
+<document id="43">
+<title>The better turbulence index? Forecasting adverse financial markets regimes with persistent homology</title>
+<url>http://dx.doi.org/10.1007/s11408-020-00377-x</url>
+<snippet>Persistent homology is the workhorse of modern topological data analysis, which in recent years becomes increasingly powerful due to methodological and computing power advances. In this paper, after equipping the reader with the relevant background on persistent homology, we show how this tool can be harnessed for investment purposes. Specifically, we propose a persistent homology-based turbulence index for the detection of adverse market regimes. With the help of an out-of-sample study, we demonstrate that investment strategies relying on a persistent homology-based turbulence detection outperform investment strategies based on other popular turbulence indices. Additionally, we conduct a stability analysis of our findings. This analysis confirms the results from the previous out-of-sample study, as the outperformance prevails for most configurations of the respective investment strategy and thereby mitigating possible data mining concerns.
+WOS:000617444300001
+</snippet>
+</document>
+
+<document id="44">
+<title>HyBiLSTM: Multivariate Bitcoin Price Forecasting Using Hybrid Time-Series Models With Bidirectional LSTM</title>
+<url>http://dx.doi.org/10.1109/ACCESS.2024.3386029</url>
+<snippet>Despite their growing popularity in recent research, most hybrid models that harness the strengths of both classical time-series analysis and deep learning models have been explored within the univariate forecasting context. In the econometric domain, where exogenous factors play a crucial role; there is a pressing need for more studies focusing on multivariate forecasting. This paper introduces a novel hybrid model, HyBiLSTM. It integrates an ARIMAX GARCHX model for initial forecasting, followed by a second forecasting phase that addresses the residuals using a bidirectional long short-term memory model optimized through grey wolf optimization algorithm. The final forecast is a composite derived from both models. Three quantitative metrics (mean absolute error, root mean square error, and mean absolute percentage error) assessed the model performance using data that spanned social and economic variables from July 1, 2019, to December 31, 2022. The results revealed several key findings: 1) The addition of exogenous factors improved the performance of the ARIMA and GARCH models. 2) The BiLSTM variant outperformed other LSTM variants when combined with the ARIMAX GARCHX model. 3) An analysis using Shapley additive explanations indicated that bitcoin price was influenced by stock prices, Twitter volume, gold prices, and the Twitter sentiment index. 4) The presence of a structural break had a significant effect on the model's forecasting accuracy. Beyond expanding the academic literature on hybrid models within a multivariate context, this offers valuable practical insights for investors. Specifically, it analyzes various factors that could serve as early indicators of bitcoin price fluctuations.
+WOS:001204859300001
+</snippet>
+</document>
+
+<document id="45">
+<title>Causality analysis of COVID-19-induced crashes in stock and commodity markets: A topological perspective</title>
+<url>http://dx.doi.org/10.1142/S0129183126500221</url>
+<snippet>In this paper, we present a topology-inspired framework for analyzing the causal behavior of financial markets and sectors, especially during market crises. By utilizing topological data analysis (TDA) on multiple time series, we capture the evolving topological structure of stock and commodity markets through a characteristic measure - the Wasserstein distance (&amp; Wscr;&amp; Dscr;) - which reflects the complex interactions among constituent assets. After observing the crashes due to COVID-19 in both markets and sectors, we directly compare the topologies among market and sector pairs. A significant topological difference between the markets (and sectors) during the crash period indicates a possible temporal lag between the change in market dynamics. Hence, we study the Granger-causal relations between the market (and sector) pairs using the TDA-based &amp; Wscr;&amp; Dscr;. The results reveal a shift from unidirectional causality (stock -&gt; commodity) in normal periods to bidirectional causality during the crash. Our sectoral analysis reveals a surge in interconnections and reinforcing feedback loops during the crash, with diminished linkages post-crash. This indicates crisis-driven synchronization, heightened interdependence and amplified systemic risk during the crash period. This study demonstrates that TDA, combined with Granger-causality, offers a powerful approach to analyzing inter-market and inter-sector dependencies, detecting shifts in market behavior, and assessing systemic vulnerability for broader markets and sectors.
+WOS:001582899500001
+</snippet>
+</document>
+
+<document id="46">
+<title>DEEP NEURAL NETWORKS METHODS FOR ESTIMATING MARKET MICROSTRUCTURE AND SPECULATIVE ATTACKS MODELS: THE CASE OF GOVERNMENT BOND MARKET</title>
+<url>http://dx.doi.org/10.1142/S0217590822480034</url>
+<snippet>A sovereign bond market offers a wide range of opportunities for public and private sector financing and has drawn the interest of both scholars and professionals as they are the main instrument of most fixed-income asset markets. Numerous works have studied the behavior of sovereign bonds at the microeconomic level, given that a domestic securities market can enhance overall financial stability and improve financial market intermediation. Nevertheless, they do not deepen methods that identify liquidity risks in bond markets. This study introduces a new model for predicting unexpected situations of speculative attacks in the government bond market, applying methods of deep learning neural networks, which proactively identify and quantify financial market risks. Our approach has a strong impact in anticipating possible speculative actions against the sovereign bond market and liquidity risks, so the aspect of the potential effect on the systemic risk is of high importance.
+WOS:000885903400003
+</snippet>
+</document>
+
+<document id="47">
+<title>Modeling and forecasting aggregate stock market volatility in unstable environments using mixture innovation regressions</title>
+<url>http://dx.doi.org/10.1002/for.2466</url>
+<snippet>We perform Bayesian model averaging across different regressions selected from a set of predictors that includes lags of realized volatility, financial and macroeconomic variables. In our model average, we entertain different channels of instability by either incorporating breaks in the regression coefficients of each individual model within our model average, breaks in the conditional error variance, or both. Changes in these parameters are driven by mixture distributions for state innovations (MIA) of linear Gaussian state-space models. This framework allows us to compare models that assume small and frequent as well as models that assume large but rare changes in the conditional mean and variance parameters. Results using S&amp;P 500 monthly and quarterly realized volatility data from 1960 to 2014 suggest that Bayesian model averaging in combination with breaks in the regression coefficients and the error variance through MIA dynamics generates statistically significantly more accurate forecasts than the benchmark autoregressive model. However, compared to a MIA autoregression with breaks in the regression coefficients and the error variance, we fail to provide any drastic improvements.
+WOS:000407647500008
+</snippet>
+</document>
+
+<document id="48">
+<title>Topological variability in financial markets</title>
+<url>http://dx.doi.org/10.3934/QFE.2023019</url>
+<snippet>We investigate market crashes and downturns through the lens of persistent homology and persistence landscape norms. Using individual stock price data from Yahoo! Finance, we find that the variation in the persistence landscape norm as well as other measures of persistence exhibit a marked increase followed by a decline prior to historic incidents. We show that basic descriptions of persistent homology may be useful in addition to more sophisticated tools like the persistence landscape norm.
+WOS:001050612600001
+</snippet>
+</document>
+
+<document id="49">
+<title>Early warning signals of financial crises using persistent homology</title>
+<url>http://dx.doi.org/10.1016/j.physa.2021.126459</url>
+<snippet>This study examines persistent homology to detect early warning signals of financial crises in the United States, Singapore, and Malaysia markets. Persistent homology is applied to obtain a L-1-norm time series, which is then associated with critical slowing down indicators (autocorrelation function at lag 1, variance, and mean power spectrum at low frequencies). Mann-Kendall test is used to anticipate the rising trend in the indicators before financial crises. Significance, structural break, and sensitivity tests are added to validate the method's robustness. Further, we compare the L-1-norms with another representative called residual time series. In our findings, three methods, namely mean power spectrums at low frequencies of the L-1-norms, variances of the residuals and mean power spectrums at low frequencies of the residuals consistently provide a period of significant rising trends and breakpoints before the Dotcom crash and Lehman Brothers bankruptcy in all markets. The outcome indicates their potential as an early warning detection tool. However, these methods depend on their parameters. Despite the dependency, we further analyze these methods by determining the threshold to cover entire trading days and record their performance based on two classification scores (probability of successful anticipation and probability of erroneous anticipation). Overall, the mean power spectrums at low frequencies of the residuals is the finest method to detect early warning signals of financial crises in all markets. It is closely followed by the mean power spectrums at low frequencies of the L-1-norms, which has obtained better scores than the variances of the residuals in the US and Singapore, except for Malaysia. Besides the residuals, our study demonstrates that the L-1-norms obtained from persistent homology also is a meaningful representation to detect early warning signals. In general, this study offers a framework to determine early warning signals of financial crises for risk management purposes. (C) 2021 Elsevier B.V. All rights reserved.
+WOS:000709121400008
+</snippet>
+</document>
+
+<document id="50">
+<title>A comparative study of symbolic aggregate approximation and topological data analysis</title>
+<url>http://dx.doi.org/10.3934/QFE.2024027</url>
+<snippet>The movement of stocks is often perceived as random due to the complex interactions between different stocks and the inherently chaotic nature of the market. This study investigated the similarity in stock movements across multiple industry sectors in Europe. Specifically, we applied topological data analysis (TDA) to analyze stock time series data and compared the results with those obtained using an expanded form of a more classical time series analysis method, symbolic aggregate approximation (SAX). Our findings indicated that while TDA offered detailed insights into "local" stock movements, SAX was more effective in capturing broader trends in financial markets, where less detail was required, making it suitable for portfolio optimization. We also presented an extension of SAX that incorporated volatility measures, improving its performance in highly volatile markets.
+WOS:001347102000001
+</snippet>
+</document>
+
+<document id="51">
+<title>Predicting macro-financial instability-How relevant is sentiment? Evidence from long short-term memory networks</title>
+<url>http://dx.doi.org/10.1016/j.ribaf.2023.101912</url>
+<snippet>This paper examines the relevance of sentiment in predicting overall financial system instability using long-run short-term memory networks. Weekly data on the US financial system, consumer sentiment, producer sentiment, and investor sentiment is collected from 21 January 1994 to 27 December 2019, and different models are developed to predict the one-week-ahead levels of financial stress in the US financial system. We find that models using sentiment indices outper-form those relying solely on historical financial stress and risk data. This result is robust to comparisons with an alternative deep learning method and out-of-sample predictions. It consti-tutes an argument in favor of behavioral finance and Minsky's (Knell, 2015) financial instability hypothesis against the Efficient Market Hypothesis. As it concretely identifies the main indicators for predicting US financial stress one week in advance, the study provides relevant recommen-dations for policymakers and investors in terms of macroprudential policies and portfolio management.
+WOS:000957675800001
+</snippet>
+</document>
+
+<document id="52">
+<title>Discontinuous movements and asymmetries in cryptocurrency markets</title>
+<url>http://dx.doi.org/10.1080/1351847X.2021.2015416</url>
+<snippet>This paper proposes a novel asymmetric jump model for modeling interactions in discontinuous movements in asset prices. Given the jump behavior and high volatility levels in cryptocurrency markets, we apply our model to cryptocurrencies to study the impact of various types of jumps occurring in one cryptocurrency's price process on the discontinuity component of the realized volatility of other cryptocurrencies. Our model also allows us to assess the impact of co-jumps. Using high-frequency data to compute the daily realized volatility, we show that downside, upside, and small jumps observed in cryptocurrencies negatively affect the jump component of other cryptocurrencies' realized volatility, while large jumps have the opposite effect. We further find significant asymmetric effects between small and large as well as between downside and upside jumps for several cryptocurrencies. Moreover, we find evidence of co-jumping behavior, which can trigger future jumps. The practical implications of our findings are also discussed. Finally, we extend our analysis to study the effects of jumps in mainstream financial assets on cryptocurrencies' jump behavior and find that upside and downside jumps observed in the S&amp;P 500 index negatively impact cryptocurrency jumps.
+WOS:000753206400001
+</snippet>
+</document>
+
+</searchresult>

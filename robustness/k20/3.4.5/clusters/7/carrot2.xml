@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchresult>
+<query>Global</query>
+<document id="1">
+<title>Can transformers transform financial forecasting?</title>
+<url>http://dx.doi.org/10.1108/CFRI-01-2024-0032</url>
+<snippet>Purpose This study aims to critically evaluate the competitiveness of Transformer-based models in financial forecasting, specifically in the context of stock realized volatility forecasting. It seeks to challenge and extend upon the assertions of Zeng et al. (2023) regarding the purported limitations of these models in handling temporal information in financial time series. Design/methodology/approach Employing a robust methodological framework, the study systematically compares a range of Transformer models, including first-generation and advanced iterations like Informer, Autoformer, and PatchTST, against benchmark models (HAR, NBEATSx, NHITS, and TimesNet). The evaluation encompasses 80 different stocks, four error metrics, four statistical tests, and three robustness tests designed to reflect diverse market conditions and data availability scenarios. Findings The research uncovers that while first-generation Transformer models, like TFT, underperform in financial forecasting, second-generation models like Informer, Autoformer, and PatchTST demonstrate remarkable efficacy, especially in scenarios characterized by limited historical data and market volatility. The study also highlights the nuanced performance of these models across different forecasting horizons and error metrics, showcasing their potential as robust tools in financial forecasting, which contradicts the findings of Zeng et al. (2023) Originality/value This paper contributes to the financial forecasting literature by providing a comprehensive analysis of the applicability of Transformer-based models in this domain. It offers new insights into the capabilities of these models, especially their adaptability to different market conditions and forecasting requirements, challenging the existing skepticism created by Zeng et al. (2023) about their utility in financial forecasting.
+WOS:001250609400001
+</snippet>
+</document>
+
+<document id="2">
+<title>Forecasting the high-frequency volatility based on the LSTM-HIT model</title>
+<url>http://dx.doi.org/10.1002/for.3078</url>
+<snippet>Volatility forecasting from high-frequency data plays a crucial role in many financial fields, such as risk management, option pricing, and portfolio management. Many existing statistical models could better describe and forecast the characteristics of volatility, whereas they do not simultaneously account for the long-term memory of volatility, the nonlinear characteristics of high-frequency data, and technical index information during the modeling phase. The purpose of this paper is to use the prediction advantage of deep learning long short-term memory (LSTM) model to predict the volatility fusing three classes of information, that is, high frequency realized volatility (H), technical indicators (I), and the parameters of generalized autoregression conditional heteroskedasticity(GARCH), heterogeneous autoregressive (HAR), and c, resulting in a novel LSTM-HIT model to forecast realized volatility. We employ the extreme value theory (EVT) of a semiparametric method to estimate the quantile of standardized return and construct the LSTM-HIT-EVT model to forecast the value at risk (VaR). Empirical results show that the LSTM-HIT model provides the most accurate volatility forecast among the various considered models and that the LSTM-HIT-EVT model yields forecasts more accurate than other VaR models.
+WOS:001163894500001
+</snippet>
+</document>
+
+<document id="3">
+<title>Financial distress prediction in emerging markets by using a machine learning approach for financial sustainability</title>
+<url>http://dx.doi.org/10.1007/s43621-025-02199-1</url>
+<snippet>The present study investigates machine-learning approaches to predicting financial distress among Indonesian firms using annual data for 325 companies (2013-2023 3575 observations). The feature set comprises financial and operational predictors, in addition to a binary outcome indicator of distress. In order to mitigate severe class imbalance driven by the rarity of distress events, the Synthetic Minority Over-sampling Technique (SMOTE) is applied within training folds, while the validation and test sets are left untouched in order to avoid leakage. Principal Component Analysis (PCA) facilitates exploratory visualisation. The performance of Support Vector Machine (SVM), Decision Tree, Random Forest, k-Nearest Neighbors (KNN), Gradient Boosting, and a deep neural network (ANN/MLP) is benchmarked under a stratified evaluation protocol. Among conventional models, the Decision Tree demonstrates the strongest F1 performance (0.8980), followed closely by Gradient Boosting (0.8627) and Random Forest (0.8462). In the case of the deep model, the best configuration (50 neurons, Sigmoid activation, 100 epochs, batch size 8) achieved 99.20&#37; accuracy and an F1-score of 0.95, indicating robust minority-class detection alongside high overall correctness. The findings underscore the effectiveness of ensemble learners and optimally tuned deep neural networks in predicting financial distress in the context of emerging markets. The study's practical relevance aligns with the Development Goal (SDG) 8: Decent Work and Economic Growth, the earlier and more reliable detection of financial distress can help firms take preventive actions that reduce job losses and operational disruptions, Allowing businesses to predict and act upon their financial challenges, this study nurtures resilience and sustainable development within the corporate sector, the main driver of economic activities. Besides, addressing financial distress in an emerging market like Emerging Markets contributes to inclusive economic development through stability that helps workers, shareholders, and communities dependent on such businesses.
+WOS:001622327900001
+</snippet>
+</document>
+
+<document id="4">
+<title>Long memory version of stochastic volatility jump-diffusion model with stochastic intensity</title>
+<url>http://dx.doi.org/10.25115/eea.v38i2.2915</url>
+<snippet>It is widely accepted that certain financial data exhibit long range dependence. We consider a fractional stochastic volatility jump difiusion model in which the stock price follows a double exponential jump difiusion process with volatility described by a long memory stochastic process and intensity rate expressed by an ordinary Cox, Ingersoll, and Ross (CIR) process. By calibrating the model with real data, we examine the performance of the model and also, we illustrate the role of long range dependence property by comparing our presented model with the Heston model.
+WOS:000579819200003
+</snippet>
+</document>
+
+<document id="5">
+<title>Asymmetric Reinforcement Learning and Conditioned Responses During the 2007-2009 Global Financial Crisis: Evidence from Taiwan</title>
+<url>http://dx.doi.org/10.1142/S0219091517500102</url>
+<snippet>This study applies self-developed models using standardized regression analysis to investigate the learning behavior associated with investor sentiment and psychological pitfalls during the 2007-2009 Global Financial Crisis. The empirical results, which draw on reinforcement learning and classical conditioning perspectives, reveal asymmetric reinforcement learning behavior because investors report a higher tendency to avoid past unfavorable outcomes rather than repeat past favorable outcomes. The evidence also supports the conditioned response of psychological pitfalls to the Taiwanese government's stimulus measures during 2007-2009;however, no concrete evidence supports the conditioned response of investor sentiment.
+WOS:000404897100003
+</snippet>
+</document>
+
+<document id="6">
+<title>Rational bubbles in the stock market: Accounting for the US stock-price volatility</title>
+<url>http://dx.doi.org/</url>
+<snippet>Can rational stochastic asset bubbles help explain the excess volatility of stock prices? The bubble considered here is treated as an unobserved state vector in the state-space model and is easily estimated using the Kalman filter. I find that the bubble components estimated account for a substantial portion of U.S. stock prices, and the model does a credible job in fitting the data, especially during several bull and bear markets in this century. Much of the deviation of stock prices from the present-value model are captured by the bubble.
+WOS:A1997WU82800009
+</snippet>
+</document>
+
+<document id="7">
+<title>A New Hybrid VMD-ICSS-BiGRU Approach for Gold Futures Price Forecasting and Algorithmic Trading</title>
+<url>http://dx.doi.org/10.1109/TCSS.2021.3084847</url>
+<snippet>The gold market plays a vital role in the world economy. Due to its complex and nonstationary nature, predicting the price of gold is particularly challenging. In this study, a new hybrid forecasting approach named variational mode decomposition (VMD)-iterated cumulative sums of squares (ICSS)-bidirectional gated recurrent unit (BiGRU) is proposed by integrating BiGRU deep learning model, VMD, and iterated cumulative sum of squares algorithm. The forecasting framework is able to extract the inner factors and patterns within the gold futures market movements, decompose its correlation with external markets and detect shifts within market conditions in order to accurately predict price movements in the gold futures market. The experimental results show that the hybrid forecasting approach can improve the prediction performance significantly in comparison to the benchmarks. Furthermore, we extend the proposed hybrid forecasting approach to generate trading strategies and test trading performance of the gold futures market. The testing results over an out-of-sample period of 11 years (2008-2019) indicate that the strategy generated based on the prediction of the proposed approach displays high levels of consistency in generating positive returns and outperforms several other common trading strategies under various market conditions. The approach also shows consistent better results when generalized to the spot gold market, providing practical guidance for minimizing investment risk and hedging strategies in the gold commodity market.
+WOS:000724478300012
+</snippet>
+</document>
+
+<document id="8">
+<title>Machine Learning vs. Economic Restrictions: Evidence from Stock Return Predictability</title>
+<url>http://dx.doi.org/10.1287/mnsc.2022.4449</url>
+<snippet>This paper shows that investments based on deep learning signals extract profitability from difficult-to-arbitrage stocks and during high limits-to-arbitrage market states. In particular, excluding microcaps, distressed stocks, or episodes of high market volatility considerably attenuates profitability. Machine learning-based performance further deteriorates in the presence of reasonable trading costs because of high turnover and extreme positions in the tangency portfolio implied by the pricing kernel. Despite their opaque nature, machine learning methods successfully identify mispriced stocks consistent with most anomalies. Beyond economic restrictions, deep learning signals are profitable in long positions and recent years and command low downside risk.
+WOS:000827160700001
+</snippet>
+</document>
+
+<document id="9">
+<title>FIRE SALES FORENSICS: MEASURING ENDOGENOUS RISK</title>
+<url>http://dx.doi.org/10.1111/mafi.12071</url>
+<snippet>We propose a tractable framework for quantifying the impact of loss-triggered fire sales on portfolio risk, in a multi-asset setting. We derive analytical expressions for the impact of fire sales on the realized volatility and correlations of asset returns in a fire sales scenario and show that our results provide a quantitative explanation for the spikes in volatility and correlations observed during such deleveraging episodes. These results are then used to develop an econometric framework for the forensic analysis of fire sales episodes, using observations of market prices. We give conditions for the identifiability of model parameters from time series of asset prices, propose a statistical test for the presence of fire sales, and an estimator for the magnitude of fire sales in each asset class. Pathwise consistency and large sample properties of the estimator are studied in the high-frequency asymptotic regime. We illustrate our methodology by applying it to the forensic analysis of two recent deleveraging episodes: the Quant Crash of August 2007 and the Great Deleveraging following the default of Lehman Brothers in Fall 2008.
+WOS:000393126400004
+</snippet>
+</document>
+
+<document id="10">
+<title>A Gated Recurrent Unit Approach to Bitcoin Price Prediction</title>
+<url>http://dx.doi.org/10.3390/jrfm13020023</url>
+<snippet>In today's era of big data, deep learning and artificial intelligence have formed the backbone for cryptocurrency portfolio optimization. Researchers have investigated various state of the art machine learning models to predict Bitcoin price and volatility. Machine learning models like recurrent neural network (RNN) and long short-term memory (LSTM) have been shown to perform better than traditional time series models in cryptocurrency price prediction. However, very few studies have applied sequence models with robust feature engineering to predict future pricing. In this study, we investigate a framework with a set of advanced machine learning forecasting methods with a fixed set of exogenous and endogenous factors to predict daily Bitcoin prices. We study and compare different approaches using the root mean squared error (RMSE). Experimental results show that the gated recurring unit (GRU) model with recurrent dropout performs better than popular existing models. We also show that simple trading strategies, when implemented with our proposed GRU model and with proper learning, can lead to financial gain.
+WOS:000519244000005
+</snippet>
+</document>
+
+<document id="11">
+<title>Volatility and value-at-risk forecasting using BERT and transformer models incorporating investors' textual sentiments</title>
+<url>http://dx.doi.org/10.1016/j.frl.2025.108210</url>
+<snippet>Effective risk management contributes to the stability of financial markets. This study investigates how decomposed investor sentiments affect financial volatility, emphasizing the role of sentiment polarity. Using BERT to extract positive and negative sentiment indices from stock forums, we find that negative sentiment has a stronger effect on realized volatility than positive sentiment, reflecting asymmetric investor reactions. Integrating these decomposed sentiment indices with technical indicators into a Transformer model significantly improves the forecasting of both realized volatility and value-at-risk (VaR). Our findings underscore the economic relevance of distinguishing sentiment polarity and offer novel insights into combining fine-grained sentiment features with deep learning for financial risk forecasting.
+WOS:001598056100003
+</snippet>
+</document>
+
+<document id="12">
+<title>Intelligent cryptocurrency trading system using integrated AdaBoost-LSTM with market turbulence knowledge</title>
+<url>http://dx.doi.org/10.1016/j.asoc.2023.110568</url>
+<snippet>The Bitcoin market is firmly positioned as a global asset market. However, due to its extremely high volatility and the lack of a custom Bitcoin trading system, investors find it difficult to establish an effective investment strategy in this market. In this study, we build an intelligent Bitcoin trading system to maximize profitability by predicting the market. We propose a fusion approach combining technology with economic knowledge to achieve accurate predictions. Firstly, we provide an ensemble prediction framework that integrates the AdaBoost algorithm with the LSTM deep learning model as a form of technological convergence. This dramatically improves the predictive performance due to the high representational capacity of LSTM and the overfitting minimization capability of AdaBoost. Secondly, to account for the repeated structural volatility in the market, we combine the econometrics Markov regime-switching model with the AdaBoost-LSTM model to predict the period of market turbulence caused by structural breaks in the regime. Our prediction model suggests that market turbulence lasting longer than 21 days could be a potentially high-risk investment in the future. Finally, we have developed a Bitcoin-customized trading algorithm that maximizes rewards by predicting upward movements in prices and warning of high-risk investments during a long-lasting turbulent regime. In trading tests, our system yielded a cumulative return of 2.4 times and 4.0 times on 1day and 5-day forecasts, respectively, compared to other representative trading strategies such as the stochastic oscillator.
+WOS:001055103900001
+</snippet>
+</document>
+
+<document id="13">
+<title>Mapping the Intellectual Structure of Computational Risk Analytics in Banking and Finance: A Bibliometric and Thematic Evolution Study</title>
+<url>http://dx.doi.org/10.3390/computation13070172</url>
+<snippet>Modern financial practices introduce complex risks, which in turn force financial institutions to rely increasingly on computational risk analytics (CRA). The purpose of our research is to attempt to systematically explore the evolution and intellectual structure of CRA in banking using a detailed bibliometric analysis of the literature sourced from Web of Science from 2000 to 2025. A comprehensive search in the Web of Science (WoS) Core Collection yielded 1083 peer-reviewed publications, which we analyzed using analytical tools like VOSviewer 1.6.20 and Bibliometrix (Biblioshiny 5.0) so as to examine the dataset and uncover bibliometric characteristics like citation patterns, keyword occurrences, and thematic clustering. Our initial analysis results uncover the presence of key research clusters focusing on bankruptcy prediction, AI integration in financial services, and advanced deep learning applications. Furthermore, our findings note a transition of CRA from an emerging to an expanding domain, especially after 2019, with terms like machine learning (ML), artificial intelligence (AI), and deep learning (DL) being identified as prominent keywords and a recent shift towards blockchain, explainability, and financial stability being present. We believe that this study tries to address the need for an updated mapping of CRA, providing valuable insights for future academic inquiry and practical financial risk management applications.
+WOS:001539596400001
+</snippet>
+</document>
+
+<document id="14">
+<title>Improving financial distress prediction using textual sentiment of annual reports</title>
+<url>http://dx.doi.org/10.1007/s10479-022-04633-3</url>
+<snippet>An accurate prediction of financial distress is beneficial to investors and allows banks and other financial institutions to build an early warning system to avoid risk contagion. This study investigated financial distress prediction using textual sentiment extracted from listed firms' annual reports in the Chinese market. The sentiments reflected by the firms' management discussions and analysis (MD&amp;A) sections and audit reports were extracted separately through the application of deep learning algorithms. We found that the sentiment score extracted from MD&amp;A sections was more optimistic compared with that extracted from audit reports. Moreover, the experimental results demonstrated that the modeling performance was significantly improved with the incorporation of textual sentiment scores, and the inclusion of sentiment from audit reports lead to a more significant incremental improvement than that from the MD&amp;A sections. However, when both sentiment scores were included in the modeling input, the improvement in predictive accuracy was insignificant compared to the model using audit report scores only. Our study highlights the predictive power of textual information in annual reports, and shows that the textual sentiment of annual reports should be applied in distress modeling. The results provide implications for the utilization of soft information in credit risk modeling in the context of Chinese market, and such application can be further explored in other areas of operational research studies.
+WOS:000769273200002
+</snippet>
+</document>
+
+<document id="15">
+<title>Do they recall their past? CEOs' liquidity policies across firms as they switch jobs</title>
+<url>http://dx.doi.org/10.1016/j.jbef.2021.100462</url>
+<snippet>The purpose of this paper is to examine any resemblance among the corporate liquidity policies across US firms under the same leadership. The paper extends the literature on behavioral consistency by examining various conditions under which the past could amplify or alter the future. We test the sensitivity of the analysis to the CEO's tenure and resignation status from a firm as well as the previous firm's financial constraint and the cash flow volatility. We find a significantly positive association between the prior and the subsequent firm's cash holdings when they are managed by the same CEO even if they are totally distinct firms. The result strengthens as the CEOs' tenure at the prior institution lengthens that is conditional on it being either financially constrained or having a highly volatile cash flow. The results of this paper show that CEOs' financial decisions are sticky. Therefore, their prior experience and career path might lead to potential policies they might implement at their subsequent firms. 
+WOS:000632618200017
+</snippet>
+</document>
+
+<document id="16">
+<title>An investor sentiment reward-based trading system using Gaussian inverse reinforcement learning algorithm</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2018.07.056</url>
+<snippet>Investor sentiment has been shown as an important factor that influences market returns, and a number of profitable trading systems have been proposed by taking advantage of investor sentiment signals. In this paper, we aim to design an investor sentiment reward-based trading system using Gaussian inverse reinforcement learning method. Our hypothesis is that while markets interact with investor's sentiment, there exists an intrinsic mapping between investor's sentiment and market conditions revealing future market directions. We propose an investor sentiment reward based trading system aimed at extracting only signals that generate either negative or positive market responses. Such a reward extraction mechanism is based not only on market returns but also market volatility representing a succinct and robust feature space. The back-test results show that the proposed sentiment reward-based trading system is superior to various benchmark strategies on S&amp;P 500 index and market-based ETFs as well as few other existing news sentiment-based trading signals. Moreover, we find that sentiment reward trading system is much more effective in a volatile market, but it is sensitive to transaction costs. (C) 2018 Elsevier Ltd. All rights reserved.
+WOS:000446949300029
+</snippet>
+</document>
+
+<document id="17">
+<title>Statistical analysis and applications of financial network data in the era of digital intelligence</title>
+<url>http://dx.doi.org/10.3934/DSFE.2025021</url>
+<snippet>In the era of digital intelligence, financial systems generate vast volumes of financial network data characterized by high frequency, heterogeneity, and rich relational structure, rendering traditional models less effective at capturing the complex, time-varying dynamics of systemic risk. This review synthesized statistical methods and applications for these data along three strands: complex networks to study contagion and connectedness; higher-order and multilayer representations to capture group interactions and cross-market channels; and graph neural networks (GNNs) that fuse topology with rich node-and edge-level attributes for dynamic risk prediction. We outlined identification using network statistics, estimation in time-varying settings, and graph-based stress testing for macro-prudential applications. Open challenges include integrating multimodal data, improving causal interpretability and counterfactual evaluation, and scaling the construction of dynamic higher-order graphs. Advances in explainable GNNs aligned with structural contagion, together with models of spatiotemporal propagation that fuse textual and market-microstructure signals, can materially enhance real-time monitoring, forecasting, and macro-prudential policy design for systemic financial risk.
+WOS:001628685600004
+</snippet>
+</document>
+
+<document id="18">
+<title>Analytic option pricing and risk measures under a regime-switching generalized hyperbolic model with an application to equity-linked insurance</title>
+<url>http://dx.doi.org/10.1080/14697688.2017.1288297</url>
+<snippet>Option pricing and managing equity linked insurance (ELI) require the proper modeling of stock return dynamics. Due to the long duration nature of equity-linked insurance products, a stock return model must be able to deal simultaneously with the preceding stylized facts and the impact of market structure changes. In response, this article proposes stock return dynamics that combine Levy processes in a regime-switching framework. We focus on a non-Gaussian, generalized hyperbolic distribution. We use the most popular linked equity of ELIs, the S&amp;P 500 index, as an example. The empirical study verifies that the proposed regime-switching generalized hyperbolic (RSGH) model gives the best fit to data. In investigating the effects of stock return modeling on pricing and risk management for financial contracts, we derive the characteristic function, embedded option price, and risk measure of equity-linked insurance analytically. More importantly, we demonstrate that the regime-switching generalized hyperbolic (RSGH) model is realistic and can meet the stylistic facts of stock returns, which in turn can be employed in option pricing and risk management decisions.
+WOS:000410906800008
+</snippet>
+</document>
+
+<document id="19">
+<title>The GSO-Deep Learning-based Financial Risk Management System for Rural Economic Development Organization</title>
+<url>http://dx.doi.org/</url>
+<snippet>Financial risk management has always been a key concern for major enterprises. At the same time, with the continuous attention to impoverished rural areas worldwide, financial risk management tools have become an important component of rural economic development organizations to avoid financial risks. With the rapid development of artificial intelligence technologies such as neural networks and deep learning, and due to their strong learning ability, high adaptability, and good portability, some financial risk management tools are gradually adopting technologies such as neural networks and machine learning. However, existing financial risk management tools based on neural networks are mostly developed for large enterprises such as banks or power grid companies, and cannot guarantee their full applicability to rural economic development organizations. Therefore, this study focuses on the financial risk management system used for rural economic development organizations. In order to improve the accuracy of deep learning algorithms in predicting financial risks, this paper designs an improved Glowworm Swarm Optimization (IGSO) algorithm to optimize Deep Neural Networks (DNN). Finally, the effectiveness of the financial risk management tool based on IGSO-DNN proposed in this article was fully validated using data from 45 rural economic development organizations as a test set.
+WOS:001126538000001
+</snippet>
+</document>
+
+<document id="20">
+<title>Forecasting Bitcoin Volatility Spikes From Whale Transactions and CryptoQuant Data Using Synthesizer Transformer Models</title>
+<url>http://dx.doi.org/10.1109/ACCESS.2025.3584243</url>
+<snippet>The cryptocurrency market is highly volatile compared to traditional financial markets. Hence, forecasting its volatility is crucial for risk management. In this paper, we investigate CryptoQuant data (e.g. on-chain analytics, exchange and miner data) and whale-alert tweets, and explore their relationship to Bitcoin's next-day volatility, with a focus on extreme volatility spikes. We propose a deep learning Synthesizer Transformer model for forecasting volatility. Our results show that the model outperforms existing state-of-the-art models when forecasting extreme volatility spikes for Bitcoin using CryptoQuant data as well as whale-alert tweets. We analysed our model with the Captum XAI library to investigate which features are most important. We also backtested our prediction results with different baseline trading strategies and the results show that we are able to minimize drawdown while keeping steady profits. Our findings underscore that the proposed method is a useful tool for forecasting extreme volatility movements in the Bitcoin market.
+WOS:001543412300001
+</snippet>
+</document>
+
+<document id="21">
+<title>Forecasting the realized volatility of Energy Stock Market: A multimodel comparison</title>
+<url>http://dx.doi.org/10.1016/j.najef.2023.101895</url>
+<snippet>The realized volatility forecasting of energy sector stocks facilitates the establishment of corre-sponding risk warning mechanisms and investor decisions. In this paper, we collected two different energy sector indices and used different methods, namely principal component analysis (PCA) and sparse principal component analysis (SPCA), to extract features, and combined LSTM and GRU to construct 12 different models. The results show that the SPCA-LSTM model we constructed has the best forecasting performance in the realized volatility forecasting of energy indices, and SPCA has better forecasting results than PCA in the feature extraction stage. The results of the robustness test indicate that our results are robust.
+WOS:000949475200001
+</snippet>
+</document>
+
+<document id="22">
+<title>Attention is all you need: An interpretable transformer-based asset allocation approach</title>
+<url>http://dx.doi.org/10.1016/j.irfa.2023.102876</url>
+<snippet>Deep learning technology is rapidly adopted in financial market settings. Using a large data set from the Chinese stock market, we propose a return-risk trade-off strategy via a new transformer model. The empirical findings show that these updates, such as the self-attention mechanism in technology, can improve the use of time-series information related to returns and volatility, increase predictability, and capture more economic gains than other nonlinear models, such as LSTM. Our model employs Shapley additive explanations (SHAP) to measure the "economic feature importance" and tabulates the different important features in the prediction process. Finally, we document several economic explanations for the TF model. This paper sheds light on the burgeoning field on asset allocation in the age of big data.
+WOS:001062770300001
+</snippet>
+</document>
+
+<document id="23">
+<title>Forecasting cryptocurrency volatility: a novel framework based on the evolving multiscale graph neural network</title>
+<url>http://dx.doi.org/10.1186/s40854-025-00768-x</url>
+<snippet>Cryptocurrency is a remarkable financial innovation that has affected the financial system in fundamental ways. Its increasingly complex interactions with the conventional financial market make precisely forecasting its volatility increasingly challenging. To this end, we propose a novel framework based on the evolving multiscale graph neural network (EMGNN). Specifically, we embed a graph that depicts the interactions between the cryptocurrency and conventional financial markets into the predictive process. Furthermore, we employ hierarchical evolving graph structure learners to model the dynamic and scale-specific interactions. We also evaluate our framework's robustness and discuss its interpretability by extracting the learned graph structure. The empirical results show that (i) cryptocurrency volatility is not isolated from the conventional market, and the embedded graph can provide effective information for prediction; (ii) the EMGNN-based forecasting framework generally yields outstanding and robust performance in terms of multiple volatility estimators, cryptocurrency samples, forecasting horizons, and evaluation criteria; and (iii) the graph structure in the predictive process varies over time and scales and is well captured by our framework. Overall, our work provides new insights into risk management for market participants and into policy formulation for authorities.
+WOS:001429177800001
+</snippet>
+</document>
+
+<document id="24">
+<title>Effect of the US-China Trade War on Stock Markets: A Financial Contagion Perspective</title>
+<url>http://dx.doi.org/10.1093/jjfinec/nbad016</url>
+<snippet>In this article, to model risk contagion between the U.S. and China stock markets based on high-frequency financial data, we develop a novel continuous-time jump-diffusion process. For example, we consider three channels for volatility contagion-such as integrated volatility, positive jump variation, and negative jump variation-and each stock market is able to affect the other stock market as an overnight risk factor. We develop a quasi-maximum likelihood estimator for model parameters and establish its asymptotic properties. Furthermore, to identify contagion channels and test the existence of a structural break with a known structural break date, we propose hypothesis test procedures. Using the proposed diffusion model with high-frequency financial data, we investigate the effect of the U.S.-China trade war on stock markets from a financial contagion perspective. From the empirical study, we find evidence of financial contagion from the United States to China and evidence that the risk contagion channel has changed from integrated volatility to negative jump variation.
+WOS:001018603500001
+</snippet>
+</document>
+
+<document id="25">
+<title>Attention-enhanced graph neural network for financial distress and bankruptcy risk prediction</title>
+<url>http://dx.doi.org/10.1080/13504851.2025.2491726</url>
+<snippet>Accurate prediction of financial distress and bankruptcy risk is crucial for informed investment decisions and effective risk management. Traditional predictive approaches, which primarily rely on linear models or shallow machine learning techniques, often fail to capture the intricate non-linear interdependencies. To address this limitation, this paper proposes an attention-enhanced graph neural network (AE-GNN) model that integrates an advanced attention mechanism to enhance predictive accuracy. By structuring corporate financial data as a feature-based graph, AE-GNN effectively processes complex financial relationships through graph neural networks, employing feature aggregation and a multi-attention mechanism. Extensive experimental evaluations conducted on three benchmark datasets demonstrate that AE-GNN significantly outperforms traditional models in predictive performance, highlighting its potential as a powerful tool for financial risk assessment.
+WOS:001465426600001
+</snippet>
+</document>
+
+<document id="26">
+<title>A hybrid econometrics and machine learning based modeling of realized volatility of natural gas</title>
+<url>http://dx.doi.org/10.1186/s40854-023-00577-0</url>
+<snippet>Determining which variables affect price realized volatility has always been challenging. This paper proposes to explain how financial assets influence realized volatility by developing an optimal day-to-day forecast. The methodological proposal is based on using the best econometric and machine learning models to forecast realized volatility. In particular, the best forecasting from heterogeneous autoregressive and long short-term memory models are used to determine the influence of the Standard and Poor's 500 index, euro-US dollar exchange rate, price of gold, and price of Brent crude oil on the realized volatility of natural gas. These financial assets influenced the realized volatility of natural gas in 87.4&#37; of the days analyzed; the euro-US dollar exchange rate was the primary financial asset and explained 40.1&#37; of the influence. The results of the proposed daily analysis differed from those of the methodology used to study the entire period. The traditional model, which studies the entire period, cannot determine temporal effects, whereas the proposed methodology can. The proposed methodology allows us to distinguish the effects for each day, week, or month rather than averages for entire periods, with the flexibility to analyze different frequencies and periods. This methodological capability is key to analyzing influences and making decisions about realized volatility.
+WOS:001150383200001
+</snippet>
+</document>
+
+<document id="27">
+<title>An analysis of crude oil prices in the last decade (2011-2020): With deep learning approach</title>
+<url>http://dx.doi.org/10.1371/journal.pone.0268996</url>
+<snippet>Crude Oil is one of the most important commodities in this world. We have studied the effects of Crude Oil inventories on crude oil prices over the last ten years (2011 to 2020). We tried to figure out how the Crude Oil price variance responds to inventory announcements. We then introduced several other financial instruments to study the relation of these instruments with Crude Oil variation. To undertake this task, we took the help of several mathematical tools including machine learning tools such as Long Short Term Memory(LSTM) methods, etc. The previous researches in this area primarily focussed on statistical methods such as GARCH (1,1) etc. (Bu (2014)). Various researches on the price of crude oil have been undertaken with the help of LSTM. But the variation of crude oil price has not yet been studied. In this research, we studied the variance of crude oil prices with the help of LSTM. This research will be beneficial for the options traders who would like to get benefit from the variance of the underlying instrument.
+WOS:000949067800080
+</snippet>
+</document>
+
+<document id="28">
+<title>Bitcoin Research in Business and Economics: A Bibliometric and Topic Modeling Review</title>
+<url>http://dx.doi.org/10.3390/fintech4040068</url>
+<snippet>This study conducts a bibliometric review of Bitcoin research in the Business and Economics domains, using VOSviewer to visualize network structures and Bidirectional Encoder Representations from Transformers Topic (BERTopic) to derive semantically coherent topic clusters. The analysis identifies five major research themes: (1) Diversification, hedging, and safe-haven properties; (2) Market dynamics, efficiency, and investor behavior; (3) Bitcoin price and volatility prediction attempts; (4) Environmental impact of Bitcoin; and (5) Financial impact of Central Bank Digital Currency (CBDC). Based on these themes, the study recommends further investigation into the influence of Exchange-Traded Fund (ETF) approvals, regulatory frameworks, and institutional investor participation on Bitcoin's safe-haven potential; the role of market dynamics and regulatory interventions; early detection of herding behavior and price bubbles; the integration of machine learning and deep-learning models for price prediction; the environmental costs associated with mining; and the evolving regulatory and implementation challenges of CBDCs. Overall, this review synthesizes existing scholarship and outlines future research directions for the rapidly evolving cryptocurrency ecosystem.
+WOS:001647171600001
+</snippet>
+</document>
+
+<document id="29">
+<title>GLAD: Global-Local Approach; Disentanglement Learning for Financial Market Prediction</title>
+<url>http://dx.doi.org/10.1049/2023/6623718</url>
+<snippet>Accurate prediction of financial market trends can have a great impact on maximizing profits and avoiding risks. Conventional methods, e.g., regression or SVR, or end-to-end training approaches, coined as deep learning algorithms, have restraints as a consequence of capturing noisy and unnecessary data. Financial market's data are composed of stock's price time series that are correlated, and each time series has both global and local dynamics. Inspired by recent advancements in disentanglement representation learning, in this paper, we present a promising model for predicting financial markets that learn disentangled representations of features and eliminate those features that cause interference. Our model uses the informer encoder to extract features, capturing global-local patterns by using the time and frequency domains, augmenting the clean features with time and frequency-based features, and using the decoder to predict. To be more specific, we adopt contrastive learning in the time and frequency domains to learn both global and local patterns. We argue that our methodology, disentangling and learning the influential factors, holds the potential for more accurate predictions and a better understanding of how time series move and behave. We conducted our experiments using the S&amp;P 500, CSI 300, Hang Seng, and Nikkei 225 stock market datasets to predict their next-day closing prices. The results showed that our model outperformed existing methods in terms of prediction error (mean squared error and mean absolute error), financial risk measurement (volatility and max drawdown), and prediction net curves, which means that it may enhance traders' profits.
+WOS:001102489600001
+</snippet>
+</document>
+
+<document id="30">
+<title>Integrated variance of irregularly spaced high-frequency data: A state space approach based on pre-averaging</title>
+<url>http://dx.doi.org/10.1515/snde-2021-0093</url>
+<snippet>We propose a new state space model to estimate the Integrated Variance (IV) in the presence of microstructure noise. Applying the pre-averaging sampling scheme to the irregularly spaced high-frequency data, we derive equidistant efficient price approximations to calculate the noise-contaminated realised variance (NCRV), which is used as an IV estimator. The theoretical properties of the new volatility estimator are illustrated and compared with those of the realised volatility. We highlight the robustness of the new estimator to market microstructure noise (MMN). The pre-averaging sampling effectively eliminates the influence of the MMN component on the NCRV series. The empirical illustration features the EUR/USD exchange rate and provides evidence of a superior performance in volatility forecasting at very high sampling frequencies.
+WOS:000957074400001
+</snippet>
+</document>
+
+<document id="31">
+<title>Topological tail dependence: Evidence from forecasting realized volatility</title>
+<url>http://dx.doi.org/10.1016/j.jfds.2023.100107</url>
+<snippet>This paper proposes a novel theory, coined as Topological Tail Dependence Theory, that links the mathematical theory behind Persistent Homology (PH) and the financial stock market theory. This study also proposes a novel algorithm to measure topological stock market changes as well as the incorporation of these topological changes into forecasting realized volatility (RV) models to improve their forecast performance during turbulent periods. The results of the empirical experimentation of this study provide evidence that the predictions drawn from the Topological Tail Dependence Theory are correct and indicate that the employment of PH information allows nonlinear and neural network models to better forecast RV during a turbulent period.
+WOS:001301346000001
+</snippet>
+</document>
+
+<document id="32">
+<title>Symmetry-Aware Graph Neural Approaches for Data-Efficient Return Prediction in International Financial Market Indices</title>
+<url>http://dx.doi.org/10.3390/sym17091372</url>
+<snippet>This research evaluates the suitability of Graph Convolutional Networks (GCN) and Graph Attention Networks (GAT) for improving financial return predictions across 15 major worldwide stock indices. The proposed method uses graph modeling to represent financial index relationships which enables the detection of symmetric market dependencies including mutual spillover effects and bidirectional influence patterns. The symmetric network structures become most important during financial instability because market interdependencies strengthen at such times. The evaluation process compares these models against XGBoost and Multi-Layer Perceptron (MLP) and Support Vector Machine (SVM) traditional forecasting approaches. The results of 30 time-series cross-validation experiments show that GNN models produce lower RMSE and MAE values, especially during financial crises and recovery phases and volatile market periods. The models show reduced advantages when markets remain stable. The research demonstrates that graph-based forecasting models which incorporate symmetry effectively detect complex financial relationships which leads to important implications for investment strategies and financial risk management and global economic forecasting.
+WOS:001581086300001
+</snippet>
+</document>
+
+<document id="33">
+<title>A hybrid deep learning model for cryptocurrency returns forecasting: Comparison of the performance of financial markets and impact of external variables</title>
+<url>http://dx.doi.org/10.1016/j.ribaf.2024.102575</url>
+<snippet>This study introduces a finetuned hybrid forecasting model combining both Discrete Wavelet Transform (DWT) and Long Short-Term Memory network (LSTM) to predict dirty and clean cryptocurrency returns (Bitcoin and Ripple). The findings show that the proposed DWT-LSTM model outperforms a large set of benchmark models in terms of forecasting accuracy. We investigate a broader set of predictors involving financial markets (other cryptocurrencies and commodities) and external variables (blockchain information, Twitter economic uncertainty, and CO2 emissions). Our findings underline the comparable performance of the considered predictors, with the Twitter Economic Uncertainty index being the best predictor of Bitcoin returns and S&amp;P GSCI Energy being the best predictor of Ripple returns. We also highlight the superior performance of the trading strategies based on our forecasting results.
+WOS:001330536500001
+</snippet>
+</document>
+
+<document id="34">
+<title>Patch-tLSTM: A multi-step prediction model for precious metal futures with high accuracy</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2025.128733</url>
+<snippet>Multi-step prediction of futures market prices presents a core challenge in the field of financial engineering. The price fluctuations of high-value precious metals, such as gold, silver, copper, palladium, and platinum, are influenced by various factors, including macroeconomics and geopolitics. However, previous studies have typically focused on next-day price predictions. A common effect of error accumulation arises when addressing multi-step predictions. As the prediction step exceeds eight trading days, ensuring prediction accuracy becomes increasingly tricky. This study proposes a Patch-tLSTM hybrid model that extracts relevant signals from original features by combining Seasonal-Trend decomposition based on LOESS (STL) with Complete Ensemble Empirical Mode Decomposition of Adaptive Noise (CEEMDAN). The model effectively captures local fluctuations using the Patch layer and introduces an innovative tLSTM module that incorporates multi-scale convolution, an attention mechanism, and an adaptive gating mechanism within the xLSTM architecture. Experiments show that our model exhibits lower prediction errors than the baseline model in the scenario of 16-step forecasting of gold prices. The mean absolute error (MAE) of our model is 0.0165, while the MAE of the DLinear model is 0.0191, which is 13.6&#37; lower overall. Our model is significantly better than other models through the significance test. This shows that our model can maintain a high prediction accuracy even at a longer prediction step.
+WOS:001523383000002
+</snippet>
+</document>
+
+<document id="35">
+<title>Novel optimization approach for realized volatility forecast of stock price index based on deep reinforcement learning model</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2023.120880</url>
+<snippet>Accurately predicting volatility has always been the focus of government decision-making departments, financial regulators and academia. Therefore, it is very crucial to precisely predict the realized volatility (RV) of the stock price index. In this paper, we take the RV sequences of Shanghai Stock Exchange Composite Index (SSEC), Standard &amp; Poor 500 index (SPX) and Financial Times Stock Exchange Index (FTSE) as the research objects, and propose a predictive model based on optimized variational mode decomposition (VMD), deep learning models including deep belief network (DBN), long short-term memory network (LSTM) and gated recurrent unit (GRU), and reinforcement learning Q-learning algorithm. Firstly, the original RV sequence is decomposed by using the VMD ideal parameters optimized by grey wolf optimizer (GWO) to obtain the intrinsic mode functions (IMFs). Then, DBN, LSTM and GRU are used to predict same IMF simultaneously. Finally, the optimal weights of the above three models are determined by the Q-learning algorithm to construct an integrated model, and the final results are obtained after accumulating the predicted values of each IMF. The predictive performance of the model was evaluated by four loss functions: the mean average error (MAE), mean squared error (MSE), heterogeneous mean average error (HMAE), heterogeneous mean squared error (HMSE) and modified Diebold and Mariano test (MDM). The experimental results show that the constructed GVMD-Q-DBN-LSTM-GRU method has better performance that the comparison model in both emerging and developed markets.
+WOS:001039299400001
+</snippet>
+</document>
+
+<document id="36">
+<title>On stock volatility forecasting based on text mining and deep learning under high-frequency data</title>
+<url>http://dx.doi.org/10.1002/for.2794</url>
+<snippet>Few existing literatures used the text information of the public opinions as the input index for volatility forecasting. This paper uses the text comment information of stockholders to construct a text sentiment factor that integrates the influence of comments and then combines other transaction information on volatility forecasting based on high-frequency finance data with the deep learning model long short-term memory (LSTM). The study finds that under the framework of the LSTM model, the forecasting accuracy for the volatility with the sentiment index is better than that of the LSTM model without the sentiment index and 10 traditional econometric models under the six loss functions. When compared with the traditional econometric model for multistep forecasting, the LSTM model is robust. With the addition of the public opinion index, the accuracy of LSTM is improved by 9.3&#37;, 4.7&#37;, 6.2&#37;, 9.2&#37;, 7.9&#37;, and 16.9&#37;, respectively, under the six evaluation criteria. The research in this article provides a more accurate, robust, and sustainable method for volatility forecasting in the context of big data.
+WOS:000658284500001
+</snippet>
+</document>
+
+<document id="37">
+<title>Bayesian Modeling and Forecasting of 24-Hour High-Frequency Volatility</title>
+<url>http://dx.doi.org/10.1080/01621459.2014.937003</url>
+<snippet>This article estimates models of high-frequency index futures returns using around-the-clock 5-min returns that incorporate the following key features: multiple persistent stochastic volatility factors, jumps in prices and volatilities, seasonal components capturing time of the day patterns, correlations between return and volatility shocks, and announcement effects. We develop an integrated MCMC approach to estimate interday and intraday parameters and states using high-frequency data without resorting to various aggregation measures like realized volatility. We provide a case study using financial crisis data from 2007 to 2009, and use particle filters to construct likelihood functions for model comparison and out-of-sample forecasting from 2009 to 2012. We show that our approach improves realized volatility forecasts by up to 50&#37; over existing benchmarks and is also useful for risk management and trading applications. Supplementary materials for this article are available online.
+WOS:000346797000006
+</snippet>
+</document>
+
+<document id="38">
+<title>On the topology of cryptocurrency markets</title>
+<url>http://dx.doi.org/10.1016/j.irfa.2023.102759</url>
+<snippet>Cryptocurrency markets are characterised by high volatility, high returns and comparative immaturity relative to equity and commodity markets. Topological Data Analysis (TDA) persistence norms are effective tools for the analysis of noisy dynamical systems like the cryptocurrency markets. We show how information from the shape of daily return data adds additional inference on activity within the cryptocurrency markets. TDA persistence norms embed volatility and connectedness between coins as well as incorporating information from uncertainty indexes, financial market performance and commodity returns. Our TDA measures are robust to noise and are consistent across a raft of alternative coin selections. Further, we exposit how persistence norms peak to forewarn of crashes and stay low as markets face exogenous shocks. We demonstrate the clear advantages of TDA for the study of cryptocurrency markets and develop the next steps for exploiting the potential of TDA for application to cryptocurrency markets.
+WOS:001041738500001
+</snippet>
+</document>
+
+<document id="39">
+<title>More hedging instruments may destabilize markets</title>
+<url>http://dx.doi.org/10.1016/j.jedc.2009.05.004</url>
+<snippet>This paper formalizes the idea that more hedging instruments may destabilize markets when traders have heterogeneous expectations and adapt their behavior according to performance-based reinforcement learning. In a simple asset pricing model with heterogeneous beliefs the introduction of additional Arrow securities may destabilize markets, and thus increase price volatility, and at the same time decrease average welfare. We also investigate whether a fully rational agent can employ additional hedging instruments to stabilize markets. It turns out that the answer depends on the composition of the population of non-rational traders and the information gathering costs for rationality. (C) 2009 Elsevier B.V. All rights reserved.
+WOS:000270624300006
+</snippet>
+</document>
+
+<document id="40">
+<title>EMAT: Enhanced Multi-Aspect Attention Transformer for Financial Time Series Forecasting</title>
+<url>http://dx.doi.org/10.3390/e27101029</url>
+<snippet>Financial time series prediction remains a challenging task due to the inherent non-stationarity, noise, and complex temporal dependencies present in market data. Traditional forecasting methods often fail to capture the multifaceted nature of financial markets, where temporal proximity, trend dynamics, and volatility patterns simultaneously influence price movements. To address these limitations, this paper proposes the Enhanced Multi-Aspect Transformer (EMAT), a novel deep learning architecture specifically designed for stock market prediction. EMAT incorporates a Multi-Aspect Attention Mechanism that simultaneously captures temporal decay patterns, trend dynamics, and volatility regimes through specialized attention components. The model employs an encoder-decoder architecture with enhanced feed-forward networks utilizing SwiGLU activation, enabling superior modeling of complex non-linear relationships. Furthermore, we introduce a comprehensive multi-objective loss function that balances point-wise prediction accuracy with volatility consistency. Extensive experiments on multiple stock market datasets demonstrate that EMAT consistently outperforms a wide range of state-of-the-art baseline models, including various recurrent, hybrid, and Transformer architectures. Our ablation studies further validate the design, confirming that each component of the Multi-Aspect Attention Mechanism makes a critical and quantifiable contribution to the model's predictive power. The proposed architecture's ability to simultaneously model these distinct financial characteristics makes it a particularly effective and robust tool for financial forecasting, offering significant improvements in accuracy compared to existing approaches.
+WOS:001601448900001
+</snippet>
+</document>
+
+<document id="41">
+<title>Novel forecasting of white maize futures volatility: a hybrid GARCH-based bi-directional LSTM model</title>
+<url>http://dx.doi.org/10.1080/23322039.2025.2484422</url>
+<snippet>Price volatility in grain markets, especially for maize, has substantial socio-economic impacts, particularly in low-income regions where food security remains a critical concern. Accurate forecasting of grain price volatility is therefore crucial in safeguarding the financial interests of commodity traders, as well as shielding consumers from detrimental effects of inflationary food prices. This study proposes a hybrid Bi-directional Long Short-Term Memory (BLSTM) model, integrated with generalised autoregressive conditional heteroscedasticity (GARCH)-type methods, to forecast white maize futures volatility in South Africa. By comparing the forecasting accuracy of the hybrid BLSTM model against several benchmarks, including standard LSTM and BLSTM models, our results demonstrate notable improvements in prediction accuracy, as shown through heteroscedasticity-adjusted performance metrics. The key contribution of this research is its enhancement of volatility forecasting by combining advanced machine learning with traditional econometric approaches, bridging a gap in predictive accuracy for commodity price dynamics. Additionally, this study supports the United Nations Sustainable Development Goals (SDGs), particularly Zero Hunger and Responsible Consumption and Production, by improving food price stability and risk management in agriculture. This approach exemplifies the evolving role of data science in financial analysis, offering market participants an effective tool to manage price risk and improve food security.Impact StatementThis study introduces a novel hybrid forecasting model that integrates GARCH-type econometric techniques with Bi-directional Long Short-Term Memory (BLSTM) neural networks to predict the realised volatility of white maize futures. As white maize is a staple food, accurate volatility forecasting directly contributes to improved food security and price stability. The model significantly outperforms traditional approaches and standard deep learning models across multiple forecast horizons, offering a powerful risk management tool for farmers, traders, and policymakers. By enhancing the accuracy of agricultural price forecasts, this research supports the United Nations Sustainable Development Goals (SDGs), particularly Zero Hunger (SDG 2) and Responsible Consumption and Production (SDG 12), while also demonstrating the value of advanced data science methods in addressing real-world socio-economic challenges.
+WOS:001455850200001
+</snippet>
+</document>
+
+<document id="42">
+<title>Bayesian Tail Risk Interdependence Using Quantile Regression</title>
+<url>http://dx.doi.org/10.1214/14-BA911</url>
+<snippet>Recent financial disasters emphasised the need to investigate the consequences associated with the tail co-movements among institutions; episodes of contagion are frequently observed and increase the probability of large losses affecting market participants' risk capital. Commonly used risk management tools fail to account for potential spillover effects among institutions because they only provide individual risk assessment. We contribute to the analysis of the interdependence effects of extreme events, providing an estimation tool for evaluating the co-movement Value-at-Risk. In particular, our approach relies on a Bayesian quantile regression framework. We propose a Markov chain Monte Carlo algorithm, exploiting the representation of the Asymmetric Laplace distribution as a location-scale mixture of Normals. Moreover, since risk measures are usually evaluated on time series data and returns typically change over time, we extend the model to account for the dynamics of the tail behaviour. We apply our model to a sample of U. S. companies belonging to different sectors of the Standard and Poor's Composite Index and we provide an evaluation of the marginal contribution to the overall risk of each individual institution.
+WOS:000358998700002
+</snippet>
+</document>
+
+<document id="43">
+<title>"Good and bad investments" in public health stocks amid the COVID-19 shock: evidence from a transformer-based model</title>
+<url>http://dx.doi.org/10.3389/fpubh.2025.1644055</url>
+<snippet>Introduction Major public health emergencies have profoundly reshaped the risk structure and resource allocation logic of capital markets. The market performance of public health-related enterprises has exhibited substantial heterogeneity across different stages of the pandemic, characterized by both considerable risks and emerging opportunities. Understanding this dynamic process is essential for maintaining financial stability and promoting rational investment behavior.Methods Using the COVID-19 pandemic as the research background, this study selects 55 constituent stocks from the China Securities Index (CSI) Public Health Index as the research sample. A deep learning model based on the Transformer architecture is employed to forecast stock returns and construct long-short investment portfolios. By conducting stage-wise comparisons spanning the pre-pandemic period, the initial outbreak, the normalization phase, and the post-pandemic era, the study reveals the profound temporal evolution and dynamic impacts of public health crises on market investment behavior.Results The empirical results reveal that the capital market underwent substantial structural reshaping during the initial phase of the pandemic. The Transformer model effectively identified excess return signals from healthcare and epidemic-prevention enterprises, thereby achieving outstanding investment performance. In the mid-pandemic stage, increased market volatility and policy uncertainty weakened the model's stability. As the market transitioned into the post-pandemic period, rationality gradually returned. Similar to the pre-pandemic stage, firms' performance became increasingly driven by fundamentals rather than policy influences, leading to a marked improvement in the model's predictive accuracy and screening capability.Conclusion This study systematically reveals the structural differentiation and dynamic evolution of public health-related enterprises during the pandemic, thereby extending the research frontier at the intersection of public health emergency response, financial risk, and investment portfolio construction. By bridging these domains, it provides both theoretical foundations and empirical evidence to guide investment strategies and policy formulation for industries closely associated with public health, contributing to more resilient and informed financial decision-making amid future crises.
+WOS:001611244400001
+</snippet>
+</document>
+
+<document id="44">
+<title>A stochastic volatility model with random level shifts and its applications to S&amp;P 500 and NASDAQ return indices</title>
+<url>http://dx.doi.org/10.1111/j.1368-423X.2012.00394.x</url>
+<snippet>This paper proposes a framework for the modelling, inference and forecasting of volatility in the presence of level shifts of unknown timing, magnitude and frequency. First, we consider a stochastic volatility model comprising both a level shift and a short-memory component, with the former modelled as a compound binomial process and the latter as an AR(1). Next, we adopt a Bayesian approach for inference and develop algorithms to obtain posterior distributions of the parameters and the two latent components. Then, we apply the model to daily S&amp;P 500 and NASDAQ returns over the period 1980.1-2010.12. The results show that although the occurrence of a level shift is rare, about once every 2 years, this component clearly contributes most to the variation in the volatility. The half-life of a typical shock from the AR(1) component is short, on average between 9 and 15 days. Interestingly, isolating the level shift component from the overall volatility reveals a stronger relationship between volatility and business cycle movements. Although the paper focuses on daily index returns, the methods developed can potentially be used to study the low-frequency variation in realized volatility or the volatility of other financial or macroeconomic variables.
+WOS:000327305600003
+</snippet>
+</document>
+
+<document id="45">
+<title>A Financial Market Model Incorporating Herd Behaviour</title>
+<url>http://dx.doi.org/10.1371/journal.pone.0151790</url>
+<snippet>Herd behaviour in financial markets is a recurring phenomenon that exacerbates asset price volatility, and is considered a possible contributor to market fragility. While numerous studies investigate herd behaviour in financial markets, it is often considered without reference to the pricing of financial instruments or other market dynamics. Here, a trader interaction model based upon informational cascades in the presence of information thresholds is used to construct a new model of asset price returns that allows for both quiescent and herd-like regimes. Agent interaction is modelled using a stochastic pulse-coupled network, parametrised by information thresholds and a network coupling probability. Agents may possess either one or two information thresholds that, in each case, determine the number of distinct states an agent may occupy before trading takes place. In the case where agents possess two thresholds (labelled as the finite state-space model, corresponding to agents' accumulating information over a bounded state-space), and where coupling strength is maximal, an asymptotic expression for the cascade-size probability is derived and shown to follow a power law when a critical value of network coupling probability is attained. For a range of model parameters, a mixture of negative binomial distributions is used to approximate the cascade-size distribution. This approximation is subsequently used to express the volatility of model price returns in terms of the model parameter which controls the network coupling probability. In the case where agents possess a single pulse-coupling threshold (labelled as the semi-infinite state-space model corresponding to agents' accumulating information over an unbounded state-space), numerical evidence is presented that demonstrates volatility clustering and long-memory patterns in the volatility of asset returns. Finally, output from the model is compared to both the distribution of historical stock returns and the market price of an equity index option.
+WOS:000372701200064
+</snippet>
+</document>
+
+<document id="46">
+<title>Bayesian semiparametric inference for TVP-SVAR models with asymmetry and fat tails</title>
+<url>http://dx.doi.org/10.1177/1471082X251326360</url>
+<snippet>Time-varying parameter (TVP) structural vector autoregressive models with stochastic volatility (SVAR-SV) usually assume Gaussian innovations and a smooth or discrete path for the coefficients. To account for possible skewness and fat tails, this work introduces a semiparametric mixture of multivariate restricted skew-t innovation distributions, also permitting the inference of clusters of asymmetry across data series. Moreover, a dynamic shrinkage prior is designed for the coefficients of the contemporaneous and lagged variables to model the path of the parameters flexibly. Inference in high-dimensional settings is performed via a Markov chain Monte Carlo algorithm that leverages the stochastic representation of the skew-t distribution for obtaining a conditional linear Gaussian state-space model. Then, the algorithm alternates between the centred and non-centred parametrizations to improve the mixing and samples from the joint smoothed distribution without loops. The proposed semiparametric approach is combined with a sparsification method to extract time-varying Granger-causal networks in different applications regarding the COVID-19 pandemic across Europe and financial contagion transmission in Europe and the world.
+WOS:001468907000001
+</snippet>
+</document>
+
+<document id="47">
+<title>Deep learning for finance: deep portfolios</title>
+<url>http://dx.doi.org/10.1002/asmb.2209</url>
+<snippet>We explore the use of deep learning hierarchical models for problems in financial prediction and classification. Financial prediction problems - such as those presented in designing and pricing securities, constructing portfolios, and risk management - often involve large data sets with complex data interactions that currently are difficult or impossible to specify in a full economic model. Applying deep learning methods to these problems can produce more useful results than standard methods in finance. In particular, deep learning can detect and exploit interactions in the data that are, at least currently, invisible to any existing financial economic theory. Copyright 
+WOS:000394598100001
+</snippet>
+</document>
+
+<document id="48">
+<title>Toward interpretable machine learning: evaluating models of heterogeneous predictions</title>
+<url>http://dx.doi.org/10.1007/s10479-024-06033-1</url>
+<snippet>AI and machine learning have made significant progress in the past decade, powering many applications in FinTech and beyond. But few machine learning models, especially deep learning models, are interpretable by humans, creating challenges for risk management and model improvements. Here, we propose a simple yet powerful framework to evaluate and interpret any black-box model with binary outcomes and explanatory variables, and heterogeneous relationships between the two. Our new metric, the signal success share (SSS) cross-entropy loss, measures how well the model captures the relationship along any feature or dimension, thereby providing actionable guidance on model improvements. Simulations demonstrate that our metric works for heterogeneous and nonlinear predictions, and distinguishes itself from traditional loss functions in evaluating model interpretability. We apply the methodology to an example of predicting loan defaults with real data. Our framework is more broadly applicable to a wide range of problems in financial and information technology.
+WOS:001220336500001
+</snippet>
+</document>
+
+<document id="49">
+<title>Prediction of the Stock Market From Linguistic Phrases: A Deep Neural Network Approach</title>
+<url>http://dx.doi.org/10.4018/JDM.322020</url>
+<snippet>Automation of financial data collection, generation, accumulation, and interpretation for decision making may reduce volatility in the stock market and increase liquidity occasionally. Thus, future markets' prediction factoring in the sentiment of investors and algorithmic traders is an exciting area for research with deep learning techniques emerging to understand the market and its future direction. The paper develops two FINBERT deep neural network models pre-trained on the financial phrase dataset, the first one to extract sentiment from the NSE market news. The second model is adopted to predict the stock market movement of NSE with the above sentiment, historical stock prices, return on investment, and risk as predictors. The accuracy is compared with RNN and LSTM and baseline machine learning classifiers like naive bayes and support vector machine (SVM). The accuracy of the FINBERT model is found to out-perform the deep learning algorithms and above baseline machine learning classifiers thus justifying the importance of the FINBERT model in stock market prediction.
+WOS:000999494000006
+</snippet>
+</document>
+
+<document id="50">
+<title>Incorporating textual and management factors into financial distress prediction: A comparative study of machine learning methods</title>
+<url>http://dx.doi.org/10.1002/for.2661</url>
+<snippet>Financial distress prediction (FDP) has been widely considered as a promising approach to reducing financial losses. While financial information comprises the traditional factors involved in FDP, nonfinancial factors have also been examined in recent studies. In light of this, the purpose of this study is to explore the integrated factors and multiple models that can improve the predictive performance of FDP models. This study proposes an FDP framework to reveal the financial distress features of listed Chinese companies, incorporating financial, management, and textual factors, and evaluating the prediction performance of multiple models in different time spans. To develop this framework, this study employs the wrapper-based feature selection method to extract valuable features, and then constructs multiple single classifiers, ensemble classifiers, and deep learning models in order to predict financial distress. The experiment results indicate that management and textual factors can supplement traditional financial factors in FDP, especially textual ones. This study also discovers that integrated factors collected 4 years prior to the predicted benchmark year enable a more accurate prediction, and the ensemble classifiers and deep learning models developed can achieve satisfactory FDP performance. This study makes a novel contribution as it expands the predictive factors of financial distress and provides new findings that can have important implications for providing early warning signals of financial risk.
+WOS:000510463700001
+</snippet>
+</document>
+
+<document id="51">
+<title>Financial contagion risk and the stochastic discount factor</title>
+<url>http://dx.doi.org/10.1016/j.jbankfin.2017.01.012</url>
+<snippet>I provide evidence that financial contagion risk is an important source of the equity risk premium. Banks' contributions to aggregate financial contagion are estimated in a state space framework and linked to systemic risk. Greater bank connectedness today leads to increased systemic risk 3-12 months later. More contagious banks earn significantly greater risk-adjusted returns than less contagious ones and the tradable high contagion-minus-low contagion bank portfolio is priced in the cross-section of stock returns. Stocks that co -move more strongly with contagious banks have greater expected returns. These results are robust to factor model specification, test assets, and time period considered. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000398643400015
+</snippet>
+</document>
+
+<document id="52">
+<title>STL-ELM: A computationally efficient hybrid approach for predicting high volatility stock market</title>
+<url>http://dx.doi.org/10.1016/j.iswa.2025.200564</url>
+<snippet>Accurate forecasting of high-volatility stock markets is critical for investors and policymakers, yet existing models struggle with computational inefficiency and noise sensitivity. This study introduces STL-ELM, a novel hybrid model combining Seasonal-Trend decomposition using LOESS (STL) and Extreme Learning Machine (ELM), to deliver unparalleled accuracy and speed. By decomposing stock data into trend, seasonal, and residual components, STL-ELM isolates multiscale features, while ELM's lightweight architecture ensures rapid training and robust generalization, outperforming advanced techniques such as LSTM, GRU, and transformer variants in both prediction and trading simulations. With faster runtimes and minimal memory usage, STL-ELM is tailored for real-time trading applications and high-frequency financial forecasting, offering institutional investors, traders, and financial analysts a competitive edge in volatile markets. The hybrid nature of STL-ELM, which combines STL's multiscale decomposition with ELM's rapid learning, enhances its adaptability to various financial domains, including stocks, commodities, foreign exchange, and cryptocurrencies, by efficiently capturing domain-specific volatility patterns. This work not only sets a new standard for predictive accuracy in stock market modelling but also presents an invaluable tool for those navigating the complexities of modern financial markets.
+WOS:001545677100001
+</snippet>
+</document>
+
+<document id="53">
+<title>Model Complexity and Out-of-Sample Performance: Evidence from S&amp;P 500 Index Returns</title>
+<url>http://dx.doi.org/10.1016/j.jedc.2018.01.040</url>
+<snippet>We apply a range of out-of-sample specification tests to more than forty competing stochastic volatility models to address how model complexity affects out-of-sample performance. Using daily S&amp;P 500 index returns, model confidence set estimations provide strong evidence that the most important model feature is the non-affinity of the variance process. Despite testing alternative specifications during the turbulent market regime of the global financial crisis of 2008, we find no evidence that either finite- or infinite-activity jump models or other previously proposed model extensions improve the out-of-sample performance further. Applications to Value-at-Risk demonstrate the economic significance of our results. Furthermore, the out-of-sample results suggest that standard jump diffusion models are misspecified. (C) 2018 Elsevier B.V. All rights reserved.
+WOS:000436529900001
+</snippet>
+</document>
+
+<document id="54">
+<title>Gold volatility prediction using a CNN-LSTM approach</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2020.113481</url>
+<snippet>Prediction of volatility for different types of financial assets is one of the tasks of greater mathematical complexity in time series prediction, mainly due to its noisy, non-stationary and heteroscedastic structure. On the other hand, gold is an asset of particular importance for hedging and diversification of investment portfolios, and therefore it is important to predict future volatility of this asset. This paper seeks to significantly improve the forecast of gold volatility by combining two deep learning methodologies: short-term memory networks (LSTM) added to convolutional neural networks (specifically a pre-trained VGG16 network). It is important to mention that these types of hybrid architectures have not been used in time series prediction, so it is a completely new approach to solving these types of problems. The CNN-LSTM hybrid model is capable of including images as input which provides a wide variety of information associated with both static and dynamic characteristics of the series. In parallel, different lags of profitability of the series are entered as input, which allows it to learn from the temporal structure. The results show a substantial improvement when this hybrid model is compared to the GARCH and LSTM models. A 37&#37; reduction in MSE is observed compared to the classic GARCH model, and 18&#37; compared to the LSTM model. Finally, the Model Confidence Model (MCS) determines a significant improvement in the prediction of the hybrid model. The fundamental importance of this research lies in the application of a new type of architecture capable of processing various sources of information for any time series prediction task. (C) 2020 Elsevier Ltd. All rights reserved.
+WOS:000548587800010
+</snippet>
+</document>
+
+<document id="55">
+<title>Slow diffusion of information and price momentum in stocks: Evidence from options markets</title>
+<url>http://dx.doi.org/10.1016/j.jbankfin.2016.11.010</url>
+<snippet>This paper investigates the source of price momentum in the stock market using information from options markets. We provide direct evidence of the gradual information diffusion model in Hong and Stein (1999): momentum profits are larger for stocks whose information diffuses slowly into the stock market. We exploit the options markets to identify stocks with slow information diffusion speed. As informed traders trade options to realize the information that has not been fully incorporated in the stock price, we are able to enhance the momentum strategy by selecting winner/loser stocks with high growth/large drop in call option implied volatility. Our empirical strategy generates a risk-adjusted alpha of 1.8&#37; per month over the 1996-2011 period, during which the simple momentum strategy fails to perform. The results are robust to the impact of earnings announcement, transaction costs, industry concentration, and choice of options' moneyness and time-to-maturity. Finally, our finding is not driven by existing stock- or option-related characteristics that are known to improve momentum. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000393242900007
+</snippet>
+</document>
+
+<document id="56">
+<title>Volatility Forecasting for High-Frequency Financial Data Based on Web Search Index and Deep Learning Model</title>
+<url>http://dx.doi.org/10.3390/math9040320</url>
+<snippet>The existing index system for volatility forecasting only focuses on asset return series or historical volatility, and the prediction model cannot effectively describe the highly complex and nonlinear characteristics of the stock market. In this study, we construct an investor attention factor through a Baidu search index of antecedent keywords, and then combine other trading information such as the trading volume, trend indicator, quote change rate, etc., as input indicators, and finally employ the deep learning model via temporal convolutional networks (TCN) to forecast the volatility under high-frequency financial data. We found that the prediction accuracy of the TCN model with investor attention is better than those of the TCN model without investor attention, the traditional econometric model as the generalized autoregressive conditional heteroscedasticity (GARCH), the heterogeneous autoregressive model of realized volatility (HAR-RV), autoregressive fractionally integrated moving average (ARFIMA) models, and the long short-term memory (LSTM) model with investor attention. Compared with the traditional econometric models, the multi-step prediction results for the TCN model remain robust. Our findings provide a more accurate and robust method for volatility forecasting for big data and enrich the index system of volatility forecasting.
+WOS:000624176400001
+</snippet>
+</document>
+
+<document id="57">
+<title>An Extension of Laor Weight Initialization for Deep Time-Series Forecasting: Evidence from Thai Equity Risk Prediction</title>
+<url>http://dx.doi.org/10.3390/forecast7030047</url>
+<snippet>This study presents a gradient-informed proxy initialization framework designed to improve training efficiency and predictive performance in deep learning models for time-series forecasting. The method extends the Laor Initialization approach by introducing backward gradient norm clustering as a selection criterion for input-layer weights, evaluated through a lightweight, architecture-agnostic proxy model. Only the numerical input layer adopts the selected initialization, while internal components retain standard schemes such as Xavier, Kaiming, or Orthogonal, maintaining compatibility and reducing overhead. The framework is evaluated on a real-world financial forecasting task: identifying high-risk equities from the Thai Market Surveillance Measure List, a domain characterized by label imbalance, non-stationarity, and limited data volume. Experiments across five architectures, including Transformer, ConvTran, and MMAGRU-FCN, show that the proposed strategy improves convergence speed and classification accuracy, particularly in deeper and hybrid models. Results in recurrent-based models are competitive but less pronounced. These findings support the method's practical utility and generalizability for forecasting tasks under real-world constraints.
+WOS:001580871000001
+</snippet>
+</document>
+
+<document id="58">
+<title>Cross-market volatility forecasting with attention-based spatial-temporal graph convolutional networks</title>
+<url>http://dx.doi.org/10.1016/j.jempfin.2025.101639</url>
+<snippet>We propose a cross-market volatility forecasting framework by applying attention-based spatial-temporal graph convolutional network model (ASTGCN) to forecast future volatility of stock indices in 18 financial markets. In our work, we construct cross-market volatility networks to integrate interrelations among financial markets and the corresponding features of each market. ASTGCN combines the spatial-temporal attention mechanisms with the spatial-temporal convolutions to simultaneously capture the dynamic spatial-temporal characteristics of global volatility data. Compared with competitive models, ASTGCN exhibits superiority in multivariate predictive accuracies under multiple forecasting horizons. Our proposed framework demonstrates outstanding stability through several robustness checks. We also inspect the training process of ASTGCN by extracting spatial attention matrices and find that interrelations among global financial markets perform differently in tranquil and turmoil periods. Our study levitates empirical findings in financial networks to practical application with a novel forecasting method in the deep learning community.
+WOS:001544993800001
+</snippet>
+</document>
+
+<document id="59">
+<title>A comprehensive investigation on the predictive power of economic policy uncertainty from non-US countries for US stock market returns</title>
+<url>http://dx.doi.org/10.1016/j.irfa.2023.102656</url>
+<snippet>This study uses economic policy uncertainty (EPU) indices for ten developed countries, three diffusion models, and five combination methods to forecast excess returns in the U.S. stock market. It shows empirically that, over the period January 1997 to January 2022, non-U.S. EPU indices have better predictive power for U.S. equity market excess returns than the U.S. EPU index itself. This illustrates how economic information from interna-tional markets can affect the U.S. stock market. This finding challenges the extensively recognized view that the U.S. is where important market signals are initially transmitted to other markets, suggesting that this belief is incomplete. Our outcomes are robust to a battery of tests covering model selection, model specification, forecast horizons, and the pandemic period, and their economic values are assessed. The findings are essential for the financial field to confront future fierce situations and crises.
+WOS:000981997500001
+</snippet>
+</document>
+
+<document id="60">
+<title>Does inclusion of GARCH variance in deep learning models improve financial contagion prediction?</title>
+<url>http://dx.doi.org/10.1016/j.frl.2023.103707</url>
+<snippet>Financial contagions have traditionally been studied using GARCH models to explain the vola-tility, whereas regression models have been used to predict the stock index values based on different underlying assets. Past research has shown that deep learning regression models have demonstrated superiority over traditional statistical models. This paper creates a hybrid predic-tion model by using the outputs of GARCH models as an input variable in deep learning regression models. It has been observed that hybrid models provide better results as compared to deep learning models. Such improved prediction shall provide portfolio managers an additional tool to determine the investment strategy.
+WOS:000983637200001
+</snippet>
+</document>
+
+<document id="61">
+<title>Historical Perspectives in Volatility Forecasting Methods with Machine Learning</title>
+<url>http://dx.doi.org/10.3390/risks13050098</url>
+<snippet>Volatility forecasting for financial institutions plays a pivotal role across a wide range of domains, such as risk management, option pricing, and market making. For instance, banks can incorporate volatility forecasts into stress testing frameworks to ensure they are holding sufficient capital during extreme market conditions. However, volatility forecasting is challenging because volatility can only be estimated, and different factors influence volatility, ranging from macroeconomic indicators to investor sentiments. While recent works show promising advances in machine learning and artificial intelligence for volatility forecasting, a comprehensive assessment of current statistical and learning-based methods is lacking. Thus, this paper aims to provide a comprehensive survey of the historical evolution of volatility forecasting with a comparative benchmark of key landmark models, such as implied volatility, GARCH, LSTM, and Transformer. We open-source our benchmark code to further research in learning-based methods for volatility forecasting.
+WOS:001496070600001
+</snippet>
+</document>
+
+<document id="62">
+<title>A Statistical Recurrent Stochastic Volatility Model for Stock Markets</title>
+<url>http://dx.doi.org/10.1080/07350015.2022.2028631</url>
+<snippet>The stochastic volatility (SV) model and its variants are widely used in the financial sector, while recurrent neural network (RNN) models are successfully used in many large-scale industrial applications of deep learning. We combine these two methods in a nontrivial way and propose a model, which we call the statistical recurrent stochastic volatility (SR-SV) model, to capture the dynamics of stochastic volatility. The proposed model is able to capture complex volatility effects, for example, nonlinearity and long-memory auto-dependence, overlooked by the conventional SV models, is statistically interpretable and has an impressive out-of-sample forecast performance. These properties are carefully discussed and illustrated through extensive simulation studies and applications to five international stock index datasets: the German stock index DAX30, the Hong Kong stock index HSI50, the France market index CAC40, the U.S. stock market index SP500 and the Canada market index TSX250. An user-friendly software package together with the examples reported in the article are available at https://github.com/vbayeslab.
+WOS:000762124700001
+</snippet>
+</document>
+
+<document id="63">
+<title>Sentiment-aware jump forecasting</title>
+<url>http://dx.doi.org/10.1016/j.knosys.2021.107292</url>
+<snippet>This study models the return distributions of the Shanghai Security Composite Index (SSCI) by adding sentiment-aware variables (attention, sentiment, and disagreement), which may affect the jump intensity dynamics or changing the jump size variance, into the GARJI model of Maheu and McCurdy (2004). Textual analysis with some state-of-art machine-learning and deep-learning algorithms is used to select investor sentiment-aware variables with better performance. The extended models (GARJI-sentiment models), which incorporate the sentiment-aware variables into GARJI model, have better forecasting powers on volatilities and extreme events than the benchmark GARJI model. The significant influence of sentiment-aware variables on the jumps and conditional variances implies bounded rationality of investors. Our case study further provides some evidence that Black Swan events, including the implementation of the circuit breaker rule and the lockdown of Wuhan during the COVID-19 epidemic, could affect market jump risks and conditional variances by influencing the sentiment-aware variables, especially investor attention. (C) 2021 Elsevier B.V. All rights reserved.
+WOS:000685993500018
+</snippet>
+</document>
+
+<document id="64">
+<title>Uncertainty, volatility and the persistence norms of financial time series</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2023.119894</url>
+<snippet>Norms of Persistent Homology, introduced in topological data analysis, are indicators of system instability, analogous to the changing predictability that is captured in financial market uncertainty indexes. Differen-tiating observed and unobserved measures of uncertainty, this paper demonstrates a contemporaneous link between persistence norms and uncertainty of all known types. Extending to a dynamic modelling framework provides evidence that unobserved uncertainty Granger causes persistence norms. Further, study of dynamic correlations between persistence norms, volatility and unobserved uncertainty shows that correlations between unobserved uncertainty and persistence norms increase ahead of market crashes. Evidence from the dynamic analysis of the persistence norm-uncertainty relationship provided herein supports the early conclusion that persistence norms provide a signal of impending market crashes. Persistence norms therefore have potential as a further tool in asset pricing, capturing signals from financial time series beyond volatility.
+WOS:000972018200001
+</snippet>
+</document>
+
+<document id="65">
+<title>TimeParticle: Particle-like multiscale state space models for time series forecasting</title>
+<url>http://dx.doi.org/10.1016/j.knosys.2025.113923</url>
+<snippet>Time series forecasting is crucial in fields such as transportation and finance, often involving complex nonlinear relationships and long-term dependencies. Recently, state space models (SSM), exemplified by Mamba, have gained attention for their ability to capture these complexities. However, significant research gaps remain in adapting core SSM operators to time series data. To bridge this gap, we propose TimeParticle, a particle-like state space model for time series forecasting. Our key contributions include an innovative multiscale patch modeling approach and improvements to the SSM operator inspired by particle volatility. Specifically, by removing harmonic components in the frequency domain to reduce interference and selecting critical periodic patterns as patch lengths, we decompose the series into different time scales. Utilizing multiscale patch information and inherent trend information of time series, we solve the discretized Schr &amp; ouml;dinger equation to determine the probability distribution of the series at each time step. Additionally, an MLP layer between channels is applied to strengthen the capture of cross-channel dependencies, thereby improving predictive capability. Extensive experiments on various real-world datasets have demonstrated that TimeParticle outperforms all existing models, achieving state-of-the-art forecasting performance.
+WOS:001519912500001
+</snippet>
+</document>
+
+<document id="66">
+<title>A Deep Learning-Based Approach to Constructing a Domain Sentiment Lexicon: a Case Study in Financial Distress Prediction</title>
+<url>http://dx.doi.org/10.1016/j.ipm.2021.102673</url>
+<snippet>Financial text mining has been widely viewed as a promising approach to analyzing questions related to financial issues. However, only a few studies have ever emphasized constructing financial domain sentiment lexicons, especially in a Chinese financial context. In light of this gap in research, the purpose of this study is to generate a Chinese financial domain sentiment lexicon (CFDSL). Then, that lexicon is applied to financial distress prediction (FDP). This study proposes a deep learning-based framework to construct a domain sentiment lexicon, employing words vector models and deep learning-based classifiers in the process. To evaluate the effectiveness of the CFDSL, this study applies the lexicon to analyzing annual reports; sentiment features are also regarded as predictive factors in FDP. The experiment results indicate that deep learning-based models can achieve satisfactory results in generating a CFDSL that mainly covers four aspects of sentiment words, including capital markets, stock markets, companies' internal business conditions and politics. This study also discovers that sentiment features that are calculated four years prior to the predicted benchmark year enable the optimum performance. In addition, CFDSL-based sentiment features show advantages in FDP, compared with other lexicons. This study makes a novel contribution to existing research, as it expands the method of constructing financial domain sentiment lexicons. This paper also provides new findings that can have significant implications for the provision of early warning signals of Chinese listed companies' financial risk.
+WOS:000681134700012
+</snippet>
+</document>
+
+<document id="67">
+<title>Volatility forecasting for stock market incorporating macroeconomic variables based on GARCH-MIDAS and deep learning models</title>
+<url>http://dx.doi.org/10.1002/for.2899</url>
+<snippet>Empirical experiments have shown that macroeconomic variables can affect the volatility of stock market. However, the frequencies of macroeconomic variables are low and different from the stock market volatility, and few literature considers the low-frequency macroeconomic variables as input indicators for deep learning models. In this paper, we forecast the stock market volatility incorporating low-frequency macroeconomic variables based on a hybrid model integrating the deep learning method with generalized autoregressive conditional heteroskedasticity and mixed data sampling (GARCH-MIDAS) model to process the mixing frequency data. This paper firstly takes macroeconomic variables as exogenous variables then uses the GARCH-MIDAS model to deal with the problem of different frequencies between the macroeconomic variables and stock market volatility and to forecast the short-term volatility and finally takes the predicted short-term volatility as the input indicator into machine learning and deep learning models to forecast the realized volatility of stock market. It is found that adding macroeconomic variables can significantly improve the forecasting ability in the comparison of the forecasting effects of the same model before and after adding the macroeconomic variables. Additionally, in the comparison of the forecasting effects among different models, it is also found that the forecasting effect of the deep learning model is the best, the machine learning model is worse, and the traditional econometric model is the worst.
+WOS:000836894800001
+</snippet>
+</document>
+
+<document id="68">
+<title>Are China's green stocks the safe haven? Evidence from geopolitical risks and oil prices</title>
+<url>http://dx.doi.org/10.1080/00036846.2025.2547115</url>
+<snippet>This paper investigates the safe haven properties of China's green stocks under geopolitical risks and oil market volatility. Leveraging an integrated analytical framework - including the Transformer-DCC-GARCH, SVAR, and TVP-VAR models - we examine the dynamic relationships among green stocks, geopolitical risks, and oil prices. The results show that green stocks exhibit a significant negative correlation with oil prices during periods of heightened geopolitical risks, such as the global oil price collapse, COVID-19 pandemic, and Russia-Ukraine conflict, indicating their short-term dynamic safe haven properties. Moreover, green stocks help stabilize oil price fluctuations by promoting energy transition, thereby indirectly mitigating the adverse impact of geopolitical risks and exhibiting long-term structural safe haven properties. These safe haven properties are time-varying and more pronounced during periods of heightened global risk. Further analysis demonstrates that incorporating green stocks into energy investment portfolios through a geopolitical risk-based strategy improves both return and risk-adjusted performance, confirming their practical hedging value. Overall, the findings suggest that while green stocks play a vital role in stabilizing energy markets, their hedging effectiveness is contingent on evolving risk environments. Strengthening regulatory support and expanding green financial instruments are essential to fully realize their safe haven properties.
+WOS:001553509600001
+</snippet>
+</document>
+
+<document id="69">
+<title>Large volatility matrix estimation with factor-based diffusion model for high-frequency financial data</title>
+<url>http://dx.doi.org/10.3150/17-BEJ974</url>
+<snippet>Large volatility matrices are involved in many finance practices, and estimating large volatility matrices based on high-frequency financial data encounters the "curse of dimensionality". It is a common approach to impose a sparsity assumption on the large volatility matrices to produce consistent volatility matrix estimators. However, due to the existence of common factors, assets are highly correlated with each other, and it is not reasonable to assume the volatility matrices are sparse in financial applications. This paper incorporates factor influence in the asset pricing model and investigates large volatility matrix estimation under the factor price model together with some sparsity assumption. We propose to model asset prices by assuming that asset prices are governed by common factors and that the assets with similar characteristics share the same association with the factors. We then impose some reasonable sparsity condition on the part of the volatility matrices after accounting for the factor contribution. Under the proposed factor-based model and sparsity assumption, we develop an estimation scheme called "blocking and regularizing". Asymptotic properties of the proposed estimator are studied, and its finite sample performance is tested via extensive numerical studies to support theoretical results.
+WOS:000430459000015
+</snippet>
+</document>
+
+<document id="70">
+<title>Research on Dynamic Measurement and Early Warning of Systemic Financial Risk in China Based on TVP-FAVAR and Deep Learning Model</title>
+<url>http://dx.doi.org/10.3390/systems13080720</url>
+<snippet>With the accelerated development of economic globalization, it is of great significance to strengthen the ability to measure, evaluate, and warn of systemic financial risks for preventing and defusing financial risks. Thus, this research established the Time-Varying Parameter Factor-Augmented Vector Autoregression model (TVP-FAVAR), combined with the Markov Regime Switching Autoregressive Model, to dynamically measure China's systemic financial risk. The network public opinion index is constructed and introduced into the financial risk early warning system to capture the dynamic impact of market sentiment on financial risks. After testing the nonlinear causal relationship between financial indicators based on the transfer entropy method, the Transformer deep learning model is applied to build a financial risk early warning system, and the performance is compared to traditional methods. The experimental results showed that (1) the trend of the systemic financial risk index based on the dynamic measurement of the TVP-FAVAR model fitted the actual situation well and that (2) the Transformer model public opinion index could fully and effectively mine the nonlinear relationship between data. Compared to traditional machine learning methods, the Transformer model has significant advantages in stronger prediction accuracy and generalization ability. This study provided a new technical path for financial risk early warning and has important reference value for improving the financial regulatory system.
+WOS:001558192400001
+</snippet>
+</document>
+
+<document id="71">
+<title>Optimizing risk transfer in dynamic insurance networks: A graph-based reinforcement learning framework</title>
+<url>http://dx.doi.org/10.1016/j.chaos.2025.117375</url>
+<snippet>The optimization of risk transfer within interconnected insurance networks has become increasingly complex, requiring models that effectively capture dynamic financial environments. This paper introduces a mathematical framework designed to optimize risk transfer in dynamic insurance networks by integrating graph neural networks with multi-agent deep reinforcement learning. The model accounts for key complexities, such as stochastic capital flows, heterogeneous risk appetites, dynamically correlated risks, and endogenous systemic risk feedback, within an evolving network structure. A graph neural network is employed to learn the time-dependent correlation structure of insurer losses directly from the network, while a proximal policy optimization algorithm is used to dynamically optimize risk transfer policies. To ensure robustness under extreme uncertainty, the framework utilizes Entropic Value-at-Risk as its core risk measure, providing a conservative and coherent optimization objective aligned with regulatory standards. An illustrative example demonstrates the model's ability to enhance network stability, reduce tail risks, and support financial resilience. These results highlight the model's potential to transform risk transfer strategies within interconnected insurance networks, offering valuable insights that can inform both insurance risk management practices and regulatory frameworks. Future validation through extensive numerical experiments is proposed to further assess the model's effectiveness in real-world scenarios.
+WOS:001597587500001
+</snippet>
+</document>
+
+<document id="72">
+<title>STATE DEPENDENCE OF AGGREGATED RISK AVERSION: EVIDENCE FOR THE GERMAN STOCK MARKET</title>
+<url>http://dx.doi.org/10.1016/S1514-0326(14)60012-X</url>
+<snippet>We propose a dynamic generalization of the Capital Asset Pricing Model (CAPM) that allows for a time-varying market price of risk (MPR) reflecting both cross market dependence and future investment opportunities. The realized volatility approach is employed to determine market risk. The advocated state space model takes autoregressive dynamics of the MPR and predetermined state variables into account. For the case of the DAX, the major German stock index, the empirical analysis strongly underpins time variation of risk compensation. The MPR is conditioned upon the EURIBOR, a national and an international term spread, returns of the Dow-Jones-Industrial-Average-Index (DOW), and a dummy variable hinting at excess activity of noise traders. Moreover, we document forecasting results based on a short horizon trading strategy. The proposed model is characterized by strong market timing ability.
+WOS:000348672600004
+</snippet>
+</document>
+
+<document id="73">
+<title>Attentive gated graph sequence neural network-based time-series information fusion for financial trading</title>
+<url>http://dx.doi.org/10.1016/j.inffus.2022.10.006</url>
+<snippet>With the advances in financial technology (FinTech) in recent years, the finance industry has attempted to enhance the efficiency of their services through technology. The financial service most commonly desired by people is a robo-advisor, which is a virtual expert that advises people on how to make good decisions related to financial market trading. Some mathematical models may be difficult to apply to prediction problems involving multiple cross correlation. To overcome this issue, the rules of and implicit correlation between the collected data must be determined through algorithms to forecast the future market situation. By combining financial information from the financial market, we apply an information fusion approach to collect data. Also, a relational model can be developed using a deep neural network, which can be represented using a graph structure, to determine the real market situation. However, the structural information of the graph may be lost if a traditional deep learning module is used. Therefore, in this paper, we present a visual-question -answering-like deep learning fusion model based on the graph structure and attention mechanism. This model was used to study the interaction between the time-series data of various financial variables. The relationships among financial commodities were formulated, and the graph representation was learned through graph neural networks. Moreover, the importance of each commodity was determined through the attention mechanism. The proposed method improved the accuracy of trend and volatility prediction up to 6&#37; on S&amp;P500 and developed a pairs trading application.
+WOS:000885108600003
+</snippet>
+</document>
+
+<document id="74">
+<title>Causality analysis of COVID-19-induced crashes in stock and commodity markets: A topological perspective</title>
+<url>http://dx.doi.org/10.1142/S0129183126500221</url>
+<snippet>In this paper, we present a topology-inspired framework for analyzing the causal behavior of financial markets and sectors, especially during market crises. By utilizing topological data analysis (TDA) on multiple time series, we capture the evolving topological structure of stock and commodity markets through a characteristic measure - the Wasserstein distance (&amp; Wscr;&amp; Dscr;) - which reflects the complex interactions among constituent assets. After observing the crashes due to COVID-19 in both markets and sectors, we directly compare the topologies among market and sector pairs. A significant topological difference between the markets (and sectors) during the crash period indicates a possible temporal lag between the change in market dynamics. Hence, we study the Granger-causal relations between the market (and sector) pairs using the TDA-based &amp; Wscr;&amp; Dscr;. The results reveal a shift from unidirectional causality (stock -&gt; commodity) in normal periods to bidirectional causality during the crash. Our sectoral analysis reveals a surge in interconnections and reinforcing feedback loops during the crash, with diminished linkages post-crash. This indicates crisis-driven synchronization, heightened interdependence and amplified systemic risk during the crash period. This study demonstrates that TDA, combined with Granger-causality, offers a powerful approach to analyzing inter-market and inter-sector dependencies, detecting shifts in market behavior, and assessing systemic vulnerability for broader markets and sectors.
+WOS:001582899500001
+</snippet>
+</document>
+
+<document id="75">
+<title>DEEP NEURAL NETWORKS METHODS FOR ESTIMATING MARKET MICROSTRUCTURE AND SPECULATIVE ATTACKS MODELS: THE CASE OF GOVERNMENT BOND MARKET</title>
+<url>http://dx.doi.org/10.1142/S0217590822480034</url>
+<snippet>A sovereign bond market offers a wide range of opportunities for public and private sector financing and has drawn the interest of both scholars and professionals as they are the main instrument of most fixed-income asset markets. Numerous works have studied the behavior of sovereign bonds at the microeconomic level, given that a domestic securities market can enhance overall financial stability and improve financial market intermediation. Nevertheless, they do not deepen methods that identify liquidity risks in bond markets. This study introduces a new model for predicting unexpected situations of speculative attacks in the government bond market, applying methods of deep learning neural networks, which proactively identify and quantify financial market risks. Our approach has a strong impact in anticipating possible speculative actions against the sovereign bond market and liquidity risks, so the aspect of the potential effect on the systemic risk is of high importance.
+WOS:000885903400003
+</snippet>
+</document>
+
+<document id="76">
+<title>Modeling and forecasting aggregate stock market volatility in unstable environments using mixture innovation regressions</title>
+<url>http://dx.doi.org/10.1002/for.2466</url>
+<snippet>We perform Bayesian model averaging across different regressions selected from a set of predictors that includes lags of realized volatility, financial and macroeconomic variables. In our model average, we entertain different channels of instability by either incorporating breaks in the regression coefficients of each individual model within our model average, breaks in the conditional error variance, or both. Changes in these parameters are driven by mixture distributions for state innovations (MIA) of linear Gaussian state-space models. This framework allows us to compare models that assume small and frequent as well as models that assume large but rare changes in the conditional mean and variance parameters. Results using S&amp;P 500 monthly and quarterly realized volatility data from 1960 to 2014 suggest that Bayesian model averaging in combination with breaks in the regression coefficients and the error variance through MIA dynamics generates statistically significantly more accurate forecasts than the benchmark autoregressive model. However, compared to a MIA autoregression with breaks in the regression coefficients and the error variance, we fail to provide any drastic improvements.
+WOS:000407647500008
+</snippet>
+</document>
+
+<document id="77">
+<title>Forecasting the S&amp;P 500 Index Using Mathematical-Based Sentiment Analysis and Deep Learning Models: A FinBERT Transformer Model and LSTM</title>
+<url>http://dx.doi.org/10.3390/axioms12090835</url>
+<snippet>Stock price prediction has been a subject of significant interest in the financial mathematics field. Recently, interest in natural language processing models has increased, and among them, transformer models, such as BERT and FinBERT, are attracting attention. This study uses a mathematical framework to investigate the effects of human sentiment on stock movements, especially in text data. In particular, FinBERT, a domain-specific language model based on BERT tailored for financial language, was employed for the sentiment analysis on the financial texts to extract sentiment information. In this study, we use "summary" text data extracted from The New York Times, representing concise summaries of news articles. Accordingly, we apply FinBERT to the summary text data to calculate sentiment scores. In addition, we employ the LSTM (Long short-term memory) methodology, one of the machine learning models, for stock price prediction using sentiment scores. Furthermore, the LSTM model was trained by stock price data and the estimated sentiment scores. We compared the predictive power of LSTM models with and without sentiment analysis based on error measures such as MSE, RMSE, and MAE. The empirical results demonstrated that including sentiment scores through the LSTM model led to improved prediction accuracy for all three measures. These findings indicate the significance of incorporating news sentiment into stock price predictions, shedding light on the potential impact of psychological factors on financial markets. By using the FinBERT transformer model, this study aimed to investigate the interplay between sentiment and stock price predictions, contributing to a deeper understanding of mathematical-based sentiment analysis in finance and its role in enhancing forecasting in financial mathematics. Furthermore, we show that using summary data instead of entire news articles is a useful strategy for mathematical-based sentiment analysis.
+WOS:001074212800001
+</snippet>
+</document>
+
+<document id="78">
+<title>Bootstrapping integrated covariance matrix estimators in noisy jump-diffusion models with non-synchronous trading</title>
+<url>http://dx.doi.org/10.1016/j.jeconom.2016.11.002</url>
+<snippet>We propose a bootstrap method for estimating the distribution (and functionals of it such as the variance) of various integrated covariance matrix estimators. In particular, we first adapt the wild blocks of blocks bootstrap method suggested for the pre-averaged realized volatility estimator to a general class of estimators of integrated covolatility. We then show the first-order asymptotic validity of this method in the multivariate context with a potential presence of jumps, dependent microstructure noise, irregularly spaced and non-synchronous data. Our results justify using the bootstrap to estimate the covariance matrix of a broad class of covolatility estimators. The bootstrap variance estimator is positive semi definite by construction, an appealing feature that is not always shared by existing variance estimators of the integrated covariance estimator. As an application of our results, we also consider the bootstrap for regression coefficients. We show that the wild blocks of blocks bootstrap, appropriately centered, is able to mimic both the dependence and heterogeneity of the scores. We provide a proof of construction of bootstrap percentile and percentile-t intervals as well as variance estimates in this context. This contrasts the traditional pairs bootstrap which is not able to mimic the score heterogeneity even in the simple case where no microstructure noise is present. Our Monte Carlo simulations show that the wild blocks of blocks bootstrap improve the finite sample properties of the alternative approach based on the Gaussian approximation. We illustrate its practical use on high-frequency equity data. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000393932700009
+</snippet>
+</document>
+
+<document id="79">
+<title>On Forecasting Realized Volatility for Bitcoin Based on Deep Learning PSO-GRU Model</title>
+<url>http://dx.doi.org/10.1007/s10614-023-10392-5</url>
+<snippet>As the trendsetter of the digital currency market, Bitcoin fluctuates dramatically in a short period of time and has received increasing attention from investors. However, its high volatility has brought great uncertainty to the financial market. In this paper, we focus on forecasting the realized volatility of Bitcoin by using an optimized deep learning model. Firstly, we construct a more comprehensive system of factor indicators and employ different methods for feature selection, and find that the Random Forest-based feature selection fits better on the deep learning model. Then, we use the particle swarm optimization (PSO) algorithm to optimize the parameters of gated recurrent unit (GRU) model to improve the prediction accuracy, and the results show that the prediction accuracy of PSO-GRU model is 10.47&#37;, 15.28&#37;, 21.73&#37;, 34.79&#37; better than the GRU model, long-short term memory model, machine learning models and the generalized autoregressive conditional heteroscedasticity model on the mean absolute error, respectively. Finally, we establish an early risk warning scheme for Bitcoin volatility and a butterfly option arbitrage strategy, that provide investors with a reference for reasonable arrangement of trading strategies.
+WOS:000975644900001
+</snippet>
+</document>
+
+<document id="80">
+<title>Is the diurnal pattern sufficient to explain intraday variation in volatility? A nonparametric assessment</title>
+<url>http://dx.doi.org/10.1016/j.jeconom.2018.03.016</url>
+<snippet>In this paper, we propose a nonparametric way to test the hypothesis that time-variation in intraday volatility is caused solely by a deterministic and recurrent diurnal pattern. We assume that noisy high-frequency data from a discretely sampled jump-diffusion process are available. The test is then based on asset returns, which are deflated by the seasonal component and therefore homoskedastic under the null. To construct our test statistic, we extend the concept of pre-averaged bipower variation to a general Ito semimartingale setting via a truncation device. We prove a central limit theorem for this statistic and construct a positive semi-definite estimator of the asymptotic covariance matrix. The t-statistic (after pre-averaging and jump-truncation) diverges in the presence of stochastic volatility and has a standard normal distribution otherwise. We show that replacing the true diurnal factor with a model-free jump- and noise-robust estimator does not affect the asymptotic theory. A Monte Carlo simulation also shows this substitution has no discernable impact in finite samples. The test is, however, distorted by small infinite activity price jumps. To improve inference, we propose a new bootstrap approach, which leads to almost correctly sized tests of the null hypothesis. We apply the developed framework to a large cross-section of equity high-frequency data and find that the diurnal pattern accounts for a rather significant fraction of intraday variation in volatility, but important sources of heteroskedasticity remain present in the data. (C) 2018 Elsevier B.V. All rights reserved.
+WOS:000437976100002
+</snippet>
+</document>
+
+<document id="81">
+<title>Predicting macro-financial instability-How relevant is sentiment? Evidence from long short-term memory networks</title>
+<url>http://dx.doi.org/10.1016/j.ribaf.2023.101912</url>
+<snippet>This paper examines the relevance of sentiment in predicting overall financial system instability using long-run short-term memory networks. Weekly data on the US financial system, consumer sentiment, producer sentiment, and investor sentiment is collected from 21 January 1994 to 27 December 2019, and different models are developed to predict the one-week-ahead levels of financial stress in the US financial system. We find that models using sentiment indices outper-form those relying solely on historical financial stress and risk data. This result is robust to comparisons with an alternative deep learning method and out-of-sample predictions. It consti-tutes an argument in favor of behavioral finance and Minsky's (Knell, 2015) financial instability hypothesis against the Efficient Market Hypothesis. As it concretely identifies the main indicators for predicting US financial stress one week in advance, the study provides relevant recommen-dations for policymakers and investors in terms of macroprudential policies and portfolio management.
+WOS:000957675800001
+</snippet>
+</document>
+
+</searchresult>

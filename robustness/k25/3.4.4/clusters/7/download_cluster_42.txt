@@ -1,0 +1,1754 @@
+FN Thomson Reuters Web of Science™
+VR 1.0
+PT J
+AU Chen, Y
+   Lai, Wan-Ni
+   Sun, Edward W
+TI Jump Detection and Noise Separation by a Singular Wavelet Method for Predictive Analytics of High-Frequency Data
+SO COMPUTATIONAL ECONOMICS
+DE convex optimization; forecasting; jump detection; high-frequency data; reinforcement learning; wavelet
+AB High-frequency data is a big data in finance in which a large amount of intra-day transactions arriving irregularly in financial markets are recorded. Given the high frequency and irregularity, such data require efficient tools to filter out the noise (i.e. jumps) arising from the anomaly, irregularity, and heterogeneity of financial markets. In this article, we use a recurrently adaptive separation algorithm, which is based on the maximal overlap discrete wavelet transform (MODWT) and that can effectively: (1) identify the time-variant jumps, (2) extract the time-consistent patterns from the noise (jumps), and (3) denoise the marginal perturbations. In addition, the proposed algorithm enables reinforcement learning to optimize a multiple-criteria decision or convex programming when reconstructing the wavelet-denoised data. Using simulated data, we show the proposed approach can perform efficiently in comparison with other conventional methods documented in the literature. We also apply our method in an empirical study by using high-frequency data from the US stock market and confirm that the proposed method can significantly improve the accuracy of predictive analytics models for financial market returns.
+C1 [Chen, Yi-Ting] InfoTech, Frankfurt, Germany.   
+[Chen, Yi-Ting] Natl Chiao Tung Univ, Sch Comp Sci, Hsinchu, Taiwan.   
+[Lai, Wan-Ni] Univ Cote Azur, SKEMA Business Sch, Nice, France.   
+[Sun, Edward W.] KEDGE Business Sch, 680 Cours Liberat, F-33405 Talence, France.
+RP Sun, EW (corresponding author), KEDGE Business Sch, 680 Cours Liberat, F-33405 Talence, France.
+CR Andersen TG, 2017, TECHNICAL REPORT, V0, P0
+   Bollerslev T, 2015, J FINANC ECON, V118, P113, DOI 10.1016/j.jfineco.2015.02.010
+   Chen YT, 2015, STUD NONLINEAR DYN E, V19, P445, DOI 10.1515/snde-2014-0057
+   Chen YT, 2018, COMPUT ECON, V52, P653, DOI 10.1007/s10614-017-9711-7
+   Christensen K, 2014, J FINANC ECON, V114, P576, DOI 10.1016/j.jfineco.2014.07.007
+   Engel Y, 2015, P 22 INT C MACH LEAR, V0, P201
+   Ftiti Z, 2015, COMPUT ECON, V46, P575, DOI 10.1007/s10614-014-9461-8
+   Habimana O, 2019, COMPUT ECON, V53, P85, DOI 10.1007/s10614-017-9725-1
+   Han L, 2017, COMPUT ECON, V50, P111, DOI 10.1007/s10614-016-9584-1
+   Marsalek R, 2014, COMPUT ECON, V44, P477, DOI 10.1007/s10614-013-9403-x
+   Olayeni OR, 2016, COMPUT ECON, V47, P321, DOI 10.1007/s10614-015-9489-4
+   Sun EW, 2014, ANN OPER RES, V223, P403, DOI 10.1007/s10479-013-1382-8
+   Sun EW, 2015, INT J PROD ECON, V165, P194, DOI 10.1016/j.ijpe.2014.12.033
+   Todorov V, 2014, J ECONOMETRICS, V178, P180, DOI 10.1016/j.jeconom.2013.08.015
+   Xue Y, 2014, QUANT FINANC, V14, P1427, DOI 10.1080/14697688.2013.830320
+NR 15
+TC 17
+Z9 0
+U1 1.0
+U2 27.0
+J9 COMPUTATIONAL ECONOMICS
+PD AUG
+PY 2019
+VL 54
+BP 809
+EP 844
+DI 10.1007/s10614-019-09881-3
+PG 36
+SC BUSINESS & ECONOMICS; MATHEMATICS
+UT WOS:000477065600013
+PM 
+ER
+
+PT J
+AU Soleymani, F
+   Paquet, Eric
+TI Financial portfolio optimization with online deep reinforcement learning and restricted stacked autoencoder-DeepBreath
+SO EXPERT SYSTEMS WITH APPLICATIONS
+DE portfolio management; deep reinforcement learning; restricted stacked autoencoder; online leaning; settlement risk; blockchain
+AB The process of continuously reallocating funds into financial assets, aiming to increase the expected return of investment and minimizing the risk, is known as portfolio management. In this paper, a portfolio management framework is developed based on a deep reinforcement learning framework called DeepBreath. The DeepBreath methodology combines a restricted stacked autoencoder and a convolutional neural network (CNN) into an integrated framework. The restricted stacked autoencoder is employed in order to conduct dimensionality reduction and features selection, thus ensuring that only the most informative abstract features are retained. The CNN is used to learn and enforce the investment policy which consists of reallocating the various assets in order to increase the expected return on investment. The framework consists of both offline and online learning strategies: the former is required to train the CNN while the latter handles concept drifts i.e. a change in the data distribution resulting from unforeseen circumstances. These are based on passive concept drift detection and online stochastic batching. Settlement risk may occur as a result of a delay in between the acquisition of an asset and its payment failing to deliver the terms of a contract. In order to tackle this challenging issue, a blockchain is employed. Finally, the performance of the DeepBreath framework is tested with four test sets over three distinct investment periods. The results show that the return of investment achieved by our approach outperforms current expert investment strategies while minimizing the market risk. Crown Copyright (C) 2020 Published by Elsevier Ltd.
+C1 [Soleymani, Farzan; Paquet, Eric] Natl Res Council Canada, 1200 Montreal Rd, Montreal, ON K1K 2E1, Canada.
+RP Paquet, E (corresponding author), Natl Res Council Canada, 1200 Montreal Rd, Montreal, ON K1K 2E1, Canada.
+CR Bao W, 2017, PLOS ONE, V12, P0, DOI 10.1371/journal.pone.0180944
+   Bessler W, 2017, EUR J FINANC, V23, P1, DOI 10.1080/1351847X.2014.953699
+   Cavagnaro RobertJ, 2015, PROC. 11TH EUR. WAVE TIDAL ENERGY CONF, V0, P1
+   Cheng ZX, 2018, PICT COD SYMP, V0, PP253, DOI 10.1109/PCS.2018.8456308
+   Choung OH, 2017, SCI REP-UK, V7, P0, DOI 10.1038/s41598-017-17687-2
+   Dwyer GP, 2015, J FINANC STABIL, V17, P81, DOI 10.1016/j.jfs.2014.11.006
+   Hu Y, 2015, ELECTRON COMMER R A, V14, P444, DOI 10.1016/j.elerap.2015.06.002
+   Ivanov S, 2019, MODERN DEEP REINFORCEMENT LEARNING ALGORITHMS, V0, P0
+   Jiang Zhengyao, 2017, DEEP REINFORCEMENT L, V0, P0
+   Lansiti M, 2017, HARVARD BUS REV, V95, P119
+   LeCun Y, 2015, NATURE, V521, P436, DOI 10.1038/nature14539
+   Maverick JB, 2019, WHAT IS A GOOD SHARPE RATIO?, V0, P0
+   Patel J, 2015, EXPERT SYST APPL, V42, P259, DOI 10.1016/j.eswa.2014.07.040
+   Sayeed S, 2019, APPL SCI-BASEL, V9, P0, DOI 10.3390/app9091788
+   Unknown -, 2016, DEEP LEARNING, V0, P0
+   Unknown -, 2017, EC DISTRIBUTED LEDGE, V0, P0
+   Unknown -, 2018, REINFORCEMENT LEARNI, V0, P0
+   Wall E, 2016, USING BLOCKCHAIN TEC, V0, P0
+   Wong T, 2018, COMM COM INF SC, V893, P203, DOI 10.1007/978-3-319-98204-5, 17
+   Zhang W, 2018, PHYSICA A, V510, P658, DOI 10.1016/j.physa.2018.07.032
+NR 20
+TC 93
+Z9 0
+U1 5.0
+U2 118.0
+J9 EXPERT SYSTEMS WITH APPLICATIONS
+PD OCT
+PY 2020
+VL 156
+BP 
+EP 
+DI 10.1016/j.eswa.2020.113456
+PG 16
+SC COMPUTER SCIENCE; ENGINEERING; OPERATIONS RESEARCH & MANAGEMENT SCIENCE
+UT WOS:000542130000005
+PM 
+ER
+
+PT J
+AU Nakano, M
+   Takahashi, Akihiko
+   Takahashi, Soichiro
+TI Generalized exponential moving average (EMA) model with particle filtering and anomaly detection
+SO EXPERT SYSTEMS WITH APPLICATIONS
+DE particle filtering; anomaly detection; exponential moving averages; stochastic volatility; state space models; global financial assets
+AB This paper proposes a generalized exponential moving average (EMA) model, a new stochastic volatility model with time-varying expected return in financial markets. In particular, we effectively apply a particle filter (PF) to sequential estimation of states and parameters in a state space framework. Moreover, we develop three types of anomaly detectors, which are implemented easily in the PF algorithm to be used for investment decision. As a result, a simple investment strategy with our scheme is superior to the one based on the standard EMA and well-known traditional strategies such as equally-weighted, minimum-variance and.risk parity portfolios. Our dataset is monthly total returns of global financial assets such as stocks, bonds and REITs, and investment performances are evaluated with various statistics, namely compound returns, Sharpe ratios, Sortino ratios and drawdowns. (C) 2016 Elsevier Ltd. All rights reserved.
+C1 [Nakano, Masafumi; Takahashi, Soichiro] Univ Tokyo, Grad Sch Ecnon, Bunkyo Ku, 7-3-1 Hongo, Tokyo 1130033, Japan.   
+[Takahashi, Akihiko] Univ Tokyo, Fac Econ, Bunkyo Ku, 7-3-1 Hongo, Tokyo 1130033, Japan.
+RP Takahashi, A (corresponding author), Univ Tokyo, Fac Econ, Bunkyo Ku, 7-3-1 Hongo, Tokyo 1130033, Japan.
+FU CARF (Center for Advanced Research in Finance); Grants-in-Aid for Scientific Research [17J09127, 17J09046] Funding Source: KAKEN
+CR Araújo RDA, 2015, EXPERT SYST APPL, V42, P4081, DOI 10.1016/j.eswa.2015.01.004
+   Ballings M, 2015, EXPERT SYST APPL, V42, P7046, DOI 10.1016/j.eswa.2015.05.013
+   Braga MD, 2016, RISK BASED APPROACHE, V0, P0
+   Chang GB, 2014, J GEODESY, V88, P391, DOI 10.1007/s00190-013-0690-8
+   Fama EF, 2012, J FINANC ECON, V105, P457, DOI 10.1016/j.jfineco.2012.05.011
+   Fukui T, 2016, PREPRINT, V0, P0
+   Hsu MW, 2016, EXPERT SYST APPL, V61, P215, DOI 10.1016/j.eswa.2016.05.033
+   Johannes M, 2014, J FINANC, V69, P611, DOI 10.1111/jofi.12121
+   Khashei M, 2012, EXPERT SYST APPL, V39, P4344, DOI 10.1016/j.eswa.2011.09.157
+   Mundnich K, 2016, EXPERT SYST APPL, V54, P228, DOI 10.1016/j.eswa.2016.01.052
+   Nakano M, 2016, J EC IN PRESS, V0, P0
+   Patel J, 2015, EXPERT SYST APPL, V42, P2162, DOI 10.1016/j.eswa.2014.10.031
+   Patel J, 2015, EXPERT SYST APPL, V42, P259, DOI 10.1016/j.eswa.2014.07.040
+   Patil N, 2012, MICROELECTRON RELIAB, V52, P482, DOI 10.1016/j.microrel.2011.10.017
+   Rather AM, 2015, EXPERT SYST APPL, V42, P3234, DOI 10.1016/j.eswa.2014.12.003
+   Rios MP, 2013, STATE-SPACE MODELS, V0, PP23, DOI 10.1007/978-1-4614-7789-1, 2
+   Wang JJ, 2012, OMEGA-INT J MANAGE S, V40, P758, DOI 10.1016/j.omega.2011.07.008
+   Zhou XC, 2014, INT J FORECASTING, V30, P963, DOI 10.1016/j.ijforecast.2014.03.017
+   de Oliveira FA, 2013, EXPERT SYST APPL, V40, P7596, DOI 10.1016/j.eswa.2013.06.071
+NR 19
+TC 67
+Z9 0
+U1 2.0
+U2 48.0
+J9 EXPERT SYSTEMS WITH APPLICATIONS
+PD MAY
+PY 2017
+VL 73
+BP 187
+EP 200
+DI 10.1016/j.eswa.2016.12.034
+PG 14
+SC COMPUTER SCIENCE; ENGINEERING; OPERATIONS RESEARCH & MANAGEMENT SCIENCE
+UT WOS:000394632200014
+PM 
+ER
+
+PT J
+AU Kim, HY
+   Won, Chang Hyun
+TI Forecasting the volatility of stock price index: A hybrid model integrating LSTM with multiple GARCH-type models
+SO EXPERT SYSTEMS WITH APPLICATIONS
+DE lstm; garch; deep learning; volatility prediction; hybrid model
+AB Volatility plays crucial roles in financial markets, such as in derivative pricing, portfolio risk management, and hedging strategies. Therefore, accurate prediction of volatility is critical. We propose a new hybrid long short-term memory (LSTM) model to forecast stock price volatility that combines the LSTM model with various generalized autoregressive conditional heteroscedasticity (GARCH)-type models. We use KOSPI 200 index data to discover proposed hybrid models that combine an LSTM with one to three GARCH-type models. In addition, we compare their performance with existing methodologies by analyzing single models, such as the GARCH, exponential GARCH, exponentially weighted moving average, a deep feedforward neural network (DFN), and the LSTM, as well as the hybrid DFN models combining a DFN with one GARCH-type model. Their performance is compared with that of the proposed hybrid LSTM models. We discover that GEW-LSTM, a proposed hybrid model combining the LSTM model with three GARCH-type models, has the lowest prediction errors in terms of mean absolute error (MAE), mean squared error (MSE), heteroscedasticity adjusted MAE (HMAE), and heteroscedasticity adjusted MSE (HMSE). The MAE of GEW-ISTM is 0.0107, which is 37.2% less than that of the E-DFN (0.017), the model combining EGARCH and DFN and the best model among those existing. In addition, the GEW-LSTM has 57.3%, 24.7%, and 48% smaller MSE, HMAE, and HMSE, respectively. The first contribution of this study is its hybrid LSTM model that combines excellent sequential pattern learning with improved prediction performance In stock market volatility. Second, our proposed model markedly enhances prediction performance of the existing literature by combining a neural network model with multiple econometric models rather than only a single econometric model. Finally, the proposed methodology can be extended to various fields as an integrated model combining time-series and neural network models as well as forecasting stock market volatility. (C) 2018 Elsevier Ltd. All rights reserved.
+C1 [Kim, Ha Young; Won, Chang Hyun] Ajou Univ, Dept Financial Engn, Worldcupro 206, Suwon 16499, South Korea.   
+[Kim, Ha Young] Ajou Univ, Dept Data Sci, Worldcupro 206, Suwon 16499, South Korea.
+RP Kim, HY (corresponding author), Ajou Univ, Dept Financial Engn, Worldcupro 206, Suwon 16499, South Korea.
+FU National Research Foundation of Korea (NRF) - Ministry of Education, Science and Technology [NRF-2017R1C1B5018038]
+CR Baruník J, 2016, EXPERT SYST APPL, V55, P222, DOI 10.1016/j.eswa.2016.02.008
+   Chen K, 2015, PROCEEDINGS 2015 IEEE INTERNATIONAL CONFERENCE ON BIG DATA, V0, PP2823, DOI 10.1109/BigData.2015.7364089
+   Hsu MW, 2016, EXPERT SYST APPL, V61, P215, DOI 10.1016/j.eswa.2016.05.033
+   Kingsbury D, 2015, P1, V0, P0, DOI 10.1021/bk-2015-1214.ch001
+   Kristjanpoller W, 2014, EXPERT SYST APPL, V41, P2437, DOI 10.1016/j.eswa.2013.09.043
+   Kristjanpoller W, 2016, EXPERT SYST APPL, V65, P233, DOI 10.1016/j.eswa.2016.08.045
+   Kristjanpoller W, 2017, EXPERT SYST APPL, V84, P290, DOI 10.1016/j.eswa.2017.05.024
+   Oliveira N, 2017, EXPERT SYST APPL, V73, P125, DOI 10.1016/j.eswa.2016.12.036
+   Park H, 2014, EXPERT SYST APPL, V41, P5227, DOI 10.1016/j.eswa.2014.01.032
+   Shim H, 2017, ZB RAD EKON FAK RIJE, V35, P301, DOI 10.18045/zbefri.2017.2.301
+   Yao Y, 2017, EXPERT SYST APPL, V84, P232, DOI 10.1016/j.eswa.2017.05.025
+NR 11
+TC 498
+Z9 0
+U1 30.0
+U2 892.0
+J9 EXPERT SYSTEMS WITH APPLICATIONS
+PD AUG
+PY 2018
+VL 103
+BP 25
+EP 37
+DI 10.1016/j.eswa.2018.03.002
+PG 13
+SC COMPUTER SCIENCE; ENGINEERING; OPERATIONS RESEARCH & MANAGEMENT SCIENCE
+UT WOS:000430521200003
+PM 
+ER
+
+PT J
+AU Borovykh, A
+   Bohte, Sander
+   Oosterlee, Cornelis W
+TI Dilated convolutional neural networks for time series forecasting
+SO JOURNAL OF COMPUTATIONAL FINANCE
+DE convolutional neural network (cnn); financial time series; forecasting; deep learning; multivariate time series
+AB We present a method for conditional time series forecasting based on an adaptation of the recent deep convolutional WaveNet architecture. The proposed network contains stacks of dilated convolutions that allow it to access a broad range of historical data when forecasting. It also uses a rectified linear unit (ReLU) activation function, and conditioning is performed by applying multiple convolutional filters in parallel to separate time series, which allows for the fast processing of data and the exploitation of the correlation structure between the multivariate time series. We test and analyze the performance of the convolutional network both unconditionally and conditionally for financial time series forecasting using the Standard & Poor's 500 index, the volatility index, the Chicago Board Options Exchange interest rate and several exchange rates, and we extensively compare its performance with those of the well-known autoregressive model and a long short-term memory network. We show that a convolutional network is well suited to regression-type problems and is able to effectively learn dependencies in and between the series without the need for long historical time series, that it is a time-efficient and easy-to-implement alternative to recurrent-type networks, and that it tends to outperform linear and recurrent model.
+C1 [Borovykh, Anastasia] Univ Bologna, Dipartimento Matemat, Piazza Porta San Donata 5, I-40126 Bologna, Italy.   
+[Bohte, Sander; Oosterlee, Cornelis W.] Ctr Wiskunde & Informat, Sci Pk 123, NL-1098 XG Amsterdam, Netherlands.   
+[Oosterlee, Cornelis W.] Delft Univ Technol, Van Mourik Broekmanweg 6, NL-2628 XE Delft, Netherlands.
+RP Borovykh, A (corresponding author), Univ Bologna, Dipartimento Matemat, Piazza Porta San Donata 5, I-40126 Bologna, Italy.
+FU European Union
+CR Lahmiri S, 2014, J KING SAUD UNIV-COM, V26, P218, DOI 10.1016/j.jksuci.2013.12.001
+   Mittelman R, 2015, ARXIV150800317, V0, P0
+   Rippel O, 2015, ADV NEUR IN, V28, P0
+   Unknown -, 2014, ARXIV PREPRINT ARXIV, V0, P0
+   Unknown -, 2016, ARXIV160106759, V0, P0
+   Unknown -, 2016, ARXIV160605328, V0, P0
+   Unknown -, 2016, ARXIV161106455, V0, P0
+   Unknown -, 2016, P 9 ISCA WORKSH SPEE, V0, P0
+   Unknown -, 2017, ARXIV PREPRINT ARXIV, V0, P0
+   YU F, 2015, PROC IEEE INT C LEAR, V0, P0
+   Zheng Y, 2016, FRONT COMPUT SCI-CHI, V10, P96, DOI 10.1007/s11704-015-4478-2
+NR 11
+TC 63
+Z9 0
+U1 0.0
+U2 78.0
+J9 JOURNAL OF COMPUTATIONAL FINANCE
+PD FEB
+PY 2019
+VL 22
+BP 73
+EP 101
+DI 10.21314/JCF.2018.358
+PG 29
+SC BUSINESS & ECONOMICS
+UT WOS:000459856000004
+PM 
+ER
+
+PT J
+AU Guo, J
+   Kang, Weiyi
+   Wang, Yubing
+TI Option pricing under sub-mixed fractional Brownian motion based on time-varying implied volatility using intelligent algorithms
+SO SOFT COMPUTING
+DE sub-mixed fractional brownian motion; option pricing; implied volatility; deep learning; artificial intelligence algorithm
+AB Against the background of the current complex international geopolitical situation and more intense trade frictions, the volatility of financial assets has important research significance as a basis for risk analysis and option pricing. First, considering the characteristics of financial assets-such as "long dependence"-the pricing model can become complicated, making it difficult to calculate the implied volatility directly. Establishing the loss function between the trading data and modeled value, the implied volatility at different moments solved using the global optimal double annealing algorithm was found to differ from the generalized autoregressive conditional heteroskedasticity (GARCH) volatility and historical volatility. Second, the implied volatility considering peoples future expectations of financial assets was predicted using the previously known implied volatility via deep learning methods. The empirical results showed that the implied volatilities predicted using the long short-term memory (LSTM) and one-dimensional convolutional neural network (1D-CNN) methods performed well for option pricing. Moreover, the fractal option-pricing models outperformed the traditional Black-Scholes (B-S) pricing model. Finally, based on the accumulated local effect (ALE) algorithm-which can quantify the impact analysis of different volatilities on pricing models-it was found that the predicted implied volatility using artificial intelligence algorithms was more relevant to the truth. A combination of traditional mathematical models and emerging intelligent algorithms are promoted in this study, providing a reference for investors and risk managers and contributing to the continued development of financial markets.
+C1 [Guo, Jingjun; Kang, Weiyi; Wang, Yubing] Lanzhou Univ Finance & Econ, Sch Stat, Lanzhou 730020, Peoples R China.
+RP Kang, WY (corresponding author), Lanzhou Univ Finance & Econ, Sch Stat, Lanzhou 730020, Peoples R China.
+FU National Natural Science Foundation of China [71961013]; Double First-Class Key Research Project of the Gansu Provincial Department of Education [GSSYLXM-06]; Doctoral Research Innovation Project of the Lanzhou University of Finance and Economics [2021D09]; Education Department of Gansu [2022CXZX-696]
+CR Apley DW, 2020, J ROY STAT SOC B, V82, P1059, DOI 10.1111/rssb.12377
+   Araneda AA, 2021, PHYSICA A, V573, P0, DOI 10.1016/j.physa.2021.125974
+   Bian L, 2021, CHAOS SOLITON FRACT, V153, P0, DOI 10.1016/j.chaos.2021.111442
+   Chorro C, 2020, SOFT COMPUT, V24, P8505, DOI 10.1007/s00500-019-04236-4
+   Chowdhury R, 2020, PHYSICA A, V555, P0, DOI 10.1016/j.physa.2020.124444
+   Dai ZF, 2020, N AM J ECON FINANC, V52, P0, DOI 10.1016/j.najef.2020.101174
+   Ghasemalipour S, 2019, SOFT COMPUT, V23, P13205, DOI 10.1007/s00500-019-03862-2
+   Guo JJ, 2022, RESOUR POLICY, V77, P0, DOI 10.1016/j.resourpol.2022.102737
+   He XJ, 2021, EXPERT SYST APPL, V178, P0, DOI 10.1016/j.eswa.2021.114983
+   Henrique BM, 2019, EXPERT SYST APPL, V124, P226, DOI 10.1016/j.eswa.2019.01.012
+   Ji BX, 2022, FRACTAL FRACT, V6, P0, DOI 10.3390/fractalfract6050244
+   Jia F, 2021, COMPLEXITY, V2021, P0, DOI 10.1155/2021/5511802
+   Jiang MQ, 2020, PHYSICA A, V541, P0, DOI 10.1016/j.physa.2019.122272
+   Khan W, 2020, J AMB INTEL HUM COMP, V0, P0, DOI 10.1007/s12652-020-01839-w
+   Liang LY, 2022, EXPERT SYST APPL, V187, P0, DOI 10.1016/j.eswa.2021.115951
+   Liu ZB, 2021, N AM J ECON FINANC, V55, P0, DOI 10.1016/j.najef.2020.101307
+   Maghyereh A, 2020, INT REV FINANC ANAL, V71, P0, DOI 10.1016/j.irfa.2020.101545
+   Molnar C, 2020, LIMITATIONS OF INTERPRETABLE MACHINE LEARNING METHODS, V0, P0
+   Mozumder S, 2018, APPL ECON, V50, P6034, DOI 10.1080/00036846.2018.1488057
+   Nguyen DBB, 2020, J FINANC MARK, V47, P0, DOI 10.1016/j.finmar.2019.01.002
+   Qiao GX, 2019, N AM J ECON FINANC, V49, P133, DOI 10.1016/j.najef.2019.04.003
+   Wang W, 2021, CHAOS SOLITON FRACT, V145, P0, DOI 10.1016/j.chaos.2021.110754
+   Wang XY, 2022, AIMS MATH, V7, P16612, DOI 10.3934/math.2022910
+   Xu F, 2019, FRACT CALC APPL ANAL, V22, P1145, DOI 10.1515/fca-2019-0060
+NR 24
+TC 9
+Z9 0
+U1 4.0
+U2 25.0
+J9 SOFT COMPUTING
+PD OCT
+PY 2023
+VL 27
+BP 15225
+EP 15246
+DI 10.1007/s00500-023-08647-2
+PG 22
+SC COMPUTER SCIENCE
+UT WOS:001016178700003
+PM 
+ER
+
+PT J
+AU Moon, K
+   Kim, Hongjoong
+TI PERFORMANCE OF DEEP LEARNING IN PREDICTION OF STOCK MARKET VOLATILITY
+SO ECONOMIC COMPUTATION AND ECONOMIC CYBERNETICS STUDIES AND RESEARCH
+DE volatility prediction; forecasting stock index; deep learning; long short term memory algorithm
+AB Volatility forecasting is an important issue for investment analysis and risk management in finance. Based on the Long Short Term Memory (LSTM) deep learning algorithm, we propose an accurate algorithm for forecasting stock market index and its volatility. The proposed algorithm is tested on the data from 5 stock market indices including S&P500, NASDAQ, German DAX, Korean KOSPI200 and Mexico IPC over a 7-yearperiod from 2010 to 2016. The highest prediction performance is observed with hybrid momentum, the difference between the price and the moving average of the past prices, for the predictions of both market index and volatility. Unlike stock index, the prediction accuracy for the volatility does not show dependency on other financial variables such as open, low, high prices, volume, etc. except the volatility itself.
+C1 [Moon, Kyoung-Sook] Gachon Univ, Math Finance, Seongnam, South Korea.   
+[Kim, Hongjoong] Korea Univ, Math, Seoul, South Korea.
+RP Moon, KS (corresponding author), Gachon Univ, Math Finance, Seongnam, South Korea.
+FU Basic Science Research Program through the National Research Foundation of Korea(NRF) - Ministry of Education [2017R1D1A1B03035543]; National Research Foundation of Korea [NRF-2018R1D1A1B07050046]
+CR Ballings M, 2015, EXPERT SYST APPL, V42, P7046, DOI 10.1016/j.eswa.2015.05.013
+   Chen YJ, 2017, EXPERT SYST APPL, V80, P340, DOI 10.1016/j.eswa.2017.02.044
+   Dash R, 2016, APPL SOFT COMPUT, V45, P40, DOI 10.1016/j.asoc.2016.04.014
+   Geron A, 2019, HANDS ON MACHINE LEA, V2nd, P0
+   Hurduzeu G, 2018, ECON COMPUT ECON CYB, V52, P37, DOI 10.24818/18423264/52.2.18.03
+   LeCun Y, 2016, NATURE, V521, P436
+   Monfared SA, 2014, PROCEDIA COMPUT SCI, V36, P246, DOI 10.1016/j.procs.2014.09.087
+   Moon KS, 2018, ECON COMPUT ECON CYB, V52, P215, DOI 10.24818/18423264/52.1.18.13
+   Nayak RK, 2015, APPL SOFT COMPUT, V35, P670, DOI 10.1016/j.asoc.2015.06.040
+   Oztekin A, 2016, EUR J OPER RES, V253, P697, DOI 10.1016/j.ejor.2016.02.056
+   Patel J, 2015, EXPERT SYST APPL, V42, P259, DOI 10.1016/j.eswa.2014.07.040
+   Peng YH, 2018, EXPERT SYST APPL, V97, P177, DOI 10.1016/j.eswa.2017.12.004
+   Qiu MY, 2016, CHAOS SOLITON FRACT, V85, P1, DOI 10.1016/j.chaos.2016.01.004
+   Rana S, 2018, ECON COMPUT ECON CYB, V52, P267, DOI 10.24818/18423264/52.2.18.16
+   Unknown -, 2015, UNDERSTANDING LSTM NETWORKS, V0, P0
+   Zhong X, 2017, NEUROCOMPUTING, V267, P152, DOI 10.1016/j.neucom.2017.06.010
+NR 16
+TC 34
+Z9 0
+U1 4.0
+U2 95.0
+J9 ECONOMIC COMPUTATION AND ECONOMIC CYBERNETICS STUDIES AND RESEARCH
+PD JUN
+PY 2019
+VL 53
+BP 77
+EP 92
+DI 10.24818/18423264/53.2.19.05
+PG 16
+SC BUSINESS & ECONOMICS; MATHEMATICS
+UT WOS:000471765800005
+PM 
+ER
+
+PT J
+AU Vidal, A
+   Kristjanpoller, Werner
+TI Gold volatility prediction using a CNN-LSTM approach
+SO EXPERT SYSTEMS WITH APPLICATIONS
+DE gold price volatility; volatility forecasting; deep learning; cnn; lstm; stock returns forecasting; hyperparameter setting
+AB Prediction of volatility for different types of financial assets is one of the tasks of greater mathematical complexity in time series prediction, mainly due to its noisy, non-stationary and heteroscedastic structure. On the other hand, gold is an asset of particular importance for hedging and diversification of investment portfolios, and therefore it is important to predict future volatility of this asset. This paper seeks to significantly improve the forecast of gold volatility by combining two deep learning methodologies: short-term memory networks (LSTM) added to convolutional neural networks (specifically a pre-trained VGG16 network). It is important to mention that these types of hybrid architectures have not been used in time series prediction, so it is a completely new approach to solving these types of problems. The CNN-LSTM hybrid model is capable of including images as input which provides a wide variety of information associated with both static and dynamic characteristics of the series. In parallel, different lags of profitability of the series are entered as input, which allows it to learn from the temporal structure. The results show a substantial improvement when this hybrid model is compared to the GARCH and LSTM models. A 37% reduction in MSE is observed compared to the classic GARCH model, and 18% compared to the LSTM model. Finally, the Model Confidence Model (MCS) determines a significant improvement in the prediction of the hybrid model. The fundamental importance of this research lies in the application of a new type of architecture capable of processing various sources of information for any time series prediction task. (C) 2020 Elsevier Ltd. All rights reserved.
+C1 [Vidal, Andres; Kristjanpoller, Werner] Univ Tecn Federico Santa Maria, Dept Ind, Av Espana 1680, Valparaiso, Chile.
+RP Kristjanpoller, W (corresponding author), Univ Tecn Federico Santa Maria, Dept Ind, Av Espana 1680, Valparaiso, Chile.
+CR Bredin D, 2015, INT REV FINANC ANAL, V41, P320, DOI 10.1016/j.irfa.2015.01.010
+   Dash R, 2016, APPL SOFT COMPUT, V45, P40, DOI 10.1016/j.asoc.2016.04.014
+   Ding X, 2015, PROCEEDINGS OF THE TWENTY-FOURTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI), V0, P2327
+   Franc V, 2018, IMAGE VISION COMPUT, V77, P10, DOI 10.1016/j.imavis.2018.06.011
+   Gunduz H, 2017, KNOWL-BASED SYST, V137, P138, DOI 10.1016/j.knosys.2017.09.023
+   Kim HY, 2018, EXPERT SYST APPL, V103, P25, DOI 10.1016/j.eswa.2018.03.002
+   Kristjanpoller RW, 2018, APPL SOFT COMPUT, V67, P106, DOI 10.1016/j.asoc.2018.02.055
+   Kristjanpoller W, 2015, EXPERT SYST APPL, V42, P7245, DOI 10.1016/j.eswa.2015.04.058
+   Mitra V, 2017, SPEECH COMMUN, V89, P103, DOI 10.1016/j.specom.2017.03.003
+   Szegedy C, 2015, PROC CVPR IEEE, V0, PP1, DOI 10.1109/CVPR.2015.7298594
+   Unknown -, 2015, FINANCIAL TIMES, V0, P0
+   Wang SH, 2018, KNOWL-BASED SYST, V144, P65, DOI 10.1016/j.knosys.2017.12.027
+NR 12
+TC 162
+Z9 0
+U1 7.0
+U2 256.0
+J9 EXPERT SYSTEMS WITH APPLICATIONS
+PD NOV
+PY 2020
+VL 157
+BP 
+EP 
+DI 10.1016/j.eswa.2020.113481
+PG 9
+SC COMPUTER SCIENCE; ENGINEERING; OPERATIONS RESEARCH & MANAGEMENT SCIENCE
+UT WOS:000548587800010
+PM 
+ER
+
+PT J
+AU Chong, E
+   Han, Chulwoo
+   Park, Frank C
+TI Deep learning networks for stock market analysis and prediction: Methodology, data representations, and case studies
+SO EXPERT SYSTEMS WITH APPLICATIONS
+DE stock market prediction; deep learning; multilayer neural network; covariance estimation
+AB We offer a systematic analysis of the use of deep learning networks for stock market analysis and prediction. Its ability to extract features from a large set of raw data without relying on prior knowledge of predictors makes deep learning potentially attractive for stock market prediction at high frequencies. Deep learning algorithms vary considerably in the choice of network structure, activation function, and other model parameters, and their performance is known to depend heavily on the method of data representation. Our study attempts to provides a comprehensive and objective assessment of both the advantages and drawbacks of deep learning algorithms for stock market analysis and prediction. Using high frequency intraday stock returns as input data, we examine the effects of three unsupervised feature extraction methods principal component analysis, autoencoder, and the restricted Boltzmann machine on the networks overall ability to predict future market behavior. Empirical results suggest that deep neural networks can extract additional information from the residuals of the autoregressive model and improve prediction performance; the same cannot be said when the autoregressive model is applied to the residuals of the network. Covariance estimation is also noticeably improved when the predictive network is applied to covariance-based market structure analysis. Our study offers practical insights and potentially useful directions for further investigation into how deep learning networks can be effectively used for stock market analysis and prediction. (C) 2017 Elsevier Ltd. All rights reserved.
+C1 [Chong, Eunsuk; Park, Frank C.] Seoul Natl Univ, Robot Lab, Seoul 08826, South Korea.   
+[Han, Chulwoo] Univ Durham, Business Sch, Mill Hill Lane, Durham DH1 3LB, England.
+RP Park, FC (corresponding author), Seoul Natl Univ, Robot Lab, Seoul 08826, South Korea.
+FU Institute for Research in Finance and Economics of Seoul National University
+CR Agrawal JG, 2013, JOURNAL OF ADVANCED RESEARCH IN ELECTRICAL, V0, P1360
+   Arévalo A, 2016, LECT NOTES ARTIF INT, V9773, P424, DOI 10.1007/978-3-319-42297-8, 40
+   Bengio Y, 2013, IEEE T PATTERN ANAL, V35, P1798, DOI 10.1109/TPAMI.2013.50
+   Bollerslev T, 2014, J FINANC QUANT ANAL, V49, P633, DOI 10.1017/S0022109014000453
+   Cavalcante RC, 2016, EXPERT SYST APPL, V55, P194, DOI 10.1016/j.eswa.2016.02.006
+   Cervelló-Royo R, 2015, EXPERT SYST APPL, V42, P5963, DOI 10.1016/j.eswa.2015.03.017
+   Chai T, 2014, GEOSCI MODEL DEV, V7, P1247, DOI 10.5194/gmd-7-1247-2014
+   Chen TL, 2016, INFORM SCIENCES, V346, P261, DOI 10.1016/j.ins.2016.01.079
+   Chiang WC, 2016, EXPERT SYST APPL, V59, P195, DOI 10.1016/j.eswa.2016.04.025
+   Chourmouziadis K, 2016, EXPERT SYST APPL, V43, P298, DOI 10.1016/j.eswa.2015.07.063
+   Ciresan D, 2012, NEURAL NETWORKS, V32, P333, DOI 10.1016/j.neunet.2012.02.023
+   Ding X, 2015, PROCEEDINGS OF THE TWENTY-FOURTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI), V0, P2327
+   Enke D, 2013, INTELL AUTOM SOFT CO, V19, P636, DOI 10.1080/10798587.2013.839287
+   Enke D, 2014, PROCEDIA COMPUT SCI, V36, P254, DOI 10.1016/j.procs.2014.09.088
+   Kazem A, 2013, APPL SOFT COMPUT, V13, P947, DOI 10.1016/j.asoc.2012.09.024
+   Kim Y, 2016, PROCEDIA COMPUT SCI, V95, P281, DOI 10.1016/j.procs.2016.09.335
+   Kim YM, 2016, EXPERT SYST APPL, V59, P165, DOI 10.1016/j.eswa.2016.04.031
+   LeCun Y, 2015, NATURE, V521, P436, DOI 10.1038/nature14539
+   Längkvist M, 2014, PATTERN RECOGN LETT, V42, P11, DOI 10.1016/j.patrec.2014.01.008
+   Monfared SA, 2014, PROCEDIA COMPUT SCI, V36, P246, DOI 10.1016/j.procs.2014.09.087
+   Niaki STA, 2013, JOURNAL OF INDUSTRIAL ENGINEERING INTERNATIONAL, V9, P1, DOI 10.1186/2251-712X-9-1
+   Patel J, 2015, EXPERT SYST APPL, V42, P2162, DOI 10.1016/j.eswa.2014.10.031
+   Phan DHB, 2015, INT REV FINANC ANAL, V40, P38, DOI 10.1016/j.irfa.2015.05.002
+   Qiu MY, 2016, CHAOS SOLITON FRACT, V85, P1, DOI 10.1016/j.chaos.2016.01.004
+   Rather AM, 2015, EXPERT SYST APPL, V42, P3234, DOI 10.1016/j.eswa.2014.12.003
+   Srivastava N, 2014, J MACH LEARN RES, V15, P1929
+   Ticknor JL, 2013, EXPERT SYST APPL, V40, P5501, DOI 10.1016/j.eswa.2013.04.013
+   Unknown -, 2013, FOUND TRENDS SIGNAL, V0, P0, DOI 10.1561/2000000039
+   Yoshihara A, 2014, LECT NOTES ARTIF INT, V8862, P759, DOI 10.1007/978-3-319-13560-1, 60
+   Zhong X, 2017, EXPERT SYST APPL, V67, P126, DOI 10.1016/j.eswa.2016.09.027
+NR 30
+TC 452
+Z9 0
+U1 16.0
+U2 683.0
+J9 EXPERT SYSTEMS WITH APPLICATIONS
+PD OCT
+PY 2017
+VL 83
+BP 187
+EP 205
+DI 10.1016/j.eswa.2017.04.030
+PG 19
+SC COMPUTER SCIENCE; ENGINEERING; OPERATIONS RESEARCH & MANAGEMENT SCIENCE
+UT WOS:000403030000016
+PM 
+ER
+
+PT J
+AU Lv, X
+   Xiong, Xiong
+   Geng, Baojun
+TI Increasing the prediction performance of temporal convolution network using multimodal combination input: Evidence from the study on exchange rates
+SO FRONTIERS IN PHYSICS
+DE pearson correlation coefficient; deep learning; random forest; artificial intelligence; exchange rate prediction
+AB The currency market is one of the most important financial markets in the world. The exchange rate movement has effect on international trade and capital flow. This study presents a forecasting method for exchange rate based on multi-modal combination market trend. The method facilitates the more accurate identification of volatility link between exchange rates, unlike the conventional ones, in which only information related to itself is used as input. We select multiple characteristics of the exchange rate from other countries as input data. Then the Pearson correlation coefficient and random forest model are used to filter these characteristics We integrate the data with higher correlation into the temporal convolutional network model to forecast the exchange rate. For the empirical samples, a nine-year period historical exchange rates of the Euro, Ruble, Australian dollar, and British pound corresponding to the Renminbi are used. The empirical results show the more stable effect using the forecasting method proposed in this study than the traditional models.
+C1 [Lv, Xueling; Xiong, Xiong] Tianjin Univ, Coll Management & Econ, Tianjin, Peoples R China.   
+[Xiong, Xiong] Tianjin Univ, Lab Computat & Analyt Complex Management Syst CACM, Tianjin, Peoples R China.   
+[Geng, Baojun] Sichuan Univ, Pittsburgh Inst, Chengdu, Peoples R China.
+RP Xiong, X (corresponding author), Tianjin Univ, Coll Management & Econ, Tianjin, Peoples R China.; Xiong, X (corresponding author), Tianjin Univ, Lab Computat & Analyt Complex Management Syst CACM, Tianjin, Peoples R China.
+FU National Natural Science Foundation of China [72141304, 71790594]; Fundamental Research Funds for the Central Universities, Tianjin Development Program for Innovation and Entrepreneurship
+CR Adekoya AF, 2021, FINTECH, V1, P25, DOI 10.3390/fintech1010002
+   Antwi A, 2020, IEEE ACCESS, V8, P179881, DOI 10.1109/ACCESS.2020.3027631
+   Bai SJ, 2018, ARXIV, V0, P0
+   Cao HD, 2021, ENTROPY-SWITZ, V23, P0, DOI 10.3390/e23121696
+   Dai PF, 2022, J COMMOD MARK, V26, P0, DOI 10.1016/j.jcomm.2021.100208
+   Dai PF, 2022, RESOUR POLICY, V78, P0, DOI 10.1016/j.resourpol.2022.102849
+   Dai W, 2022, PROCEDIA COMPUT SCI, V199, P1177, DOI 10.1016/j.procs.2022.01.149
+   Henrique BM, 2019, EXPERT SYST APPL, V124, P226, DOI 10.1016/j.eswa.2019.01.012
+   Janssen P, 2022, ATTENTION BASED TEMP, V0, P0
+   Lei BL, 2021, MATHEMATICS-BASEL, V9, P0, DOI 10.3390/math9040320
+   Liu JS, 2021, CHINA FINANC REV INT, V11, P53, DOI 10.1108/CFRI-07-2019-0112
+   Maté C, 2021, ENG APPL ARTIF INTEL, V104, P0, DOI 10.1016/j.engappai.2021.104358
+   Panda MM, 2022, INT J ADV COMPUT SC, V13, P607
+   Sezer OB, 2020, APPL SOFT COMPUT, V90, P0, DOI 10.1016/j.asoc.2020.106181
+   Soleymani F, 2022, MACHINE LEARN APPL, V7, P0, DOI 10.1016/j.mlwa.2022.100255
+   Sun L, 2021, ACM T ASIAN LOW-RESO, V20, P0, DOI 10.1145/3453693
+   Tan XY, 2022, FINANC INNOV, V8, P0, DOI 10.1186/s40854-022-00369-y
+   Torres JF, 2021, BIG DATA-US, V9, P3, DOI 10.1089/big.2020.0159
+   Totannanavar S, 2019, CORELATION FINANCIAL, V0, P0
+   Wiese M, 2020, QUANT FINANC, V20, P1419, DOI 10.1080/14697688.2020.1730426
+   Wu YC, 2021, CHINA FINANC REV INT, V11, P145, DOI 10.1108/CFRI-06-2020-0071
+   Zhang CX, 2022, EXPERT SYST APPL, V207, P0, DOI 10.1016/j.eswa.2022.117951
+   Zhang T, 2021, OCEAN ENG, V230, P0, DOI 10.1016/j.oceaneng.2021.109066
+NR 23
+TC 2
+Z9 0
+U1 2.0
+U2 20.0
+J9 FRONTIERS IN PHYSICS
+PD JAN
+PY 2023
+VL 10
+BP 
+EP 
+DI 10.3389/fphy.2022.1008445
+PG 8
+SC PHYSICS
+UT WOS:000922801800001
+PM 
+ER
+
+PT J
+AU Ntakaris, A
+   Mirone, Giorgio
+   Kanniainen, Juho
+   Gabbouj, Moncef
+   Iosifidis, Alexandros
+TI Feature Engineering for Mid-Price Prediction With Deep Learning
+SO IEEE ACCESS
+DE deep learning; econometrics; high-frequency trading; limit order book; mid-price; us data
+AB Mid-price movement prediction based on the limit order book data is a challenging task due to the complexity and dynamics of the limit order book. So far, there have been very limited attempts for extracting relevant features based on the limit order book data. In this paper, we address this problem by designing a new set of handcrafted features and performing an extensive experimental evaluation on both liquid and illiquid stocks. More specifically, we present an extensive set of econometric features that capture the statistical properties of the underlying securities for the task of mid-price prediction. The experimental evaluation consists of a head-to-head comparison with other handcrafted features from the literature and with features extracted from a long short-term memory autoencoder by means of a fully automated process. Moreover, we develop a new experimental protocol for online learning that treats the task above as a multi-objective optimization problem and predicts: 1) the direction of the next price movement and; 2) the number of order book events that occur until the change takes place. In order to predict the mid-price movement, features are fed into nine different deep learning models based on multi-layer perceptrons, convolutional neural networks, and long short-term memory neural networks. The performance of the proposed method is then evaluated on liquid and illiquid stocks (i.e., Total View-ITCH US and Nordic stocks). For some stocks, results suggest that the correct choice of a feature set and a model can lead to the successful prediction of how long it takes to have a stock price movement.
+C1 [Ntakaris, Adamantios; Kanniainen, Juho; Gabbouj, Moncef] Tampere Univ Technol, Fac Informat Technol & Commun Sci, FI-33720 Tampere, Finland.   
+[Mirone, Giorgio] Danmarks Nationalbank, DK-1093 Copenhagen, Denmark.   
+[Iosifidis, Alexandros] Aarhus Univ, Dept Elect & Comp Engn, DK-8000 Aarhus, Denmark.
+RP Ntakaris, A (corresponding author), Tampere Univ Technol, Fac Informat Technol & Commun Sci, FI-33720 Tampere, Finland.; Mirone, G (corresponding author), Danmarks Nationalbank, DK-1093 Copenhagen, Denmark.
+FU H2020 Project BigDataFinance MSCA-ITN-ETN [675044]; Marie Curie Actions (MSCA) [675044] Funding Source: Marie Curie Actions (MSCA)
+CR Chen L, 2018, IEEE ACCESS, V6, P48625, DOI 10.1109/ACCESS.2018.2859809
+   Chollet F, 2015, KERAS, V0, P0
+   Christensen K, 2014, J FINANC ECON, V114, P576, DOI 10.1016/j.jfineco.2014.07.007
+   Chung KH, 2018, J FINANC MARK, V37, P17, DOI 10.1016/j.finmar.2017.07.002
+   Dash R, 2016, J FINANCE DATA SCI, V2, P42, DOI 10.1016/j.jfds.2016.03.002
+   Dixon M, 2018, J COMPUT SCI-NETH, V24, P277, DOI 10.1016/j.jocs.2017.08.018
+   Doering J, 2017, COMPUT SCI ELECTR, V0, P0
+   Gudelek MU, 2017, PROC IEEE S SER COMP, V0, P1
+   Göçken M, 2016, EXPERT SYST APPL, V44, P320, DOI 10.1016/j.eswa.2015.09.029
+   Iosifidis, 2018, ARXIV180907861, V0, P0
+   Kercheval AN, 2015, QUANT FINANC, V15, P1315, DOI 10.1080/14697688.2015.1032546
+   Lahmiri S, 2014, J KING SAUD UNIV-COM, V26, P218, DOI 10.1016/j.jksuci.2013.12.001
+   Liou CY, 2014, NEUROCOMPUTING, V139, P84, DOI 10.1016/j.neucom.2013.09.055
+   Minh DL, 2018, IEEE ACCESS, V6, P55392, DOI 10.1109/ACCESS.2018.2868970
+   Ntakaris A, 2018, J FORECASTING, V37, P852, DOI 10.1002/for.2543
+   Passalis N, 2017, EUR SIGNAL PR CONF, V0, PP301, DOI 10.23919/EUSIPCO.2017.8081217
+   Siami-Namini S, 2018, ARXIV180306386, V0, P0
+   Tran DA, 2017, 2017 IEEE 28TH ANNUAL INTERNATIONAL SYMPOSIUM ON PERSONAL, V0, P0, DOI 10.1109/PIMRC.2017.8292622
+   Tran DT, 2019, IEEE T NEUR NET LEAR, V30, P1407, DOI 10.1109/TNNLS.2018.2869225
+   Tsantekidis A, 2017, CONF BUS INFORM, V1, P7, DOI 10.1109/CBI.2017.23
+   Tsantekidis A, 2017, EUR SIGNAL PR CONF, V0, PP2511, DOI 10.23919/EUSIPCO.2017.8081663
+   Tsantekidis A, 2018, ARXIV181009965, V0, P0
+   Unknown -, 2015, CORR ABS/ 1502. 05767, V0, P0
+   Unknown -, 2016, ARXIV160101987, V0, P0
+   Unknown -, 2016, DEEP LEARNING, V0, P0
+   Unknown -, 2016, P ICLR, V0, P0
+   Unknown -, 2017, ARXIV, V0, P0
+   Unknown -, 2017, ARXIV171104837, V0, P0
+   Unknown -, 2018, ARXIV180306917, V0, P0
+   Unknown -, 2018, ARXIV180803668, V0, P0
+   Unknown -, 2018, PREDICTING JUMP ARRI, V0, P0
+   Zhang X, 2019, IEEE ACCESS, V7, P1647, DOI 10.1109/ACCESS.2018.2884877
+   Zhou P, 2016, PROCEEDINGS OF THE 54TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2016), VOL 2, P207, DOI 10.18653/v1/p16-2034
+   Zieba M, 2016, EXPERT SYST APPL, V58, P93, DOI 10.1016/j.eswa.2016.04.001
+NR 34
+TC 44
+Z9 0
+U1 1.0
+U2 31.0
+J9 IEEE ACCESS
+PD JUN
+PY 2019
+VL 7
+BP 82390
+EP 82412
+DI 10.1109/ACCESS.2019.2924353
+PG 23
+SC COMPUTER SCIENCE; ENGINEERING; TELECOMMUNICATIONS
+UT WOS:000475350700001
+PM 
+ER
+
+PT J
+AU Rahman, MO
+   Hossain, Md Sabir
+   Junaid, Ta-Seen
+   Forhad, Md Shafiul Alam
+   Hossen, Muhammad Kamal
+TI Predicting Prices of Stock Market using Gated Recurrent Units (GRUs) Neural Networks
+SO INTERNATIONAL JOURNAL OF COMPUTER SCIENCE AND NETWORK SECURITY
+DE stock market prediction; gated recurrent units (grus) neural networks; artificial neural network; and deep learning
+AB Predicting the stock prices is very much challenging job due to the volatility of the stock market. In this paper, we have proposed a model to predict the future prices of the stock market using Gated Recurrent Units (GRUs) neural networks. We have changed the internal structure of GRUs in order to remove local minima problem, reduce time complexity and others problem of stochastic gradient descent as well as improve the efficiency. We used mini-batch gradient descent, is a good trade-off between stochastic gradient descent and batch gradient descent. We evaluated our result by calculating the root mean square error on the various dataset. After extensive experiments on the real-time dataset, our proposed method predicted the future prices successfully with good accuracy.
+C1 [Rahman, Mohammad Obaidur; Hossain, Md Sabir; Junaid, Ta-Seen; Forhad, Md Shafiul Alam; Hossen, Muhammad Kamal] Chittagong Univ Engn & Technol, Dept Comp Sci & Engn, Chittagong, Bangladesh.
+RP Hossain, MS (corresponding author), Chittagong Univ Engn & Technol, Dept Comp Sci & Engn, Chittagong, Bangladesh.
+CR Chen YJ, 2017, EXPERT SYST APPL, V80, P340, DOI 10.1016/j.eswa.2017.02.044
+   Dixon M, 2015, PROCEEDINGS OF THE 8TH WORKSHOP ON HIGH PERFORMANCE COMPUTATIONAL FINANCE, V0, P1
+   Fischer T, 2018, EUR J OPER RES, V270, P654, DOI 10.1016/j.ejor.2017.11.054
+   LeCun Y, 2015, NATURE, V521, P436, DOI 10.1038/nature14539
+   Olah C, 2015, UNDERSTANDING LSTM N, V0, P0
+   Unknown -, 2015, ICML, V0, P0
+NR 6
+TC 16
+Z9 0
+U1 0.0
+U2 8.0
+J9 INTERNATIONAL JOURNAL OF COMPUTER SCIENCE AND NETWORK SECURITY
+PD JAN
+PY 2019
+VL 19
+BP 213
+EP 222
+PG 10
+SC COMPUTER SCIENCE
+UT WOS:000458649400026
+PM 
+ER
+
+PT J
+AU Wang, J
+   Zhu, Shuzhou
+TI A multi-factor two-stage deep integration model for stock price prediction based on intelligent optimization and feature clustering
+SO ARTIFICIAL INTELLIGENCE REVIEW
+DE stock price prediction; deep learning; feature extraction; intelligent optimization; nonlinear integration
+AB Stock market fluctuations have a great impact on various economic and financial activities worldwide. Accurate prediction of stock prices plays a decisive role in constructing the investment decision or risk hedging. However, accurate prediction of the stock price is a thorny task, because stock price fluctuations are non-linear and chaotic. In order to promote the accuracy of stock price prediction, a multi-factor two-stage deep learning integrated prediction system based on intelligent optimization and feature clustering is proposed to predict stock price in this paper. Firstly, a multi-factor analysis is carried out to select a variety of factors that have an impact on the stock price, and adopt the extreme gradient boosting (XGBoost) algorithm to eliminate factors with low correlation. The second step is to apply the idea of classification prediction to cluster the filtered feature set. Further, multiple parameters of long short-term memory (LSTM) are optimized by genetic algorithm (GA), and multiple GA-LSTM models are obtained by training each clustering result. Finally, the results of each class predicted by the GA-LSTM model are nonlinearly integrated to acquire the final prediction model, which is applied to the prediction of the test set. The experimental results indicate that the performance of the proposed model outperforms other baseline models in Chinas two stock markets and the New York stock exchange. At the same time, these results fully prove that the prediction model proposed by us possesses more reliable and better predictive ability.
+C1 [Wang, Jujie; Zhu, Shuzhou] Nanjing Univ Informat Sci & Technol, Sch Management Sci & Engn, Nanjing 210044, Peoples R China.   
+[Wang, Jujie] Nanjing Univ Informat Sci & Technol, Collaborat Innovat Ctr Forecast & Evaluat Meteorol, Nanjing, Peoples R China.
+RP Wang, JJ (corresponding author), Nanjing Univ Informat Sci & Technol, Sch Management Sci & Engn, Nanjing 210044, Peoples R China.; Wang, JJ (corresponding author), Nanjing Univ Informat Sci & Technol, Collaborat Innovat Ctr Forecast & Evaluat Meteorol, Nanjing, Peoples R China.
+FU National Natural Science Foundation of China;  [71971122];  [71501101]
+CR Abbas G, 2019, J SYST SCI SYST ENG, V28, P1, DOI 10.1007/s11518-018-5371-y
+   Cao J, 2019, PHYSICA A, V519, P127, DOI 10.1016/j.physa.2018.11.061
+   Cao W, 2020, IEEE INTELL SYST, V35, P43, DOI 10.1109/MIS.2020.2977283
+   Chandar SK, 2021, PATTERN RECOGN LETT, V147, P124, DOI 10.1016/j.patrec.2021.03.030
+   Chen YJ, 2018, NEUROCOMPUTING, V321, P381, DOI 10.1016/j.neucom.2018.08.077
+   Chung H, 2018, SUSTAINABILITY-BASEL, V10, P0, DOI 10.3390/su10103765
+   Fang JC, 2020, FINANC RES LETT, V32, P0, DOI 10.1016/j.frl.2019.01.011
+   Fischer T, 2018, EUR J OPER RES, V270, P654, DOI 10.1016/j.ejor.2017.11.054
+   Henrique BM, 2019, EXPERT SYST APPL, V124, P226, DOI 10.1016/j.eswa.2019.01.012
+   Ji Y, 2021, IEEE ACCESS, V9, P23660, DOI 10.1109/ACCESS.2021.3056713
+   Joo YC, 2021, ENERG ECON, V101, P0, DOI 10.1016/j.eneco.2021.105413
+   Li GH, 2022, ENERGY REP, V8, P1644, DOI 10.1016/j.egyr.2021.11.270
+   Lin Y, 2021, N AM J ECON FINANC, V57, P0, DOI 10.1016/j.najef.2021.101421
+   Nikou M, 2019, INTELL SYST ACCOUNT, V26, P164, DOI 10.1002/isaf.1459
+   Niu HL, 2020, APPL INTELL, V50, P4296, DOI 10.1007/s10489-020-01814-0
+   Thakur M, 2018, APPL SOFT COMPUT, V67, P337, DOI 10.1016/j.asoc.2018.03.006
+   Wang J, 2020, J COMPUT CHEM, V41, P1718, DOI 10.1002/jcc.26213
+   Wang JJ, 2018, APPL ENERG, V230, P429, DOI 10.1016/j.apenergy.2018.08.114
+   Wang JJ, 2021, APPL SOFT COMPUT, V113, P0, DOI 10.1016/j.asoc.2021.107898
+   Wang JQ, 2022, FRONT ENERGY RES, V9, P0, DOI 10.3389/fenrg.2021.793413
+   Wang Y, 2020, CHINA COMMUN, V17, P205, DOI 10.23919/JCC.2020.03.017
+   Xiao JH, 2021, INT REV ECON FINANC, V74, P311, DOI 10.1016/j.iref.2021.03.010
+   Yamaka W, 2020, MATHEMATICS-BASEL, V8, P0, DOI 10.3390/math8010120
+   Yang YJ, 2021, SOFT COMPUT, V25, P13513, DOI 10.1007/s00500-021-06122-4
+   Zhang CZ, 2019, PHYSICA A, V534, P0, DOI 10.1016/j.physa.2019.04.175
+   Zhang HC, 2022, APPL SOFT COMPUT, V121, P0, DOI 10.1016/j.asoc.2022.108754
+   Zhang J, 2020, IEEE ACCESS, V8, P2188, DOI 10.1109/ACCESS.2019.2962221
+   Zhou XQ, 2021, SCI TOTAL ENVIRON, V762, P0, DOI 10.1016/j.scitotenv.2020.143120
+NR 28
+TC 18
+Z9 0
+U1 5.0
+U2 73.0
+J9 ARTIFICIAL INTELLIGENCE REVIEW
+PD JUL
+PY 2023
+VL 56
+BP 7237
+EP 7262
+DI 10.1007/s10462-022-10352-9
+PG 26
+SC COMPUTER SCIENCE
+UT WOS:000896508300001
+PM 
+ER
+
+PT J
+AU Sirignano, J
+   Cont, Rama
+TI Universal features of price formation in financial markets: perspectives from deep learning
+SO QUANTITATIVE FINANCE
+DE financial econometrics; high-frequency data; machine learning; deep learning; price formation; market microstructure; intraday data; limit order book
+AB Using a large-scale Deep Learning approach applied to a high-frequency database containing billions of market quotes and transactions for US equities, we uncover nonparametric evidence for the existence of a universal and stationary relation between order flow history and the direction of price moves. The universal price formation model exhibits a remarkably stable out-of-sample accuracy across a wide range of stocks and time periods. Interestingly, these results also hold for stocks which are not part of the training sample, showing that the relations captured by the model are universal and not asset-specific. The universal model-trained on data from all stocks-outperforms asset-specific models trained on time series of any given stock. This weighs in favor of pooling together financial data from various stocks, rather than designing asset- or sector-specific models, as is currently commonly done. Standard data normalizations based on volatility, price level or average spread, or partitioning the training data into sectors or categories such as large/small tick stocks, do not improve training results. On the other hand, inclusion of price and order flow history over many past observations improves forecast accuracy, indicating that there is path-dependence in price dynamics.
+C1 [Sirignano, Justin] Univ Illinois, Ind & Syst Engn, Urbana, IL USA.   
+[Cont, Rama] Univ Oxford, Math Inst, Oxford, England.
+RP Cont, R (corresponding author), Univ Oxford, Math Inst, Oxford, England.
+CR Andersen Torben G, 2018, WORKING PAPER, V0, P0
+   Benzaquen M, 2016, MARK MICROSTRUCT LIQ, V2, P0, DOI 10.1142/S238262661650009X
+   Chávez-Casillas JA, 2017, STOCH PROC APPL, V127, P2447, DOI 10.1016/j.spa.2016.11.005
+   Cont R, 2014, J FINANC ECONOMET, V12, P47, DOI 10.1093/jjfinec/nbt003
+   Dixon M, 2018, J COMPUT SCI-NETH, V24, P277, DOI 10.1016/j.jocs.2017.08.018
+   Dixon Matthew, 2018, HIGH FREQUENCY, V1, P32, DOI 10.1002/hf2.10016
+   Goodfellow I, 2016, ADAPT COMPUT MACH LE, V0, P1
+   Kyle AS, 2016, ECONOMETRICA, V84, P1345, DOI 10.3982/ECTA10486
+   Patzelt F, 2018, PHYS REV E, V97, P0, DOI 10.1103/PhysRevE.97.012304
+   Rusk N, 2016, NAT METHODS, V13, P35, DOI 10.1038/nmeth.3707
+   Sirignano JA, 2019, QUANT FINANC, V19, P549, DOI 10.1080/14697688.2018.1546053
+   Taranto DE, 2014, J STAT MECH-THEORY E, V0, P0, DOI 10.1088/1742-5468/2014/06/P06002
+   Tóth B, 2017, MARK MICROSTRUCT LIQ, V3, P0, DOI 10.1142/S2382626618500028
+   Unknown -, 2016, ARXIV160702470, V0, P0
+   Unknown -, 2017, BIG DATA AND AI STRATEGIES, V0, P0
+NR 15
+TC 136
+Z9 0
+U1 3.0
+U2 78.0
+J9 QUANTITATIVE FINANCE
+PD SEP
+PY 2019
+VL 19
+BP 1449
+EP 1459
+DI 10.1080/14697688.2019.1622295
+PG 11
+SC BUSINESS & ECONOMICS; MATHEMATICS; MATHEMATICAL METHODS IN SOCIAL SCIENCES
+UT WOS:000478180700001
+PM 
+ER
+
+PT J
+AU Nakano, M
+   Takahashi, Akihiko
+   Takahashi, Soichiro
+TI Creating investment scheme with state space modeling
+SO EXPERT SYSTEMS WITH APPLICATIONS
+DE state space models; particle filtering; financial investment; risk-return profile; risk-adjusted returns; alpha
+AB This paper proposes a unified approach to creating investment strategies with various desirable properties for investors. Particularly, we provide a new interpretation and the resulting formulations for state space models to attain our investment objectives, which are possibly specified as generating additional returns over benchmark stock indexes or achieving target risk-adjusted returns. Our state space models with particle filtering algorithm are employed to develop expert systems for investment strategies in highly complex financial markets. More concretely, in our state space framework, we apply a system model to representing portfolio weight processes with various constraints, as well as the standard underlying state variables such as volatility processes, Further, we formulate an observation model to stand for target value processes with non-linear functions of observed and latent variables. Numerical experiments demonstrate the effectiveness of our methodology through creating excess returns over S&P 500 and generating investment portfolios with fine risk-return profiles. (C) 2017 Elsevier Ltd. All rights reserved.
+C1 [Nakano, Masafumi; Takahashi, Soichiro] Univ Tokyo, Grad Sch Ecnon, Bunkyo Ku, 7-3-1 Hongo, Tokyo 1130033, Japan.   
+[Takahashi, Akihiko] Univ Tokyo, Fac Econ, Bunkyo Ku, 7-3-1 Hongo, Tokyo 1130033, Japan.
+RP Takahashi, A (corresponding author), Univ Tokyo, Fac Econ, Bunkyo Ku, 7-3-1 Hongo, Tokyo 1130033, Japan.
+FU CARF (Center for Advanced Research in Finance); Grants-in-Aid for Scientific Research [17J09127, 17J09046] Funding Source: KAKEN
+CR Araújo RDA, 2015, EXPERT SYST APPL, V42, P4081, DOI 10.1016/j.eswa.2015.01.004
+   Ballings M, 2015, EXPERT SYST APPL, V42, P7046, DOI 10.1016/j.eswa.2015.05.013
+   Bruder Benjamin, 2013, REGULARIZATION OF PORTFOLIO ALLOCATION, V0, P0
+   Carmona Rene, 2016, LECTURES ON BSDES, V0, P0
+   Cavalcante RC, 2016, EXPERT SYST APPL, V55, P194, DOI 10.1016/j.eswa.2016.02.006
+   Deng GF, 2012, EXPERT SYST APPL, V39, P4558, DOI 10.1016/j.eswa.2011.09.129
+   Hsu MW, 2016, EXPERT SYST APPL, V61, P215, DOI 10.1016/j.eswa.2016.05.033
+   Jalota H, 2017, EXPERT SYST APPL, V71, P40, DOI 10.1016/j.eswa.2016.11.014
+   Khashei M, 2012, EXPERT SYST APPL, V39, P4344, DOI 10.1016/j.eswa.2011.09.157
+   Nakajima J, 2012, COMPUT STAT DATA AN, V56, P3690, DOI 10.1016/j.csda.2010.07.012
+   Nakano M, 2017, EXPERT SYST APPL, V73, P187, DOI 10.1016/j.eswa.2016.12.034
+   Patel J, 2015, EXPERT SYST APPL, V42, P2162, DOI 10.1016/j.eswa.2014.10.031
+   Patel J, 2015, EXPERT SYST APPL, V42, P259, DOI 10.1016/j.eswa.2014.07.040
+   Rather AM, 2015, EXPERT SYST APPL, V42, P3234, DOI 10.1016/j.eswa.2014.12.003
+   Unknown -, 2013, MEAN FIELD GAMES MEA, V0, P0
+   Wang JJ, 2012, OMEGA-INT J MANAGE S, V40, P758, DOI 10.1016/j.omega.2011.07.008
+   Yunusoglu MG, 2013, EXPERT SYST APPL, V40, P908, DOI 10.1016/j.eswa.2012.05.047
+   de Oliveira FA, 2013, EXPERT SYST APPL, V40, P7596, DOI 10.1016/j.eswa.2013.06.071
+NR 18
+TC 9
+Z9 0
+U1 0.0
+U2 48.0
+J9 EXPERT SYSTEMS WITH APPLICATIONS
+PD SEP
+PY 2017
+VL 81
+BP 53
+EP 66
+DI 10.1016/j.eswa.2017.03.045
+PG 14
+SC COMPUTER SCIENCE; ENGINEERING; OPERATIONS RESEARCH & MANAGEMENT SCIENCE
+UT WOS:000401593300006
+PM 
+ER
+
+PT J
+AU Qiu, J
+   Wang, Bin
+   Zhou, Changjun
+TI Forecasting stock prices with long-short term memory neural network based on attention mechanism
+SO PLOS ONE
+AB The stock market is known for its extreme complexity and volatility, and people are always looking for an accurate and effective way to guide stock trading. Long short-term memory (LSTM) neural networks are developed by recurrent neural networks (RNN) and have significant application value in many fields. In addition, LSTM avoids long-term dependence issues due to its unique storage unit structure, and it helps predict financial time series. Based on LSTM and an attention mechanism, a wavelet transform is used to denoise historical stock data, extract and train its features, and establish the prediction model of a stock price. We compared the results with the other three models, including the LSTM model, the LSTM model with wavelet denoising and the gated recurrent unit(GRU) neural network model on S&P 500, DJIA, HSI datasets. Results from experiments on the S&P 500 and DJIA datasets show that the coefficient of determination of the attention-based LSTM model is both higher than 0.94, and the mean square error of our model is both lower than 0.05.
+C1 [Qiu, Jiayu; Wang, Bin] Dalian Univ, Minist Educ, Key Lab Adv Design & Intelligent Comp, Dalian, Peoples R China.   
+[Zhou, Changjun] Dalian Minzu Univ, Coll Comp Sci & Engn, Dalian, Peoples R China.
+RP Wang, B (corresponding author), Dalian Univ, Minist Educ, Key Lab Adv Design & Intelligent Comp, Dalian, Peoples R China.; Zhou, CJ (corresponding author), Dalian Minzu Univ, Coll Comp Sci & Engn, Dalian, Peoples R China.
+FU National Natural Science Foundation of China [61672121, 61425002, 61751203, 61772100, 61972266, 61802040, 61572093]; Program for Changjiang Scholars and Innovative Research Team in University [IRT_15R07]; Program for Liaoning Innovative Research Team in University [LT2017012]; Natural Science Foundation of Liaoning Province [20180551241, 2019-ZD-0567]; High-level Talent Innovation Support Program of Dalian City [2017RQ060, 2018RQ75]; Dalian Outstanding Young Science and Technology Talent Support Program [2017RJ08]
+CR Abedinia O, 2017, IEEE T POWER SYST, V32, P62, DOI 10.1109/TPWRS.2016.2556620
+   Dessaint Olivier, 2018, NOISY STOCK PRICES AND CORPORATE INVESTMENT, V0, P0
+   LeCun Y, 2015, NATURE, V521, P436, DOI 10.1038/nature14539
+   Ma J, 2017, INT C NEUR INF PROC, V0, P0
+   Mao FF, 2019, AIP ADV, V9, P0, DOI 10.1063/1.5112078
+   Song T, 2016, INFORM SCIENCES, V372, P380, DOI 10.1016/j.ins.2016.08.055
+   Song T, 2016, NEUROCOMPUTING, V193, P193, DOI 10.1016/j.neucom.2016.02.023
+   Unknown -, 2015, P INT C LEARN REPR, V0, P0
+   Unknown -, 2017, 2017 IEEE 29 INT C T, V0, P0
+   Unknown -, 2017, RESIDUAL LSTM: DESIGN OF A DEEP RECURRENT ARCHITECTURE FOR DISTANT SPEECH RECOGNITION, V0, P0
+   Unknown -, 2018, 2018 IEEE 42 ANN COM, V0, P0
+   Unknown -, 2018, LEVERAGING FINANCIAL, V0, P0
+   Wang QJ, 2018, INT J PATTERN RECOGN, V32, P0, DOI 10.1142/S021800141854023X
+   Weng B, 2017, EXPERT SYST APPL, V79, P153, DOI 10.1016/j.eswa.2017.02.041
+NR 14
+TC 178
+Z9 0
+U1 7.0
+U2 147.0
+J9 PLOS ONE
+PD JAN
+PY 2020
+VL 15
+BP 
+EP 
+DI 10.1371/journal.pone.0227222
+PG 15
+SC SCIENCE & TECHNOLOGY - OTHER TOPICS
+UT WOS:000534322000017
+PM 31899770
+ER
+
+PT J
+AU Li, Y
+   Zheng, Wanshan
+   Zheng, Zibin
+TI Deep Robust Reinforcement Learning for Practical Algorithmic Trading
+SO IEEE ACCESS
+DE algorithmic trading; markov decision process; deep neural network; reinforcement learning
+AB In algorithmic trading, feature extraction and trading strategy design are two prominent challenges to acquire long-term profits. However, the previously proposed methods rely heavily on domain knowledge to extract handcrafted features and lack an effective way to dynamically adjust the trading strategy. With the recent breakthroughs of deep reinforcement learning (DRL), sequential real-world problems can be modeled and solved with a more human-like approach. In this paper, we propose a novel trading agent, based on deep reinforcement learning, to autonomously make trading decisions and gain profits in the dynamic financial markets. We extend the value-based deep Q-network (DQN) and the asynchronous advantage actor-critic (A3C) for better adapting to the trading market. Specifically, in order to automatically extract robust market representations and resolve the financial time series dependence, we utilize the stacked denoising autoencoders (SDAEs) and the long short-term memory (LSTM) as parts of the function approximator, respectively. Furthermore, we design several elaborate mechanisms to make the trading agent more practical to the real trading environment, such as position-controlled action and n-step reward. The experimental results show that our trading agent outperforms the baselines and achieves stable risk-adjusted returns in both the stock and the futures markets.
+C1 [Li, Yang; Zheng, Wanshan; Zheng, Zibin] Sun Yat Sen Univ, Sch Data & Comp Sci, Guangzhou 510275, Guangdong, Peoples R China.   
+[Li, Yang; Zheng, Wanshan] Sun Yat Sen Univ, Guangdong Key Lab Big Data Anal & Simulat Publ Op, Guangzhou, Guangdong, Peoples R China.   
+[Zheng, Zibin] Sun Yat Sen Univ, Natl Engn Res Ctr Digital Life, Guangzhou, Guangdong, Peoples R China.
+RP Zheng, ZB (corresponding author), Sun Yat Sen Univ, Sch Data & Comp Sci, Guangzhou 510275, Guangdong, Peoples R China.; Zheng, ZB (corresponding author), Sun Yat Sen Univ, Natl Engn Res Ctr Digital Life, Guangzhou, Guangdong, Peoples R China.
+FU National Key Research and Development Program [2016YFB1000101]; National Natural Science Foundation of China [61722214, U1811462]; Guangdong Province Universities and Colleges Pearl River Scholar Funded Scheme; Program for Guangdong Introducing Innovative and Entrepreneurial Teams [2016ZT06D211]
+CR Babaeizadeh M, 2016, ABS161106256 CORR, V0, P1
+   Bao W, 2017, PLOS ONE, V12, P0, DOI 10.1371/journal.pone.0180944
+   Deng Y, 2017, IEEE T NEUR NET LEAR, V28, P653, DOI 10.1109/TNNLS.2016.2522401
+   Ding X, 2015, PROCEEDINGS OF THE TWENTY-FOURTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI), V0, P2327
+   Fischer T, 2018, EUR J OPER RES, V270, P654, DOI 10.1016/j.ejor.2017.11.054
+   Jin O, 2016, TECH REP, V0, P0
+   John SchulmanFilip Wolski, 2017, PROXIMAL POLICY OPTI, V0, P0, DOI 10.48550/ARXIV.1707.06347
+   Junyoung ChungCaglar Gulcehre, 2014, EMPIRICAL EVALUATION, V0, P0
+   Kercheval AN, 2015, QUANT FINANC, V15, P1315, DOI 10.1080/14697688.2015.1032546
+   Khaidem L, 2016, APPLIED MATHEMATICAL FINANCE, V1, P1
+   Mnih V, 2015, NATURE, V518, P529, DOI 10.1038/nature14236
+   Mnih V, 2016, PR MACH LEARN RES, V48, P0
+   Neely CJ, 2014, MANAGE SCI, V60, P1772, DOI 10.1287/mnsc.2013.1838
+   Ng JYH, 2015, PROC CVPR IEEE, V0, PP4694, DOI 10.1109/CVPR.2015.7299101
+   Nuij W, 2014, IEEE T KNOWL DATA EN, V26, P823, DOI 10.1109/TKDE.2013.133
+   Schaul T, 2016, 4 INT C LEARN REPR I, V0, P0
+   Schulman J, 2015, PR MACH LEARN RES, V37, P1889
+   Silver D, 2016, NATURE, V529, P484, DOI 10.1038/nature16961
+   Tran DT, 2019, IEEE T NEUR NET LEAR, V30, P1407, DOI 10.1109/TNNLS.2018.2869225
+   Tsantekidis A, 2017, CONF BUS INFORM, V1, P7, DOI 10.1109/CBI.2017.23
+   Wang Z, 2015, ARXIV151106581, V0, P0
+   van Hasselt H, 2016, AAAI CONF ARTIF INTE, V0, P2094
+NR 22
+TC 78
+Z9 0
+U1 3.0
+U2 61.0
+J9 IEEE ACCESS
+PD JUN
+PY 2019
+VL 7
+BP 108014
+EP 108022
+DI 10.1109/ACCESS.2019.2932789
+PG 9
+SC COMPUTER SCIENCE; ENGINEERING; TELECOMMUNICATIONS
+UT WOS:000481980800022
+PM 
+ER
+
+PT J
+AU Lee, SW
+   Kim, Ha Young
+TI Stock market forecasting with super-high dimensional time-series data using ConvLSTM, trend sampling, and specialized data augmentation
+SO EXPERT SYSTEMS WITH APPLICATIONS
+DE stock market index; deep learning; overfitting; mini-batch sampling; data augmentation; convlstm
+AB Forecasting stock market indexes is an important issue for market participants, because even a small improvement in forecast accuracy may lead to better trading decisions than those of other participants. Rising interest in deep learning has led to its application in stock market forecasting. However, it is still challenging to use market-size time-series data to predict composite index prices. In this study, we propose a new stock market forecasting framework, NuNet, which can successfully learn high-level features from super-high dimensional time-series data. NuNet is an end-to-end integrated neural network framework consisting of two feature extractor modules, a super-high dimensional market information feature extractor and a target index feature extractor. In addition, we propose a mini-batch sampling technique, trend sampling, which probabilistically samples more recent data when training. Furthermore, we propose a novel regularization method, called column-wise random shuffling, which is a data augmentation technique that can be applied to convolutional neural networks. The experiments are comprehensively carried out in three aspects for three indexes, namely S&P500, KOSPI200, and FTSE100. The results demonstrate that the proposed model outperforms all baseline models. Specifically, for the S&P500, KOSPI200, and FTSE100, the overall mean squared error of our proposed model NuNet(DA, T) is 60.79%, 51.29%, and 43.36% lower than that of the baseline model SingleNet(R), respectively. Moreover, we employ trading simulations with realistic transaction costs. Our proposed model outperforms the buy-and-hold strategy being an average of 2.57 times more profitable in three indexes. 
+C1 [Lee, Si Woon] Ajou Univ, Dept Artificial Intelligence & Data Sci, Worldcupro 206, Suwon 16499, South Korea.   
+[Kim, Ha Young] Yonsei Univ, Grad Sch Informat, Yonsei Ro 50, Seoul 03722, South Korea.
+RP Kim, HY (corresponding author), Yonsei Univ, Grad Sch Informat, Yonsei Ro 50, Seoul 03722, South Korea.
+FU Technology Advancement Research Program (TARP) - Ministry of Land, Infrastructure and Transport of the Korean government [19CTAP-C152017-01]
+CR Akita R, 2016, COMPUTER INFORM SCI, V0, PP1, DOI 10.1109/ICIS.2016.7550882
+   Al-Jumeily D, 2015, COGENT ENG, V2, P0, DOI 10.1080/23311916.2014.985005
+   Baek Y, 2018, EXPERT SYST APPL, V113, P457, DOI 10.1016/j.eswa.2018.07.019
+   Ballings M, 2015, EXPERT SYST APPL, V42, P7046, DOI 10.1016/j.eswa.2015.05.013
+   Bao W, 2017, PLOS ONE, V12, P0, DOI 10.1371/journal.pone.0180944
+   Barak S, 2015, EXPERT SYST APPL, V42, P1325, DOI 10.1016/j.eswa.2014.09.026
+   Barak S, 2017, INFORM FUSION, V36, P90, DOI 10.1016/j.inffus.2016.11.006
+   Cavalcante RC, 2016, EXPERT SYST APPL, V55, P194, DOI 10.1016/j.eswa.2016.02.006
+   Chen K, 2015, PROCEEDINGS 2015 IEEE INTERNATIONAL CONFERENCE ON BIG DATA, V0, PP2823, DOI 10.1109/BigData.2015.7364089
+   Chen YJ, 2017, EXPERT SYST APPL, V80, P340, DOI 10.1016/j.eswa.2017.02.044
+   Chollet F, 2018, DEEP LEARNING PYTHON, V0, P0
+   Chong E, 2017, EXPERT SYST APPL, V83, P187, DOI 10.1016/j.eswa.2017.04.030
+   Devlin J, 2019, 2019 CONFERENCE OF THE NORTH AMERICAN CHAPTER OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS: HUMAN LANGUAGE TECHNOLOGIES (NAACL HLT 2019), VOL. 1, P4171
+   Fischer T, 2018, EUR J OPER RES, V270, P654, DOI 10.1016/j.ejor.2017.11.054
+   Gehring J, 2017, PR MACH LEARN RES, V70, P0
+   Gun X, 2018, PLOS ONE, V13, P0, DOI 10.1371/journal.pone.0195941
+   Gunduz H, 2018, 2018 26 SIGN PROC CO, V0, P1
+   Han B, 2018, ADV NEUR IN, V31, P0, DOI 10.5555/3327757.3327944
+   Ho CS, 2017, DECIS SUPPORT SYST, V101, P69, DOI 10.1016/j.dss.2017.06.001
+   Huang Shian-Chang, 2017, GLOBAL BUSINESS AND FINANCE REVIEW, V22, P32, DOI 10.17549/gbfr.2017.22.3.32
+   Kim HY, 2018, EXPERT SYST APPL, V103, P25, DOI 10.1016/j.eswa.2018.03.002
+   Kim T, 2019, PLOS ONE, V14, P0, DOI 10.1371/journal.pone.0212320
+   Li ZY, 2017, P IEEE, V105, P1289, DOI 10.1109/JPROC.2017.2685558
+   Mnih V, 2015, NATURE, V518, P529, DOI 10.1038/nature14236
+   Mo HY, 2016, EXPERT SYST APPL, V53, P106, DOI 10.1016/j.eswa.2015.12.045
+   Moghaddam Amin Hedayati, 2016, JOURNAL OF ECONOMICS, V0, P0
+   Nassirtoussi AK, 2015, EXPERT SYST APPL, V42, P306, DOI 10.1016/j.eswa.2014.08.004
+   Nelson DMQ, 2017, IEEE IJCNN, V0, PP1419, DOI 10.1109/IJCNN.2017.7966019
+   Novak MG, 2016, QUANT FINANC, V16, P793, DOI 10.1080/14697688.2015.1070960
+   Patel J, 2015, EXPERT SYST APPL, V42, P2162, DOI 10.1016/j.eswa.2014.10.031
+   Pradeepkumar D, 2017, APPL SOFT COMPUT, V58, P35, DOI 10.1016/j.asoc.2017.04.014
+   Rather AM, 2015, EXPERT SYST APPL, V42, P3234, DOI 10.1016/j.eswa.2014.12.003
+   Shi XJ, 2015, ADV NEUR IN, V28, P0
+   Toczydlowska D, 2018, ECONOMETRICS, V6, P0, DOI 10.3390/econometrics6030034
+   Unknown -, 2017, EC COMPUTATION EC CY, V0, P0
+   Villegas Ruben, 2017, P ICLR, V0, P0
+   Wang L, 2015, EXPERT SYST APPL, V42, P855, DOI 10.1016/j.eswa.2014.08.018
+   Wang Q, 2019, ARXIV190409405, V0, P0
+   Yuan ZN, 2018, KDD18: PROCEEDINGS OF THE 24TH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY & DATA MINING, V0, PP984, DOI 10.1145/3219819.3219922
+   Zeng YR, 2017, ENERGY, V127, P381, DOI 10.1016/j.energy.2017.03.094
+   Zhong X, 2017, EXPERT SYST APPL, V67, P126, DOI 10.1016/j.eswa.2016.09.027
+   Zhou K, 2017, 2017 IEEE VISUAL COM, V0, P1
+NR 42
+TC 88
+Z9 0
+U1 1.0
+U2 173.0
+J9 EXPERT SYSTEMS WITH APPLICATIONS
+PD DEC
+PY 2020
+VL 161
+BP 
+EP 
+DI 10.1016/j.eswa.2020.113704
+PG 20
+SC COMPUTER SCIENCE; ENGINEERING; OPERATIONS RESEARCH & MANAGEMENT SCIENCE
+UT WOS:000576781400016
+PM 
+ER
+
+PT J
+AU Fischer, T
+   Krauss, Christopher
+TI Deep learning with long short-term memory networks for financial market predictions
+SO EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+DE finance; statistical arbitrage; lstm; machine learning; deep leaming
+AB Long short-term memory (LSTM) networks are a state-of-the-art technique for sequence learning. They are less commonly applied to financial time series predictions, yet inherently suitable for this domain. We deploy LSTM networks for predicting out-of-sample directional movements for the constituent stocks of the S&P 500 from 1992 until 2015. With daily returns of 0.46 percent and a Sharpe ratio of 5.8 prior to transaction costs, we find LSTM networks to outperform memory-free classification methods, i.e., a random forest (RAF), a deep neural net (DNN), and a logistic regression classifier (LOG). The outperformance relative to the general market is very clear from 1992 to 2009, but as of 2010, excess returns seem to have been arbitraged away with LSTM profitability fluctuating around zero after transaction costs. We further unveil sources of profitability, thereby shedding light into the black box of artificial neural networks. Specifically, we find one common pattern among the stocks selected for trading - they exhibit high volatility and a short-term reversal return profile. Leveraging these findings, we are able to formalize a rules-based short-term reversal strategy that yields 0.23 percent prior to transaction costs. Further regression analysis unveils low exposure of the LSTM returns to common sources of systematic risk also compared to the three benchmark models. (C) 2017 Elsevier B.V. All rights reserved.
+C1 [Fischer, Thomas; Krauss, Christopher] Univ Erlangen Nurnberg, Dept Stat & Econometr, Lange Gasse 20, D-90403 Nurnberg, Germany.
+RP Fischer, T (corresponding author), Univ Erlangen Nurnberg, Dept Stat & Econometr, Lange Gasse 20, D-90403 Nurnberg, Germany.
+CR Bogomolov T, 2013, QUANTITATIVE FINANCE, V13, P1411, DOI 10.1080/14697688.2012.748934
+   Clegg M, 2018, QUANT FINANC, V18, P121, DOI 10.1080/14697688.2017.1370122
+   Frazzini A, 2014, J FINANC ECON, V111, P1, DOI 10.1016/j.jfineco.2013.10.005
+   Goodfellow I, 2013, JMLR, V3, P1319
+   Graves A, 2013, INT CONF ACOUST SPEE, V0, PP6645, DOI 10.1109/ICASSP.2013.6638947
+   Green J, 2013, REV ACCOUNT STUD, V18, P692, DOI 10.1007/s11142-013-9231-1
+   Green J, 2017, REV FINANC STUD, V30, P4389, DOI 10.1093/rfs/hhx019
+   Hong H, 2016, J FINANC, V71, P2095, DOI 10.1111/jofi.12431
+   Jacobs H, 2015, J BANK FINANC, V57, P65, DOI 10.1016/j.jbankfin.2015.03.006
+   Jacobs H, 2015, J FINANC MARK, V23, P75, DOI 10.1016/j.finmar.2014.12.001
+   Jha V, 2016, J TRADING, V11, P53, DOI 10.3905/jot.2016.11.3.053
+   Karpathy Andrej, 2015, ANDREJ KARPATHY BLOG, V0, P0
+   Krauss C, 2017, EUR J OPER RES, V259, P689, DOI 10.1016/j.ejor.2016.10.031
+   LeCun Y, 2015, NATURE, V521, P436, DOI 10.1038/nature14539
+   Maechler M, 2016, R PACKAGE, V0, P0
+   Moritz B, 2014, DEEP CONDITIONAL PORTFOLIO SORTS: THE RELATION BETWEEN PAST AND FUTURE STOCK RETURNS, V0, P0
+   Olah C, 2015, COLAH. GITHUB. IO, V0, P0
+   Rad H, 2016, QUANT FINANC, V16, P1541, DOI 10.1080/14697688.2016.1164337
+   Schmidhuber J, 2015, NEURAL NETWORKS, V61, P85, DOI 10.1016/j.neunet.2014.09.003
+   Sermpinis G, 2013, EUR J OPER RES, V225, P528, DOI 10.1016/j.ejor.2012.10.020
+   Unknown -, 2013, ARXIV13080850 CORR, V0, P0
+   Unknown -, 2013, WORKING PAPER, V0, P0
+   Unknown -, 2015, ARXIV PREPRINT ARXIV, V0, P0
+   Unknown -, 2015, P 8 WORKSH HIGH PERF, V0, P0
+   Unknown -, 2015, RECURRENT NEURAL NET, V0, P0
+   Unknown -, 2015, TENSOR FLOW LARGESCA, V0, P0
+   Unknown -, 2016, ADV NEURAL INFORM PR, V0, P0
+   Unknown -, 2016, R LANG ENV STAT COMP, V0, P0
+   Unknown -, 2016, STOCK MARKET PREDICTION THROUGH TECHNICAL AND PUBLIC SENTIMENT ANALYSIS, V0, P0
+NR 29
+TC 1253
+Z9 0
+U1 75.0
+U2 1732.0
+J9 EUROPEAN JOURNAL OF OPERATIONAL RESEARCH
+PD OCT
+PY 2018
+VL 270
+BP 654
+EP 669
+DI 10.1016/j.ejor.2017.11.054
+PG 16
+SC BUSINESS & ECONOMICS; OPERATIONS RESEARCH & MANAGEMENT SCIENCE
+UT WOS:000436347700019
+PM 
+ER
+
+PT J
+AU Khan, W
+   Ghazanfar, Mustansar Ali
+   Azam, Muhammad Awais
+   Karami, Amin
+   Alyoubi, Khaled H
+   Alfakeeh, Ahmed S
+TI Stock market prediction using machine learning classifiers and social media, news
+SO JOURNAL OF AMBIENT INTELLIGENCE AND HUMANIZED COMPUTING
+DE deep learning; feature selection; hybrid algorithm; natural language processing; predictive modeling; sentiment analysis; stock market prediction
+AB Accurate stock market prediction is of great interest to investors; however, stock markets are driven by volatile factors such as microblogs and news that make it hard to predict stock market index based on merely the historical data. The enormous stock market volatility emphasizes the need to effectively assess the role of external factors in stock prediction. Stock markets can be predicted using machine learning algorithms on information contained in social media and financial news, as this data can change investors behavior. In this paper, we use algorithms on social media and financial news data to discover the impact of this data on stock market prediction accuracy for ten subsequent days. For improving performance and quality of predictions, feature selection and spam tweets reduction are performed on the data sets. Moreover, we perform experiments to find such stock markets that are difficult to predict and those that are more influenced by social media and financial news. We compare results of different algorithms to find a consistent classifier. Finally, for achieving maximum prediction accuracy, deep learning is used and some classifiers are ensembled. Our experimental results show that highest prediction accuracies of 80.53% and 75.16% are achieved using social media and financial news, respectively. We also show that New York and Red Hat stock markets are hard to predict, New York and IBM stocks are more influenced by social media, while London and Microsoft stocks by financial news. Random forest classifier is found to be consistent and highest accuracy of 83.22% is achieved by its ensemble.
+C1 [Khan, Wasiat] Univ Engn & Technol, Dept Software Engn, Taxila 47050, Pakistan.   
+[Ghazanfar, Mustansar Ali; Karami, Amin] Univ East London, Sch Architecture Comp & Engn, London, England.   
+[Azam, Muhammad Awais] Univ Engn & Technol, Dept Comp Engn, Taxila 47050, Pakistan.   
+[Alyoubi, Khaled H.; Alfakeeh, Ahmed S.] King Abdulaziz Univ, Fac Comp & Informat Technol, Jeddah, Saudi Arabia.
+RP Ghazanfar, MA (corresponding author), Univ East London, Sch Architecture Comp & Engn, London, England.
+CR Afzal H, 2016, INT CONF ADV COMMUN, V0, PP710, DOI 10.1109/ICACT.2016.7423530
+   Al-Zoubi AM, 2017, INT CONF INFORM COMM, V0, PP130, DOI 10.1109/IACS.2017.7921959
+   Alostad H, 2015, 2015 IEEE/WIC/ACM INTERNATIONAL CONFERENCE ON WEB INTELLIGENCE AND INTELLIGENT AGENT TECHNOLOGY (WI-IAT), VOL 1, P523, DOI 10.1109/WI-IAT.2015.82
+   Attigeri GV, 2015, IEEE REG 10 C TENCON, V0, P1
+   Bastianin A, 2018, MACROECON DYN, V22, P666, DOI 10.1017/S1365100516000353
+   Brezocnik L, 2018, APPL SCI-BASEL, V8, P0, DOI 10.3390/app8091521
+   Cao JF, 2016, PLOS ONE, V11, P0, DOI 10.1371/journal.pone.0157551
+   Chakraborty P, 2017, 2017 6TH INTERNATIONAL CONFERENCE ON INFORMATICS, V0, P0
+   Chen L, 2018, IEEE ACCESS, V6, P48625, DOI 10.1109/ACCESS.2018.2859809
+   Chen W, 2017, PLOS ONE, V12, P0, DOI 10.1371/journal.pone.0182487
+   Chhikara RR, 2018, INT J MACH LEARN CYB, V9, P821, DOI 10.1007/s13042-016-0610-3
+   Dang M, 2016, 2016 3RD NATIONAL FOUNDATION FOR SCIENCE AND TECHNOLOGY DEVELOPMENT CONFERENCE ON INFORMATION AND COMPUTER SCIENCE (NICS), V0, PP125, DOI 10.1109/NICS.2016.7725636
+   Enache AC, 2015, 2015 IEEE 10TH JUBILEE INTERNATIONAL SYMPOSIUM ON APPLIED COMPUTATIONAL INTELLIGENCE AND INFORMATICS (SACI), V0, PP517, DOI 10.1109/SACI.2015.7208259
+   Hassanien AE, 2016, SWARM INTELLIGENCE P, V0, P0
+   He KM, 2016, PROC CVPR IEEE, V0, PP770, DOI 10.1109/CVPR.2016.90
+   Hu ZY, 2016, IEEE C EVOL COMPUTAT, V0, PP5186, DOI 10.1109/CEC.2016.7748347
+   Ibrahim RA, 2019, J AMB INTEL HUM COMP, V10, P3155, DOI 10.1007/s12652-018-1031-9
+   Jayaraman V, 2019, J AMBIENT INTELL HUM, V0, P0, DOI 10.1007/s12652-019-01193-6
+   Jeon S, 2018, FUTURE GENER COMP SY, V80, P171, DOI 10.1016/j.future.2017.02.010
+   Joshi R, 2016, INT C IEEE INVENTIVE, V3, P1
+   Khare K, 2017, 2017 2ND IEEE INTERNATIONAL CONFERENCE ON RECENT TRENDS IN ELECTRONICS, V0, P482, DOI 10.1109/RTEICT.2017.8256643
+   Khatri SK, 2016, INT CONF RELI INFO, V0, PP566, DOI 10.1109/ICRITO.2016.7785019
+   Kumar PH, 2015, IJRCCE, V3, P8284
+   Lakshmi V, 2017, INT RES J ENG TECHNO, V4, P2224
+   Li J, 2017, PROCEEDINGS OF THE 2017 ACM MULTIMEDIA CONFERENCE (MM17), V0, PP1, DOI 10.1145/3123266.3123432
+   Liu R, 2018, IEEE J-STARS, V11, P572, DOI 10.1109/JSTARS.2017.2789213
+   Minh DL, 2018, IEEE ACCESS, V6, P55392, DOI 10.1109/ACCESS.2018.2868970
+   Mirjalili S, 2017, ADV ENG SOFTW, V114, P163, DOI 10.1016/j.advengsoft.2017.07.002
+   Noda K, 2015, APPL INTELL, V42, P722, DOI 10.1007/s10489-014-0629-7
+   Omer NAB, 2015, IEEE INT S ISMSC, V0, P447
+   Qasem M, 2015, 2015 INTERNATIONAL CONFERENCE ON ADVANCES IN COMPUTING, V0, P834, DOI 10.1109/ICACCI.2015.7275714
+   Sedhai S, 2015, SIGIR 2015: PROCEEDINGS OF THE 38TH INTERNATIONAL ACM SIGIR CONFERENCE ON RESEARCH AND DEVELOPMENT IN INFORMATION RETRIEVAL, V0, PP223, DOI 10.1145/2766462.2767701
+   Sedhai S, 2018, IEEE T COMPUT SOC SY, V5, P169, DOI 10.1109/TCSS.2017.2773581
+   Seth JK, 2016, PROCEEDINGS OF THE 10TH INDIACOM - 2016 3RD INTERNATIONAL CONFERENCE ON COMPUTING FOR SUSTAINABLE GLOBAL DEVELOPMENT, V0, P3735
+   Tirea M, 2015, IEEE 17 INT S SYNASC, V0, P391
+   Unknown -, 2017, 2017 INT C COMP, V0, P0
+   Unknown -, 2020, J AMB INTEL HUM COMP, V0, P0, DOI 10.1007/s12652-019-01364-5
+   Unknown -, 2020, SOFT COMPUT, V0, P0, DOI 10.1007/s00500-019-04347-y
+   Usmani M, 2016, 2016 3RD INTERNATIONAL CONFERENCE ON COMPUTER AND INFORMATION SCIENCES (ICCOINS), V0, PP322, DOI 10.1109/ICCOINS.2016.7783235
+   Vargas MR, 2018, IEEE IJCNN, V0, P0
+   Wang H, 2016, IEEE C EVOL COMPUTAT, V0, PP3809, DOI 10.1109/CEC.2016.7744272
+   Yan DF, 2016, CHINA COMMUN, V13, P244, DOI 10.1109/CC.2016.7563727
+   Ye L, 2017, PATHOL ONCOL RES, V0, P1
+   Yuan B, 2016, THESIS, V0, P0
+   Zhong X, 2017, EXPERT SYST APPL, V67, P126, DOI 10.1016/j.eswa.2016.09.027
+   Zhou ZK, 2016, LECT NOTES COMPUT SC, V10041, P328, DOI 10.1007/978-3-319-48740-3, 24
+NR 46
+TC 139
+Z9 0
+U1 5.0
+U2 145.0
+J9 JOURNAL OF AMBIENT INTELLIGENCE AND HUMANIZED COMPUTING
+PD MAR
+PY 2020
+VL 0
+BP 
+EP 
+DI 10.1007/s12652-020-01839-w
+PG 24
+SC COMPUTER SCIENCE; TELECOMMUNICATIONS
+UT WOS:000564451300005
+PM 
+ER
+
+PT J
+AU Barra, S
+   Carta, Salvatore Mario
+   Corriga, Andrea
+   Podda, Alessandro Sebastian
+   Recupero, Diego Reforgiato
+TI Deep learning and time series-to-image encoding for financial forecasting
+SO IEEE-CAA JOURNAL OF AUTOMATICA SINICA
+DE convolutional neural networks (cnns); ensemble of cnns; financial forecasting; gramian angular fields (gaf) imaging
+AB In the last decade, market financial forecasting has attracted high interests amongst the researchers in pattern recognition. Usually, the data used for analysing the market, and then gamble on its future trend, are provided as time series; this aspect, along with the high fluctuation of this kind of data, cuts out the use of very efficient classification tools, very popular in the state of the art, like the well known convolutional neural networks (CNNs) models such as Inception, ResNet, AlexNet, and so on. This forces the researchers to train new tools from scratch. Such operations could be very time consuming. This paper exploits an ensemble of CNNs, trained over Gramian angular fields (GAF) images, generated from time series related to the Standard & Poors 500 index future; the aim is the prediction of the future trend of the U.S. market. A multi-resolution imaging approach is used to feed each CNN, enabling the analysis of different time intervals for a single observation. A simple trading system based on the ensemble forecaster is used to evaluate the quality of the proposed approach. Our method outperforms the buyand-hold (B&H) strategy in a time frame where the latter provides excellent returns. Both quantitative and qualitative results are provided.
+C1 [Barra, Silvio; Carta, Salvatore Mario; Corriga, Andrea; Podda, Alessandro Sebastian; Recupero, Diego Reforgiato] Univ Cagliari, Dept Math & Comp Sci, Cagliari 09121, Italy.
+RP Barra, S (corresponding author), Univ Cagliari, Dept Math & Comp Sci, Cagliari 09121, Italy.
+FU Bando Aiuti per progetti di Ricerca e Sviluppo-POR FESR 2014-2020-Asse 1, Azione 1.1.3. Project AlmostAnOracle-AI and Big Data Algorithms for Financial Time Series Forecasting
+CR Ballings M, 2015, EXPERT SYST APPL, V42, P7046, DOI 10.1016/j.eswa.2015.05.013
+   Basak S, 2019, N AM J ECON FINANC, V47, P552, DOI 10.1016/j.najef.2018.06.013
+   Calvi GG, 2019, INT CONF ACOUST SPEE, V0, PP8152, DOI 10.1109/ICASSP.2019.8683383
+   Freire-Obregón D, 2019, PATTERN RECOGN LETT, V126, P86, DOI 10.1016/j.patrec.2018.01.005
+   Gao SC, 2019, IEEE T NEUR NET LEAR, V30, P601, DOI 10.1109/TNNLS.2018.2846646
+   He KM, 2016, PROC CVPR IEEE, V0, PP770, DOI 10.1109/CVPR.2016.90
+   Henrique BM, 2019, EXPERT SYST APPL, V124, P226, DOI 10.1016/j.eswa.2019.01.012
+   Jia DB, 2018, INT CONF CLOUD COMPU, V0, PP242, DOI 10.1109/CCIS.2018.8691298
+   Kebria PM, 2020, IEEE-CAA J AUTOMATIC, V7, P82, DOI 10.1109/JAS.2019.1911825
+   Lintonen T, 2019, IEEE-CAA J AUTOMATIC, V6, P1318, DOI 10.1109/JAS.2019.1911777
+   Oliveira N, 2017, EXPERT SYST APPL, V73, P125, DOI 10.1016/j.eswa.2016.12.036
+   Pagolu Venkata Sasank, 2016, 2016 INTERNATIONAL CONFERENCE ON SIGNAL PROCESSING, V0, P0
+   Patel J, 2015, EXPERT SYST APPL, V42, P2162, DOI 10.1016/j.eswa.2014.10.031
+   Shah D, 2019, INT J FINANC STUD, V7, P0, DOI 10.14419/ijdr.v7i1.23529
+   Simonyan K, 2015, ARXIV, V0, P0
+   Wang ZM, 2015, ACS SYM SER, V1197, P29
+   Wang Zhiguang, 2015, P 24 INT JOINT C ART, V0, P0
+   Zhou TL, 2016, KNOWL-BASED SYST, V105, P214, DOI 10.1016/j.knosys.2016.05.031
+NR 18
+TC 169
+Z9 0
+U1 4.0
+U2 121.0
+J9 IEEE-CAA JOURNAL OF AUTOMATICA SINICA
+PD MAY
+PY 2020
+VL 7
+BP 683
+EP 692
+DI 10.1109/JAS.2020.1003132
+PG 10
+SC AUTOMATION & CONTROL SYSTEMS
+UT WOS:000531334400006
+PM 
+ER
+
+PT J
+AU Liu, Y
+TI Novel volatility forecasting using deep learning-Long Short Term Memory Recurrent Neural Networks
+SO EXPERT SYSTEMS WITH APPLICATIONS
+DE deep learning; long short term memory recurrent neural; networks; support vector machines (svm); generalized autoregressive conditional; heteroskedasticity (garch) model; volatility forecasting
+AB The volatility is related to financial risk and its prediction accuracy is very important in portfolio optimisation. A large body of literature to-date suggests Support Vector Machines (SVM) as the "best of regression algorithms for financial data regression. Recent work however found that new deep learning-Long Short Term Memory Recurrent Neural Networks (LSTM RNNs) outperformed SVM for classification problems. In the present paper we conduct a new unbiased evaluation of these two modelling techniques for regression problems, and we also compare them with a popular regression model - Generalized Autoregressive Conditional Heteroskedasticity (GARCH) model for financial volatility or risk forecasting. Our experiments using financial data show that the LSTM RNNs performed as good as v-SVR for large interval volatility forecasting and both performed much better than GARCH model for two financial indices (S&P 500 and AAPL). The LSTM RNNS deep learning method can learn from big raw data and can be run with many hidden layers and neurons under GPU to achieve a good prediction for long sequence data compared to the support vector regression. The deep learning technique - LSTM RNNs with big data can be used to improve the volatility prediction instead of v-SVR when the v-SVR does not predict well for some financial stocks of a portfolio. This will help investors to win the competition to maximize their profit. (C) 2019 Elsevier Ltd. All rights reserved.
+C1 [Liu, Yang] Bank Amer Merrill Lynch, London EC1A 1HQ, England.
+RP Liu, Y (corresponding author), Bank Amer Merrill Lynch, London EC1A 1HQ, England.
+CR LeCun Y, 2015, NATURE, V521, P436, DOI 10.1038/nature14539
+   Liu Y, 2015, ENG APPL ARTIF INTEL, V46, P223, DOI 10.1016/j.engappai.2015.09.014
+   Unknown -, 2014, SSST EMNLP, V0, P0
+   Unknown -, 2015, INT J ADV RES ARTIFI, V0, P0
+   Unknown -, 2015, NIPS, V0, P0
+   Unknown -, 2017, KERAS PYTHON DEEP LE, V0, P0
+   Unknown -, 2017, UNDERSTANDING LSTM N, V0, P0
+NR 7
+TC 136
+Z9 0
+U1 0.0
+U2 263.0
+J9 EXPERT SYSTEMS WITH APPLICATIONS
+PD OCT
+PY 2019
+VL 132
+BP 99
+EP 109
+DI 10.1016/j.eswa.2019.04.038
+PG 11
+SC COMPUTER SCIENCE; ENGINEERING; OPERATIONS RESEARCH & MANAGEMENT SCIENCE
+UT WOS:000472244700008
+PM 
+ER
+
+PT J
+AU Sirignano, JA
+TI Deep learning for limit order books
+SO QUANTITATIVE FINANCE
+DE limit order market; machine learning; deep learning; high-frequency; order book; big data; data science
+AB This paper develops a new neural network architecture for modeling spatial distributions (i.e. distributions on ) which is more computationally efficient than a traditional fully-connected feedforward architecture. The design of the architecture takes advantage of the specific structure of limit order books. The new architecture, which we refer to as a spatial neural network, yields a low-dimensional model of price movements deep into the limit order book, allowing more effective use of information from deep in the limit order book (i.e. many levels beyond the best bid and best ask). The spatial neural network models the joint distribution of the state of the limit order book at a future time conditional on the current state of the limit order book. The spatial neural network outperforms status quo models such as the naive empirical model, logistic regression (with nonlinear features), and a standard neural network architecture. Both neural networks strongly outperform the logistic regression model. Due to its more effective use of information deep in the limit order book, the spatial neural network especially outperforms the standard neural network in the tail of the distribution, which is important for risk management applications. The models are trained and tested on nearly 500 U.S. stocks. Techniques from deep learning such as dropout are employed to improve performance. Due to the significant computational challenges associated with the large amount of data, models are trained with a cluster of 50 GPUs.
+C1 [Sirignano, Justin A.] Univ Illinois, Urbana, IL 61801 USA.
+RP Sirignano, JA (corresponding author), Univ Illinois, Urbana, IL 61801 USA.
+FU Mathematical Finance Section of the Department of Mathematics at Imperial College London
+CR Bonart J, 2018, PHYSICA A, V503, P698, DOI 10.1016/j.physa.2018.03.002
+   Chen JG, 2017, IEEE T PARALL DISTR, V28, P919, DOI 10.1109/TPDS.2016.2603511
+   Curato G, 2017, QUANT FINANC, V17, P41, DOI 10.1080/14697688.2016.1181274
+   Dixon M, 2017, ALGORITHMIC FINANC, V6, P67, DOI 10.3233/AF-170176
+   Donier J, 2015, QUANT FINANC, V15, P1109, DOI 10.1080/14697688.2015.1040056
+   Fitzpatrick T, 2016, EUR J OPER RES, V249, P427, DOI 10.1016/j.ejor.2015.09.014
+   Gao XF, 2018, PROBAB ENG INFORM SC, V32, P96, DOI 10.1017/S0269964816000413
+   Gould MD, 2016, MARK MICROSTRUCT LIQ, V2, P0, DOI 10.1142/S2382626616500064
+   Gramacy RB, 2015, SIAM J FINANC MATH, V6, P748, DOI 10.1137/140980089
+   Huynh T, 2016, IEEE T MED IMAGING, V35, P174, DOI 10.1109/TMI.2015.2461533
+   Ioffe Sergey, 2015, INT C MACHINE LEARNI, V37, P448, DOI 10.48550/ARXIV.1502.03167
+   Kercheval AN, 2015, QUANT FINANC, V15, P1315, DOI 10.1080/14697688.2015.1032546
+   Lakshminarayanan B, 2014, 28 C NEURAL INFORM P, V27, P0
+   Mnih V, 2015, NATURE, V518, P529, DOI 10.1038/nature14236
+   Park B, 2015, OPER RES, V63, P1058, DOI 10.1287/opre.2015.1415
+   Risk J, 2016, INSUR MATH ECON, V68, P45, DOI 10.1016/j.insmatheco.2016.02.006
+   Silver D, 2016, NATURE, V529, P484, DOI 10.1038/nature16961
+   Sirignano J, 2017, SIAM J FINANC MATH, V8, P933, DOI 10.1137/17M1126825
+   Sirignano J, 2018, J COMPUT PHYS, V375, P1339, DOI 10.1016/j.jcp.2018.08.029
+   Srivastava N, 2014, J MACH LEARN RES, V15, P1929
+   Stoikov S, 2016, QUANT FINANC, V16, P1445, DOI 10.1080/14697688.2016.1151926
+   Taranto DE, 2014, J STAT MECH-THEORY E, V0, P0, DOI 10.1088/1742-5468/2014/06/P06002
+   Taranto DE, 2018, QUANT FINANC, V18, P903, DOI 10.1080/14697688.2017.1395903
+   Taranto DE, 2018, QUANT FINANC, V18, P917, DOI 10.1080/14697688.2017.1397283
+   Tóth B, 2015, J ECON DYN CONTROL, V51, P218, DOI 10.1016/j.jedc.2014.10.007
+   Unknown -, 2016, ARXIV160702470, V0, P0
+   Unknown -, 2017, ARXIV171004273, V0, P0
+   Unknown -, 2018, APPL MATH FINANCE, V0, P0
+   Unknown -, 2018, ARXIV180306917, V0, P0
+   Variani E, 2015, INT CONF ACOUST SPEE, V0, PP4270, DOI 10.1109/ICASSP.2015.7178776
+   Yang SY, 2015, QUANT FINANC, V15, P1683, DOI 10.1080/14697688.2015.1011684
+   Yang TW, 2016, MARK MICROSTRUCT LIQ, V2, P0, DOI 10.1142/S2382626616500088
+   Zarinelli E, 2015, MARK MICROSTRUCT LIQ, V1, P0, DOI 10.1142/S2382626615500045
+   van den Oord A, 2014, ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS, V0, P3518
+NR 34
+TC 63
+Z9 0
+U1 2.0
+U2 46.0
+J9 QUANTITATIVE FINANCE
+PD APR
+PY 2019
+VL 19
+BP 549
+EP 570
+DI 10.1080/14697688.2018.1546053
+PG 22
+SC BUSINESS & ECONOMICS; MATHEMATICS; MATHEMATICAL METHODS IN SOCIAL SCIENCES
+UT WOS:000463062900002
+PM 
+ER
+
+PT J
+AU Li, Y
+   Bu, Hui
+   Li, Jiahong
+   Wu, Junjie
+TI The role of text-extracted investor sentiment in Chinese stock price prediction with the enhancement of deep learning
+SO INTERNATIONAL JOURNAL OF FORECASTING
+DE textual data; text mining; naive bayes classification algorithm; deep learning method; stock price forecasting
+AB Whether investor sentiment affects stock prices is an issue of long-standing interest for economists. We conduct a comprehensive study of the predictability of investor sentiment, which is measured directly by extracting expectations from online user-generated content (UGC) on the stock message board of Eastmoney.com in the Chinese stock market. We consider the influential factors in prediction, including the selections of different text classification algorithms, price forecasting models, time horizons, and information update schemes. Using comparisons of the long short-term memory (LSTM) model, logistic regression, support vector machine, and Naive Bayes model, the results show that daily investor sentiment contains predictive information only for open prices, while the hourly sentiment has two hours of leading predictability for closing prices. Investors do update their expectations during trading hours. Moreover, our results reveal that advanced models, such as LSTM, can provide more predictive power with investor sentiment only if the inputs of a model contain predictive information. (C) 2020 International Institute of Forecasters. Published by Elsevier B.V. All rights reserved.
+C1 [Li, Yelin; Wu, Junjie] Beihang Univ, Sch Econ & Management, Dept Informat Syst, Beijing 100191, Peoples R China.   
+[Bu, Hui] Beihang Univ, Sch Econ & Management, Dept Finance, Beijing 100191, Peoples R China.   
+[Li, Jiahong] JD Digits, Beijing 100176, Peoples R China.   
+[Wu, Junjie] Beihang Univ, Beijing Adv Innovat Ctr Big Data & Brain Comp, Beijing 100191, Peoples R China.
+RP Bu, H (corresponding author), Beihang Univ, Sch Econ & Management, Dept Finance, Beijing 100191, Peoples R China.
+FU National Key R&D Program of China [2019YFB2101804]; National Natural Science Foundation of China [71671012, 91846108, 71531001, 71725002, U1636210, 71490723]
+CR Bao W, 2017, PLOS ONE, V12, P0, DOI 10.1371/journal.pone.0180944
+   Ding X, 2015, PROCEEDINGS OF THE TWENTY-FOURTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI), V0, P2327
+   Dixon M, 2017, ALGORITHMIC FINANC, V6, P67, DOI 10.3233/AF-170176
+   Feuerriegel S, 2016, ECIS, V0, P0
+   Krizhevsky A, 2017, COMMUN ACM, V60, P84, DOI 10.1145/3065386
+   Li XR, 2018, INT J FORECASTING PR, V0, P0
+   Shen FR, 2015, NEUROCOMPUTING, V167, P243, DOI 10.1016/j.neucom.2015.04.071
+   Sirignano J, 2016, DEEP LEARNING LIMIT, V0, P0
+   Wang JY, 2019, KDD19: PROCEEDINGS OF THE 25TH ACM SIGKDD INTERNATIONAL CONFERENCCE ON KNOWLEDGE DISCOVERY AND DATA MINING, V0, PP1900, DOI 10.1145/3292500.3330647
+   Xiong R, 2015, ARXIV151204916, V0, P0
+   [部慧 Bu Hui], 2018, 管理科学学报 JOURNAL OF MANAGEMENT SCIENCES IN CHINA, V21, P86
+NR 11
+TC 84
+Z9 0
+U1 9.0
+U2 164.0
+J9 INTERNATIONAL JOURNAL OF FORECASTING
+PD OCT
+PY 2020
+VL 36
+BP 1541
+EP 1562
+DI 10.1016/j.ijforecast.2020.05.001
+PG 22
+SC BUSINESS & ECONOMICS
+UT WOS:000570797300025
+PM 
+ER
+
+PT J
+AU Li, C
+   Shen, Luyi
+   Qian, Guoqi
+TI Online Hybrid Neural Network for Stock Price Prediction: A Case Study of High-Frequency Stock Trading in the Chinese Market
+SO ECONOMETRICS
+DE high-frequency; limit order book; online fast prediction; hybrid neural network
+AB Time-series data, which exhibit a low signal-to-noise ratio, non-stationarity, and non-linearity, are commonly seen in high-frequency stock trading, where the objective is to increase the likelihood of profit by taking advantage of tiny discrepancies in prices and trading on them quickly and in huge quantities. For this purpose, it is essential to apply a trading method that is capable of fast and accurate prediction from such time-series data. In this paper, we developed an online time series forecasting method for high-frequency trading (HFT) by integrating three neural network deep learning models, i.e., long short-term memory (LSTM), gated recurrent unit (GRU), and transformer; and we abbreviate the new method to online LGT or O-LGT. The key innovation underlying our method is its efficient storage management, which enables super-fast computing. Specifically, when computing the forecast for the immediate future, we only use the output calculated from the previous trading data (rather than the previous trading data themselves) together with the current trading data. Thus, the computing only involves updating the current data into the process. We evaluated the performance of O-LGT by analyzing high-frequency limit order book (LOB) data from the Chinese market. It shows that, in most cases, our model achieves a similar speed with a much higher accuracy than the conventional fast supervised learning models for HFT. However, with a slight sacrifice in accuracy, O-LGT is approximately 12 to 64 times faster than the existing high-accuracy neural network models for LOB data from the Chinese market.
+C1 [Li, Chengyu; Shen, Luyi; Qian, Guoqi] Univ Melbourne, Sch Math & Stat, Parkville, Vic 3010, Australia.
+RP Qian, GQ (corresponding author), Univ Melbourne, Sch Math & Stat, Parkville, Vic 3010, Australia.
+CR Baron M, 2019, J FINANC QUANT ANAL, V54, P993, DOI 10.1017/S0022109018001096
+   Catania L, 2022, J BUS ECON STAT, V40, P559, DOI 10.1080/07350015.2020.1840994
+   Chen SL, 2021, IEEE ACCESS, V9, P9066, DOI 10.1109/ACCESS.2020.3047109
+   Ding QG, 2020, PROCEEDINGS OF THE TWENTY-NINTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, V0, P4640
+   Henrique BM, 2019, EXPERT SYST APPL, V124, P226, DOI 10.1016/j.eswa.2019.01.012
+   Yun KK, 2021, EXPERT SYST APPL, V186, P0, DOI 10.1016/j.eswa.2021.115716
+   Zhang ZH, 2019, IEEE T SIGNAL PROCES, V67, P3001, DOI 10.1109/TSP.2019.2907260
+   Zhang ZH, 2021, ARXIV, V0, P0
+NR 8
+TC 4
+Z9 0
+U1 2.0
+U2 16.0
+J9 ECONOMETRICS
+PD JUN
+PY 2023
+VL 11
+BP 
+EP 
+DI 10.3390/econometrics11020013
+PG 19
+SC BUSINESS & ECONOMICS
+UT WOS:001014165100001
+PM 
+ER
+
+PT J
+AU Chen, Y
+   Lin, Weiwei
+   Wang, James Z
+TI A Dual-Attention-Based Stock Price Trend Prediction Model With Dual Features
+SO IEEE ACCESS
+DE stock price; predictive models; neural networks; encoder-decoder; dual feature extraction; dual attention mechanism
+AB Modeling and predicting stock prices is an important and challenging task in the field of financial market. Due to the high volatility of stock prices, traditional data mining methods cannot identify the most relevant and critical market data for predicting stock price trend. This paper proposes a stock price trend predictive model (TPM) based on an encoder-decoder framework that predicting the stock price movement and its duration adaptively. This model consists of two phases, first, a dual feature extraction method based on different time spans is proposed to get more information from the market data. While traditional methods only extract features from information at some specific time points, this proposed model applies the PLR method and CNN to extract the long-term temporal features and the short-term spatial features from market data. Then, in the second phase of the proposed TPM, a dual attention mechanism based encoder-decoder framework is used to select and merge relevant dual features and predict the stock price trend. To evaluate our proposed TPM, we collected high-frequency market data for stock indexes CSI300, SSE 50 and CSI 500, and conducted experiments based on these three data sets. The experimental results show that the proposed TPM outperforms the existing state-of-art methods, including SVR, LSTM, CNN, LSTM_CNN and TPM_NC, in terms of prediction accuracy.
+C1 [Chen, Yingxuan; Lin, Weiwei] South China Univ Technol, Sch Comp Sci & Engn, Guangzhou 510006, Peoples R China.   
+[Wang, James Z.] Clemson Univ, Sch Comp, Clemson, SC 29631 USA.   
+[Lin, Weiwei] Guangdong Luan Ind & Commerce Co Ltd, Guangzhou 510520, Peoples R China.
+RP Lin, WW (corresponding author), South China Univ Technol, Sch Comp Sci & Engn, Guangzhou 510006, Peoples R China.; Lin, WW (corresponding author), Guangdong Luan Ind & Commerce Co Ltd, Guangzhou 510520, Peoples R China.
+FU National Natural Science Foundation of China [61772205, 61872084]; Science and Technology Planning Project of Guangdong Province [2017B010126002, 2018KJYZ009]; Guangzhou Science and Technology Projects [201802010010, 201807010052, 201902010040, 201907010001]; Nansha Science and Technology Projects [2017GJ001]; Special Funds for the Development of Industry and Information of Guangdong Province (big data demonstrated applications) in 2017; Fundamental Research Funds for the Central Universities, SCUT [2019ZD26]; NSF [1759856]; Direct For Biological Sciences; Div Of Biological Infrastructure [1759856] Funding Source: National Science Foundation
+CR Bahdanau D, 2014, 3 INT C LEARN REPR, V0, P0
+   Ballings M, 2015, EXPERT SYST APPL, V42, P7046, DOI 10.1016/j.eswa.2015.05.013
+   Cavalcante RC, 2016, EXPERT SYST APPL, V55, P194, DOI 10.1016/j.eswa.2016.02.006
+   Chang SH, 2019, J PHYS ACT HEALTH, V16, P799, DOI 10.1007/s12652-019-01224-2
+   Chen YJ, 2017, EXPERT SYST APPL, V80, P340, DOI 10.1016/j.eswa.2017.02.044
+   Cho Kyunghyun, 2014, PROCEEDINGS OF THE 2014 CONFERENCE ON EMPIRICAL METHODS IN NATURAL LANGUAGE PROCESSING EMNLP, V0, PP1724, DOI 10.3115/v1/D14-1179
+   Devlin Jacob, 2019, PROC NAACL, V0, P0
+   Ding X, 2015, PROCEEDINGS OF THE TWENTY-FOURTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI), V0, P2327
+   Dong HB, 2018, APPL SOFT COMPUT, V65, P33, DOI 10.1016/j.asoc.2017.12.048
+   Guo YH, 2018, IEEE ACCESS, V6, P11397, DOI 10.1109/ACCESS.2018.2806180
+   Idrees SM, 2019, IEEE ACCESS, V7, P17287, DOI 10.1109/ACCESS.2019.2895252
+   LeCun Y, 2015, NATURE, V521, P436, DOI 10.1038/nature14539
+   Lin T, 2017, PROCEEDINGS OF THE TWENTY-SIXTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE, V0, P2273
+   Minh DL, 2018, IEEE ACCESS, V6, P55392, DOI 10.1109/ACCESS.2018.2868970
+   Moradi P, 2016, APPL SOFT COMPUT, V43, P117, DOI 10.1016/j.asoc.2016.01.044
+   Nelson DMQ, 2017, IEEE IJCNN, V0, PP1419, DOI 10.1109/IJCNN.2017.7966019
+   Patel J, 2015, EXPERT SYST APPL, V42, P259, DOI 10.1016/j.eswa.2014.07.040
+   Qin Y, 2017, P 26 INT JOINT C ART, V0, PP2627, DOI 10.24963/ijcai.2017/366
+   Su CH, 2016, NEUROCOMPUTING, V205, P264, DOI 10.1016/j.neucom.2016.03.068
+   Sutskever I, 2014, P ANN C NEUR INF PRO, V3104, P3112, DOI 10.1021/acs.analchem.7b05329
+   Szegedy C, 2015, PROC CVPR IEEE, V0, PP1, DOI 10.1109/CVPR.2015.7298594
+   Thakur M, 2018, APPL SOFT COMPUT, V67, P337, DOI 10.1016/j.asoc.2018.03.006
+   Unknown -, 2018, J SUPER COMPUTING, V0, P0, DOI 10.1007/S1122
+   Zhang X, 2018, IEEE ACCESS, V6, P50720, DOI 10.1109/ACCESS.2018.2869735
+   Zhao L, 2015, PROCEEDINGS 2015 IEEE FIFTH INTERNATIONAL CONFERENCE ON BIG DATA AND CLOUD COMPUTING BDCLOUD 2015, V0, PP93, DOI 10.1109/BDCloud.2015.19
+NR 25
+TC 35
+Z9 0
+U1 1.0
+U2 32.0
+J9 IEEE ACCESS
+PD JUN
+PY 2019
+VL 7
+BP 148047
+EP 148058
+DI 10.1109/ACCESS.2019.2946223
+PG 12
+SC COMPUTER SCIENCE; ENGINEERING; TELECOMMUNICATIONS
+UT WOS:000510417300001
+PM 
+ER
+
+PT J
+AU Chatzis, SP
+   Siakoulis, Vassilis
+   Petropoulos, Anastasios
+   Stavroulakis, Evangelos
+   Vlachogiannakis, Nikos
+TI Forecasting stock market crisis events using deep and statistical machine learning techniques
+SO EXPERT SYSTEMS WITH APPLICATIONS
+DE stock market crashes; forecasting; support vector machines; deep learning; xgboost; random forests
+AB This work contributes to this ongoing debate on the nature and the characteristics of propagation channels of crash events in international stock markets. Specifically, we investigate transmission mechanisms across stock markets along with effects from bond and currency markets. Our approach comprises a solid forecasting mechanism of the probability of a stock market crash event in various time frames. The developed approach combines different machine learning algorithms which are presented with daily stock, bond and currency data from 39 countries that cover a large spectrum of economies. Specifically, we leverage the merits of a series of techniques including Classification Trees, Support Vector Machines, Random Forests, Neural Networks, Extreme Gradient Boosting, and Deep Neural Networks. To the best of our knowledge, this is the first time that Deep Learning and Boosting approaches are considered in the literature as a means of predicting stock market crisis episodes. The independent variables included in our data contain information regarding both the two fundamental linkage channels through which financial contagion can be initiated: returns and volatility. We apply a suite of machine learning algorithms for selecting the most relevant variables out of a large set of proposed ones. Finally, we employ bootstrap sampling for adjusting the imbalanced nature of the available fitting dataset. Our experimental results provide strong evidence that stock market crises tend to exhibit persistence. We also find significant evidence of interdependence and cross-contagion effects among stock, bond and currency markets. Finally, we show that the use of Deep Neural Networks significantly increases the classification accuracy, while offering a robust way to create a global systemic early warning tool that is more efficient and risk-sensitive than the currently established ones. Thus, central banks may use these tools to early adjust their monetary policy, so as to ensure financial stability. (C) 2018 Elsevier Ltd. All rights reserved.
+C1 [Chatzis, Sotirios P.] Cyprus Univ Technol, Dept Elect Engn Comp Engn & Informat, CY-3036 Limassol, Cyprus.   
+[Siakoulis, Vassilis; Petropoulos, Anastasios; Stavroulakis, Evangelos; Vlachogiannakis, Nikos] Bank Greece, Banking Supervis Div, 3 Amerikis Str, Athens 10250, Greece.
+RP Chatzis, SP (corresponding author), Cyprus Univ Technol, Dept Elect Engn Comp Engn & Informat, CY-3036 Limassol, Cyprus.
+CR Atsalakis GS, 2016, OPER RES-GER, V16, P245, DOI 10.1007/s12351-015-0197-6
+   Babecky J, 2014, J FINANC STABIL, V15, P1, DOI 10.1016/j.jfs.2014.07.001
+   Bagheri A, 2014, EXPERT SYST APPL, V41, P6235, DOI 10.1016/j.eswa.2014.04.003
+   Bekkar M, 2013, J INFORM ENG APPL, V3, P0
+   Cervelló-Royo R, 2015, EXPERT SYST APPL, V42, P5963, DOI 10.1016/j.eswa.2015.03.017
+   Chiang WC, 2016, EXPERT SYST APPL, V59, P195, DOI 10.1016/j.eswa.2016.04.025
+   Dabrowski JJ, 2016, EXPERT SYST APPL, V62, P225, DOI 10.1016/j.eswa.2016.06.024
+   Döpke J, 2017, INT J FORECASTING, V33, P745, DOI 10.1016/j.ijforecast.2017.02.003
+   Faranda D, 2015, COMMUN NONLINEAR SCI, V29, P233, DOI 10.1016/j.cnsns.2015.05.002
+   Harris T, 2015, EXPERT SYST APPL, V42, P741, DOI 10.1016/j.eswa.2014.08.029
+   Kim HY, 2018, EXPERT SYST APPL, V103, P25, DOI 10.1016/j.eswa.2018.03.002
+   LeCun Y, 2015, NATURE, V521, P436, DOI 10.1038/nature14539
+   Oztekin A, 2016, EUR J OPER RES, V253, P697, DOI 10.1016/j.ejor.2016.02.056
+   Partaourides H, 2017, LECT NOTES ARTIF INT, V10234, P30, DOI 10.1007/978-3-319-57454-7, 3
+   Sevim C, 2014, EUR J OPER RES, V237, P1095, DOI 10.1016/j.ejor.2014.02.047
+   Srivastava N, 2014, J MACH LEARN RES, V15, P1929
+   Vasícek B, 2017, J FINANC STABIL, V28, P240, DOI 10.1016/j.jfs.2016.05.005
+   Zhong X, 2017, EXPERT SYST APPL, V67, P126, DOI 10.1016/j.eswa.2016.09.027
+NR 18
+TC 179
+Z9 0
+U1 5.0
+U2 360.0
+J9 EXPERT SYSTEMS WITH APPLICATIONS
+PD DEC
+PY 2018
+VL 112
+BP 353
+EP 371
+DI 10.1016/j.eswa.2018.06.032
+PG 19
+SC COMPUTER SCIENCE; ENGINEERING; OPERATIONS RESEARCH & MANAGEMENT SCIENCE
+UT WOS:000442708600026
+PM 
+ER
+
+PT J
+AU Nakano, M
+   Takahashi, Akihiko
+   Takahashi, Soichiro
+TI Bitcoin technical trading with artificial neural network
+SO PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+DE bitcoin; artificial neural network; deep learning; high frequency data; technical trading
+AB This paper explores Bitcoin intraday technical trading based on artificial neural networks for the return prediction. In particular, our deep learning method successfully discovers trading signals through a seven layered neural network structure for given input data of technical indicators, which are calculated by the past time-series data over every 15 min. Under feasible settings of execution costs, the numerical experiments demonstrate that our approach significantly improves the performance of a buy-and-hold strategy. Especially, our model performs well for a challenging period from December 2017 to January 2018, during which Bitcoin suffers from substantial minus returns. Furthermore, various sensitivity analysis is implemented for the change of the number of layers, activation functions, input data and output classification to confirm the robustness of our approach. (C) 2018 Elsevier B.V. All rights reserved.
+C1 [Nakano, Masafumi; Takahashi, Akihiko; Takahashi, Soichiro] Univ Tokyo, Grad Sch Econ, Bunkyo Ku, 7-3-1 Hongo, Tokyo 1130033, Japan.
+RP Takahashi, A (corresponding author), Univ Tokyo, Grad Sch Econ, Bunkyo Ku, 7-3-1 Hongo, Tokyo 1130033, Japan.
+FU CARF, Japan (Center for Advanced Research in Finance); JSPS, Japan KAKENHI [JP17J09046, JP17J09127]
+CR Aguilar-Rivera R, 2015, EXPERT SYST APPL, V42, P7684, DOI 10.1016/j.eswa.2015.06.001
+   Alvarez-Ramirez J, 2018, PHYSICA A, V492, P948, DOI 10.1016/j.physa.2017.11.025
+   Ballings M, 2015, EXPERT SYST APPL, V42, P7046, DOI 10.1016/j.eswa.2015.05.013
+   Bariviera AF, 2017, ECON LETT, V161, P1, DOI 10.1016/j.econlet.2017.09.013
+   Bariviera AF, 2017, PHYSICA A, V484, P82, DOI 10.1016/j.physa.2017.04.159
+   Bengio Y, 2013, IEEE T PATTERN ANAL, V35, P1798, DOI 10.1109/TPAMI.2013.50
+   Brière M, 2015, J ASSET MANAG, V16, P365, DOI 10.1057/jam.2015.5
+   Caride MartinIglesias, 2018, COMPLEX SYSTEMS: SOLUTIONS AND CHALLENGES IN ECONOMICS, V0, P399, DOI 10.1007/978-3-319-69989-9, 23
+   Chong E, 2017, EXPERT SYST APPL, V83, P187, DOI 10.1016/j.eswa.2017.04.030
+   Dyhrberg AH, 2016, FINANC RES LETT, V16, P85, DOI 10.1016/j.frl.2015.10.008
+   E WN, 2017, COMMUN MATH STAT, V5, P349, DOI 10.1007/s40304-017-0117-6
+   EASLEY D, 2017, FROM MINING TO MARKETS: THE EVOLUTION OF BITCOIN TRANSACTION FEES, V0, P0
+   Glaser F, 2014, BITCOIN-ASSET OR CURRENCY? REVEALING USERS HIDDEN INTENTIONS, V0, P0
+   Hong K, 2017, INFORM TECHNOL MANAG, V18, P265, DOI 10.1007/s10799-016-0264-6
+   Hsu MW, 2016, EXPERT SYST APPL, V61, P215, DOI 10.1016/j.eswa.2016.05.033
+   Kim MH, 2016, PLOS ONE, V11, P0, DOI 10.1371/journal.pone.0159528
+   Kvamme H, 2018, EXPERT SYST APPL, V102, P207, DOI 10.1016/j.eswa.2018.02.029
+   Maas AL, 2013, P INT C MACH LEARN, V0, P3
+   Mian Mian Lau, 2017, 2017 2ND INTERNATIONAL CONFERENCE ON CONTROL AND ROBOTICS ENGINEERING (ICCRE), V0, PP201, DOI 10.1109/ICCRE.2017.7935070
+   Montúfar G, 2014, ADV NEUR IN, V27, P0
+   Nakano M, 2017, EXPERT SYST APPL, V73, P187, DOI 10.1016/j.eswa.2016.12.034
+   Nakano M, 2017, EXPERT SYST APPL, V81, P53, DOI 10.1016/j.eswa.2017.03.045
+   Peng YH, 2018, EXPERT SYST APPL, V97, P177, DOI 10.1016/j.eswa.2017.12.004
+   Unknown -, 2017, ASYMPTOTIC EXPANSION, V0, P0
+   Yunusoglu MG, 2013, EXPERT SYST APPL, V40, P908, DOI 10.1016/j.eswa.2012.05.047
+   de Oliveira FA, 2013, EXPERT SYST APPL, V40, P7596, DOI 10.1016/j.eswa.2013.06.071
+NR 26
+TC 106
+Z9 0
+U1 2.0
+U2 74.0
+J9 PHYSICA A-STATISTICAL MECHANICS AND ITS APPLICATIONS
+PD NOV
+PY 2018
+VL 510
+BP 587
+EP 609
+DI 10.1016/j.physa.2018.07.017
+PG 23
+SC PHYSICS
+UT WOS:000442712000051
+PM 
+ER
+
+PT J
+AU Makinen, Y
+   Kanniainen, Juho
+   Gabbouj, Moncef
+   Iosifidis, Alexandros
+TI Forecasting jump arrivals in stock prices: new attention-based network architecture using limit order book data
+SO QUANTITATIVE FINANCE
+DE return jumps; limit order book data; neural networks; convolutional networks; long short-term memory; attention mechanism
+AB The existing literature provides evidence that limit order book data can be used to predict short-term price movements in stock markets. This paper proposes a new neural network architecture for predicting return jump arrivals one minute ahead in equity markets with high-frequency limit order book data. This new architecture, based on Convolutional Long Short-Term Memory with Attention, is introduced to apply time series representation learning with memory and to focus the prediction attention on the most important features to improve performance. The use of the attention mechanism makes it possible to analyze the importance of the inclusion limit order book data and other input variables. Our architecture with this mechanism is used and compared to existing deep learning architectures with the data set that consists of order book data on five liquid U.S. stocks over 18 months. We provide evidence that (i) the new architecture with attention model outperforms existing architectures and (ii) the use of limit order book data was found to improve the performance of the proposed model in jump prediction, either clearly or marginally, depending on the underlying stock. This suggests that path-dependence in limit order book markets is a stock specific feature. Moreover, we find that the proposed approach with an attention mechanism outperforms the multi-layer perceptron network as well as the convolutional neural network and Long Short-Term memory model.
+C1 [Makinen, Ymir; Kanniainen, Juho; Gabbouj, Moncef; Iosifidis, Alexandros] Tampere Univ, Comp Sci, Tampere, Finland.   
+[Makinen, Ymir; Kanniainen, Juho; Gabbouj, Moncef; Iosifidis, Alexandros] Aarhus Univ, Dept Engn Elect & Comp Engn, Aarhus, Denmark.
+RP Kanniainen, J (corresponding author), Tampere Univ, Comp Sci, Tampere, Finland.; Kanniainen, J (corresponding author), Aarhus Univ, Dept Engn Elect & Comp Engn, Aarhus, Denmark.
+CR Abadi M, 2015, TENSORFLOW: LARGE-SCALE MACHINE LEARNING ON HETEROGENEOUS SYSTEMS, V0, P0
+   Bahdanau D, 2016, ARXIV, V0, P0
+   Bradley D, 2014, J FINANC, V69, P645, DOI 10.1111/jofi.12107
+   Chiarella C, 2015, J ECON DYN CONTROL, V61, P245, DOI 10.1016/j.jedc.2015.09.013
+   Chorowski J, 2015, ADV NEUR IN, V28, P0
+   Di Persio Luca, 2016, INTERNATIONAL JOURNAL OF CIRCUITS, V0, P0
+   Dixon M, 2018, J COMPUT SCI-NETH, V24, P277, DOI 10.1016/j.jocs.2017.08.018
+   Greff K, 2017, IEEE T NEUR NET LEAR, V28, P2222, DOI 10.1109/TNNLS.2016.2582924
+   Hu BT, 2014, ADV NEUR IN, V27, P0
+   KANNIAINEN J, 2017, ARRIVAL NEWS JUMPS S, V0, P0
+   Kercheval AN, 2015, QUANT FINANC, V15, P1315, DOI 10.1080/14697688.2015.1032546
+   Kingsbury D, 2015, P1, V0, P0, DOI 10.1021/bk-2015-1214.ch001
+   Lipton Zachary C, 2014, MACH LEARN KNOWL DISCOV DATABASES, V8725, P225, DOI 10.1007/978-3-662-44851-9, 15
+   Längkvist M, 2014, PATTERN RECOGN LETT, V42, P11, DOI 10.1016/j.patrec.2014.01.008
+   PASSALIS N, 2019, ARXIV190207892, V0, P0
+   Passalis N, 2017, EUR SIGNAL PR CONF, V0, PP301, DOI 10.23919/EUSIPCO.2017.8081217
+   Siikanen M, 2017, ECON LETT, V159, P65, DOI 10.1016/j.econlet.2017.07.018
+   Siikanen M, 2017, FINANC RES LETT, V21, P264, DOI 10.1016/j.frl.2016.12.016
+   Sirignano J, 2018, UNIVERSAL FEATURES OF PRICE FORMATION IN FINANCIAL MARKETS: PERSPECTIVES FROM DEEP LEARNING, V0, P0
+   Sirignano JA, 2019, QUANT FINANC, V19, P549, DOI 10.1080/14697688.2018.1546053
+   Tran DT, 2017, 2017 IEEE S SERIES C, V0, P1
+   Tsantekidis A, 2017, CONF BUS INFORM, V1, P7, DOI 10.1109/CBI.2017.23
+   Tsantekidis A, 2017, EUR SIGNAL PR CONF, V0, PP2511, DOI 10.23919/EUSIPCO.2017.8081663
+   Tóth B, 2015, J ECON DYN CONTROL, V51, P218, DOI 10.1016/j.jedc.2014.10.007
+   Unknown -, 2015, P ANN C INT SPEECH C, V0, P0
+   Xingjian S, 2015, ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS, V0, PP802, DOI 10.48550/ARXIV.1506.04214
+   Yang HX, 2017, REV FINANC, V21, P811, DOI 10.1093/rof/rfw001
+   Yang JB, 2015, PROCEEDINGS OF THE TWENTY-FOURTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI), V0, P3995
+   Zhou P, 2016, PROCEEDINGS OF THE 54TH ANNUAL MEETING OF THE ASSOCIATION FOR COMPUTATIONAL LINGUISTICS (ACL 2016), VOL 2, P207, DOI 10.18653/v1/p16-2034
+NR 29
+TC 34
+Z9 0
+U1 0.0
+U2 49.0
+J9 QUANTITATIVE FINANCE
+PD DEC
+PY 2019
+VL 19
+BP 2033
+EP 2050
+DI 10.1080/14697688.2019.1634277
+PG 18
+SC BUSINESS & ECONOMICS; MATHEMATICS; MATHEMATICAL METHODS IN SOCIAL SCIENCES
+UT WOS:000477244100001
+PM 
+ER
+
+PT J
+AU Islam, MS
+   Hossain, Emam
+   Rahman, Abdur
+   Hossain, Mohammad Shahadat
+   Andersson, Karl
+TI A Review on Recent Advancements in FOREX Currency Prediction
+SO ALGORITHMS
+DE foreign exchange (forex) market; time series prediction; currency prediction; machine learning
+AB In recent years, the foreign exchange (FOREX) market has attracted quite a lot of scrutiny from researchers all over the world. Due to its vulnerable characteristics, different types of research have been conducted to accomplish the task of predicting future FOREX currency prices accurately. In this research, we present a comprehensive review of the recent advancements of FOREX currency prediction approaches. Besides, we provide some information about the FOREX market and cryptocurrency market. We wanted to analyze the most recent works in this field and therefore considered only those papers which were published from 2017 to 2019. We used a keyword-based searching technique to filter out popular and relevant research. Moreover, we have applied a selection algorithm to determine which papers to include in this review. Based on our selection criteria, we have reviewed 39 research articles that were published on "Elsevier", "Springer", and "IEEE Xplore" that predicted future FOREX prices within the stipulated time. Our research shows that in recent years, researchers have been interested mostly in neural networks models, pattern-based approaches, and optimization techniques. Our review also shows that many deep learning algorithms, such as gated recurrent unit (GRU) and long short term memory (LSTM), have been fully explored and show huge potential in time series prediction.
+C1 [Islam, Md Saiful; Rahman, Abdur] Port City Int Univ, Dept Comp Sci & Engn, Chittagong 4202, Bangladesh.   
+[Hossain, Emam; Hossain, Mohammad Shahadat] Univ Chittagong, Dept Comp Sci & Engn, Chittagong 4331, Bangladesh.   
+[Andersson, Karl] Lulea Univ Technol, Pervas & Mobile Comp Lab, S-93187 Skelleftea, Sweden.
+RP Andersson, K (corresponding author), Lulea Univ Technol, Pervas & Mobile Comp Lab, S-93187 Skelleftea, Sweden.
+CR Achchab S, 2017, ADV INTELL SYST, V569, P226, DOI 10.1007/978-3-319-56535-4, 23
+   Bartos E, 2017, PHYSICA A, V479, P57, DOI 10.1016/j.physa.2017.03.014
+   Basha SM, 2017, INT J GRID DISTRIB, V10, P41, DOI 10.14257/ijgdc.2017.10.6.04
+   Carapuço J, 2018, APPL SOFT COMPUT, V73, P783, DOI 10.1016/j.asoc.2018.09.017
+   Chandrinos SK, 2018, EXPERT SYST APPL, V105, P34, DOI 10.1016/j.eswa.2018.03.044
+   Chandrinos SK, 2018, OPER RES PERSPECT, V5, P32, DOI 10.1016/j.orp.2018.01.001
+   Chou JS, 2019, SOFT COMPUT, V23, P3545, DOI 10.1007/s00500-019-03863-1
+   Contreras AV, 2018, SIMUL MODEL PRACT TH, V86, P1, DOI 10.1016/j.simpat.2018.04.008
+   Cuomo S, 2020, FUTURE GENER COMP SY, V107, P730, DOI 10.1016/j.future.2017.07.062
+   Cuomo S, 2020, FUTURE GENER COMP SY, V110, P407, DOI 10.1016/j.future.2018.01.027
+   Das SR, 2019, NEURAL COMPUT APPL, V31, P7071, DOI 10.1007/s00521-018-3552-8
+   Das SR, 2019, PHYSICA A, V513, P339, DOI 10.1016/j.physa.2018.09.021
+   Das SR, 2020, J KING SAUD UNIV-COM, V32, P345, DOI 10.1016/j.jksuci.2017.09.006
+   Dash R, 2017, PHYSICA A, V486, P782, DOI 10.1016/j.physa.2017.05.044
+   Dash R, 2018, APPL SOFT COMPUT, V67, P215, DOI 10.1016/j.asoc.2018.02.043
+   Dash R, 2020, J KING SAUD UNIV-COM, V32, P1000, DOI 10.1016/j.jksuci.2017.12.010
+   Dymova L, 2016, EXPERT SYST APPL, V51, P1, DOI 10.1016/j.eswa.2015.12.028
+   Fan MH, 2021, GRANULAR COMPUT, V6, P207, DOI 10.1007/s41066-019-00181-7
+   Fiszeder P, 2019, J ECON DYN CONTROL, V108, P0, DOI 10.1016/j.jedc.2019.103736
+   Galeshchuk S, 2017, P INT S DISTR COMP A, V0, P69
+   Goumatianos N, 2017, KNOWL INF SYST, V53, P767, DOI 10.1007/s10115-017-1052-2
+   Hajizadeh E, 2019, NEURAL COMPUT APPL, V31, P2063, DOI 10.1007/s00521-015-2032-7
+   Henrique BM, 2019, EXPERT SYST APPL, V124, P226, DOI 10.1016/j.eswa.2019.01.012
+   Lee RST, 2019, INT J FUZZY SYST, V21, P2223, DOI 10.1007/s40815-019-00688-w
+   Lee RST, 2019, J FINANCE DATA SCI, V5, P61, DOI 10.1016/j.jfds.2019.01.001
+   Mandziuk J, 2016, IEEE C EVOL COMPUTAT, V0, PP4654, DOI 10.1109/CEC.2016.7744384
+   Nassirtoussi AK, 2015, EXPERT SYST APPL, V42, P306, DOI 10.1016/j.eswa.2014.08.004
+   Ni LN, 2019, PROCEDIA COMPUT SCI, V147, P647, DOI 10.1016/j.procs.2019.01.189
+   Ozturk M, 2016, APPL SOFT COMPUT, V43, P170, DOI 10.1016/j.asoc.2016.01.048
+   Petropoulos A, 2017, EXPERT SYST APPL, V90, P290, DOI 10.1016/j.eswa.2017.08.011
+   Pradeepkumar D, 2017, ADV INTELL SYST, V515, P219, DOI 10.1007/978-981-10-3153-3, 22
+   Pradeepkumar D, 2017, APPL SOFT COMPUT, V58, P35, DOI 10.1016/j.asoc.2017.04.014
+   Pushpa P, 2017, P EAI INT C UB COMM, V0, P79
+   Putra AR, 2016, INT CONF SYST ENG, V0, PP13, DOI 10.1109/ICSEngT.2016.7849615
+   Raimundo MS, 2018, CONFERENCE PROCEEDINGS OF 2018 INTERNATIONAL CONFERENCE ON INFORMATION AND COMPUTER TECHNOLOGIES (ICICT), V0, PP111, DOI 10.1109/INFOCT.2018.8356851
+   Ranjit S, 2018, PROCEEDINGS ON 2018 IEEE 3RD INTERNATIONAL CONFERENCE ON COMPUTING, V0, P9, DOI 10.1109/CCCS.2018.8586826
+   Ravi V, 2017, SWARM EVOL COMPUT, V36, P136, DOI 10.1016/j.swevo.2017.05.003
+   Seifollahi S, 2019, J INTELL INF SYST, V52, P57, DOI 10.1007/s10844-018-0504-9
+   Serjam Chanakya, 2018, VIETNAM JOURNAL OF COMPUTER SCIENCE, V5, P123, DOI 10.1007/s40595-018-0108-x
+   Taveeapiradeecharoen P, 2019, IEEE ACCESS, V7, P16777, DOI 10.1109/ACCESS.2019.2895022
+   Taveeapiradeecharoen Paponpat, 2018, 2018 INTERNATIONAL CONFERENCE ON DIGITAL ARTS, V0, P321, DOI 10.1109/ICDAMT.2018.8376549
+   Thu TNT, 2018, NO TITLE CAPTURED, V0, PP1, DOI 10.1109/ICIRD.2018.8376303
+   Weerathunga HPSD, 2018, INT CONF ADV ICT, V0, PP287, DOI 10.1109/ICTER.2018.8615580
+   Wilinski A, 2019, EXPERT SYST APPL, V133, P163, DOI 10.1016/j.eswa.2019.04.067
+   Zhu J, 2018, FRONT COMPUT SCI-CHI, V12, P518, DOI 10.1007/s11704-017-6472-3
+   de Almeida BJ, 2018, APPL SOFT COMPUT, V64, P596, DOI 10.1016/j.asoc.2017.12.047
+   Özorhan MO, 2017, SOFT COMPUT, V21, P6653, DOI 10.1007/s00500-016-2216-9
+   Özorhan MO, 2019, KNOWL INF SYST, V61, P397, DOI 10.1007/s10115-018-1303-x
+NR 48
+TC 16
+Z9 0
+U1 0.0
+U2 44.0
+J9 ALGORITHMS
+PD AUG
+PY 2020
+VL 13
+BP 
+EP 
+DI 10.3390/a13080186
+PG 23
+SC COMPUTER SCIENCE
+UT WOS:000567275300001
+PM 
+ER
+
+PT J
+AU Bai, J
+   Guo, Jianfeng
+   Sun, Bingzhen
+   Guo, Yuqi
+   Chen, Youwei
+   Xiao, Xia
+TI Probability rough set and portfolio optimization integrated three-way predication decisions approach to stock price
+SO APPLIED INTELLIGENCE
+DE probability rough set; bidirectional gated recurrent unit; mean-variance model; stock price forecasting
+AB In the stock market, accurate trend judgment and reasonable asset distribution are effective ways to obtain ideal return. However, the real stock market is affected by the objective economic environment, investors expected return and other potential factors, which makes the classical portfolio strategy face more challenges and pressures. How to build a reliable portfolio strategy in an uncertain environment will be a scientific problem worthy of in-depth discussion. To address this issue, this paper combines machine learning with rough set to establish a new rough set theory prediction model, quantitatively dividing the stock data into three categories and targetedly predicting the future trend according to the complexity. Based on the proposed prediction model, a new portfolio strategy is proposed by integrating the mean-variance model. Firstly, for reducing the volatility and noise of the original data of stock price, outlier processing (OP) and wavelet denoising (WD) are utilized. Secondly, for the sake of pertinently forecasting the future trend of different characteristic stock price, a three-way prediction (TWP) decisions approach is constructed based on multiscale permutation entropy (MPE), probabilistic rough set (PRS), variational modal decomposition (VMD) and deep learning. Finally, 20 stocks of Shanghai and Shenzhen stock exchanges are taken as research samples to verify the scientificity and rationality of the portfolio strategy. The results show that the proposed approach not only provides scientific support and reference for investors investment decisions, but also provides a new investment strategy theory and method for the investment decisions of the stock market.
+C1 [Bai, Juncheng; Sun, Bingzhen; Guo, Yuqi; Chen, Youwei] Xidian Univ, Sch Econ & Management, Xian 710126, Peoples R China.   
+[Guo, Jianfeng] Xian Univ Posts & Telecommun, Sch Econ & Management, Xian 710121, Peoples R China.   
+[Xiao, Xia] Shanghai Univ Polit Sci & Law, Sch Econ & Management, Shanghai 201701, Peoples R China.
+RP Sun, BZ (corresponding author), Xidian Univ, Sch Econ & Management, Xian 710126, Peoples R China.; Guo, JF (corresponding author), Xian Univ Posts & Telecommun, Sch Econ & Management, Xian 710121, Peoples R China.
+FU The work was partly supported by the National Natural Science Foundation of China (No. 72071152), Shaanxi National Funds for Distinguished Young Scientists, China (No. 2023-JC-JQ-11), Xian Science and Technology Projects, China (No. 2022RKYJ0030), the You [72071152]; National Natural Science Foundation of China [2023-JC-JQ-11]; Shaanxi National Funds for Distinguished Young Scientists, China [2022RKYJ0030]; Xian Science and Technology Projects, China; Youth Innovation Team of Shaanxi Universities [22YJA630008]; Humanities and Social Science Research Program of Ministry of Education [20101236618, 20101236262]; Fundamental Research Funds for the Central Universities [202206010101]; Guangzhou Key Research and Development Program [2022A1515110703]; Guangdong Basic and Applied Basic Research Foundation [YN2022QN33]; Guangdong Provincial Hospital of Chinese Medicine Science and Technology Research Project
+CR Abbruzzese R, 2021, INFORM SCIENCES, V578, P364, DOI 10.1016/j.ins.2021.07.014
+   Akbay MA, 2020, KNOWL-BASED SYST, V198, P0, DOI 10.1016/j.knosys.2020.105944
+   Bai JC, 2023, ENG APPL ARTIF INTEL, V122, P0, DOI 10.1016/j.engappai.2023.106106
+   Bisoi R, 2019, APPL SOFT COMPUT, V74, P652, DOI 10.1016/j.asoc.2018.11.008
+   Chen BL, 2020, EXPERT SYST APPL, V145, P0, DOI 10.1016/j.eswa.2019.113104
+   Chen L, 2023, INFORM FUSION, V100, P0, DOI 10.1016/j.inffus.2023.101936
+   Chen W, 2021, APPL SOFT COMPUT, V100, P0, DOI 10.1016/j.asoc.2020.106943
+   Chen WG, 2021, MEASUREMENT, V172, P0, DOI 10.1016/j.measurement.2020.108901
+   Department of Mathematics Shree Guru Gobind Singh Tricentenary University Gurugram India, 2021, DECIS MAKING, V4, P163, DOI 10.31181/dmame210402163s
+   Dymova L, 2021, KNOWL-BASED SYST, V234, P0, DOI 10.1016/j.knosys.2021.107582
+   Fopa M, 2022, DATA KNOWL ENG, V142, P0, DOI 10.1016/j.datak.2022.102095
+   Fujita H, 2019, IEEE T CYBERNETICS, V49, P1835, DOI 10.1109/TCYB.2018.2815178
+   Geiler L, 2022, DATA KNOWL ENG, V142, P0, DOI 10.1016/j.datak.2022.102100
+   Guan H, 2019, KNOWL-BASED SYST, V186, P0, DOI 10.1016/j.knosys.2019.104958
+   Guo DD, 2023, INFORM SCIENCES, V639, P0, DOI 10.1016/j.ins.2023.118998
+   Guo YQ, 2022, APPL SOFT COMPUT, V130, P0, DOI 10.1016/j.asoc.2022.109726
+   Hao PY, 2021, APPL SOFT COMPUT, V98, P0, DOI 10.1016/j.asoc.2020.106806
+   Henrique BM, 2019, EXPERT SYST APPL, V124, P226, DOI 10.1016/j.eswa.2019.01.012
+   Huang GQ, 2021, ENG APPL ARTIF INTEL, V104, P0, DOI 10.1016/j.engappai.2021.104392
+   Jin CY, 2023, INFORM SCIENCES, V647, P0, DOI 10.1016/j.ins.2023.119365
+   Kanagarathinam K, 2022, DATA KNOWL ENG, V140, P0, DOI 10.1016/j.datak.2022.102042
+   Kehinde TO, 2023, EXPERT SYST APPL, V213, P0, DOI 10.1016/j.eswa.2022.119299
+   Li HT, 2021, KNOWL-BASED SYST, V214, P0, DOI 10.1016/j.knosys.2020.106686
+   Li X, 2023, EXPERT SYST APPL, V224, P0, DOI 10.1016/j.eswa.2023.120039
+   Li YY, 2022, EXPERT SYST APPL, V187, P0, DOI 10.1016/j.eswa.2021.115889
+   Lin SH, 2021, INT REV ECON FINANC, V75, P646, DOI 10.1016/j.iref.2021.04.033
+   López-Tapia S, 2021, DIGIT SIGNAL PROCESS, V119, P0, DOI 10.1016/j.dsp.2021.103285
+   Morel C, 2021, PATTERN RECOGN LETT, V150, P139, DOI 10.1016/j.patrec.2021.06.028
+   Nasirtafreshi I, 2022, DATA KNOWL ENG, V139, P0, DOI 10.1016/j.datak.2022.102009
+   Niu MF, 2018, APPL MATH MODEL, V57, P163, DOI 10.1016/j.apm.2018.01.014
+   Omidvarnia A, 2018, ENTROPY-SWITZ, V20, P0, DOI 10.3390/e20120962
+   Paiva FD, 2019, EXPERT SYST APPL, V115, P635, DOI 10.1016/j.eswa.2018.08.003
+   Peng Y, 2021, MACH LEARN APPL, V5, P100060
+   Quadir MA, 2023, APPL SOFT COMPUT, V134, P0, DOI 10.1016/j.asoc.2022.109830
+   Ribeiro GT, 2021, EXPERT SYST APPL, V184, P0, DOI 10.1016/j.eswa.2021.115490
+   Sathesh T, 2023, DATA KNOWL ENG, V144, P0, DOI 10.1016/j.datak.2022.102120
+   She DM, 2021, MEASUREMENT, V167, P0, DOI 10.1016/j.measurement.2020.108277
+   Si L, 2019, MEASUREMENT, V145, P84, DOI 10.1016/j.measurement.2019.05.070
+   Singh Rajani, 2021, INTERNATIONAL JOURNAL OF RESEARCH IN AYUSH AND PHARMACEUTICAL SCIENCES, V0, PP471, DOI 10.47070/ijraps.v4i12.100
+   Sun BZ, 2020, INFORM SCIENCES, V507, P809, DOI 10.1016/j.ins.2019.05.080
+   Sun J, 2021, INFORM SCIENCES, V559, P153, DOI 10.1016/j.ins.2021.01.059
+   Thakkar A, 2021, INFORM FUSION, V65, P95, DOI 10.1016/j.inffus.2020.08.019
+   Wang B, 2019, INFORM FUSION, V51, P244, DOI 10.1016/j.inffus.2019.02.006
+   Wang L, 2020, INT J FORECASTING, V36, P684, DOI 10.1016/j.ijforecast.2019.08.005
+   Wang QL, 2018, NEUROCOMPUTING, V299, P51, DOI 10.1016/j.neucom.2018.02.095
+   Wang WY, 2020, EXPERT SYST APPL, V143, P0, DOI 10.1016/j.eswa.2019.113042
+   Wei J, 2021, EXPERT SYST APPL, V177, P0, DOI 10.1016/j.eswa.2021.114945
+   Wu M, 2021, IEEE T FUZZY SYST, V5, P20
+   Xu WH, 2023, IEEE T FUZZY SYST, V31, P1885, DOI 10.1109/TFUZZ.2022.3216110
+   Xu WH, 2023, IEEE T NEUR NET LEAR, V34, P6798, DOI 10.1109/TNNLS.2023.3235800
+   Yang JL, 2021, INFORM SCIENCES, V577, P1, DOI 10.1016/j.ins.2021.06.065
+   Yang X, 2023, INT J APPROX REASON, V152, P414, DOI 10.1016/j.ijar.2022.11.007
+   Yao YY, 2022, INT J APPROX REASON, V142, P231, DOI 10.1016/j.ijar.2021.11.012
+   Yao YY, 2023, INT J APPROX REASON, V162, P0, DOI 10.1016/j.ijar.2023.109032
+   Ye J, 2021, INFORM SCIENCES, V577, P22, DOI 10.1016/j.ins.2021.06.088
+   Yin J, 2020, INFORM PROCESS MANAG, V57, P0, DOI 10.1016/j.ipm.2020.102283
+   Yu H, 2019, INT J APPROX REASON, V115, P32, DOI 10.1016/j.ijar.2019.09.001
+   Yu H, 2020, INFORM SCIENCES, V507, P823, DOI 10.1016/j.ins.2018.03.009
+   Yuan KH, 2022, INFORM SCIENCES, V584, P127, DOI 10.1016/j.ins.2021.10.058
+   Yuan W, 2021, APPL SOFT COMPUT, V108, P0, DOI 10.1016/j.asoc.2021.107471
+   Zhang Y, 2021, KNOWL-BASED SYST, V234, P0, DOI 10.1016/j.knosys.2021.107533
+   Zhang YG, 2019, ENERG CONVERS MANAGE, V195, P180, DOI 10.1016/j.enconman.2019.05.005
+   Zhu JX, 2022, APPL SOFT COMPUT, V123, P0, DOI 10.1016/j.asoc.2022.108975
+   Zolfaghari M, 2021, EXPERT SYST APPL, V182, P0, DOI 10.1016/j.eswa.2021.115149
+NR 64
+TC 5
+Z9 0
+U1 2.0
+U2 36.0
+J9 APPLIED INTELLIGENCE
+PD DEC
+PY 2023
+VL 53
+BP 29918
+EP 29942
+DI 10.1007/s10489-023-05085-3
+PG 25
+SC COMPUTER SCIENCE
+UT WOS:001096941900002
+PM 
+ER
+
+PT J
+AU Wen, M
+   Li, Ping
+   Zhang, Lingfei
+   Chen, Yan
+TI Stock Market Trend Prediction Using High-Order Information of Time Series
+SO IEEE ACCESS
+DE trend prediction; convolutional neural network; financial time series; motif extraction
+AB Given a financial time series such as S&P 500, or any historical data in stock markets, how can we obtain useful information from recent transaction data to predict the ups and downs at the next moment? Recent work on this issue shows initial evidence that machine learning techniques are capable of identifying (non-linear) dependency in the stock market price sequences. However, due to the high volatility and non-stationary nature of the stock market, forecasting the trend of a financial time series remains a big challenge. In this paper, we introduced a new method to simplify noisy-filled financial temporal series via sequence reconstruction by leveraging motifs (frequent patterns), and then utilize a convolutional neural network to capture spatial structure of time series. The experimental results show the efficiency of our proposed method in feature learning and outperformance with 4%-7% accuracy improvement compared with the traditional signal process methods and frequency trading patterns modeling approach with deep learning in stock trend prediction.
+C1 [Wen, Min; Li, Ping; Chen, Yan] Southwest Petr Univ, Sch Comp Sci, Chengdu 610500, Sichuan, Peoples R China.   
+[Zhang, Lingfei] Nomura Secur Corp, Corp IT Dept, Tokyo 1038011, Japan.
+RP Li, P (corresponding author), Southwest Petr Univ, Sch Comp Sci, Chengdu 610500, Sichuan, Peoples R China.
+FU National Natural Science Foundation of China [61873218, 61503312]; Applied Basic Research Foundation of the Sichuan Provincial Science and Technology Department [18YYJC1147]
+CR Bao W, 2017, PLOS ONE, V12, P0, DOI 10.1371/journal.pone.0180944
+   Dai XF, 2017, IEEE ACCESS, V5, P27767, DOI 10.1109/ACCESS.2017.2696502
+   Ding Xiao, 2014, P 2014 C EMPIRICAL M, V0, PP1415, DOI 10.3115/V1/D14-1148
+   Ding Xiao, 2016, P COL 2016 26 INT C, V0, P2133
+   Fischer T, 2018, EUR J OPER RES, V270, P654, DOI 10.1016/j.ejor.2017.11.054
+   Gao Z-K, 2017, EPL, V116, P5
+   Gao ZK, 2017, INT J BIFURCAT CHAOS, V27, P0, DOI 10.1142/S0218127417501231
+   Godfrey LB, 2018, IEEE T NEUR NET LEAR, V29, P2973, DOI 10.1109/TNNLS.2017.2709324
+   Hooi B, 2017, LECT NOTES ARTIF INT, V10535, P3, DOI 10.1007/978-3-319-71246-8, 1
+   Jeon S, 2018, FUTURE GENER COMP SY, V80, P171, DOI 10.1016/j.future.2017.02.010
+   Kim Yoon, 2014, P 2014 C EMPIRICAL M, V0, PP1746, DOI 10.3115/V1/D14-1181
+   Lai GK, 2018, ACM/SIGIR PROCEEDINGS 2018, V0, PP95, DOI 10.1145/3209978.3210006
+   LeCun Y, 2015, NATURE, V521, P436, DOI 10.1038/nature14539
+   Maiorino E, 2017, INFORM SCIENCES, V382, P359, DOI 10.1016/j.ins.2016.12.015
+   Nava N, 2018, RISKS, V6, P0, DOI 10.3390/risks6010007
+   Qiu XH, 2017, APPL SOFT COMPUT, V54, P246, DOI 10.1016/j.asoc.2017.01.015
+   Rout AK, 2017, J KING SAUD UNIV-COM, V29, P536, DOI 10.1016/j.jksuci.2015.06.002
+   Unknown -, 2015, MEASUREMENT SCIENCE AND TECHNOLOGY, V0, P0
+   Unknown -, 2015, P IJCAI, V0, P0
+   Unknown -, 2017, ADV NEURAL INFORM PR, V0, P0
+   Xiong R, 2015, DEEP LEARNING STOCK VOLATILITIES WITH GOOGLE DOMESTIC TRENDS, V0, P0
+   Ye FR, 2016, INFORM SCIENCES, V367, P41, DOI 10.1016/j.ins.2016.05.038
+   Zhang LH, 2017, KDD17: PROCEEDINGS OF THE 23RD ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, V0, PP2141, DOI 10.1145/3097983.3098117
+NR 23
+TC 81
+Z9 0
+U1 1.0
+U2 54.0
+J9 IEEE ACCESS
+PD JUN
+PY 2019
+VL 7
+BP 28299
+EP 28308
+DI 10.1109/ACCESS.2019.2901842
+PG 10
+SC COMPUTER SCIENCE; ENGINEERING; TELECOMMUNICATIONS
+UT WOS:000461861800001
+PM 
+ER
+
+PT J
+AU Lei, K
+   Zhang, Bing
+   Li, Yu
+   Yang, Min
+   Shen, Ying
+TI Time-driven feature-aware jointly deep reinforcement learning for financial signal representation and algorithmic trading
+SO EXPERT SYSTEMS WITH APPLICATIONS
+DE algorithmic trading; deep reinforcement learning; gate; temporal attention
+AB Algorithmic trading is a continuous perception and decision making problem, where environment perception requires to learn feature representation from highly nonstationary and noisy financial time series, and decision making requires the algorithm to explore the environment and simultaneously make correct decisions in an online manner without any supervised information. To address these two problems, we propose a time-driven feature-aware jointly deep reinforcement learning model (TFJ-DRL) that integrates deep learning model and reinforcement learning model to improve the financial signal representation learning and action decision making in algorithmic trading. Concretely, we learn the environmental representation by adaptively selecting and reweighting various features of financial signals and summarize the attention values between historical information and changing trend depending on the current state. Besides, the supervised deep learning and reinforcement learning are jointly and iteratively trained to make full use of the supervised signals in the training data, and obtain more update information and stricter loss function constraints, thereby increasing investment returns. TFJ-DRL is evaluated on real-world financial data with different price trends (rising, falling and no obvious direction). A series of analysis show the robust superiority and the extensive applicability of the proposed method. (C) 2019 Elsevier Ltd. All rights reserved.
+C1 [Lei, Kai; Zhang, Bing; Li, Yu; Shen, Ying] Peking Univ, SECE, Shenzhen Key Lab Informat Centr Networking & Bloc, Shenzhen 518055, Peoples R China.   
+[Lei, Kai] PCL Res Ctr Networks & Commun, Peng Cheng Lab, Shenzhen, Peoples R China.   
+[Yang, Min] Univ Chinese Acad Sci, Shenzhen Inst Adv Technol, Huairou, Peoples R China.
+RP Shen, Y (corresponding author), Peking Univ, SECE, Shenzhen Key Lab Informat Centr Networking & Bloc, Shenzhen 518055, Peoples R China.
+FU National Natural Science Foundation of China [61602013]; Natural Science Foundation of Guangdong [2018A030313017]; Shenzhen Fundamental Research Project [JCYJ20170818091546869, JCYJ20170412150946024]; Shenzhen Key Laboratory Project [ZDSYS201802051831427]; project "PCL Future Regional Network Facilities for Large-scale Experiments and Applications"; CCF-Tencent Open Research Fund
+CR Aitken M, 2015, J BANK FINANC, V59, P330, DOI 10.1016/j.jbankfin.2015.06.011
+   Akita R, 2016, COMPUTER INFORM SCI, V0, PP1, DOI 10.1109/ICIS.2016.7550882
+   Chong E, 2017, EXPERT SYST APPL, V83, P187, DOI 10.1016/j.eswa.2017.04.030
+   Dai LL, 2016, J CORP FINANC, V40, P235, DOI 10.1016/j.jcorpfin.2016.08.002
+   Deng Y, 2015, IEEE T IND INFORM, V11, P467, DOI 10.1109/TII.2015.2404299
+   Deng Y, 2017, IEEE T NEUR NET LEAR, V28, P653, DOI 10.1109/TNNLS.2016.2522401
+   Ding X, 2015, PROCEEDINGS OF THE TWENTY-FOURTH INTERNATIONAL JOINT CONFERENCE ON ARTIFICIAL INTELLIGENCE (IJCAI), V0, P2327
+   Gudelek MU, 2017, P IEEE S SERIES COMP, V0, P1
+   LeCun Y, 2015, NATURE, V521, P436, DOI 10.1038/nature14539
+   Li Y, 2017, ARXIV, V0, P0
+   Mnih V, 2015, NATURE, V518, P529, DOI 10.1038/nature14236
+   Pei WJ, 2017, PROC CVPR IEEE, V0, PP820, DOI 10.1109/CVPR.2017.94
+   Pendharkar PC, 2018, EXPERT SYST APPL, V103, P1, DOI 10.1016/j.eswa.2018.02.032
+   Srivastava RK, 2015, HIGHWAY NETWORKS, V0, P0
+   Tsantekidis A, 2017, CONF BUS INFORM, V1, P7, DOI 10.1109/CBI.2017.23
+   Wang Y, 2017, TECH. REP., V0, P0
+   Zhang LH, 2017, KDD17: PROCEEDINGS OF THE 23RD ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING, V0, PP2141, DOI 10.1145/3097983.3098117
+NR 17
+TC 63
+Z9 0
+U1 5.0
+U2 93.0
+J9 EXPERT SYSTEMS WITH APPLICATIONS
+PD FEB
+PY 2020
+VL 140
+BP 
+EP 
+DI 10.1016/j.eswa.2019.112872
+PG 14
+SC COMPUTER SCIENCE; ENGINEERING; OPERATIONS RESEARCH & MANAGEMENT SCIENCE
+UT WOS:000495470700005
+PM 
+ER
+

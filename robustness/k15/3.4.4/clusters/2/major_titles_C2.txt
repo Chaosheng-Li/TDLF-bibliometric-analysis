@@ -1,0 +1,97 @@
+Dynamic risk prediction in financial-production systems using temporal self-attention and adaptive autoregressive models
+AI-fused construction portfolio investment system with risk hedging using machine learning and long-short strategies
+An Efficient GAN-Based Multi-classification Approach for Financial Time Series Volatility Trend Prediction
+A deep learning integrated framework for predicting stock index price and fluctuation via singular spectrum analysis and particle swarm optimization
+Accurate Stock Price Forecasting Based on Deep Learning and Hierarchical Frequency Decomposition
+SAMCL: Subgraph-Aligned Multiview Contrastive Learning for Graph Anomaly Detection
+ANOGAT-Sparse-TL: A hybrid framework combining sparsification and graph attention for anomaly detection in attributed networks using the optimized loss function incorporating the Twersky loss for improved robustness
+DMSTA-LSTM: A Dual-Stage Multi-Time Scale Temporal Attention-Based LSTM Framework for Forecasting International Financial Indices Across Diverse Varied National Contexts
+From news to trends: a financial time series forecasting framework with LLM-driven news sentiment analysis and selective state spaces
+HATR-I: Hierarchical Adaptive Temporal Relational Interaction for Stock Trend Prediction
+Synthesizing global and local perspectives in contrastive learning for graph anomaly detection
+Empowered stock market forecasting using Large Language Model on social media content
+A novel agricultural commodity price prediction model integrating deep learning and enhanced swarm intelligence algorithm
+Directed Graph Neural Networks for Anomaly Detection of Smart Ponzi Schemes
+Enhancing Stock Price Forecasting with CNN-BiGRU-Attention: A Case Study on INDY
+A convolutional deep reinforcement learning architecture for an emerging stock market analysis
+To learn or not to learn? Evaluating autonomous, adaptive, automated traders in cryptocurrencies financial bubbles
+StockAICloud: AI-based sustainable and scalable stock price prediction framework using serverless cloud computing
+A novel decision ensemble framework: Attention-customized BiLSTM and XGBoost for speculative stock price forecasting
+SPPMFN: Efficient Multimodal Financial Time-Series Prediction Network With Self-Supervised Learning
+Forecasting Fossil Energy Price Dynamics with Deep Learning: Implications for Global Energy Security and Financial Stability
+EMAT: Enhanced Multi-Aspect Attention Transformer for Financial Time Series Forecasting
+Long Short-Term Financial Time Series Forecasting Based on Residual Multiscale TCN Sparse Expert Network and Informer
+STL-ELM: A computationally efficient hybrid approach for predicting high volatility stock market
+CMGM: A novel cross-market assets and multi-market modeling graph neural networks for financial market forecasting leveraging market states dependencies
+KAN-LSTM: A New LSTM Structure for the Prediction of the Stock Market
+A Novel Framework for Agricultural Futures Price Prediction With BERT-Based Topic Identification and Sentiment Analysis
+Hybrid Information Mixing Module for Stock Movement Prediction
+Integrating Social Media Data and Historical Stock Prices for Predictive Analysis: A Reinforcement Learning Approach
+BiCuDNNLSTM-1dCNN-A hybrid deep learning-based predictive model for stock price prediction
+SF-Transformer: A Mutual Information-Enhanced Transformer Model with Spot-Forward Parity for Forecasting Long-Term Chinese Stock Index Futures Prices
+FSTGAT: Financial Spatio-Temporal Graph Attention Network for Non-Stationary Financial Systems and Its Application in Stock Price Prediction
+Long short-term memory networks in learning memory inconsistencies of stock markets
+An enhanced Wasserstein generative adversarial network with Gramian Angular Fields for efficient stock market prediction during market crash periods
+Forecasting multistep daily stock prices for long-term investment decisions: A study of deep learning models on global indices
+Decentralized Storage Cryptocurrencies: An Innovative Network-Based Model for Identifying Effective Entities and Forecasting Future Price Trends
+Advancing unsupervised graph anomaly detection: A multi-level contrastive learning framework to mitigate local consistency deception
+Leveraging multi-time-span sequences and feature correlations for improved stock trend prediction
+Relational Stock Selection via Probabilistic State Space Learning
+A hybrid decision support system for adaptive trading strategies: Combining a rule-based expert system with a deep reinforcement learning strategy
+Hyperparameter-Optimized RNN, LSTM, and GRU Models for Airline Stock Price Prediction: A Comparative Study on THYAO and PGSUS
+Investment and Risk Management with Online News and Heterogeneous Networks
+Forecasting Bitcoin Volatility Spikes From Whale Transactions and CryptoQuant Data Using Synthesizer Transformer Models
+Stock price prediction with attentive temporal convolution-based generative adversarial network
+Does business news sentiment matter in the energy stock market? Adopting sentiment analysis for short-term stock market prediction in the energy industry
+A hybrid optimized deep learning model via the Golden Jackal Optimizer for accurate stock price forecasting
+Stock Market Prediction Using Machine Learning and Deep Learning Techniques: A Review
+Dual contrastive learning-based reconstruction for anomaly detection in attributed networks
+Integration of Explainable AI with Deep Learning for Real-Time Sentiment-Driven Stock Price Prediction
+Innovative Study on Volatility Prediction Model for New Energy Stock Indices
+A channel-independent network using patch external attention and mamba for long-term multivariate time series forecasting
+A Dual Output Temporal Convolutional Network With Attention Architecture for Stock Price Prediction and Risk Assessment
+Pattern-Based Feature Extraction for Improved Deep Learning in Financial Time Series Classification
+Prediction of index futures movement using TimeGAN and 3D-CNN: Empirical evidence from Korea and the United States
+Reinforcement Learning for Quantitative Trading
+Learning Dynamic Dependencies With Graph Evolution Recurrent Unit for Stock Predictions
+Robust stock trend prediction via volatility detection and hierarchical multi-relational hypergraph attention
+Stock market prediction with time series data and news headlines: a stacking ensemble approach
+News-driven stock market index prediction based on trellis network and sentiment attention mechanism
+VMD-MSANet: A multi-scale attention network for stock series prediction with Variational Mode Decomposition
+Deep learning for financial forecasting: A review of recent trends
+Multi-Scale TsMixer: A Novel Time-Series Architecture for Predicting A-Share Stock Index Futures
+A Novel Hybrid GCN-LSTM Algorithm for Energy Stock Price Prediction: Leveraging Temporal Dynamics and Inter-Stock Relationships
+Data-driven stock forecasting models based on neural networks: A review
+Dynamic-aware hypergraph learning for stock recommendation
+Enhancing stock price prediction using GANs and transformer-based attention mechanisms
+Attention-based CNN-LSTM for high-frequency multiple cryptocurrency trend prediction
+Time Series Forecasting Using Transfer Learning with an Attention-Revamped Transformer: A Case Study of Financial Instruments
+AI-Driven Intelligent Financial Forecasting: A Comparative Study of Advanced Deep Learning Models for Long-Term Stock Market Prediction
+An integrated model of sentiment analysis and quantitative index data for predicting stock market trends: A case study of Tehran Stock Exchange
+Hybrid Transformer-CNN architecture for multivariate time series forecasting: Integrating attention mechanisms with convolutional feature extraction
+Detecting Anomalies in FinTech: A Graph Neural Network and Feature Selection Perspective
+Series decomposition Transformer with period-correlation for stock market index prediction
+DPGAD: Structure-Aware Dual-Path Attention Graph Node Anomaly Detection
+Higher-order Enhanced Contrastive-based Graph Anomaly Detection Without Graph Augmentation
+Mapping stock market dynamics: A tripartite neural network approach using modified grid search for stock market prediction
+MTMD: Multi-Scale Temporal Memory Learning and Efficient Debiasing Framework for Stock Trend Forecasting
+Adversarial Learning Networks for FinTech Applications Using Heterogeneous Data Sources
+Artificial intelligence-driven financial innovation: A robo-advisor system for robust returns across diversified markets
+FraudGNN-RL: A Graph Neural Network With Reinforcement Learning for Adaptive Financial Fraud Detection
+Multi-view graph anomaly detection via subgraph anomaly augmentation
+A novel hierarchical feature selection with local shuffling and models reweighting for stock price forecasting
+From Data to Decisions: Evaluating Machine Learning Models for Stock Market Forecasting
+A large-scale microblog dataset and stock movement prediction based on Supervised Contrastive Learning model
+Stock price prediction for new energy vehicle companies based on multi-source data and hybrid attention structure
+A 2D-CNN-LSTM-Based Deep Learning Model for Forex Price Prediction using Lag Features
+BiMT-TCN: A cutting-edge hybrid model for enhanced stock price prediction
+MambaLLM: Integrating Macro-Index and Micro-Stock Data for Enhanced Stock Price Prediction
+Deep Learning in Finance: A Survey of Applications and Techniques
+Transfer learning model for cash-instrument prediction adopting a Transformer derivative
+Lamformer: LSTM-enhanced agent attention and mixture-of-experts transformer for efficient stock price prediction
+Comprehensive Analysis of Machine and Deep Learning Models for Stock Market Prediction
+Multi-Cluster Graph (MCG): A Novel Clustering-Based Multi-Relation Graph Neural Networks for Stock Price Forecasting
+MGGPT: A Multi-Graph GPT-enhanced framework for dynamic fraud detection in cryptocurrency networks
+Graphical Deep Learning Prediction Model for Stock Risk Management
+Stock Market Prediction Using Spider Feline Swarm Optimization Based Hybrid Gated Recurrent Unit and Bidirectional LSTM Model
+Deep anomaly detection on attributed networks by graph update

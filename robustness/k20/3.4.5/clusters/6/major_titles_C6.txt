@@ -1,0 +1,87 @@
+Financial distress prediction in emerging markets by using a machine learning approach for financial sustainability
+Parameter estimation for time-fractional Black-Scholes equation with S&P 500 index option
+Hybrid deep learning for bankruptcy prediction: An optimized LSTM model with harmony search algorithm
+Tabular Image: a method to convert tabular data to images for convolutional neural networks
+A unified approach to Bermudan and barrier options under stochastic volatility models with jumps
+Improving financial distress prediction using textual sentiment of annual reports
+Deep hedging of long-term financial derivatives
+Can deep learning predict risky retail investors? A case study in financial risk behavior forecasting
+Enhancing return forecasting using LSTM with agent-based synthetic data
+Exploration of Financial Market Credit Scoring and Risk Management and Prediction Using Deep Learning and Bionic Algorithm
+Time-Varying Price Visualization of the Periodic Components of the NASDAQ Composite Index Since 2010 Using Non-Harmonic Analysis
+Integrating artificial intelligence into risk management frameworks: a mixed-methods analysis of the Palestinian banking sector
+Bankruptcy prediction for SMEs: The role of relational network and information propagation
+The Fuzzy Jump-Diffusion Model to Pricing European Vulnerable Options
+An analysis of implied volatility jump dynamics: Novel functional data representation in crude oil markets
+An Efficient Numerical Method for Pricing Options Under Stochastic Volatility with Jump Model
+Dynamic Connectedness Among Oil, Food Commodity, and Renewable Energy Markets: Novel Perspective from Quantile Dependence and Deep Learning
+Natural Language Processing and Deep Learning for Bankruptcy Prediction: An End-to-End Architecture
+A Dual Output Temporal Convolutional Network With Attention Architecture for Stock Price Prediction and Risk Assessment
+The impact of simultaneous shocks to financial markets and mortality on pension buy-out prices
+Optimizing mean conditional value-at-risk portfolios through deep neural network stock prediction
+Profit-based uncertainty estimation with application to credit scoring
+Combating emerging financial risks in the big data era: A perspective review
+Residual group attention network with depthwise separable convolutional neural network for credit evaluation and early warning in finance
+P2P credit risk management with KG-GNN: a knowledge graph and graph neural network-based approach
+The implementation of leisure tourism enterprise management system based on deep learning
+The equilibrium allocation of diffusive and jump risks with heterogeneous agents
+EXAMINING THE ROLE OF TEXT ANALYSIS IN SOYBEAN OIL FUTURES PRICE PREDICTION
+The return barrier and return timer option with pricing under Levy processes
+A GENERAL ORNSTEIN-UHLENBECK STOCHASTIC VOLATILITY MODEL WITH LEVY JUMPS
+Volatility models for stylized facts of high-frequency financial data
+Some Recent Progress on Numerical Methods for Controlled Regime-Switching Models with Applications to Insurance and Risk Management
+A Simulation and Empirical Study of the Maximum Likelihood Estimator for Stochastic Volatility Jump-Diffusion Models
+Temporary versus Permanent Shocks: Explaining Corporate Financial Policies
+Hybrid ML models for volatility prediction in financial risk management
+The Convergence Investigation of a Numerical Scheme for the Tempered Fractional Black-Scholes Model Arising European Double Barrier Option
+OptDevNet: A Optimized Deep Event-Based Network Framework for Credit Card Fraud Detection
+Is the diurnal pattern sufficient to explain intraday variation in volatility? A nonparametric assessment
+Detecting Jump Risk and Jump-Diffusion Model for Bitcoin Options Pricing and Hedging
+A risk-based approach for pricing American options under a generalized Markov regime-switching model
+Implied parameter estimation for jump diffusion option pricing models: Pricing accuracy and the role of loss and evaluation functions
+JDAPP: Reinforcement learning with phaseshift jump diffusion and Fourier randomization for robust financial agent training
+Information Asymmetry in the French Market around Crises
+Robust Synthetic Data Generation for Sequential Financial Models Using Hybrid Variational Autoencoder-Markov Chain Monte Carlo Architectures
+Artificial Intelligence in Financial Risk Early Warning Systems: A Bibliometric and Thematic Analysis of Emerging Trends and Insights
+A Gated Recurrent Unit Approach to Bitcoin Price Prediction
+A fractional Hawkes process for illiquidity modeling
+Specification tests for nonlinear dynamic models
+Options pricing with time changed Levy processes under imprecise information
+Robust nonparametric estimation for the volatility of financial market
+An empirical assessment of symmetric and asymmetric jump-diffusion models for the Nigerian stock market indices
+A recent review on optimisation methods applied to credit scoring models
+Quantile hedging in models with dividends and application to equity-linked life insurance contracts
+Continuous Mixed-Laplace Jump Diffusion Models for Stocks and Commodities
+Post-'87 crash fears in the S&P 500 futures option market
+Option Pricing under Double Heston Jump-Diffusion Model with Approximative Fractional Stochastic Volatility
+Valuing Vulnerable Geometric Asian Basket Options Under Stochastic Volatility Jump Diffusion Model
+Delinquent Events Prediction in Temporal Networked-Guarantee Loans
+Scenario analysis for derivative portfolios via dynamic factor models
+GLOBAL PATTERNS AND EXTREME EVENTS IN SOVEREIGN RISK PREMIA: A FUZZY VS DEEP LEARNING COMPARATIVE
+Learning about tail risk: Machine learning and combination with regularization in market risk management
+A Novel Hybrid Model for Loan Default Prediction in Maritime Finance Based on Topological Data Analysis and Machine Learning
+An Importance Sampling Method to Evaluate Value-at-Risk for Assets with Jump Risks
+Evaluation of variable annuity guarantees with the effect of jumps in the asset price process
+INVESTIGATIONS TO THE OPTIMAL DERIVATIVE-BASED INVESTMENT AND PROPORTIONAL REINSURANCE STRATEGIES
+Jump Detection and Noise Separation by a Singular Wavelet Method for Predictive Analytics of High-Frequency Data
+On Deep-Fake Stock Prices and Why Investor Behavior Might Not Matter
+Inference of Binary Regime Models with Jump Discontinuities
+SV mixture models with application to S&P 500 index returns
+Model Complexity and Out-of-Sample Performance: Evidence from S&P 500 Index Returns
+FINANCIAL DERIVATIVE VALUATION - A DYNAMIC SEMIPARAMETRIC APPROACH
+A systematic approach to predicting NFT prices using time series forecasting and macroeconomic factors in digital assets
+Non-implementability of Arrow-Debreu equilibria by continuous trading under volatility uncertainty
+No-arbitrage semi-martingale restrictions for continuous-time volatility models subject to leverage effects, jumps and i.i.d. noise: Theory and testable distributional implications
+Dynamic Co-Movements among Oil Prices and Financial Assets: A Scientometric Analysis
+Collective behavior and options volatility smile: An agent-based explanation
+A survey of electricity spot and futures price models for risk management applications
+Sustainability, Accuracy, Fairness, and Explainability (SAFE) Machine Learning in Quantitative Trading
+Inference for time-varying lead-lag relationships from ultra-high-frequency data
+Fast and Accurate Computation of the Regime-Switching Jump-Diffusion Option Prices Using Laplace Transform and Compact Difference with Convergence Guarantee
+OPTIMAL INSURANCE STRATEGIES: A HYBRID DEEP LEARNING MARKOV CHAIN APPROXIMATION APPROACH
+Forecasting the S&P 500 Index Using Mathematical-Based Sentiment Analysis and Deep Learning Models: A FinBERT Transformer Model and LSTM
+Two-stage stationary bootstrapping for bivariate average realized volatility matrix under market microstructure noise and asynchronicity
+Risk Forecasting Comparisons in Decentralized Finance: An Approach in Constant Product Market Makers
+Credit risk prediction for small and medium enterprises utilizing adjacent enterprise data and a relational graph attention network
+Regulating Systemic Crises: Stemming the Contagion Risk in Networked-Loans Through Deep Graph Learning
+Discontinuous movements and asymmetries in cryptocurrency markets

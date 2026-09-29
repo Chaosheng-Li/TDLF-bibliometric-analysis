@@ -1,0 +1,19 @@
+Advancing unsupervised graph anomaly detection: A multi-level contrastive learning framework to mitigate local consistency deception
+Detecting Anomalies in FinTech: A Graph Neural Network and Feature Selection Perspective
+Synthesizing global and local perspectives in contrastive learning for graph anomaly detection
+DPGAD: Structure-Aware Dual-Path Attention Graph Node Anomaly Detection
+Higher-order Enhanced Contrastive-based Graph Anomaly Detection Without Graph Augmentation
+CMGM: A novel cross-market assets and multi-market modeling graph neural networks for financial market forecasting leveraging market states dependencies
+MGGPT: A Multi-Graph GPT-enhanced framework for dynamic fraud detection in cryptocurrency networks
+Topology Augmented Multi-Band and Multi-Scale Filtering for Graph Anomaly Detection
+FraudGNN-RL: A Graph Neural Network With Reinforcement Learning for Adaptive Financial Fraud Detection
+A Comprehensive Survey on Graph Anomaly Detection With Deep Learning
+Learning graph deep autoencoder for anomaly detection in multi-attributed networks
+Multi-view graph anomaly detection via subgraph anomaly augmentation
+STAD-GAN: Unsupervised Anomaly Detection on Multivariate Time Series with Self-training Generative Adversarial Networks
+Dual contrastive learning-based reconstruction for anomaly detection in attributed networks
+AnomMAN: Detect anomalies on multi-view attributed networks
+Deep anomaly detection on attributed networks by graph update
+Directed Graph Neural Networks for Anomaly Detection of Smart Ponzi Schemes
+SAMCL: Subgraph-Aligned Multiview Contrastive Learning for Graph Anomaly Detection
+ANOGAT-Sparse-TL: A hybrid framework combining sparsification and graph attention for anomaly detection in attributed networks using the optimized loss function incorporating the Twersky loss for improved robustness

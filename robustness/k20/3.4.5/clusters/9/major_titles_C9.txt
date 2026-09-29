@@ -1,0 +1,18 @@
+A TOPOLOGICAL APPROACH FOR CAPTURING HIGH-ORDER INTERACTIONS IN GRAPH DATA WITH APPLICATIONS TO ANOMALY DETECTION IN TIME-VARYING CRYPTOCURRENCY TRANSACTION GRAPHS
+PAIRS TRADING WITH TOPOLOGICAL DATA ANALYSIS
+Time-resolved topological data analysis of market instabilities
+Early Warning Signals of Financial Crises Using Persistent Homology and Critical Slowing Down: Evidence From Different Correlation Tests
+Topological features of multivariate distributions: Dependency on the covariance matrix
+Why topological data analysis detects financial bubbles?
+Understanding Changes in the Topology and Geometry of Financial Market Correlations during a Market Crash
+VECTOR SUMMARIES OF PERSISTENCE DIAGRAMS FOR PERMUTATION-BASED HYPOTHESIS TESTING
+Toward profitable energy futures trading strategies using reinforcement learning incorporating disagreement and connectedness methods enabled by large language models
+Dynamic volatility spillovers among commodities, bitcoin, and emerging markets
+FinTDA: Python package for estimating market change through persistent homology diagrams
+The better turbulence index? Forecasting adverse financial markets regimes with persistent homology
+Can topological transitions in cryptocurrency systems serve as early warning signals for extreme fluctuations in traditional markets?
+Dimension Expansion for Learning Money Laundering Activities Hidden in Transaction Network
+Topological variability in financial markets
+Early warning signals of financial crises using persistent homology
+Topological data analysis of financial time series: Landscapes of crashes
+Relationship of public farmland and timberland REITs with their private equity counterparts and selected asset classes

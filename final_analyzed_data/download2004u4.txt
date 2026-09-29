@@ -1,0 +1,296 @@
+PT J
+AU Hojgaard, B
+   Taksar, M
+AF Hojgaard, B
+   Taksar, M
+TI Optimal dynamic portfolio selection for a corporation with controllable risk and dividend distribution policy
+SO QUANTITATIVE FINANCE
+LA English
+DT Article
+ID reinsurance policy; diffusion-models; company; liability; growth; firm
+AB This paper represents a model for risk management in a firm which exercises control of its risk as well as potential profit by choosing different business activities among those available to it. Furthermore, the firm has an option of investing its reserve in a financial market consisting of a risk-free asset (bond) and a risky asset (stock). The example we consider is that of a large corporation such as an insurance company, whose liquid assets in the absence of control and investments fluctuate as a Brownian motion with a constant positive drift and a constant diffusion coefficient. We interpret the diffusion coefficient as risk exposure, while drift is associated with potential profit. At each moment of time there is an option to reduce risk exposure simultaneously reducing the potential profit, like using proportional reinsurance with another carrier for an insurance company. The company invests its reserve in a financial market, which is described by a classical Black-Scholes model. The management of the company also controls the dividend pay-outs to shareholders. The objective is to find a policy, consisting of investment strategy, risk control and dividend distribution scheme, which maximizes the expected total discounted dividends paid out until the time of bankruptcy. We apply the theory of controlled diffusions to solve the problem and show that there is a level it u(1) > 0 such that the optimal action is to distribute all the reserve in excess of it u(1) as dividends. Furthermore, there exists a constant x(0), with x(0) < u(1), such that the risk exposure monotonically increases on (0, x(0)) from zero to the maximum possible. The optimal choice of investments depends on the market price of risk m(p) = (r(1) - r(0))/sigma(p)(2), where r(0), r(1) denotes the mean rate of return of bond and stock respectively and up denotes the volatility of the stock price. We get the following, results. (1) m(p) less than or equal to 0: invest everything in bond. (2) m(p) is large: invest everything in stock. (3) m(p) is small: there exists x(0) < x(1) < u(1), such that the optimal fraction of the P reserve invested in stock is constant when the current reserve x is less than x0 and it is an increasing function of x on [x(0), x(1)] with all the reserve to be invested in stock whenever the reserve level exceeds x(1).
+C1 Univ Aalborg, Dept Math Sci, DK-9220 Aalborg, Denmark.
+   Univ Missouri, Dept Math, Columbia, MO USA.
+C3 Aalborg University; University of Missouri System; University of Missouri Columbia
+RP Hojgaard, B (corresponding author), Univ Aalborg, Dept Math Sci, Fr Bajersvej 7G, DK-9220 Aalborg, Denmark.
+EM bjh@math.auc.dk; taksar@math.missouri.edu
+CR Unknown -, 1997, INSUR MATH ECON, V0, P0
+   Asmussen S, 1997, INSUR MATH ECON, V20, P1, DOI 10.1016/S0167-6687(96)00017-0
+   ASMUSSEN S, 2000, FINANC STOCH, V4, P299
+   BORCH K, 1967, J ROY STAT SOC B, V29, P432
+   BORCH K, 1969, SWED J ECON, V71, P1, DOI 10.2307/3439158
+   Browne S, 1997, MATH OPER RES, V22, P468, DOI 10.1287/moor.22.2.468
+   Browne S, 1995, MATH OPER RES, V20, P937, DOI 10.1287/moor.20.4.937
+   Buhlmann H, 1970, MATH METHODS RISK TH, V0, P0
+   BUZZI R, 1974, THESIS ETH ZURICH, V0, P0
+   Choulli T, 2003, SIAM J CONTROL OPTIM, V41, P1946, DOI 10.1137/S0363012900382667
+   Choulli T, 2001, QUANTITATIVE FINANCE, V0, P1
+   Davis MHA, 1993, MARKOV MODELS OPTIMI, V0, P0
+   DAYANANDA PW, 1970, J APPL PROBAB, V7, P134, DOI 10.2307/3212155
+   De Finetti B, 1957, T 15 INT C ACTUARIES, V2, P433
+   Fleming W, 1993, CONTROLLED MARKOV PROCESSES AND VISCOSITY SOLUTIONS, V0, P0
+   Fleming WH, 1975, DETERMINISTIC STOCHA, V0, P0, DOI 10.1007/978-1-4612-6380-7
+   Gerber HU, 1972, OPERATIONS RESEARCH, V20, P37, DOI 10.1287/opre.20.1.37
+   Gerber HU, 1977, ASTIN BULL, V9, P125, DOI 10.1017/S0515036100011454
+   Grandell J, 1991, ASPECTS RISK THEORY, V0, P0
+   Hojgaard B, 1998, INSUR MATH ECON, V22, P41, DOI 10.1016/S0167-6687(98)00007-9
+   Hojgaard B, 1999, MATH FINANC, V9, P153
+   Hojgaard B, 2001, FINANC STOCH, V5, P527, DOI 10.1007/PL00000042
+   Hojgaard B, 1998, SCAND ACTUAR J, V2, P166, DOI 10.1080/03461238.1998.10414000
+   KARATZAS I, 1986, MATH OPER RES, V11, P261, DOI 10.1287/moor.11.2.261
+   Martin-Lof A, 1983, SCANDINAVIAN ACTUARIAL JOURNAL, V1983, P1
+   Merton RC, 1990, CONTINUOUS TIME FINA, V0, P0
+   MILLER MH, 1961, J BUS, V34, P411, DOI 10.1086/294442
+   Paulsen J, 1997, INSUR MATH ECON, V20, P215, DOI 10.1016/S0167-6687(97)00011-5
+   Radner R, 1996, J ECON DYN CONTROL, V20, P1373, DOI 10.1016/0165-1889(95)00904-3
+   Sethi SP, 1997, OPTIMAL CONSUMPTION, V0, P0
+   Sethi SP, 1996, ECON THEORY, V8, P307, DOI 10.1007/s001990050093
+   Taksar MI, 1998, INSUR MATH ECON, V22, P105, DOI 10.1016/S0167-6687(98)00012-2
+   Taksar MI, 2003, FINANC STOCH, V7, P97, DOI 10.1007/s007800200073
+   TAKSAR MI, 1985, MATH OPER RES, V10, P63, DOI 10.1287/moor.10.1.63
+   Taksar MI, 2000, ANN OPER RES, V98, P89, DOI 10.1023/A:1019239920624
+NR 35
+TC 65
+Z9 74
+U1 0
+U2 18
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1469-7688
+EI 1469-7696
+J9 QUANT FINANC
+JI Quant. Financ.
+PD JUN 15
+PY 2004
+VL 4
+IS 3
+BP 315
+EP 327
+DI 10.1088/1469-7688/4/3/007
+PG 13
+WC Business, Finance; Economics; Mathematics, Interdisciplinary Applications; Social Sciences, Mathematical Methods
+SC Business & Economics; Mathematics; Mathematical Methods In Social Sciences
+GA 839EV
+UT WOS:000222767100010
+DA 2026-01-04
+ER
+
+PT J
+AU Richards, GR
+AF Richards, GR
+TI A Fractal forecasting model for financial time series
+SO JOURNAL OF FORECASTING
+LA English
+DT Article
+DE fractals; non-linear variability; state transitions; volatility diffusions; financial markets; exchange rates; forecasting
+ID stochastic volatility; nonlinear dynamics; turbulence
+AB Financial market time series exhibit high degrees of non-linear variability, and frequently have fractal properties. When the fractal dimension of a time series is non-integer, this is associated with two features: (1) inhomogeneity-extreme fluctuations at irregular intervals, and (2) scaling symmetries-proportionality relationships between fluctuations over different separation distances. In multivariate systems such as financial markets, fractality is stochastic rather than deterministic, and generally originates as a result of multiplicative interactions. Volatility diffusion models with multiple stochastic factors can generate fractal structures. In some cases, such as exchange rates, the underlying structural equation also gives rise to fractality. Fractal principles can be used to develop forecasting algorithms. The forecasting method that yields the best results here is the state transition-fitted residual scale ratio (ST-FRSR) model. A state transition model is used to predict the conditional probability of extreme events. Ratios of rates of change at proximate separation distances are used to parameterize the scaling symmetries. Forecasting experiments are run using intraday exchange rate futures contracts measured at 15-minute intervals. The overall forecast error is reduced on average by up to 7% and in one instance by nearly a quarter. However, the forecast error during the outlying events is reduced by 39% to 57%. The ST-FRSR reduces the predictive error primarily by capturing extreme fluctuations more accurately. Copyright (C) 2004 John Wiley Sons, Ltd.
+C1 Sprint Telecommun, Overland Pk, KS 66251 USA.
+RP Richards, GR (corresponding author), Sprint Telecommun, 6180 Sprint Pkwy, Overland Pk, KS 66251 USA.
+EM Econ1955@msn.com
+CR Andersen TG, 1994, MATH FINANC, V4, P75
+   Andersen TG, 1997, J FINANC, V52, P975, DOI 10.2307/2329513
+   Andersen TG, 1999, J ECONOMETRICS, V91, P61, DOI 10.1016/S0304-4076(98)00049-9
+   Andersen TG, 1997, J ECONOMETRICS, V77, P343, DOI 10.1016/S0304-4076(96)01819-2
+   Barndorff-Nielsen OE, 2001, J ROY STAT SOC B, V63, P167, DOI 10.1111/1467-9868.00282
+   Barndorff-Nielsen OE, 2002, J ROY STAT SOC B, V64, P253, DOI 10.1111/1467-9868.00336
+   Bates DS, 1996, REV FINANC STUD, V9, P69, DOI 10.1093/rfs/9.1.69
+   Beran J, 1992, STAT SCI, V7, P404, DOI 10.1214/SS/1177011122
+   Bollerslev T, 1996, J ECONOMETRICS, V73, P151, DOI 10.1016/0304-4076(95)01736-4
+   BOLLERSLEV T, 1986, J ECONOMETRICS, V31, P307, DOI 10.1016/0304-4076(86)90063-1
+   BROCK WA, 1988, J MONETARY ECON, V22, P71, DOI 10.1016/0304-3932(88)90170-5
+   Calvet L, 2002, REV ECON STAT, V84, P381, DOI 10.1162/003465302320259420
+   Chernov M, 2003, J ECONOMETRICS, V116, P225, DOI 10.1016/S0304-4076(03)00108-8
+   Duffie D, 2000, ECONOMETRICA, V68, P1343, DOI 10.1111/1468-0262.00164
+   Fouque J-P, 2000, INT J THEOR APPL FIN, V3, P101, DOI 10.1142/S0219024900000061
+   Gallant AR, 1999, REV ECON STAT, V81, P617, DOI 10.1162/003465399558481
+   Gray SF, 1996, J FINANC ECON, V42, P27, DOI 10.1016/0304-405X(96)00875-6
+   HAMILTON JD, 1989, ECONOMETRICA, V57, P357, DOI 10.2307/1912559
+   Hamilton JD, 1996, J ECONOMETRICS, V70, P127, DOI 10.1016/0304-4076(69)41686-9
+   HSIEH DA, 1993, J FINANC QUANT ANAL, V28, P41, DOI 10.2307/2331150
+   HSIEH DA, 1991, J FINANC, V46, P1839, DOI 10.2307/2328575
+   Huisman R, 2001, J BUS ECON STAT, V19, P208, DOI 10.1198/073500101316970421
+   HURST HE, 1951, T AM SOC CIV ENG, V116, P770
+   Johnson TC, 2002, J BUS ECON STAT, V20, P390, DOI 10.1198/073500102288618522
+   Kalman RE, 1960, T ASME J BASIC ENG, V82, P35, DOI 10.1115/1.3662552
+   Lavallee D, 1991, SCALING, V0, P99, DOI 10.1007/978-94-009-2147-4_7
+   LAVALLEE D, 1992, DYNAMICS FLUIDS PLAS, V0, P463
+   Mandelbrot BenoitB, 1997, FRACTALS AND SCALING IN FINANCE, V0, P0, DOI 10.1007/978-1-4757-2763-0_14
+   Mantegna RN, 1999, INTRODUCTION TO ECONOPHYSICS: COR- RELATIONS AND COMPLEXITY IN FINANCE, V0, P0
+   Mantegna RN, 1997, PHYSICA A, V239, P255, DOI 10.1016/S0378-4371(96)00484-0
+   Mantegna RN, 1996, NATURE, V383, P587, DOI 10.1038/383587a0
+   MANTEGNA RN, 1995, NATURE, V376, P46, DOI 10.1038/376046a0
+   MANTEGNA RN, 1998, P INT SCH PHYS, V0, P473
+   Medio A, 1992, CHAOTIC DYNAMICS. THEORY AND APPLICATIONS TO ECONOMICS, V0, P0
+   NELSON DB, 1991, ECONOMETRICA, V59, P347, DOI 10.2307/2938260
+   Richards GR, 2002, FRACTALS, V10, P235, DOI 10.1142/S0218348X02001063
+   Schertzer D, 1997, FRACTALS, V5, P427, DOI 10.1142/S0218348X97000371
+   Schertzer D, 1991, NONLINEAR VARIABILITY IN GEOPHYSICS, V0, PP41, DOI 10.1007/978-94-009-2147-44
+   Schmitt F, 1999, APPL STOCH MODEL D A, V15, P29
+   Schmitt F, 1993, FRACTALS, V1, P568, DOI 10.1142/S0218348X93000599
+   SCHMITT F, 1992, PHYS REV LETT, V68, P305, DOI 10.1103/PhysRevLett.68.305
+   TERASVIRTA T, 1994, J AM STAT ASSOC, V89, P208, DOI 10.2307/2291217
+NR 42
+TC 19
+Z9 23
+U1 0
+U2 15
+PU WILEY
+PI HOBOKEN
+PA 111 RIVER ST, HOBOKEN 07030-5774, NJ USA
+SN 0277-6693
+EI 1099-131X
+J9 J FORECASTING
+JI J. Forecast.
+PD DEC 15
+PY 2004
+VL 23
+IS 8
+BP 587
+EP 602
+DI 10.1002/for.927
+PG 16
+WC Economics; Management
+SC Business & Economics
+GA 884FH
+UT WOS:000226069700003
+DA 2026-01-04
+ER
+
+PT J
+AU Hryshko, A
+   Down, T
+AF Hryshko, A
+   Down, T
+TI System for foreign exchange trading using genetic algorithms and reinforcement learning
+SO INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE
+LA English
+DT Article
+AB Foreign exchange trading has emerged recently as a significant activity in many countries. As with most forms of trading, the activity is influenced by many random parameters so that the creation of a system that effectively emulates the trading process will be very helpful. A major issue for traders in the deregulated Foreign Exchange Market is when to sell and when to buy a particular currency in order to maximize profit. This paper presents novel trading strategies based on the machine learning methods of genetic algorithms and reinforcement learning.
+C1 Univ Queensland, Sch Informat Technol & Elect Engn, Brisbane, Qld 4072, Australia.
+C3 University of Queensland
+RP Hryshko, A (corresponding author), Univ Queensland, Sch Informat Technol & Elect Engn, Brisbane, Qld 4072, Australia.
+EM dushenka@itee.uq.edu.au
+CR Bertsekas DP, 1996, NEURO-DYNAMIC PROGRAMMING, V5, P0
+   Box GEP, 1970, TIME SERIES ANAL FOR, V0, P0, DOI 10.1080/01621459.1970.10481180
+   CAREW E, 1989, FOREX TECHNIQUES FOR, V0, P0
+   Cornish Hellaby Watkins ChristopherJohn, 1989, LEARNING DELAYED REW, V0, P0
+   Dempster MAH, 2001, QUANTITATIVE FINANCE, V1, P397, DOI 10.1088/1469-7688/1/4/301
+   Dempster MAH, 2002, LECT NOTES COMPUT SC, V2412, P347
+   Dempster MAH, 2001, IEEE T NEURAL NETWOR, V12, P744, DOI 10.1109/72.935088
+   Derman E, 2002, QUANTITATIVE FINANCE, V2, P282, DOI 10.1088/1469-7688/2/4/304
+   Hellstrom T, 1998, PREDICTING THE STOCK MARKET, V0, P0
+   Holland JH, 1975, ADAPTATION NATURAL A, V0, P0, DOI 10.7551/mitpress/1090.001.0001
+   Hryshko A, 2003, IEEE C EVOL COMPUTAT, V0, P1695
+   Kaelbling LP, 1996, J ARTIF INTELL RES, V4, P237, DOI 10.1613/jair.301
+   Moody J, 2001, IEEE T NEURAL NETWOR, V12, P875, DOI 10.1109/72.935097
+   Moody J, 1998, J FORECASTING, V17, P441, DOI 10.1002/(SICI)1099-131X(1998090)17:5/6<441::AID-FOR707>3.3.CO;2-R
+   Murphy JJ, 1999, TECHNICAL ANAL FINAN, V0, P0
+   SATCHELL S, 1995, J FORECASTING, V14, P477, DOI 10.1002/for.3980140602
+   SHARPE WF, 1966, J BUS, V39, P119, DOI 10.1086/294846
+   Sortino FA, 1996, J PORTFOLIO MANAGE, V22, P35, DOI 10.3905/jpm.1996.35
+   Sutton RS, 1988, MACHINE LEARNING, V3, P9, DOI 10.1023/A:1022633531479
+   Sutton RS, 2018, ADAPT COMPUT MACH LE, V0, P1
+   TESAURO G, 1992, MACH LEARN, V8, P257, DOI 10.1007/BF00992697
+   XIONG G, 2003, IEEJ T POWER ENERGY, V4, P550
+   Yao JT, 2000, NEUROCOMPUTING, V34, P79, DOI 10.1016/S0925-2312(00)00300-3
+NR 23
+TC 15
+Z9 16
+U1 0
+U2 9
+PU TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OR14 4RN, OXON, ENGLAND
+SN 0020-7721
+EI 1464-5319
+J9 INT J SYST SCI
+JI Int. J. Syst. Sci.
+PD OCT 20
+PY 2004
+VL 35
+IS 13-14
+BP 763
+EP 774
+DI 10.1080/00207720412331303697
+PG 12
+WC Automation & Control Systems; Computer Science, Theory & Methods; Operations Research & Management Science
+SC Automation & Control Systems; Computer Science; Operations Research & Management Science
+GA 888LR
+UT WOS:000226376200005
+DA 2026-01-03
+ER
+
+PT J
+AU Tse, YK
+   Zhang, XB
+   Yu, J
+AF Tse, YK
+   Zhang, XB
+   Yu, J
+TI Estimation of hyperbolic diffusion using the Markov chain Monte Carlo method
+SO QUANTITATIVE FINANCE
+LA English
+DT Article
+ID stochastic volatility; likelihood inference; finance; models
+AB In this paper we propose a Bayesian method to estimate the hyperbolic diffusion model. The approach is based on the Markov chain Monte Carlo (MCMC) method with the likelihood of the discretized process as the approximate posterior likelihood. We demonstrate that the MCMC method provides a useful tool in analysing hyperbolic diffusions. In particular, quantities of posterior distributions obtained from the MCMC outputs can be used for statistical inference. The MCMC method based on the Milstein scheme is found to perform well with good mixing properties, while the Euler scheme is unsatisfactory. Our simulation study shows that the hyperbolic diffusion exhibits many of the stylized facts about asset returns documented in the discrete-time financial econometrics literature, such as the Taylor effect, a slowly declining autocorrelation function of the squared returns, and thick tails.
+C1 Singapore Management Univ, Sch Econ & Social Sci, Singapore 259756, Singapore.
+   Monash Univ, Dept Econometr & Business Stat, Clayton, Vic 3800, Australia.
+   Univ Auckland, Dept Econ, Auckland 1, New Zealand.
+C3 Singapore Management University; Monash University; University of Auckland
+RP Tse, YK (corresponding author), Singapore Management Univ, Sch Econ & Social Sci, Singapore 259756, Singapore.
+EM yktse@smu.edu.sg; bill.zhang@buseco.monash.edu.au; j.yu@auckland.ac.nz
+CR BARNDORFFNIELSEN O, 1978, SCAND J STAT, V5, P151
+   Bibby BM, 1995, BERNOULLI, V1, P17, DOI 10.2307/3318679
+   CARR P, 2003, IN PRESS J FINANCIAL, V0, P0
+   CHIB S, 1995, AM STAT, V49, P327, DOI 10.2307/2684568
+   Chib S, 2001, HANDBOOK OF ECONOMETRICS, V5, P3569, DOI 10.1016/S1573-4412(01)05010-3volume5
+   COX JC, 1985, ECONOMETRICA, V53, P385, DOI 10.2307/1911242
+   Elerian O, 2001, ECONOMETRICA, V69, P959, DOI 10.1111/1468-0262.00226
+   Elerian O, 1998, 1998W18 NUFF COLL, V0, P0
+   ENGLE RF, 1982, ECONOMETRICA, V50, P987, DOI 10.2307/1912773
+   Eraker B, 2003, J FINANC, V58, P1269, DOI 10.1111/1540-6261.00566
+   Eraker B, 2001, J BUS ECON STAT, V19, P177, DOI 10.1198/073500101316970403
+   Geweke John, 1999, ECONOMET REV, V18, P1, DOI 10.1080/07474939908800428
+   GILKS WR, 1996, INTRO MARKOV CHAIN M, V0, P45
+   HEIDELBERGER P, 1983, OPER RES, V31, P1109, DOI 10.1287/opre.31.6.1109
+   HESTON SL, 1993, REV FINANC STUD, V6, P327, DOI 10.1093/rfs/6.2.327
+   JOHANNES M, 2003, IN PRESS HDB FINANCI, V0, P0
+   Kim S, 1998, REV ECON STUD, V65, P361, DOI 10.1111/1467-937X.00050
+   KLOEDAN PE, 1995, NUMERICAL SOLUTION S, V0, P0
+   Kou SG, 2002, MANAGE SCI, V48, P1086, DOI 10.1287/mnsc.48.8.1086.166
+   Meyer R, 2000, ECONOMET J, V3, P198, DOI 10.1111/1368-423X.00046
+   MILSHTEIN GN, 1978, THEOR PROBAB APPL+, V23, P396, DOI 10.1137/1123045
+   Robert C, 2013, MONTE CARLO STATISTICAL METHODS, V0, P0
+   Roberts GO, 1996, MARKOV CHAIN MONTE C, V0, P45
+   Rydberg TH, 1999, MATH FINANC, V9, P183, DOI 10.1111/1467-9965.00067
+   Ryden T, 1998, J APPL ECONOM, V13, P217, DOI 10.1002/(SICI)1099-1255(199805/06)13:3<217::AID-JAE476>3.0.CO;2-V
+   Sokal AD, 1996, MONTE CARLO METHODS, V0, P0
+NR 26
+TC 16
+Z9 18
+U1 1
+U2 6
+PU ROUTLEDGE JOURNALS, TAYLOR & FRANCIS LTD
+PI ABINGDON
+PA 2-4 PARK SQUARE, MILTON PARK, ABINGDON OX14 4RN, OXON, ENGLAND
+SN 1469-7688
+EI 1469-7696
+J9 QUANT FINANC
+JI Quant. Financ.
+PD APR 15
+PY 2004
+VL 4
+IS 2
+BP 158
+EP 169
+DI 10.1088/1469-7688/4/2/005
+PG 12
+WC Business, Finance; Economics; Mathematics, Interdisciplinary Applications; Social Sciences, Mathematical Methods
+SC Business & Economics; Mathematics; Mathematical Methods In Social Sciences
+GA 821LP
+UT WOS:000221462400008
+DA 2025-12-31
+ER
+

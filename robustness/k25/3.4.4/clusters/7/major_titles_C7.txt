@@ -1,0 +1,17 @@
+Jump Detection and Noise Separation by a Singular Wavelet Method for Predictive Analytics of High-Frequency Data
+Generalized exponential moving average (EMA) model with particle filtering and anomaly detection
+PERFORMANCE OF DEEP LEARNING IN PREDICTION OF STOCK MARKET VOLATILITY
+Deep learning networks for stock market analysis and prediction: Methodology, data representations, and case studies
+Feature Engineering for Mid-Price Prediction With Deep Learning
+Universal features of price formation in financial markets: perspectives from deep learning
+Creating investment scheme with state space modeling
+Deep Robust Reinforcement Learning for Practical Algorithmic Trading
+Stock market forecasting with super-high dimensional time-series data using ConvLSTM, trend sampling, and specialized data augmentation
+Deep learning and time series-to-image encoding for financial forecasting
+Deep learning for limit order books
+A Dual-Attention-Based Stock Price Trend Prediction Model With Dual Features
+Forecasting stock market crisis events using deep and statistical machine learning techniques
+Bitcoin technical trading with artificial neural network
+Forecasting jump arrivals in stock prices: new attention-based network architecture using limit order book data
+A Review on Recent Advancements in FOREX Currency Prediction
+Time-driven feature-aware jointly deep reinforcement learning for financial signal representation and algorithmic trading

@@ -1,0 +1,1100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchresult>
+<query>Global</query>
+<document id="1">
+<title>Foundations and trends in option pricing models: a 45 years global examination based on bibliometric analysis</title>
+<url>http://dx.doi.org/10.1108/QRFM-05-2022-0092</url>
+<snippet>PurposeThe purpose of this study is to analyse and compile the literature on various option pricing models (OPM) or methodologies. The report highlights the gaps in the existing literature review and builds recommendations for potential scholars interested in the subject area.Design/methodology/approachIn this study, the researchers used a systematic literature review procedure to collect data from Scopus. Bibliometric and structured network analyses were used to examine the bibliometric properties of 864 research documents.FindingsAs per the findings of the study, publication in the field has been increasing at a rate of 6&#37; on average. This study also includes a list of the most influential and productive researchers, frequently used keywords and primary publications in this subject area. In particular, Thematic map and Sankey's diagram for conceptual structure and for intellectual structure co-citation analysis and bibliographic coupling were used.Research limitations/implicationsBased on the conclusion presented in this paper, there are several potential implications for research, practice and society.Practical implicationsThis study provides useful insights for future research in the area of OPM in financial derivatives. Researchers can focus on impactful authors, significant work and productive countries and identify potential collaborators. The study also highlights the commonly used OPMs and emerging themes like machine learning and deep neural network models, which can inform practitioners about new developments in the field and guide the development of new models to address existing limitations.Social implicationsThe accurate pricing of financial derivatives has significant implications for society, as it can impact the stability of financial markets and the wider economy. The findings of this study, which identify the most commonly used OPMs and emerging themes, can help improve the accuracy of pricing and risk management in the financial derivatives sector, which can ultimately benefit society as a whole.Originality/valueIt is possibly the initial effort to consolidate the literature on calibration on option price by evaluating and analysing alternative OPM applied by researchers to guide future research in the right direction.
+WOS:001186592400001
+</snippet>
+</document>
+
+<document id="2">
+<title>Futures markets and the baltic dry index: A prediction study based on deep learning</title>
+<url>http://dx.doi.org/10.1016/j.ribaf.2024.102447</url>
+<snippet>The Baltic Dry Index (BDI), representing the shipping sector, displays a notable sensitivity to Chinese commodity futures markets. Stakeholders must grasp the relationship between BDI and China's commodity futures markets. However, there is currently a lack of comprehensive evaluation of Chinese futures' forecasting performance. Therefore, we collected data on 17 major Chinese commodity futures from April 16, 2015, to December 27, 2022, and used CNN, BiLSTM, and AM to assess China's futures market's BDI prediction power. The CNN-BiLSTM-AM ensemble model emerged as the most accurate, R2 value of 95.3 &#37;. This study highlights the Chinese futures market's ability to predict the global shipping index BDI and broadens our understanding of the financial market-maritime industry interplay. By monitoring fluctuations in China's futures market, shipping companies and regulators can make precise BDI predictions, offering a scientific foundation for policy adjustments and decision-making amidst future BDI shifts.
+WOS:001265484200001
+</snippet>
+</document>
+
+<document id="3">
+<title>Role of Economic Policy Uncertainty in Energy Commodities Prices Forecasting: Evidence from a Hybrid Deep Learning Approach</title>
+<url>http://dx.doi.org/10.1007/s10614-024-10550-3</url>
+<snippet>Amidst a dynamic energy market landscape, understanding evolving influencing factors is pivotal. Accurate forecasting techniques are indispensable for effective energy resource management. This study focuses on illuminating insights into economic uncertainty and commodity price forecasting. A meticulously curated dataset spanning January 2000 to December 2022 forms the foundation, incorporating diverse economic and financial uncertainty metrics. Through an innovative research framework, we discern influential factors and forecast their trajectories. Three deep learning models-Short-Term Memory, Gated Recurrent Units, and Multilayer Perception Network-are deployed. The Multilayer Perception model emerges as the standout, showcasing exceptional predictive capability rooted in its adeptness at decoding intricate market patterns. This finding holds significance for policymakers, industry experts, and energy economists. The Multilayer Perception model's supremacy offers a robust tool for decision-making in crafting economic policies and navigating volatile markets.
+WOS:001171328100001
+</snippet>
+</document>
+
+<document id="4">
+<title>Parameter estimation for time-fractional Black-Scholes equation with S&amp;P 500 index option</title>
+<url>http://dx.doi.org/10.1007/s11075-023-01563-4</url>
+<snippet>This paper aims to estimate the parameters of the time-fractional Black-Scholes (TFBS) partial differential equation with the Caputo fractional derivative by using the real option prices of the S&amp;P 500 index options. First, the numerical solution is obtained by developing a high-order scheme with order (3 - alpha) for the time discretisation. Some theoretical analyses such as stability and convergence are presented in order to verify the efficiency and accuracy of the proposed scheme. Secondly, we employ a modified hybrid Nelder-Mead simplex search and particle swarm optimization (MH-NMSS-PSO) to identify the fractional order alpha and implied volatility sigma of the TFBS equation, and explore the financial meanings of alpha under extreme stock market conditions such as the Covid-19 and the 2008 global financial crisis. We analyse the values of alpha and compare the mean squared errors of both the TFBS model and the BS model. Our empirical results show that alpha may be regarded as a market fluctuation indicator for classifying financial environments, and the TFBS model is more capable of fitting real option data compared with the BS model, especially for put options during the economic downturn. In addition, we find and discuss an interesting relation between alpha and sigma from both the TFBS model and the BS model in three expressions, which could be an open problem for further research.
+WOS:001020995300004
+</snippet>
+</document>
+
+<document id="5">
+<title>A New Hybrid VMD-ICSS-BiGRU Approach for Gold Futures Price Forecasting and Algorithmic Trading</title>
+<url>http://dx.doi.org/10.1109/TCSS.2021.3084847</url>
+<snippet>The gold market plays a vital role in the world economy. Due to its complex and nonstationary nature, predicting the price of gold is particularly challenging. In this study, a new hybrid forecasting approach named variational mode decomposition (VMD)-iterated cumulative sums of squares (ICSS)-bidirectional gated recurrent unit (BiGRU) is proposed by integrating BiGRU deep learning model, VMD, and iterated cumulative sum of squares algorithm. The forecasting framework is able to extract the inner factors and patterns within the gold futures market movements, decompose its correlation with external markets and detect shifts within market conditions in order to accurately predict price movements in the gold futures market. The experimental results show that the hybrid forecasting approach can improve the prediction performance significantly in comparison to the benchmarks. Furthermore, we extend the proposed hybrid forecasting approach to generate trading strategies and test trading performance of the gold futures market. The testing results over an out-of-sample period of 11 years (2008-2019) indicate that the strategy generated based on the prediction of the proposed approach displays high levels of consistency in generating positive returns and outperforms several other common trading strategies under various market conditions. The approach also shows consistent better results when generalized to the spot gold market, providing practical guidance for minimizing investment risk and hedging strategies in the gold commodity market.
+WOS:000724478300012
+</snippet>
+</document>
+
+<document id="6">
+<title>Pricing Catastrophe Risk Bond Using the Physics-Informed Neural Network</title>
+<url>http://dx.doi.org/10.1007/s10614-025-11180-z</url>
+<snippet>Catastrophe bonds (CAT bonds) are the prominant category of insurance-linked securities that transfer insured risk from insurance and reinsurance entities to the capital market. The unique risk characteristics of these bonds enable financial institutions to employ them in their portfolios for hedging and risk management, differentiating them from other bond types. For hedging and other trading purposes, it is crucial to determine the rate at which bond prices change in relation to the underlying asset's price and other related parameters. This paper's primary objective is to establish a CAT bond pricing model utilizing the partial differential equations (PDE) method, wherein the bonds price is a function of the interest rate, PCS index, and the passage of time. Therefore, the variation in the bond's value is influenced by changes in the interest rate and the loss ratio.We model bond prices using portfolio management strategies and stochastic processes for interest rates (jump diffusion model) and loss ratios (CIR process). Our alternative portfolio employs the loss ratio as the underlying instrument, resulting in a PIDE through stochastic modeling, hedging, and the no-arbitrage principle in an incomplete market. So, the dynamics of bond prices are determined by this PIDE, concerning initial and boundary conditions, and solving this complex equation requires advanced numerical methods because no closed-form solution is suggested. Also, aligning our model parameters with the price of the CAT bond is other objective so as to have a pricing function that can not be achieved through the numerical tecnique. So, the advancements in using Artificial Neural Networks to solve partial differntial equation have led us to apply this approach. Artificial Neural Networks provide continuous and differentiable solutions over the entire domain, eliminating the requirement for a predefined mesh, unlike the traditional numerical technique. We utilize the Physics-Informed Neural Network because the problem can be solved in an unsupervised manner by integrating the partial differntial equation into the neural network. Also, a pricng function can be built by setting up all parameters of the model as input instead of just being variables of the bond function, as used in the primary Physics-Informed Neural Network. Differentiating this function with respect to the model parameters allows for the sensitivity analysis that is one application for this map. Furthermore, it can facilitate future works, including calibration tasks that can be perceived as an inverse problems. Finally, the Physics-Informed Neural Networks are able to learn from new data whenever the updated parameters enter the model, meaning that the framework can be used for diverse problems in this field.
+WOS:001640995600001
+</snippet>
+</document>
+
+<document id="7">
+<title>Uncertainty effects on production mix and on hedging decisions: The case of Brazilian ethanol and sugar</title>
+<url>http://dx.doi.org/10.1016/j.eneco.2018.01.025</url>
+<snippet>The use of food crops to produce biofuels has been subject of interest in literature. The relationship between food and fuel prices can remarkably affect production strategies. These prices are subject to high uncertainty and producers must adopt hedging and storage strategies in order to avoid financial losses. This study investigates the effect of uncertainty on production, storage and hedging of ethanol and sugar in Brazilian mills. A robust optimization model to define production, storage and hedging strategies is proposed. Uncertainty sets on returns are constructed based on a state space model (Kalman Filter). The presented model was applied to Brazilian ethanol and sugar markets in different economic scenarios. The study analyses efficient frontiers and optimal strategies and the results indicate that, even adopting good price forecast models, the optimal strategies can be deeply affected by uncertainty. (C) 2018 Elsevier B.V. All rights reserved.
+WOS:000428829100036
+</snippet>
+</document>
+
+<document id="8">
+<title>A hybrid decision support system for adaptive trading strategies: Combining a rule-based expert system with a deep reinforcement learning strategy</title>
+<url>http://dx.doi.org/10.1016/j.dss.2023.114100</url>
+<snippet>Stock trading strategies pose challenging applications of machine learning for significant commercial yields in the finance industry, drawing the attention of both economists and computer scientists. Until now, many researchers have proposed various methods to implement intelligent trading strategy systems that can support decisions regarding stock trading. Some studies have shown that the problem of trading strategies can be successfully addressed by applying hybrid approaches. Motivated by this, we propose a hybrid decision support system for adaptive trading strategies that combines a rule-based system with deep reinforcement learning to self-improve by learning with human expertise. This study overcomes the limitations of previous hybrid models that mainly have focused on optimizing trading decisions and improving forecasting accuracy. The proposed hybrid model combines decision-making information from a rule-based model to enable the agent of reinforcement learning to capture more trading opportunities. In addition, the investor's available balance states facilitate adaptive learning by interacting with the environment. Moreover, the proposed trading mechanism adjusts the volume size using the policy gradient algorithm's action probabilities, resulting in improved riskadjusted returns. The proposed hybrid model has the potential to be a reliable trading system in real-world applications through its ability to adapt to different market scenarios, withstand stressful market conditions, reduce transaction costs, scale to various index funds, and extend the proposed hybrid structure. This study highlights the applicability of more advanced machine learning in financial areas, and we also suggest expanding this approach to adaptive decision-making systems in other fields.
+WOS:001141663200001
+</snippet>
+</document>
+
+<document id="9">
+<title>A unified approach to Bermudan and barrier options under stochastic volatility models with jumps</title>
+<url>http://dx.doi.org/10.1016/j.jedc.2017.05.001</url>
+<snippet>Many financial assets, such as currencies, commodities, and equity stocks, exhibit both jumps and stochastic volatility, which are especially prominent in the market after the financial crisis. Some strategic decision making problems also involve American-style options. In this paper, we develop a novel, fast and accurate method for pricing American and barrier options in regime switching jump diffusion models. By blending regime switching models and Markov chain approximation techniques in the Fourier domain, we provide a unified approach to price Bermudan, American options and barrier options under general stochastic volatility models with jumps. The models considered include Heston, Hull-White, Stein-Stein, Scott, the 3/2 model, and the recently proposed 4/2 model and the alpha-Hypergeometric model with general jump amplitude distributions in the return process. Applications include the valuation of discretely monitored contracts as well as continuously monitored contracts common in the foreign exchange markets. Numerical results are provided to demonstrate the accuracy and efficiency of the proposed method. (C) 2017 Elsevier B.V. All rights reserved.
+WOS:000404307300005
+</snippet>
+</document>
+
+<document id="10">
+<title>Jumps and stochastic volatility in oil prices: Time series evidence</title>
+<url>http://dx.doi.org/10.1016/j.eneco.2010.12.016</url>
+<snippet>In this paper we examine the empirical performance of affine jump diffusion models with stochastic volatility in a time series study of crude oil prices. We compare four different models and estimate them using the Markov Chain Monte Carlo method. The support for a stochastic volatility model including jumps in both prices and volatility is strong and the model clearly outperforms the others in terms of a superior fit to data. Our estimation method allows us to obtain a detailed study of oil prices during two periods of extreme market stress included in our sample; the Gulf war and the recent financial crisis. We also address the economic significance of model choice in two option pricing applications. The implied volatilities generated by the different estimated models are compared and we price a real option to develop an oil field. Our findings indicate that model choice can have a material effect on the option values. 
+WOS:000289827300016
+</snippet>
+</document>
+
+<document id="11">
+<title>A FUZZY APPROACH TO OPTION PRICING IN A LEVY PROCESS SETTING</title>
+<url>http://dx.doi.org/10.2478/amcs-2013-0046</url>
+<snippet>In this paper the problem of European option valuation in a Levy process setting is analysed. In our model the underlying asset follows a geometric Levy process. The jump part of the log-price process, which is a linear combination of Poisson processes, describes upward and downward jumps in price. The proposed pricing method is based on stochastic analysis and the theory of fuzzy sets. We assume that some parameters of the financial instrument cannot be precisely described and therefore they are introduced to the model as fuzzy numbers. Application of fuzzy arithmetic enables us to consider various sources of uncertainty, not only the stochastic one. To obtain the European call option pricing formula we use the minimal entropy martingale measure and Levy characteristics.
+WOS:000325208900010
+</snippet>
+</document>
+
+<document id="12">
+<title>Deep hedging of long-term financial derivatives</title>
+<url>http://dx.doi.org/10.1016/j.insmatheco.2021.03.017</url>
+<snippet>This study presents a deep reinforcement learning approach for global hedging of long-term financial derivatives. A similar setup as in Coleman et al. (2007) is considered with the risk management of lookback options embedded in guarantees of variable annuities with ratchet features. The deep hedging algorithm of Buehler et al. (2019a) is applied to optimize neural networks representing global hedging policies with both quadratic and non-quadratic penalties. To the best of the author's knowledge, this is the first paper that presents an extensive benchmarking of global policies for long-term contingent claims with the use of various hedging instruments (e.g. underlying and standard options) and with the presence of jump risk for equity. Monte Carlo experiments demonstrate the vast superiority of non-quadratic global hedging as it results simultaneously in downside risk metrics two to three times smaller than best benchmarks and in significant hedging gains. Analyses show that the neural networks are able to effectively adapt their hedging decisions to different penalties and stylized facts of risky asset dynamics only by experiencing simulations of the financial market exhibiting these features. Numerical results also indicate that non-quadratic global policies are significantly more geared towards being long equity risk which entails earning the equity risk premium. (C) 2021 Elsevier B.V. All rights reserved.
+WOS:000667945500025
+</snippet>
+</document>
+
+<document id="13">
+<title>The double exponential jump diffusion model for pricing European options under fuzzy environments</title>
+<url>http://dx.doi.org/10.1016/j.econmod.2012.02.005</url>
+<snippet>The interest rate and volatility may have different values in the different commercial banks and financial institutions. Moreover, the fluctuations of the underlying assets are rare events, and there are not enough historical data to estimate the jump intensity in a precise sense. This paper considers European option pricing problems with the fuzzy interest rate, fuzzy drift, fuzzy volatility and fuzzy jump intensity. We present the fuzzy pricing formula of European options based on the Kou's double exponential jump diffusion model. We also obtain the crisp possibilistic mean option pricing formula in fuzzy double exponential jump diffusion model by using the crisp possibilistic mean values of the fuzzy numbers. Comparing with B-S formula, numerical analysis and empirical results show that the fuzzy double exponential jump diffusion formula and the crisp possibilistic mean option pricing formula are reasonable and can be taken as reference pricing tools for the financial investors. (C) 2012 Elsevier B.V. All rights reserved.
+WOS:000303073700027
+</snippet>
+</document>
+
+<document id="14">
+<title>Analytic option pricing and risk measures under a regime-switching generalized hyperbolic model with an application to equity-linked insurance</title>
+<url>http://dx.doi.org/10.1080/14697688.2017.1288297</url>
+<snippet>Option pricing and managing equity linked insurance (ELI) require the proper modeling of stock return dynamics. Due to the long duration nature of equity-linked insurance products, a stock return model must be able to deal simultaneously with the preceding stylized facts and the impact of market structure changes. In response, this article proposes stock return dynamics that combine Levy processes in a regime-switching framework. We focus on a non-Gaussian, generalized hyperbolic distribution. We use the most popular linked equity of ELIs, the S&amp;P 500 index, as an example. The empirical study verifies that the proposed regime-switching generalized hyperbolic (RSGH) model gives the best fit to data. In investigating the effects of stock return modeling on pricing and risk management for financial contracts, we derive the characteristic function, embedded option price, and risk measure of equity-linked insurance analytically. More importantly, we demonstrate that the regime-switching generalized hyperbolic (RSGH) model is realistic and can meet the stylistic facts of stock returns, which in turn can be employed in option pricing and risk management decisions.
+WOS:000410906800008
+</snippet>
+</document>
+
+<document id="15">
+<title>From forecasting to trading: A multimodal-data-driven approach to reversing carbon market losses</title>
+<url>http://dx.doi.org/10.1016/j.eneco.2025.108350</url>
+<snippet>The carbon market is characterized by inherent nonlinearity and high volatility, significantly influenced by several market and factor exposures. These include the energy market, financial market, foreign exchange market, international carbon markets, environmental factors, public attention, and market sentiment. Given the multifaceted determinants of carbon prices, this study has bridged a gap in the existing research by transitioning from traditional historical-data-driven methods to an innovative multimodal-data-driven framework integrating both structured and unstructured data. Combining decomposition techniques with feature filtering, we analyze the dynamic relationships between multiple variables and different frequency components of carbon prices, particularly within the relatively young and understudied Chinese carbon market. Furthermore, we calculate entropy values to distinguish between high-complexity and low-complexity sub-sequences and implement an adaptive forecasting process fusing conventional statistical approaches with prevalent deep learning methods, improving interpretability and forecasting accuracy. The proposed method has a prediction RMSE of only 0.3471 in the carbon market of Hubei, China, and a prediction MAPE of 0.9491 in the newly established national unified carbon market. Building upon the forecasting results, this paper makes a further extension by proposing an interval-constrained trading strategy that encapsulates the predictive uncertainties, providing an effective risk management tool in the volatile carbon market. Enterprises can improve their cumulative return rate by 2 &#37; to 14 &#37; through the improvement of our trading strategies, and the maximum drawdown can be reduced by about 2 &#37;. Notably, our strategy's potential for reversing losses to gains, could offer actionable insights for enterprises' decision-making processes.
+WOS:001441318900001
+</snippet>
+</document>
+
+<document id="16">
+<title>DECOMPOSITION FORMULA FOR JUMP DIFFUSION MODELS</title>
+<url>http://dx.doi.org/10.1142/S0219024918500528</url>
+<snippet>In this paper, we derive a generic decomposition of the option pricing formula for models with finite activity jumps in the underlying asset price process (SVJ models). This is an extension of the well-known result by Alos [(2012) A decomposition formula for option prices in the Heston model and applications to option pricing approximation, Finance and Stochastics 16 (3), 403-422, doi:10.1007/s00780-012-0177-0] for Heston [(1993) A closed-form solution for options with stochastic volatility with applications to bond and currency options, The Review of Financial Studies 6 (2), 327-343, doi:10.1093/rfs/6.2.327] SV model. Moreover, explicit approximation formulas for option prices are introduced for a popular class of SVJ models - models utilizing a variance process postulated by Heston [(1993) A closed-form solution for options with stochastic volatility with applications to bond and currency options, The Review of Financial Studies 6 (2), 327-343, doi:10.1093/rfs/6.2.327]. In particular, we inspect in detail the approximation formula for the Bates [(1996), Jumps and stochastic volatility: Exchange rate processes implicit in Deutsche mark options, The Review of Financial Studies 9 (1), 69-107, doi:10.1093/rfs/9.1.69] model with log-normal jump sizes and we provide a numerical comparison with the industry standard - Fourier transform pricing methodology. For this model, we also reformulate the approximation formula in terms of implied volatilities. The main advantages of the introduced pricing approximations are twofold. Firstly, we are able to significantly improve computation efficiency (while preserving reasonable approximation errors) and secondly, the formula can provide an intuition on the volatility smile behavior under a specific SVJ model.
+WOS:000455592700004
+</snippet>
+</document>
+
+<document id="17">
+<title>Effect of the US-China Trade War on Stock Markets: A Financial Contagion Perspective</title>
+<url>http://dx.doi.org/10.1093/jjfinec/nbad016</url>
+<snippet>In this article, to model risk contagion between the U.S. and China stock markets based on high-frequency financial data, we develop a novel continuous-time jump-diffusion process. For example, we consider three channels for volatility contagion-such as integrated volatility, positive jump variation, and negative jump variation-and each stock market is able to affect the other stock market as an overnight risk factor. We develop a quasi-maximum likelihood estimator for model parameters and establish its asymptotic properties. Furthermore, to identify contagion channels and test the existence of a structural break with a known structural break date, we propose hypothesis test procedures. Using the proposed diffusion model with high-frequency financial data, we investigate the effect of the U.S.-China trade war on stock markets from a financial contagion perspective. From the empirical study, we find evidence of financial contagion from the United States to China and evidence that the risk contagion channel has changed from integrated volatility to negative jump variation.
+WOS:001018603500001
+</snippet>
+</document>
+
+<document id="18">
+<title>Forecasting the Volatility of CSI 300 Index with a Hybrid Model of LSTM and Multiple GARCH Models</title>
+<url>http://dx.doi.org/10.1007/s10614-024-10785-0</url>
+<snippet>Volatility is a key indicator of market risk in financial markets. This paper proposes a novel hybrid model that combines Long Short-Term Memory (LSTM) with multiple generalized autoregressive conditional heteroskedasticity (GARCH) models to predict stock price volatility. The GARCH models serve as feature extractors, while the LSTM model utilizes these features to forecast next-day volatility. To better capture the leverage effect, the model integrates one symmetric and three asymmetric GARCH models (GEJT-LSTM-1), yielding the best forecast accuracy under a fixed-parameter approach. The proposed hybrid model significantly outperforms existing approaches by leveraging deep learning with multiple asymmetric GARCH models, demonstrating superior predictive performance. Furthermore, the methodology provides a flexible framework that can be extended to other fields, contributing to advancements in volatility forecasting techniques.
+WOS:001355675300001
+</snippet>
+</document>
+
+<document id="19">
+<title>A hybrid econometrics and machine learning based modeling of realized volatility of natural gas</title>
+<url>http://dx.doi.org/10.1186/s40854-023-00577-0</url>
+<snippet>Determining which variables affect price realized volatility has always been challenging. This paper proposes to explain how financial assets influence realized volatility by developing an optimal day-to-day forecast. The methodological proposal is based on using the best econometric and machine learning models to forecast realized volatility. In particular, the best forecasting from heterogeneous autoregressive and long short-term memory models are used to determine the influence of the Standard and Poor's 500 index, euro-US dollar exchange rate, price of gold, and price of Brent crude oil on the realized volatility of natural gas. These financial assets influenced the realized volatility of natural gas in 87.4&#37; of the days analyzed; the euro-US dollar exchange rate was the primary financial asset and explained 40.1&#37; of the influence. The results of the proposed daily analysis differed from those of the methodology used to study the entire period. The traditional model, which studies the entire period, cannot determine temporal effects, whereas the proposed methodology can. The proposed methodology allows us to distinguish the effects for each day, week, or month rather than averages for entire periods, with the flexibility to analyze different frequencies and periods. This methodological capability is key to analyzing influences and making decisions about realized volatility.
+WOS:001150383200001
+</snippet>
+</document>
+
+<document id="20">
+<title>The Fuzzy Jump-Diffusion Model to Pricing European Vulnerable Options</title>
+<url>http://dx.doi.org/</url>
+<snippet>Owing to the fluctuation of financial markets from time to time, some parameters, such as the interest rate, volatility, cannot be precisely described. Under the assumption that the risk-free rate, the volatility, and the average jump intensity are fuzzy numbers, this paper presents the jump-diffusion approach to price vulnerable options in fuzzy environments. We also provide the crisp possibilistic mean jump-diffusion model to price European vulnerable call options and the secant method to obtain the belief degree. Finally, the performance of our model and the algorithm is illustrated with some numerical examples.
+WOS:000326065100006
+</snippet>
+</document>
+
+<document id="21">
+<title>An analysis of implied volatility jump dynamics: Novel functional data representation in crude oil markets</title>
+<url>http://dx.doi.org/10.1016/j.najef.2015.04.006</url>
+<snippet>The predominant fear in capital markets is that of a price spike. Commodity markets differ in that there is a fear of both upward and down jumps, this results in implied volatility curves displaying distinct shapes when compared to equity markets. The use of a novel functional data analysis (FDA) approach, provides a framework to produce and interpret functional objects that characterise the underlying dynamics of oil future options. We use the FDA framework to examine implied volatility, jump risk, and pricing dynamics within crude oil markets. Examining a WTI crude oil sample for the 2007-2013 period, which includes the global financial crisis and the Arab Spring, strong evidence is found of converse jump dynamics during periods of demand and supply side weakness. This is used as a basis for an FDA-derived Merton (1976) jump diffusion optimised delta hedging strategy, which exhibits superior portfolio management results over traditional methods. (C) 2015 Elsevier Inc. All rights reserved.
+WOS:000361584800011
+</snippet>
+</document>
+
+<document id="22">
+<title>AgTech: Volatility Prediction for Agricultural Commodity Exchange Trading Applied Deep Learning</title>
+<url>http://dx.doi.org/10.1109/ACCESS.2024.3479868</url>
+<snippet>The rapid advancement of computer science technology and artificial intelligence has generated heightened investor interest in quantitative trading, primarily attributable to its exceptional efficiency and consistent performance. This paper presents the development of a volatility prediction system for the agricultural commodity exchange trading domain. The system utilizes raw financial data as input and produces trading decision-support as output using a volatility prediction based on Generalized AutoRegressive Conditional Heteroskedasticity (GARCH) and Long Short-term Memory (LSTM) models. The main goal of the system is to enhance overall profitability through efficient management of trading losses. In addition, a denoising technique is utilized to reduce the influence of market noise and improve overall performance. The prototype has been trained and back-tested in the agricultural commodity market trading data from 2010-2023. The research findings suggest that the Multivariate Bidirected LSTM 2 layers model has the best accuracy of 91.38&#37; in predicting the volatility of cotton commodities trading throughout the time frame spanning from September 22, 2023, to October 21, 2022. The GARCH model is widely utilized for volatility forecasting, but the Multivariate LSTM model has promise in offering investors a possible edge through enhanced forecasting accuracy.
+WOS:001342353300001
+</snippet>
+</document>
+
+<document id="23">
+<title>Forecasting Bitcoin prices using artificial intelligence: Combination of ML, SARIMA, and Facebook Prophet models</title>
+<url>http://dx.doi.org/10.1016/j.techfore.2023.122938</url>
+<snippet>In recent years, investors, corporations, and enterprises have shown great interest in the Bitcoin network; thus, promoting its products and services is crucial. This study utilizes an empirical analysis for financial time series and machine learning to perform prediction of bitcoin price and Garman-Klass (GK) volatility using Long Short -Term Memory (LSTM), Seasonal Autoregressive Integrated Moving Average (SARIMA), and Facebook prophet models. The performance findings show that the LTSM boost has a noticeable improvement compared to SARIMA and Facebook Prophet in terms of MSE (Mean Squared Error) and MAE (Mean Average Error). Unlike Long Short -Term Memory (LSTM), a component of Deep Learning (DL), the finding explains why the bitcoin and its volatility forecasting difficulty has been partially met by traditional time series forecasting (SARIMA) and auto-machine -learning technique (Fb-Prophet). Furthermore, the finding confirmed that Bitcoin values are extremely season-ally volatile and random and are frequently influenced by external variables (or news) such as cryptocurrency laws, investments, or social media rumors. Additionally, results show a robust optimistic trend, and the days when most people commute are Monday and Saturday and an annual seasonality. The trend of the price and volatility of bitcoin using SARIMA and FB-Prophet is more predictable. The Fb-Prophet cannot easily fit within the Russian-Ukrainian conflict period, and in some COVID-19 periods, its performance will suffer during the turbulent era. Moreover, Garman-Klass (GK) forecasting seems more effective than the squared returns price measure, which has implications for investors and fund managers. The research presents innovative insights pertaining to forthcoming cryptocurrency regulations, stock market dynamics, and global resource allocation.
+WOS:001146853100001
+</snippet>
+</document>
+
+<document id="24">
+<title>FINANCIAL MARKETS WITH NO RISKLESS (SAFE) ASSET</title>
+<url>http://dx.doi.org/10.1142/S0219024917500546</url>
+<snippet>We study markets with no riskless (safe) asset. We derive the corresponding BlackScholes- Merton option pricing equations for markets where there are only risky assets which have the following price dynamics: (i) continuous diffusions; (ii) jump-diffusions; (iii) diffusions with stochastic volatilities, and; (iv) geometric fractional Brownian and Rosenblatt motions. No-arbitrage and market-completeness conditions are derived in all four cases.
+WOS:000419233900005
+</snippet>
+</document>
+
+<document id="25">
+<title>An Efficient Numerical Method for Pricing Options Under Stochastic Volatility with Jump Model</title>
+<url>http://dx.doi.org/10.1007/s10614-025-10996-z</url>
+<snippet>Empirical evidence implies that stochastic volatility with jump models significantly impacts option prices. This paper investigates the valuation of European options under the 3/2 stochastic volatility-plus-jump model, offering a more realistic framework for evaluating options in stock markets. We develop a Partial Integro-Differential Equation (PIDE) to price options with stochastic volatility dynamics and illustrate how this equation overcomes the limitations of the Black-Scholes model. The pricing equation is derived using risk-neutral valuation and self-financing portfolio replication. The radial basis function of the partition of unity (RBF-PU) method is applied to approximate the solutions of the derived PIDEs. As expected, the approximated solutions improve slightly the Black-Scholes option prices near strike prices meanwhile the convergence behavior of the numerical results confirms the accuracy of the approximation method. The numerical experiments indicate that the valuation prices are reliable and capture important financial market features.
+WOS:001506948000001
+</snippet>
+</document>
+
+<document id="26">
+<title>Committee of Multi-scale Nonlinear Learning Frameworks for accurate stock price forecasting</title>
+<url>http://dx.doi.org/10.1016/j.engappai.2025.112325</url>
+<snippet>Dependable stock price predictions are vital for optimizing economic policies and investment strategies in both national and corporate settings. However, the intrinsic volatility and intricacy of stock prices pose considerable challenges. Thus, this paper introduces a novel Committee of Multi-scale Nonlinear Learning Frameworks (CoML) that employs a three-stage model: decomposition, reconstruction, and prediction. First, a complete ensemble empirical mode decomposition with adaptive noise is adopted to decompose the original stock prices into multiple intrinsic mode functions. Secondly, a fine-to-coarse algorithm is applied to reconstruct the intrinsic mode functions, so as to effectively extract short-term fluctuations and long-term trends. Finally, an ensemble of nonlinear models including bidirectional long short-term memory (BiLSTM), support vector regression (SVR) and multi-layer perceptron (MLP) is used to learn and forecast features extracted to obtain high performance. Experimental results indicate that the model performs exceptionally well in both emerging and developed markets highlighting the innovative capabilities of CoML in highly complex and volatile financial markets. The proposed model is further validated using Model Confidence Set and the results indicate that the model is statistically significant.
+WOS:001579033600005
+</snippet>
+</document>
+
+<document id="27">
+<title>Dynamic Connectedness Among Oil, Food Commodity, and Renewable Energy Markets: Novel Perspective from Quantile Dependence and Deep Learning</title>
+<url>http://dx.doi.org/10.1007/s13132-023-01485-5</url>
+<snippet>The spillover effect between multiple markets is crucial in influencing the volatility of energy and food commodity prices. In this study, a time-varying QVAR model is used to analyze the impact of the outbreak of the Russo-Ukrainian war on the risk-associated system of oil, food, and renewable energy, and the DY spillover index model and wavelet coherence are introduced for result comparison. Specifically, data on oil, food commodities, and renewable energy from March 1, 2013, to January 31, 2023, are used, along with various influencing factors such as the climate change index, geopolitical risk, green bond index, and Dow Jones Industrial Average index, to analyze the dynamic correlations presented in the market from multiple perspectives. Furthermore, the ATT-CNN-LSTM model is utilized to construct a risk early warning system for oil-food-renewable energy, providing insights into the future trends of risks. Empirical results indicate that the correlation at the 0.05 and 0.95 quantiles is significantly greater than that at the conditional mean and median, indicating higher systemic risk spillover levels during extreme market conditions. We also find that the outbreak of the Russo-Ukrainian war has promoted the development of renewable energy and enhanced the correlation between food and renewable energy. The results of the extension analysis show that the predictive performance of the ATT-CNN-LSTM model is superior to the other five models. This research will contribute to more effective risk management of the energy-food system.
+WOS:001056990500001
+</snippet>
+</document>
+
+<document id="28">
+<title>A Comparative Review of Specification Tests for Diffusion Models</title>
+<url>http://dx.doi.org/10.1111/insr.12616</url>
+<snippet>Diffusion models play an essential role in modelling continuous-time stochastic processes in the financial field. Therefore, several proposals have been developed in the last decades to test the specification of stochastic differential equations. We provide a survey to collect some developments on goodness-of-fit tests for diffusion models and implement some of these methods to illustrate their finite sample behaviour, regarding size and power, by means of a simulation study. We also apply the ideas of distance covariance to propose a test for the parametric specification of diffusion models, comparing its performance with the other methods and analyzing the effect of the curse of dimensionality. As real data examples, treasury securities with different maturities are considered.
+WOS:001498940700001
+</snippet>
+</document>
+
+<document id="29">
+<title>Forecasting bitcoin volatility: exploring the potential of deep learning</title>
+<url>http://dx.doi.org/10.1007/s40822-023-00232-0</url>
+<snippet>This study aims to evaluate forecasting properties of classic methodologies (ARCH and GARCH models) in comparison with deep learning methodologies (MLP, RNN, and LSTM architectures) for predicting Bitcoin's volatility. As a new asset class with unique characteristics, Bitcoin's high volatility and structural breaks make forecasting challenging. Based on 2753 observations from 08-09-2014 to 01-05-2022, this study focuses on Bitcoin logarithmic returns. Results show that deep learning methodologies have advantages in terms of forecast quality, although significant computational costs are required. Although both MLP and RNN models produce smoother forecasts with less fluctuation, they fail to capture large spikes. The LSTM architecture, on the other hand, reacts strongly to such movements and tries to adjust its forecast accordingly. To compare forecasting accuracy at different horizons MAPE, MAE metrics are used. Diebold-Mariano tests were conducted to compare the forecast, confirming the superiority of deep learning methodologies. Overall, this study suggests that deep learning methodologies could provide a promising tool for forecasting Bitcoin returns (and therefore volatility), especially for short-term horizons.
+WOS:001007630600002
+</snippet>
+</document>
+
+<document id="30">
+<title>Patch-tLSTM: A multi-step prediction model for precious metal futures with high accuracy</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2025.128733</url>
+<snippet>Multi-step prediction of futures market prices presents a core challenge in the field of financial engineering. The price fluctuations of high-value precious metals, such as gold, silver, copper, palladium, and platinum, are influenced by various factors, including macroeconomics and geopolitics. However, previous studies have typically focused on next-day price predictions. A common effect of error accumulation arises when addressing multi-step predictions. As the prediction step exceeds eight trading days, ensuring prediction accuracy becomes increasingly tricky. This study proposes a Patch-tLSTM hybrid model that extracts relevant signals from original features by combining Seasonal-Trend decomposition based on LOESS (STL) with Complete Ensemble Empirical Mode Decomposition of Adaptive Noise (CEEMDAN). The model effectively captures local fluctuations using the Patch layer and introduces an innovative tLSTM module that incorporates multi-scale convolution, an attention mechanism, and an adaptive gating mechanism within the xLSTM architecture. Experiments show that our model exhibits lower prediction errors than the baseline model in the scenario of 16-step forecasting of gold prices. The mean absolute error (MAE) of our model is 0.0165, while the MAE of the DLinear model is 0.0191, which is 13.6&#37; lower overall. Our model is significantly better than other models through the significance test. This shows that our model can maintain a high prediction accuracy even at a longer prediction step.
+WOS:001523383000002
+</snippet>
+</document>
+
+<document id="31">
+<title>High-dimensional sparse multivariate stochastic volatility models</title>
+<url>http://dx.doi.org/10.1111/jtsa.12647</url>
+<snippet>Although multivariate stochastic volatility models usually produce more accurate forecasts compared with the MGARCH models, their estimation techniques such as Bayesian MCMC typically suffer from the curse of dimensionality. We propose a fast and efficient estimation approach for MSV based on a penalized OLS framework. Specifying the MSV model as a multivariate state-space model, we carry out a two-step penalized procedure. We provide the asymptotic properties of the two-step estimator and the oracle property of the first-step estimator when the number of parameters diverges. The performances of our method are illustrated through simulations and financial data. Supplementary Material presenting technical proofs is available online.
+WOS:000792871000001
+</snippet>
+</document>
+
+<document id="32">
+<title>Bayesian Modeling and Forecasting of 24-Hour High-Frequency Volatility</title>
+<url>http://dx.doi.org/10.1080/01621459.2014.937003</url>
+<snippet>This article estimates models of high-frequency index futures returns using around-the-clock 5-min returns that incorporate the following key features: multiple persistent stochastic volatility factors, jumps in prices and volatilities, seasonal components capturing time of the day patterns, correlations between return and volatility shocks, and announcement effects. We develop an integrated MCMC approach to estimate interday and intraday parameters and states using high-frequency data without resorting to various aggregation measures like realized volatility. We provide a case study using financial crisis data from 2007 to 2009, and use particle filters to construct likelihood functions for model comparison and out-of-sample forecasting from 2009 to 2012. We show that our approach improves realized volatility forecasts by up to 50&#37; over existing benchmarks and is also useful for risk management and trading applications. Supplementary materials for this article are available online.
+WOS:000346797000006
+</snippet>
+</document>
+
+<document id="33">
+<title>The impact of simultaneous shocks to financial markets and mortality on pension buy-out prices</title>
+<url>http://dx.doi.org/10.1017/asb.2023.11</url>
+<snippet>In this paper, we determine the fair value of a pension buyout contract under the assumption that changes in mortality can have an impact on financial markets. Our proposed model allows for shocks to occur simultaneously in mortality rates and financial markets, so that strong changes in mortality rates can affect interest rates and asset prices. This approach challenges the common but very strong assumption that mortality and market risk drivers are independent. A simulation-based pricing framework is applied to determine the buyout premium for a hypothetical fully funded pension scheme. The results of an extensive sensitivity analysis show how buyout prices are affected by changes in mortality and financial markets. Surprisingly, we find that the impact of shocks is similar whether or not these shocks occur simultaneously or not, although there are some differences in annuity prices and buyout premiums. We clearly see that the intensity and severity of shocks, and asset price volatility play a dominant role for buyout prices.
+WOS:000960794800001
+</snippet>
+</document>
+
+<document id="34">
+<title>Systematic Financial Risk Identification and Dynamic Evolution Based on Deep Learning</title>
+<url>http://dx.doi.org/10.1155/2022/9419248</url>
+<snippet>A perfect financial market is the physical manifestation of a developed country, and the rational transfer and distribution of capital resources can significantly improve the real economy's operational efficiency. In the era of sharing economy, the traditional linear systematic financial risk early warning model based on the Internet can no longer meet the early warning and identification of nonlinear systematic financial risk brought on by the embeddedness of the Internet network. The improved loss function is used to optimize the model to identify and monitor systemic financial risks in this paper. DL is used to identify systemic financial risks, a classification model based on DNN is built, and the improved loss function is used to optimize the model to identify and monitor systemic financial risks. The experimental results show that this model can achieve a recall rate of 93.2 percent and an accuracy rate of 95.4 percent. The results of the experiments show that the DL-based identification model is both effective and practical. The use of DL not only improves identification and analysis methods in the field of financial risk management, but it also encourages empirical research to shift from linear to nonlinear, from a focus on parameter salience to a focus on model structure and dynamic characteristics, while also better capturing tail risks.
+WOS:000815805000004
+</snippet>
+</document>
+
+<document id="35">
+<title>Testing commodity futures market efficiency under time-varying risk premiums and heteroscedastic prices</title>
+<url>http://dx.doi.org/10.1016/j.econmod.2017.12.005</url>
+<snippet>We propose a novel test to measure market efficiency while estimating the time-varying risk premiums of commodity futures, given that the prices are heteroscedastic. The risk premium is estimated using a state-space model with a Kalman filter modified for heteroscedasticity. Using 79 commodity futures traded on 16 exchanges during the period 2000-2014 and a Monte Carlo simulation, we demonstrate that the proposal produces robust results compared with conventional approaches. The global financial crisis has improved the efficiency and affected the trading volumes of commodity futures, but it has had no effect on the average or the volatility of risk premiums.
+WOS:000465510500010
+</snippet>
+</document>
+
+<document id="36">
+<title>Meta-LSTR: Meta-Learning with Long Short-Term Transformer for futures volatility prediction</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2024.125926</url>
+<snippet>Futures are essential instruments in financial markets. Accurately predicting futures volatility is crucial for calculating value-at-risk and comprehensively assessing financial uncertainty. However, the rapid changes in the futures market, the continuous emergence of new commodities, and the close interaction with spot markets create a complex market environment. This results in futures data having intricate characteristics of limited historical data, non-stationary, and non-linear, posing significant challenges for accurately predicting volatility. We propose a futures volatility prediction framework, Meta-Learning with Long Short-Term Transformer (MetaLSTR) to tackle these challenges. To improve the understanding of market dynamics, we construct a Long-Short Term Transformer network. In conjunction with a de-stationary module and market-side information, the network can effectively capture multi-scale non-stationary features and non-linear temporal dependencies. To enhance the efficiency of limited data utilization, we employ a meta-learning approach to extract common knowledge across different varieties of futures. Comprehensive experiments using Chinese market data highlight the effectiveness of the Meta-LSTR model in futures volatility prediction. Compared to other state-of-the-art methods, the proposed Meta-LSTR model reduces prediction error by over 21.99&#37;.
+WOS:001377579100001
+</snippet>
+</document>
+
+<document id="37">
+<title>The equilibrium allocation of diffusive and jump risks with heterogeneous agents</title>
+<url>http://dx.doi.org/10.1016/j.jedc.2004.09.002</url>
+<snippet>We study a two-agent pure exchange equilibrium subject to both nondiversifiable diffusive and jump risks. Agents can trade in a financial market consisting of a stock market, a money market, and an insurance market for jump risk. Heterogeneity is introduced through different levels of relative risk aversion. In the framework of standard expected utility we find the surprising result that the less risk averse agent purchases insurance contracts against jump risk from the more risk averse agent. This equilibrium allocation is linked to the non-linear wealth sharing rule in such an economy, and preserves the wealth effects studied by Dumas [Rev. Financ. Stud. 2 (1989) 157] in the case of pure diffusive risk. Since the benchmark economy with homogeneous agents generates no excess uncertainty in the stock market, we study the effect on excess volatility and excess jump size solely due to different levels of relative risk aversion. We observe 3&#37; excess uncertainty in jump sizes for a reasonable specification of economic fundamentals. 
+WOS:000231520100004
+</snippet>
+</document>
+
+<document id="38">
+<title>Goodness-of-fit test for interest rate models: An approach based on empirical processes</title>
+<url>http://dx.doi.org/10.1016/j.csda.2011.06.004</url>
+<snippet>A new test for the goodness of fit of parametric forms of the drift and volatility functions of interest rate models is proposed. The test is based on a marked empirical process of the residuals. More specifically, a marked empirical process is constructed using estimators of the integrated regression function and the integrated conditional variance function for the drift function and the volatility function, respectively. Distributions of these processes are approximated using bootstrap techniques. This test is then applied to simulated classical financial models and is illustrated in an empirical application to a EURIBOR data set. (C) 2011 Elsevier B.V. All rights reserved.
+WOS:000294935600001
+</snippet>
+</document>
+
+<document id="39">
+<title>The return barrier and return timer option with pricing under Levy processes</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2023.120920</url>
+<snippet>This work introduces two new financial derivatives into the finance literature. The first is the return barrier option, which has emerged recently as a popular contract in the OTC markets. This contract is similar to a barrier option, but the knock-out event depends on an asset's returns, rather than its level. Its direct exposure to jump risk offers protection from a key source of market incompleteness, with great potential value to hedgers and investors. The second contract is the return timer option, which is proposed in this work for its natural relation to the return barrier option, and by analogy to Timer Options written on realized volatility. This contract offers similar upside potential to a European option, but can be purchased at a substantial discount, a trade-off for bearing jump risk. Due to the dependence of these contracts on single (daily) return events, capturing jump risk is essential to their pricing, as diffusion-based models are unable to generate sufficiently heavy tails at short time horizons. Thus we provide analytical pricing formulas for the return barrier option, along with efficient and accurate numerical methods under Exponential Levy dynamics, to capture the heavy tailed returns. We then prove that the return timer option can be conveniently priced as a linear combination of return barriers, providing a consistent pricing framework for the combined family of derivatives. Given the recent trend in return barrier options in OTC markets, as well as the interesting mathematics required to price them, this work offers both practical and theoretical contributions to the literature.
+WOS:001046203900001
+</snippet>
+</document>
+
+<document id="40">
+<title>A GENERAL ORNSTEIN-UHLENBECK STOCHASTIC VOLATILITY MODEL WITH LEVY JUMPS</title>
+<url>http://dx.doi.org/10.1142/S0219024916500448</url>
+<snippet>We present a general class of stochastic volatility models with jumps where the stochastic variance process follows a Levy-driven Ornstein-Uhlenbeck (OU) process and the jumps in the log-price process follow a Levy process. This financial market model is a true extension of the Barndorff-Nielsen-Shephard (BNS) model class and can establish a weak link between log-price jumps and volatility jumps. Furthermore, we investigate the weak-link G-OU-BNS model as a special case, where we calculate the characteristic function of the logarithmic price in closed form. The classical G-OU-BNS model can be obtained as a limit of weak-link G-OU-BNS models in the Skorokhod topology. We highlight that the weak-link property may be a useful model extension in the case of pricing barrier options.
+WOS:000390244600001
+</snippet>
+</document>
+
+<document id="41">
+<title>Volatility models for stylized facts of high-frequency financial data</title>
+<url>http://dx.doi.org/10.1111/jtsa.12666</url>
+<snippet>This article introduces novel volatility diffusion models to account for the stylized facts of high-frequency financial data such as volatility clustering, intraday U-shape, and leverage effect. For example, the daily integrated volatility of the proposed volatility process has a realized GARCH structure with an asymmetric effect on log returns. To further explain the heavy-tailedness of the financial data, we assume that the log returns have a finite 2bth moment for b is an element of(1,2]. Then, we propose a Huber regression estimator that has an optimal convergence rate of n(1-b)/b. We also discuss how to adjust bias coming from Huber loss and show its asymptotic properties.
+WOS:000862909900001
+</snippet>
+</document>
+
+<document id="42">
+<title>Jumping hedges on the strength of the Mellin transform</title>
+<url>http://dx.doi.org/10.1016/j.rinam.2022.100262</url>
+<snippet>With more looming uncertainties in our present financial climate and environment, models with jump-diffusion more than ever are necessary. They are suited to reproduce the large and sudden fluctuations in the level of the underlying variable, and mimic various statistical properties in observed time series. The jump-diffusion modelling setup, however, brings complexity to the valuation and hedging of derivative securities. This paper delves into the subject of hedging along with the illustration of hedging's intimate interplay with pricing. We harness the power of the Mellin transform and its convolution property to establish hedging sensitivities that capture the many dimensions of risk in option positions. Our methodology allows for a wide class of generalised payoffs (i.e. all piecewise linear functions). Each hedging parameter is shown to contain the impact of jumps and an explicit metric to quantify the jump risk is defined. The systematic and efficient calculations of higher-order sensitivities are demonstrated and their implications, from a practical perspective, are also considered. Inclusion of some numerical examples illustrates the ease of implementation of our results.
+WOS:000793465100003
+</snippet>
+</document>
+
+<document id="43">
+<title>Some Recent Progress on Numerical Methods for Controlled Regime-Switching Models with Applications to Insurance and Risk Management</title>
+<url>http://dx.doi.org/10.1515/cmam-2015-0015</url>
+<snippet>This paper provides a survey on several numerical approximation schemes for stochastic control problems that arise from actuarial science and finance. The problems to be considered include dividend optimization, reinsurance game, and quantile hedging for guaranteed minimum death benefits. To better describe the complicated financial markets and their inherent uncertainty and randomness, the so-called regime-switching models are adopted. Such models are more realistic and versatile, however, far more complicated to handle. Due to the complexity of the construction, the regime-switching diffusion systems can only be solved in very special cases. In general, it is virtually impossible to obtain closed-form solutions. We use Markov chain approximation techniques to construct discrete-time controlled Markov chains to approximate the value function and optimal controls. Examples are presented to illustrate the applicability of the numerical methods.
+WOS:000358324700006
+</snippet>
+</document>
+
+<document id="44">
+<title>Language sentiment in fundamental and noise trading: evidence from crude oil</title>
+<url>http://dx.doi.org/10.1080/00036846.2020.1763245</url>
+<snippet>Recent research has found the language sentiment in financial news to be a substantial driver of prices in financial markets, though there are two diametrically opposed interpretations for this: either markets perceive news sentiment as fundamental information (thus leading to changes in the valuation of assets) or news sentiment conveys a noise signal (thus contributing to the stochastic component of prices). The opposite roles are resolved in the context of crude oil prices by decomposing price movements into two components referring to fundamental and noise trading. Contrary to theoretical arguments in prior literature, we find empirical results supporting both interpretations.
+WOS:000539122500001
+</snippet>
+</document>
+
+<document id="45">
+<title>Neural Network for Valuing Bitcoin Options Under Jump-Diffusion and Market Sentiment Model</title>
+<url>http://dx.doi.org/10.1007/s10614-024-10792-1</url>
+<snippet>Cryptocurrencies and Bitcoin, in particular, are prone to wild swings resulting in frequent jumps in prices, making them historically popular for traders to speculate. It is claimed in recent literature that Bitcoin price is influenced by sentiment about the Bitcoin system. Transaction, as well as the popularity, have shown positive evidence as potential drivers of Bitcoin price. This study introduces a bivariate jump-diffusion model to capture the dynamics of Bitcoin prices and the Bitcoin sentiment indicator, integrating trading volumes or Google search trends with Bitcoin price movements. We derive a closed-form solution for the Bitcoin price and the associated Black-Scholes equation for Bitcoin option valuation. The resulting partial differential equation for Bitcoin options is solved using an artificial neural network, and the model is validated with data from highly volatile stocks. We further test the model's robustness across a broad spectrum of parameters, comparing the results to those obtained through Monte Carlo simulations. Our findings demonstrate the model's practical significance in accurately predicting Bitcoin price movements and option values, providing a reliable tool for traders, analysts, and risk managers in the cryptocurrency market.
+WOS:001360199100001
+</snippet>
+</document>
+
+<document id="46">
+<title>Modelling of S&amp;P 500 Index Price Based on US Economic Indicators: Machine Learning Approach</title>
+<url>http://dx.doi.org/10.5755/j01.ee.32.4.27985</url>
+<snippet>In order to forecast stock prices based on economic indicators, many studies have been conducted using well-known statistical methods. Meanwhile, since -2010 as the power of computers improved, new methods of machine learning began to be used. It would be interesting to know how those algorithms using a variety of mathematical and statistical methods, are able to predict the stock market. The purpose of this article is to model the monthly price of the S&amp;P 500 index based on U.S. economic indicators using statistical, machine learning, deep learning approaches and finally compare metrics of those models. After the selection of indicators according to the data visualization, multicollinearity tests, statistical significance tests, 3 out of 27 indicators remained. The main finding of the research is that the authors improved the baseline statistical linear regression model by 19 percent using a ML Random Forest algorithm. In this way, model achieved accuracy 97.68 &#37; of prediction S&amp;P 500 index.
+WOS:000712856500006
+</snippet>
+</document>
+
+<document id="47">
+<title>A Simulation and Empirical Study of the Maximum Likelihood Estimator for Stochastic Volatility Jump-Diffusion Models</title>
+<url>http://dx.doi.org/10.1515/snde-2023-0028</url>
+<snippet>We investigate the behaviour of the maximum likelihood estimator (MLE) for stochastic volatility jump-diffusion models commonly used in financial risk management. A simulation study shows the practical conditions under which the MLE behaves according to theory. In an extensive empirical study based on nine indices and more than 6000 individual stocks, we nonetheless find that the MLE is unable to replicate key higher moments. We then introduce a moment-targeted MLE - robust to model misspecification - and revisit both simulation and empirical studies. We find it performs better than the MLE, improving the management of financial risk.
+WOS:001193724400001
+</snippet>
+</document>
+
+<document id="48">
+<title>Noise trading and stock market bubbles: what the derivatives market is telling us</title>
+<url>http://dx.doi.org/10.1108/MF-01-2019-0052</url>
+<snippet>Purpose The authors examine the relation between noise trading in equity markets and stochastic volatility by estimating a two-factor jump diffusion model. Their analysis shows that contemporaneous price deviations in the derivatives market are statistically significant in explaining movements in index futures prices and option-market volatility measures. Design/methodology/approach To understand the impact noise may have in the S&amp;P 500 derivatives market, the authors first measure and evaluate the influence noise exerts on futures prices and then investigate its influence on option volatility. Findings In the period from 1996 to 2003, this study finds significant changes in the volatility and mean reversion in the noise level and a significant increase in its relation to implied volatility in option prices. The results are consistent with a bubble in technology stocks that occurred with significant increases in noise trading. Research limitations/implications This study provides estimates for this model during the periods preceding and during the technology bubble. The study analysis shows that the volatility and mean reversion in the noise level are much stronger during the bubble period. Furthermore, the relation between noise trading and implied volatility in the futures market was of a significantly larger magnitude during this period. The study results support the importance of noise trading in market bubbles. Practical implications Bloomfield, O'Hara and Saar (2009) find that noise traders lower bid-ask spreads and improve liquidity through increases in trading volume and market depth. Such improved market conditions could have positive effects on market quality, and this impact could be evidenced by lower implied volatility when noise traders are more active. Indeed, the results in this study indicate that the level and characteristics of noise trading are fundamentally different during the technology bubble, and this noise trading activity has a larger impact during this period on implied volatility in the options market. Originality/value This paper uniquely analyzes derivatives on the S&amp;P 500 Index in order to detect the presence and influence of noise traders. The authors derive and implement a two-factor jump diffusion noise model. In their model, noise rectifies the difference of analysts' opinions, market information and beliefs among traders. By incorporating a reduced-form temporal expression of heterogeneities among traders, the model is rich enough to capture salient time-series characteristics of equity prices (i.e. stochastic volatility and jumps). A singular feature of the authors' model is that stochastic volatility represents the random movements in asset prices that are attributed to nonmarket fundamentals.
+WOS:000531846800001
+</snippet>
+</document>
+
+<document id="49">
+<title>Dynamic volatility spillovers among commodities, bitcoin, and emerging markets</title>
+<url>http://dx.doi.org/10.1016/j.ememar.2025.101375</url>
+<snippet>In this study, the dynamic volatility spillovers among emerging markets, Bitcoin, and commodities are analyzed using Diebold and Yilmaz's spillover framework. As a by-product, a total volatility spillover index among an emerging markets index, Bitcoin, gold, and oil prices is forecast using traditional methods, machine learning, and deep learning, providing a method for anticipating turbulent periods. The results support the importance of volatility in oil prices, uncertainty about U.S. economic policy, and the stability of the sovereign bonds market for the dynamics of volatility spillovers, validating the ability of machine and deep learning approaches to predict those spillovers.
+WOS:001591398300002
+</snippet>
+</document>
+
+<document id="50">
+<title>Temporary versus Permanent Shocks: Explaining Corporate Financial Policies</title>
+<url>http://dx.doi.org/10.1093/rfs/hhq039</url>
+<snippet>We investigate corporate financial policies in the presence of both temporary and permanent shocks to firms' cash flows. In our framework, cash flows can be negative and are imperfectly correlated with firm value, and earnings volatility differs from asset volatility. These results are consistent with empirical stylized facts. They are also contrary to the implications of existing dynamic capital structure models that allow only for permanent shocks to cash flows. Temporary shocks increase the importance of financial flexibility and may provide an intuitively simple and realistic explanation of empirically observed financial conservatism and low leverage phenomena. The theoretical framework developed in this article general enough to be used in various corporate finance applications. (JEL G12, G32, G33)
+WOS:000280098300001
+</snippet>
+</document>
+
+<document id="51">
+<title>Are China's green stocks the safe haven? Evidence from geopolitical risks and oil prices</title>
+<url>http://dx.doi.org/10.1080/00036846.2025.2547115</url>
+<snippet>This paper investigates the safe haven properties of China's green stocks under geopolitical risks and oil market volatility. Leveraging an integrated analytical framework - including the Transformer-DCC-GARCH, SVAR, and TVP-VAR models - we examine the dynamic relationships among green stocks, geopolitical risks, and oil prices. The results show that green stocks exhibit a significant negative correlation with oil prices during periods of heightened geopolitical risks, such as the global oil price collapse, COVID-19 pandemic, and Russia-Ukraine conflict, indicating their short-term dynamic safe haven properties. Moreover, green stocks help stabilize oil price fluctuations by promoting energy transition, thereby indirectly mitigating the adverse impact of geopolitical risks and exhibiting long-term structural safe haven properties. These safe haven properties are time-varying and more pronounced during periods of heightened global risk. Further analysis demonstrates that incorporating green stocks into energy investment portfolios through a geopolitical risk-based strategy improves both return and risk-adjusted performance, confirming their practical hedging value. Overall, the findings suggest that while green stocks play a vital role in stabilizing energy markets, their hedging effectiveness is contingent on evolving risk environments. Strengthening regulatory support and expanding green financial instruments are essential to fully realize their safe haven properties.
+WOS:001553509600001
+</snippet>
+</document>
+
+<document id="52">
+<title>Asymptotic Normality of Bias Reduction Estimation for Jump Intensity Function in Financial Markets</title>
+<url>http://dx.doi.org/10.1111/jtsa.12727</url>
+<snippet>Continuous-time diffusion models with jumps, especially the jump intensity coefficient, can depict the impact of sudden and large shocks to financial markets. It is possible to disentangle, from the discrete observations, the contributions given by the jumps and those by the diffusion part through threshold functions. Based on this threshold technique, we employ non-parametric local linear threshold estimator for the unknown jump intensity function of a semimartingale with jumps. The asymptotic normality of our estimator is provided in the presence of finite activity jumps under certain regular conditions. The finite-sample performance for the underlying estimator has been shown through a Monte Carlo experiment and an empirical analysis on high frequency returns of indexes in the USA and China.
+WOS:001104146700001
+</snippet>
+</document>
+
+<document id="53">
+<title>China futures market and world container shipping economy: An exploratory analysis based on deep learning</title>
+<url>http://dx.doi.org/10.1016/j.ribaf.2025.102870</url>
+<snippet>As globalization increases, the volatility of China's financial market is gradually affecting world trade and economic development. However, few studies have quantified the impact of China's commodity futures market on the global container shipping market outlook. Therefore, this study collects 45,966 points of daily data from January 4, 2016, to January 1, 2023, and mines the price prediction function of Chinese commodity futures market indicators on the Shanghai Container Freight Index (SCFI). Specifically, a deep learning integrated model is constructed by combining a convolutional neural network (CNN), a bi-directional long and short-term memory network (BILSTM), and an attentional mechanism (AM). The results show that the CNN-BILSTM-AM model can accurately identify nonlinear features in SCFI data using Chinese commodity futures market indicators. In addition, the model effectively captures the long-term dependence of SCFI changes with Chinese commodity futures. Finally, this study concludes that the integrated model outperforms the single CNN, LSTM, and BILSTM machine learning models and the combined CNN-LSTM and CNN-BILSTM models (R2= 94.8 &#37;). We also observe that when using Shapley's additive interpretation (SHAP) framework to predict SCFI, Power Coal Futures (ZCF) and CSI 300 Index Futures (IFI) significantly influence the CNN-BILSTM-AM model. In summary, this study enriches the understanding of the interaction between the Chinese commodity futures market and the global container shipping industry. This study also highlights the price mining potential of Chinese futures market indicators in forecasting world shipping economic indices, thus opening new paths in the field of forecasting and management of world shipping economic indicators. The results provide a powerful decisional support and risk management tool for financial institutions, shipping companies, individual investors, and government policymakers.
+WOS:001449876800001
+</snippet>
+</document>
+
+<document id="54">
+<title>The Convergence Investigation of a Numerical Scheme for the Tempered Fractional Black-Scholes Model Arising European Double Barrier Option</title>
+<url>http://dx.doi.org/10.1007/s10614-021-10216-4</url>
+<snippet>The application of Levy processes including major movements or jumps over a small period of time has proved to be an effective technique in financial research to catch certain unusual or extreme cases in stock price dynamics. Models that follow the Levy process are The FMLS, Kobol, and CGMY models. These models gradually grow the interest for study among researchers because of some of the best choices them. Therefore the topic of approaching these three different models has drawn yet more attention. In the current paper, we present these models' numerical method. At first, The Riemann-Liouville tempered fractional derivative (RLTFD) with arbitrary order is approximated by using the basis function of the shifted Chebyshev polynomials of the fourth kind (SCPFK). In the second step, we gain the semi-discrete design to solve the tempered fractional B-S model (TFBSM) by applying finite difference approximation. We're going to show that this system is stable and O(delta tau) is the convergence order. In fact, a fast stabilized method will obtain to reduce the time from processing and the computation time per repetition. Then to get the full scheme, we use SCPFK to approximate the spatial fractional derivative. Finally, two numerical examples are presented to demonstrate the accuracy and usefulness of the developed system.
+WOS:000714878800001
+</snippet>
+</document>
+
+<document id="55">
+<title>A model for bank reserves versus treasuries under Basel III</title>
+<url>http://dx.doi.org/10.1002/asmb.2238</url>
+<snippet>Recently, the Basel Committee on Banking Supervision introduced strategies to protect banks from running out of liquidity. These measures included an increase of the minimum reserves that the bank ought to hold, in response to the global financial crisis. We propose a model to minimize risk for a bank by finding an appropriate mix of diversification, balanced against return on the portfolio. In particular, we consider jump diffusion models of bank reserves in order to address the risk due to deposit withdrawals. We formulate a stochastic optimal control problem related to the minimization of deposit risk and the reserve process, the net cash flows from depository activity, and cumulative cost of the bank's provisioning strategy. We analyze the main risk management issues arising from the optimization problem, with respect to the reserve requirement ratio, supported by simulations. (C) 2017 John Wiley &amp; Sons, Ltd.
+WOS:000398829700012
+</snippet>
+</document>
+
+<document id="56">
+<title>Compound Option Pricing under Fuzzy Environment</title>
+<url>http://dx.doi.org/10.1155/2014/875319</url>
+<snippet>Considering the uncertainty of a financial market includes two aspects: risk and vagueness; in this paper, fuzzy sets theory is applied to model the imprecise input parameters (interest rate and volatility). We present the fuzzy price of compound option by fuzzing the interest and volatility in Geske's compound option pricing formula. For each alpha, the alpha-level set of fuzzy prices is obtained according to the fuzzy arithmetics and the definition of fuzzy-valued function. We apply a defuzzification method based on crisp possibilistic mean values of the fuzzy interest rate and fuzzy volatility to obtain the crisp possibilistic mean value of compound option price. Finally, we present a numerical analysis to illustrate the compound option pricing under fuzzy environment.
+WOS:000332979900001
+</snippet>
+</document>
+
+<document id="57">
+<title>Do Islamic stock indexes outperform conventional stock indexes? A state space modeling approach</title>
+<url>http://dx.doi.org/10.1108/EJMBE-08-2018-0088</url>
+<snippet>Purpose - The purpose of this paper is to investigate whether Islamic stock indexes outperform conventional stock indexes, in terms of informational efficiency and risk, during the recent financial instability period. Design/methodology/approach - The paper uses a state space model combined with a standard GARCH (1,1) specification while taking into account structural breakpoints. The authors allow for efficiency and volatility spillovers to be time-varying and consider break dates to locate periods of financial instability. Findings - Empirical results show that Islamic stock indexes are more volatile than their conventional counterparts and are not totally immune to the global financial crisis. As regards of the informational efficiency, the results show that the Islamic stock indexes are more efficient than the conventional stock indexes. Practical implications - Resulting evidence of this paper has several implications for international investors who wish to invest in Islamic and/or conventional stock markets. Policy makers and even academics and Sharias researchers should as well take preventive measures in order to ensure the stability of Islamic stock markets during turmoil periods. Overall, prudent risk management and precocious financial practices are relevant and crucial for both Islamic and conventional financial markets. Originality/value - The originality of this study is performed by the use of time-varying models for volatility spillovers and informational efficiency. It considers structural break dates that think about the dynamic effect of informational flows on stock markets. The study was developed in a global framework using international data. The global analysis allows avoiding country specific effects.
+WOS:000512778700006
+</snippet>
+</document>
+
+<document id="58">
+<title>Detecting Jump Risk and Jump-Diffusion Model for Bitcoin Options Pricing and Hedging</title>
+<url>http://dx.doi.org/10.3390/math9202567</url>
+<snippet>In this paper, we conduct a fast calibration in the jump-diffusion model to capture the Bitcoin price dynamics, as well as the behavior of some components affecting the price itself, such as the risk of pitfalls and its ambiguous effect on the evolution of Bitcoin's price. In addition, in our study of the Bitcoin option pricing, we find that the inclusion of jumps in returns and volatilities are significant in the historical time series of Bitcoin prices. The benefits of incorporating these jumps flow over into option pricing, as well as adequately capture the volatility smile in option prices. To the best of our knowledge, this is the first work to analyze the phenomenon of price jump risk and to interpret Bitcoin option valuation as "exceptionally ambiguous ". Crucially, using hedging options for the Bitcoin market, we also prove some important properties: Bitcoin options follow a convex, but not strictly convex function. This property provides adequate risk assessment for convex risk measure.
+WOS:000713909700001
+</snippet>
+</document>
+
+<document id="59">
+<title>Is the diurnal pattern sufficient to explain intraday variation in volatility? A nonparametric assessment</title>
+<url>http://dx.doi.org/10.1016/j.jeconom.2018.03.016</url>
+<snippet>In this paper, we propose a nonparametric way to test the hypothesis that time-variation in intraday volatility is caused solely by a deterministic and recurrent diurnal pattern. We assume that noisy high-frequency data from a discretely sampled jump-diffusion process are available. The test is then based on asset returns, which are deflated by the seasonal component and therefore homoskedastic under the null. To construct our test statistic, we extend the concept of pre-averaged bipower variation to a general Ito semimartingale setting via a truncation device. We prove a central limit theorem for this statistic and construct a positive semi-definite estimator of the asymptotic covariance matrix. The t-statistic (after pre-averaging and jump-truncation) diverges in the presence of stochastic volatility and has a standard normal distribution otherwise. We show that replacing the true diurnal factor with a model-free jump- and noise-robust estimator does not affect the asymptotic theory. A Monte Carlo simulation also shows this substitution has no discernable impact in finite samples. The test is, however, distorted by small infinite activity price jumps. To improve inference, we propose a new bootstrap approach, which leads to almost correctly sized tests of the null hypothesis. We apply the developed framework to a large cross-section of equity high-frequency data and find that the diurnal pattern accounts for a rather significant fraction of intraday variation in volatility, but important sources of heteroskedasticity remain present in the data. (C) 2018 Elsevier B.V. All rights reserved.
+WOS:000437976100002
+</snippet>
+</document>
+
+<document id="60">
+<title>Modelling and forecasting high-frequency data with jumps based on a hybrid nonparametric regression and LSTM model</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2023.121527</url>
+<snippet>High-frequency financial data is more difficult to predict than low-frequency data because it possesses nonlinearity, nonstationarity, higher volatility, and long memory and is frequently accompanied by the jump phenomena. In this paper, the nonparametric regression (NR) model based on kernel function is used to fit the nonlinear relationship between the nonstationary series Yt and its lagging series to model the trend of high frequency financial time series. Furthermore, the deep learning LSTM (long short-term memory) model is applied to capture the high volatility and frequent jumps of high frequency financial data and to improve the forecasting accuracy of the residual series. The results demonstrate that the hybrid NR and LSTM model has greatly improved the forecasting accuracy in several evaluation criteria. In comparison to NR, support vector machine (SVM), LSTM, ARIMA and NR-SVM models, the mean absolute error (MAE) of NR-LSTM has reduced by 89.78&#37;, 97.85&#37;, 86.48&#37;, 32.47&#37; and 89&#37;, respectively. In addition, we have constructed the trading strategy for the Shanghai-Shenzhen 300 index by using the NR-LSTM model. The NR-LSTM model can continue to provide good returns even during a bear market, which can serve as a guide for investors. Furthermore, the NR-LSTM model also exhibits the best forecasting effect when we model the high-frequency data of Ping An bank in China, the FTSE 100 index in the UK, and the S&amp;P 500 index in the US.
+WOS:001076336800001
+</snippet>
+</document>
+
+<document id="61">
+<title>A modeling approach to financial time series based on market microstructure model with jumps</title>
+<url>http://dx.doi.org/10.1016/j.asoc.2014.10.048</url>
+<snippet>A continuous-time generalized market microstructure (GMMS) model and its discretized model are proposed for characterizing a class of financial time series. The GMMS model is a kind of jump-diffusion model that may describe the dynamic behaviors of measurable market price, immeasurable market excess demand and market liquidity, as well as the interaction among the three variates in a market. The model includes a jump component that is used to capture the large abnormal variations of financial assets, which may occur when a market is affected by some special events happened suddenly, such as release of important financial information. On the basis of the discrete-time GMMS model, an online recursive jump detection algorithm is proposed, which is developed in accordance with the Markov property of financial time series and the Bayes theorem. Simulations and case studies demonstrate the feasibility and effectiveness of the model and its estimation approach presented in this paper. (C) 2014 Elsevier B.V. All rights reserved.
+WOS:000350648100004
+</snippet>
+</document>
+
+<document id="62">
+<title>Implied parameter estimation for jump diffusion option pricing models: Pricing accuracy and the role of loss and evaluation functions</title>
+<url>http://dx.doi.org/10.1016/j.jcomm.2024.100408</url>
+<snippet>There is extensive literature on problems involved in estimating implied parameters in the Merton Jump Diffusion model. Using simulated data, we use weighted non-linear least squares to estimate implied parameters in the four parameter jump diffusion model (JD) and in an eight parameter jump diffusion model with convenience yield (JDC). We find reliable and accurate implied parameter estimates for the JD model but biased and unreliable estimates for some parameters in the JDC model. However, for both models we estimate accurate option prices, usually within several basis points. We also use Bitcoin real data to estimate parameters and test the out -of -sample performance of the JDC model.
+WOS:001250689500001
+</snippet>
+</document>
+
+<document id="63">
+<title>RANDOMISATION AND RECURSION METHODS FOR MIXED-EXPONENTIAL LEVY MODELS, WITH FINANCIAL APPLICATIONS</title>
+<url>http://dx.doi.org/10.1017/S0021900200113099</url>
+<snippet>We develop a new Monte Carlo variance reduction method to estimate the expectation of two commonly encountered path-dependent functionals: first-passage times and occupation times of sets. The method is based on a recursive approximation of the first-passage time probability and expected occupation time of sets of a Levy bridge process that relies in part on a randomisation of the time parameter. We establish this recursion for general Levy processes and derive its explicit form for mixed-exponential jump-diffusions, a dense subclass (in the sense of weak approximation) of Levy processes, which includes Brownian motion with drift, Kou's double-exponential model, and hyperexponential jump-diffusion models. We present a highly accurate numerical realisation and derive error estimates. By way of illustration the method is applied to the valuation of range accruals and barrier options under exponential Levy models and Bates-type stochastic volatility models with exponential jumps. Compared with standard Monte Carlo methods, we find that the method is significantly more efficient.
+WOS:000368467600012
+</snippet>
+</document>
+
+<document id="64">
+<title>JDAPP: Reinforcement learning with phaseshift jump diffusion and Fourier randomization for robust financial agent training</title>
+<url>http://dx.doi.org/10.1016/j.frl.2025.109020</url>
+<snippet>We propose a reinforcement learning framework that enhances trading robustness through advanced synthetic data generation. The method integrates APARCH-based volatility modeling, jump-diffusion dynamics, and a novel Fourier-Block Randomization technique, termed JDAPP, to create diverse, non-repetitive return paths. A Double Deep Q-Network (DDQN) agent trained solely on these scenarios is evaluated against real S&amp;P 500 data. Even with a binary long-or-short regime, the agent significantly outperforms a random baseline. Beyond performance, JDAPP enables stress testing of strategies under extreme market conditions, supporting risk management, regulatory oversight, and the development of more robust AI-based trading systems.
+WOS:001628108100007
+</snippet>
+</document>
+
+<document id="65">
+<title>Information Asymmetry in the French Market around Crises</title>
+<url>http://dx.doi.org/</url>
+<snippet>This paper posits itself in the stream of literature related to event studies and in particular the September 11th event. It is the first study to our knowledge that investigates the impact on the French financial market of September 11th, 2001 and September 21st, 2001. Was there any information asymmetry around these two dates? How did French investors react to these tragic events? We implement an information cost model and a jump diffusion model to capture the magnitude of shocks in stock price processes. We found that the information linked with the domestic event has been straight away absorbed while the information related to the international event has been spread out between the 12th and 17th September.
+WOS:000213794800002
+</snippet>
+</document>
+
+<document id="66">
+<title>Analysis of Optimal Portfolio on Finite and Small-Time Horizons for a Stochastic Volatility Market Model\ast</title>
+<url>http://dx.doi.org/10.1137/21M1412281</url>
+<snippet>In this paper, we consider the portfolio optimization problem in a financial market under a general utility function. Empirical results suggest that if a significant market fluctuation occurs, invested wealth tends to have a notable change from its current value. We consider an incomplete stochastic volatility market model that is driven by both a Brownian motion and a jump process. First, we obtain a closed-form formula for an approximation to the optimal portfolio in a small-time horizon. This is obtained by finding the associated Hamilton-Jacobi-Bellman integro-differential equation and then approximating the value function by constructing appropriate supersolution and subsolution. It is shown that the true value function can be obtained by sandwiching the constructed super-solution and subsolution. We also prove the accuracy of the approximation formulas. Finally, we provide a procedure for generating a close-to-optimal portfolio for a finite time horizon.
+WOS:000736041000011
+</snippet>
+</document>
+
+<document id="67">
+<title>Modelling short and long-term risks in power markets: Empirical evidence from Nord Pool</title>
+<url>http://dx.doi.org/10.1016/j.enpol.2010.05.015</url>
+<snippet>In this paper we propose a three-factor spike model that accounts for different speeds of mean reversion between normal and spiky shocks in the Scandinavian power market. In this model both short and long-run factors are unobservable and are hence estimated as latent variables using the Kalman filter. The proposed model has several advantages. First, it seems to capture in a parsimonious way the most important risks that practitioners face in the market, such as spike risk, short-term risk and long-term risk. Second, it explains the seasonal risk premium observed in the market and improves the fit between theoretical and observed forward prices, particularly for long-dated forward contracts. Finally, closed-form solutions for forward contracts, derived from the model, are consistent with the fact that the correlation between contracts of different maturities is imperfect. The resulting model is very promising, providing a very useful policy analysis and financial engineering tool to market participants for risk management and derivative pricing particularly for long-dated contracts. (C) 2010 Elsevier Ltd. All rights reserved.
+WOS:000282240100036
+</snippet>
+</document>
+
+<document id="68">
+<title>A Gated Recurrent Unit Approach to Bitcoin Price Prediction</title>
+<url>http://dx.doi.org/10.3390/jrfm13020023</url>
+<snippet>In today's era of big data, deep learning and artificial intelligence have formed the backbone for cryptocurrency portfolio optimization. Researchers have investigated various state of the art machine learning models to predict Bitcoin price and volatility. Machine learning models like recurrent neural network (RNN) and long short-term memory (LSTM) have been shown to perform better than traditional time series models in cryptocurrency price prediction. However, very few studies have applied sequence models with robust feature engineering to predict future pricing. In this study, we investigate a framework with a set of advanced machine learning forecasting methods with a fixed set of exogenous and endogenous factors to predict daily Bitcoin prices. We study and compare different approaches using the root mean squared error (RMSE). Experimental results show that the gated recurring unit (GRU) model with recurrent dropout performs better than popular existing models. We also show that simple trading strategies, when implemented with our proposed GRU model and with proper learning, can lead to financial gain.
+WOS:000519244000005
+</snippet>
+</document>
+
+<document id="69">
+<title>The volatility effect on precious metals price returns in a stochastic volatility in mean model with time-varying parameters</title>
+<url>http://dx.doi.org/10.1016/j.physa.2019.122329</url>
+<snippet>The purpose of this study is to examine how volatility effects precious metals price returns. We use the time-varying parameter stochastic volatility in mean (TVP-SVM) model to estimate the volatility and incorporate strong time varying dynamics in commodity markets. The study employs monthly data on gold, silver, copper, platinum, and palladium from 1962 to 2017. We find evidence that volatility has a largely time-varying impact on the precious metal price returns. The results show that volatility has a significant negative impact on the precious metal price returns and the impact is more negative during higher volatility periods. The market volatility is also found to be extremely persistent, implying that strong policy measures might be required to restore equilibrium. The estimates also show that metal price returns have a positive and significant effect on the volatility and, thus, higher precious metal price returns generate increased future volatility. (C) 2019 Elsevier B.V. All rights reserved.
+WOS:000496334300060
+</snippet>
+</document>
+
+<document id="70">
+<title>GRUAtt-Autoformer: A Hybrid Framework with BiGRU-Enhanced Attention for Crude Oil Price Forecasting</title>
+<url>http://dx.doi.org/10.3390/math13233825</url>
+<snippet>As a pivotal global commodity, crude oil price volatility directly impacts economic stability and strategic security. Being the most widely traded asset worldwide, it also serves as a key financial barometer and a critical transition fuel in the shift towards renewable energy. Nevertheless, accurate forecasting of crude oil prices remains challenging due to three persistent challenges: (1) the lack of a systematic method to filter out redundant and noisy features for deep learning models; (2) the limited ability of existing models to simultaneously capture both local bidirectional dependencies and global periodic patterns; and (3) the non-adaptive nature of conventional attention mechanisms, which restricts their capacity to dynamically focus on the most informative historical periods. To bridge these gaps, this study introduces a novel forecasting framework with three key contributions. First, we introduce a hierarchical feature selection paradigm based on LightGBM to systematically eliminate data redundancy and noise, thereby constructing an optimal feature subset for subsequent deep modeling. Second, an improved Autoformer encoder, integrated with Bidirectional GRUs, is designed to simultaneously capture local bidirectional dependencies and global periodic patterns, enabling a more comprehensive multi-scale temporal representation. Third, a dynamic fusion mechanism is incorporated to adaptively recalibrate the significance of historical timesteps. This enables the model to focus on periods rich in information, enhancing contextual awareness in predictions. Future research aims to enhance forecasting capabilities by achieving a deeper integration of local and global temporal representations, potentially through exploring advanced gating or sparse attention mechanisms.
+WOS:001635107500001
+</snippet>
+</document>
+
+<document id="71">
+<title>RBF-FD solution for a financial partial-integro differential equation utilizing the generalized multiquadric function</title>
+<url>http://dx.doi.org/10.1016/j.camwa.2020.11.010</url>
+<snippet>This work concerns the weights of the radial basis function generated finite difference (RBF-FD) formulas for estimation of the first and second derivatives of an unknown function applying the generalized multiquadric function (GMQ). Several discussions about their error equations on structured and unstructured grids of points are worked out. Next, the formulas are applied on a new non-uniform mesh of points based on modified Legendre polynomial zeros in order to computationally solve a (1+2) dimensional partial integro-differential equation (RIDE) arising in the model of stochastic volatility with contemporaneous jumps (SVCJ). Numerical results show a fast convergence for solving this problem. (C) 2020 Elsevier Ltd. All rights reserved.
+WOS:000604261400010
+</snippet>
+</document>
+
+<document id="72">
+<title>Options pricing with time changed Levy processes under imprecise information</title>
+<url>http://dx.doi.org/10.1007/s10700-014-9191-3</url>
+<snippet>This study evaluates a time changed L,vy model for European call options under a fuzzy environment. The proposed model is characterized by high frequency jumps, stochastic volatility, and stochastic volatility with the jumps, existing in the returns process of financial assets. Moreover, to consider imperfect and unpredictable accounting information, this study uses fuzzy logic to account for the impreciseness of the accounting information, which can not be described in extant models, and provides reasonable reference instruments for future research on option pricing under a jump diffusion model with imprecise market information. Our empirical results also show that the fuzzy time changed L,vy model has better fitting performance when compared with the time changed L,vy and the Black and Scholes model when using S&amp;P 500 index option data.
+WOS:000349762700005
+</snippet>
+</document>
+
+<document id="73">
+<title>Robust nonparametric estimation for the volatility of financial market</title>
+<url>http://dx.doi.org/10.1142/S2424786322500219</url>
+<snippet>The occurrence of a macroeconomic policy would lead to a jump of financial data and the presence of jump behaviors might make the statistical methods for high-frequency sampling data to face new challenges. This paper will use the threshold function technique to disentangle the continuous part and the jump part from the high frequency financial data. Moreover, in the financial practices, the abnormal observations contained in the data could cause bias from nonparametric estimation based on least squares. The paper will employ the local M estimation to provide a robust estimator for the unknown diffusion coefficient of the diffusion model with jumps under high frequency sampling data. Under certain conditions for the initial values, this paper further considers one-step local M estimation for the unknown diffusion coefficient which can reduce the calculation quantity under the estimation efficiency. The Monte Carlo numerical simulation results verify that compared with the local linear threshold estimator, the threshold one-step local M estimator is more accurate and more robust. Finally, the threshold one-step local M estimator in this paper is applied to the Shanghai composite index of 2015 and 2020 in China and the Nasdaq index of 2020 in USA, which illustrates the method considered in this paper possesses good finite sample properties.
+WOS:000860032400001
+</snippet>
+</document>
+
+<document id="74">
+<title>An empirical assessment of symmetric and asymmetric jump-diffusion models for the Nigerian stock market indices</title>
+<url>http://dx.doi.org/10.1016/j.sciaf.2021.e00733</url>
+<snippet>We examine empirically, the suitability of three stock price models viz: geometric Brownian motion, symmetric and asymmetric jump-diffusion models, on the empirical logreturns of the Nigerian All-Share Index. 5334 daily observed data from January 2, 1998, to February 21, 2020, were utilized. Using a non-parametric jump-test method, our results show that jumps are present in the empirical log-returns of the stock market price. The results obtained for the optimal parameters in the models indicate high jump intensity, more upward jumps, and a positively skewed jump process. However, the parameters in the asymmetric jump-diffusion model were found to be more sensitive to the varied threshold of jumps in the log-returns than the symmetric jump-diffusion model. The suitability analysis results show that the symmetric jump-diffusion model fits the market indices better. Therefore, it can be used for future predictions of the market price. (C) 2021 The Author(s). Published by Elsevier B.V. on behalf of African Institute of Mathematical Sciences / Next Einstein Initiative.
+WOS:000687318800001
+</snippet>
+</document>
+
+<document id="75">
+<title>Time-varying impact of oil prices on sectoral stock returns: Evidence from Turkey</title>
+<url>http://dx.doi.org/10.1016/j.resourpol.2020.101845</url>
+<snippet>This article analyzes the impact of oil price changes on the sectoral stock-market returns of Turkey. For this purpose, asset-pricing models augmented with oil price and exchange rate changes are estimated using daily return data for 12 sectors in the Istanbul Stock Exchange covering the period between January 3, 1997 and August 9, 2018. Test results identify significant structural break points that vary across sectors, indicating the presence of serious parameter instabilities over the investigation period. Therefore, we conclude that linear estimation procedures may not be a convenient tool for capturing asset-pricing behaviors in the market. Time-varying parameter estimates based on a state-space model imply that the impact of oil price returns differ markedly over time and generally have a smaller impact on sectoral returns compared with exchange rate returns. Transportation, banking, chemicals, electricity, food and beverage, metal goods, machinery, and industrials are found to be adversely and significantly affected by oil price increases, whereas most sectors are affected by exchange rate returns over the analysis period.
+WOS:000600783300040
+</snippet>
+</document>
+
+<document id="76">
+<title>Forecasting Bitcoin Volatility Using Hybrid GARCH Models with Machine Learning</title>
+<url>http://dx.doi.org/10.3390/risks10120237</url>
+<snippet>The time series movements of Bitcoin prices are commonly characterized as highly nonlinear and volatile in nature across economic periods, when compared to the characteristics of traditional asset classes, such as equities and commodities. From a risk management perspective, such behaviors pose challenges, given the difficulty in quantifying and modeling Bitcoin's price volatility. In this study, we propose hybrid analytical techniques that combine the strengths of the non-stationary properties of Generalized Autoregressive Conditional Heteroskedasticity (GARCH) models with the nonlinear modeling capabilities of deep learning algorithms, such as Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU), and Bidirectional LSTM (BiLSTM) algorithms with single, double, and triple layer network architectures to forecast Bitcoin's realized price volatility. Our findings, both in-sample and out-of-sample, show that such hybrid models can generate accurate forecasts of Bitcoin's price volatility.
+WOS:000903158300001
+</snippet>
+</document>
+
+<document id="77">
+<title>Shot-noise cojumps: Exact simulation and option pricing</title>
+<url>http://dx.doi.org/10.1080/01605682.2022.2077660</url>
+<snippet>We consider a parsimonious framework of jump-diffusion models for price dynamics with stochastic price volatilities and stochastic jump intensities in continuous time. They account for conditional heteroscedasticity and also incorporate key features appearing in financial time series of price volatilities and jump intensities, such as persistence of contemporaneous jumps (cojumps), mean reversion and feedback effects. More precisely, the stochastic variance and stochastic intensity are jointly modelled by a generalised bivariate shot-noise process sharing common jump arrivals with any non-negative jump-size distributions. This framework covers many classical and important models in the literature. The main contribution of this paper is that, we develop a very efficient scheme for its exact simulation based on perfect decomposition where neither numerical inversion nor acceptance/rejection scheme is required, which means that it is not only accurate but also the efficiency would not be sensitive to the parameter choice. Extensive numerical implementations and tests are reported to demonstrate the accuracy and effectiveness of this scheme. Our algorithm substantially outperforms the classical discretisation scheme. Moreover, we unbiasedly estimate the prices of discrete-barrier European options to show the applicability and flexibility of our algorithms.
+WOS:000802088600001
+</snippet>
+</document>
+
+<document id="78">
+<title>Toward profitable energy futures trading strategies using reinforcement learning incorporating disagreement and connectedness methods enabled by large language models</title>
+<url>http://dx.doi.org/10.1016/j.egyai.2025.100562</url>
+<snippet>The energy market plays a fundamental role in the global economy, shaping energy prices, inflation, and financial stability across nations. As the world transitions toward low-carbon energy solutions, optimizing trading strategies in this complex and dynamic market has become increasingly critical for investors, policymakers, and energy brokers. Traditional data-driven models often struggle to capture the multifaceted and interconnected factors influencing energy markets, such as macroeconomic conditions, investor sentiment, and the accelerating shift toward decarbonization. To address these challenges, a novel framework is proposed that combines reinforcement learning with methods for analyzing disagreement and connectedness, alongside advanced natural language processing techniques, to develop trading strategies for energy markets. The proposed method integrates structured time-series data with unstructured textual data to incorporate diverse factors, including the interplay between economic influences, green energy transitions, and investor sentiment. The proposed framework also employs a chain-of-reasoning technique to classify investor types, distinguishing between sentiment-driven disagreement and cross-disagreement, and utilizes a connectedness-based method to model the interrelationships among market variables, providing a comprehensive understanding of market dynamics. As a showcase, this framework is applied to the West Texas Intermediate crude oil market, demonstrating its ability to outperform traditional price-prediction-based trading strategies. Experimental results highlight that the proposed framework delivers superior investment returns while addressing key limitations of existing models in terms of data integration and flexibility. This study underscores the potential of the proposed framework as a robust and adaptable solution for optimizing trading strategies across the broader energy market, with particular relevance to the global transition toward sustainable energy systems.
+WOS:001551945700001
+</snippet>
+</document>
+
+<document id="79">
+<title>Financial Volatility Forecasting: A Sparse Multi-Head Attention Neural Network</title>
+<url>http://dx.doi.org/10.3390/info12100419</url>
+<snippet>Accurately predicting the volatility of financial asset prices and exploring its laws of movement have profound theoretical and practical guiding significance for financial market risk early warning, asset pricing, and investment portfolio design. The traditional methods are plagued by the problem of substandard prediction performance or gradient optimization. This paper proposes a novel volatility prediction method based on sparse multi-head attention (SP-M-Attention). This model discards the two-dimensional modeling strategy of time and space of the classic deep learning model. Instead, the solution is to embed a sparse multi-head attention calculation module in the network. The main advantages are that (i) it uses the inherent advantages of the multi-head attention mechanism to achieve parallel computing, (ii) it reduces the computational complexity through sparse measurements and feature compression of volatility, and (iii) it avoids the gradient problems caused by long-range propagation and therefore, is more suitable than traditional methods for the task of analysis of long time series. In the end, the article conducts an empirical study on the effectiveness of the proposed method through real datasets of major financial markets. Experimental results show that the prediction performance of the proposed model on all real datasets surpasses all benchmark models. This discovery will aid financial risk management and the optimization of investment strategies.
+WOS:000714802700001
+</snippet>
+</document>
+
+<document id="80">
+<title>A general method for analysis and valuation of drawdown risk</title>
+<url>http://dx.doi.org/10.1016/j.jedc.2023.104669</url>
+<snippet>Drawdown risk is a major concern in financial markets. We develop a novel method to solve the first passage problem of the drawdown process for general one-dimensional Markov processes (including time-inhomogeneous ones) as well as regime-switching and stochastic volatility models. We compute its Laplace transform based on continuous-time Markov chain (CTMC) approximation and invert the Laplace transform numerically to obtain the first passage probabilities and the distribution of the maximum drawdown. We prove convergence of our method for general Markov models and provide sharp estimate of the convergence rate for a general class of jump-diffusion models. We apply our method to price and hedge maximum drawdown options and demonstrate its accuracy and efficiency through various numerical experiments. In addition, we can apply our method to calculate the Calmar ratio for investment analysis, and quantify the contributions of assets to the drawdown risk of a portfolio when the assets follow multivariate exponential Levy models. 
+WOS:001017115300001
+</snippet>
+</document>
+
+<document id="81">
+<title>Hedging cryptocurrency options</title>
+<url>http://dx.doi.org/10.1007/s11147-023-09194-6</url>
+<snippet>The cryptocurrency market is volatile, non-stationary and non-continuous. Together with liquid derivatives markets, this poses a unique opportunity to study risk management, especially the hedging of options, in a turbulent market. We study the hedge behaviour and effectiveness for the class of affine jump diffusion models and infinite activity Levy processes. First, market data is calibrated to stochastic volatility inspired-implied volatility surfaces to price options. To cover a wide range of market dynamics, we generate Monte Carlo price paths using an stochastic volatility with correlated jumps model, a close-to-actual-market GARCH-filtered kernel density estimation as well as a historical backtest. In all three settings, options are dynamically hedged with Delta, Delta-Gamma, Delta-Vega and Minimum Variance strategies. Including a wide range of market models allows to understand the trade-off in the hedge performance between complete, but overly parsimonious models, and more complex, but incomplete models. The calibration results reveal a strong indication for stochastic volatility, low jump frequency and evidence of infinite activity. Short-dated options are less sensitive to volatility or Gamma hedges. For longer-dated options, tail risk is consistently reduced by multiple-instrument hedges, in particular by employing complete market models with stochastic volatility.
+WOS:000931750300001
+</snippet>
+</document>
+
+<document id="82">
+<title>Quantile hedging in models with dividends and application to equity-linked life insurance contracts</title>
+<url>http://dx.doi.org/10.1007/s11579-019-00252-y</url>
+<snippet>The paper demonstrates the effect of the dividends on pricing and hedging the European contingent claims under a budget constraint and presents insurance applications. Explicit formulae for the quantile pricing and hedging of the European call option are derived assuming the jump-diffusion model of the financial market. These results are used to determine the premium of the pure endowment with fixed guarantee equity-linked life insurance contract as well as the survival probability of the insured. A numerical example is given to illustrate the role of dividends in valuation and risk management of such insurance contracts.
+WOS:000519536300001
+</snippet>
+</document>
+
+<document id="83">
+<title>A closed-form expansion approach for pricing discretely monitored variance swaps</title>
+<url>http://dx.doi.org/10.1016/j.orl.2015.06.003</url>
+<snippet>Variance swaps are among the most useful tools for derivatives trading and risk management. For pricing discretely monitored variance swaps under a general class of jump-diffusion models, we propose a closed-form expansion based on the length of monitoring interval. Our method relies on an iterative application of the Dynkin formula, which is usually called the operator method in financial econometrics. Numerical examples are given for demonstrating the efficiency of the method. (C) 2015 Elsevier B.V. All rights reserved.
+WOS:000358970700021
+</snippet>
+</document>
+
+<document id="84">
+<title>The Clean Techs equity indexes at stake: Risk and return dynamics analysis</title>
+<url>http://dx.doi.org/10.1016/j.energy.2013.03.046</url>
+<snippet>The goal of this paper is to measure the financial performance of 21 primary Clean Techs (CT) equity indexes, covering the primary energy markets worldwide. We use a modified state-space market model to recursively estimate the risk/return performance of each index, and two market benchmarks are considered, thus providing a more accurate picture of the financial outcomes of investing in these relatively new financial instruments. The main findings indicate that during periods of market stability, Clean Techs indexes outperform market portfolio in terms of returns. This superior performance is a consequence of the higher risk levels associated with Clean Techs indexes. This research also supports that CT indexes with a restricted investment universe underperform the market portfolio in terms of returns. Moreover, we find a structural change in the dynamics of the Clean Techs indexes' return/risk performance that coincides with the beginning of the financial crisis. Although the CT indexes are highly volatile financial instruments, even in bull market periods, they turn even riskier during the recent financial crisis. In addition, the CT provider portfolio allocation policy and the activities covered by these indexes influenced the risk/return performance of a limited number of CT equity indexes. 
+WOS:000323355600028
+</snippet>
+</document>
+
+<document id="85">
+<title>Continuous Mixed-Laplace Jump Diffusion Models for Stocks and Commodities</title>
+<url>http://dx.doi.org/10.3934/QFE.2017.2.145</url>
+<snippet>This paper proposes two jump di ff usion models with and without mean reversion, for stocks or commodities, capable to fit highly leptokurtic processes. The jump component is a continuous mixture of independent point processes with Laplace jumps. As in financial markets, jumps are caused by the arrival of information and sparse information has usually more importance than regular information, the frequencies of shocks are assumed inversely proportional to their average size. In this framework, we find analytical expressions for the density of jumps, for characteristic functions and moments of log-returns. Simple series developments of characteristic functions are also proposed. Options prices or densities are retrieved by discrete Fourier transforms. An empirical study demonstrates the capacity of our models to fit time series with a high kurtosis. The Continuous Mixed-Laplace Jump Di ff usion (CMLJD) is fitted to four major stocks indices (MSWorld, FTSE, S&amp; P and CAC 40), over a period of 10 years. The mean reverting CMLJD is fitted to four time series of commodity prices (Copper, Soy Beans, Crude Oil WTI and Wheat), observed on four years. Finally, examples of implied volatility surfaces for European Call options are presented. The sensitivity of this surface to each parameters is analyzed.
+WOS:000413914500002
+</snippet>
+</document>
+
+<document id="86">
+<title>Localized kernel-based approximation for pricing financial options under regime switching jump diffusion model</title>
+<url>http://dx.doi.org/10.1016/j.apnum.2018.07.008</url>
+<snippet>In this paper, we consider European and American option pricing problems under regime switching jump diffusion models which are formulated as a system of partial integro-differential equations (PIDEs) with fixed and free boundaries. For free boundary problem arising in pricing American option, we use operator splitting method to deal with early exercise feature of American option. For developing a numerical technique we employ localized radial basis function generated finite difference (RBF-FD) approximation to overcome the ill-conditioning and high density issues of discretized matrices. The proposed method leads to linear systems with tridiagonal and diagonal dominant matrices. Also, in this paper the convergence and consistency of the proposed method are discussed. Numerical examples presented in the last section illustrate the robustness and practical performance of the proposed algorithm for pricing European and American options. Published by Elsevier B.V. on behalf of IMACS.
+WOS:000447092000007
+</snippet>
+</document>
+
+<document id="87">
+<title>A hybrid deep learning model for cryptocurrency returns forecasting: Comparison of the performance of financial markets and impact of external variables</title>
+<url>http://dx.doi.org/10.1016/j.ribaf.2024.102575</url>
+<snippet>This study introduces a finetuned hybrid forecasting model combining both Discrete Wavelet Transform (DWT) and Long Short-Term Memory network (LSTM) to predict dirty and clean cryptocurrency returns (Bitcoin and Ripple). The findings show that the proposed DWT-LSTM model outperforms a large set of benchmark models in terms of forecasting accuracy. We investigate a broader set of predictors involving financial markets (other cryptocurrencies and commodities) and external variables (blockchain information, Twitter economic uncertainty, and CO2 emissions). Our findings underline the comparable performance of the considered predictors, with the Twitter Economic Uncertainty index being the best predictor of Bitcoin returns and S&amp;P GSCI Energy being the best predictor of Ripple returns. We also highlight the superior performance of the trading strategies based on our forecasting results.
+WOS:001330536500001
+</snippet>
+</document>
+
+<document id="88">
+<title>Shanghai Containerised Freight Index Forecasting Based on Deep Learning Methods: Evidence from Chinese Futures Markets</title>
+<url>http://dx.doi.org/10.11644/KIEP.EAER.2024.28.3.439</url>
+<snippet>With the escalation of global trade, the Chinese commodity futures market has ascended to a pivotal role within the international shipping landscape. The Shanghai Containerized Freight Index (SCFI), a leading indicator of the shipping industry's health, is particularly sensitive to the vicissitudes of the Chinese commodity futures sector. Nevertheless, a significant research gap exists regarding the application of Chinese commodity futures prices as predictive tools for the SCFI. To address this gap, the present study employs a comprehensive dataset spanning daily observations from March 24, 2017, to May 27, 2022, encompassing a total of 29,308 data points. We have crafted an innovative deep learning model that synergistically combines Long Short- Term Memory (LSTM) and Convolutional Neural Network (CNN) architectures. The outcomes show that the CNN-LSTM model does a great job of finding the nonlinear dynamics in the SCFI dataset and accurately capturing its long-term temporal dependencies. The model can handle changes in random sample selection, data frequency, and structural shifts within the dataset. It achieved an impressive R2 of 96.6&#37; and did better than the LSTM and CNN models that were used alone. This research underscores the predictive prowess of the Chinese futures market in influencing the Shipping Cost Index, deepening our understanding of the intricate relationship between the shipping industry and the financial sphere. Furthermore, it broadens the scope of machine learning applications in maritime transportation management, paving the way for SCFI forecasting research. The study's findings offer potent decision-support tools and risk management solutions for logistics enterprises, shipping corporations, and governmental entities.
+WOS:001344157200003
+</snippet>
+</document>
+
+<document id="89">
+<title>Option Pricing under Double Heston Jump-Diffusion Model with Approximative Fractional Stochastic Volatility</title>
+<url>http://dx.doi.org/10.3390/math9020126</url>
+<snippet>Based on the present studies about the application of approximative fractional Brownian motion in the European option pricing models, our goal in the article is that we adopt the creative model by adding approximative fractional stochastic volatility to double Heston model with jumps since approximative fractional Brownian motion is more proper for application than Brownian motion in building option pricing models based on financial market data. We are the first to adopt the creative model. We derive the pricing formula for the options and the formula for the characteristic function. We also estimate the parameters with the loss function for the model and two nested models and compare the performance among those models based on the market data. The outcome illustrates that the model offers the best performance among the three models. It demonstrates that approximative fractional Brownian motion is more proper for application than Brownian motion.
+WOS:000611363500001
+</snippet>
+</document>
+
+<document id="90">
+<title>Valuing Vulnerable Geometric Asian Basket Options Under Stochastic Volatility Jump Diffusion Model</title>
+<url>http://dx.doi.org/10.1007/s10614-025-10954-9</url>
+<snippet>An Asian basket option is a path-dependent multi-asset option whose payoff depends on the weighted average prices of several underlying assets at expired time. It is one of the most popular options in the over-the-counter (OTC) market, and provides the advantage of representing various kinds and any number of assets as a single product to satisfy investor's hedging requirements. However, investors who hold standard Asian basket options may face problems caused by the increasing apprehension of counterparty's default risk in the OTC market during the global financial crisis or COVID-19 pandemic. To overcome such disadvantages, we propose an European-style geometric n-asset Asian basket options with counterparty risk (named vulnerable geometric Asian basket options, vulnerable-GABOs), which have generally the effect of decreasing the variance and exhibit the original features of standard Asian basket options. In this paper, we investigate the pricing of the vulnerable geometric basket options under multi-asset stochastic volatility jump diffusion (SVJD) model, in which the dynamics of both multi-asset underlying the option and the asset of option writers follows the normal jump-diffusion models with Heston's stochastic volatility process. Based on the proposed model, we obtain closed-form analytical formulas of the option price and its delta value via means of the Fourier transform and the joint characteristic function obtained by the Esscher-Girsanov transform and Feynman-Kac theorem. Besides, the approximate solutions of the vulnerable geometric Asian basket option and its delta value can be quickly calculated by using the discrete fast Fourier transform (FFT) method. Furthermore, we numerically test the accuracy and efficiency of the price of a vulnerable geometric Asian basket options (as obtained using FFT in the SVJD model) by comparing that obtained by Monte Carlo simulations. The results indicate that FFT is accurate, fast and easy to implement. Finally, sensitivity analysis is presented to further explain the theoretical results.
+WOS:001479076300001
+</snippet>
+</document>
+
+<document id="91">
+<title>Novel optimization approach for realized volatility forecast of stock price index based on deep reinforcement learning model</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2023.120880</url>
+<snippet>Accurately predicting volatility has always been the focus of government decision-making departments, financial regulators and academia. Therefore, it is very crucial to precisely predict the realized volatility (RV) of the stock price index. In this paper, we take the RV sequences of Shanghai Stock Exchange Composite Index (SSEC), Standard &amp; Poor 500 index (SPX) and Financial Times Stock Exchange Index (FTSE) as the research objects, and propose a predictive model based on optimized variational mode decomposition (VMD), deep learning models including deep belief network (DBN), long short-term memory network (LSTM) and gated recurrent unit (GRU), and reinforcement learning Q-learning algorithm. Firstly, the original RV sequence is decomposed by using the VMD ideal parameters optimized by grey wolf optimizer (GWO) to obtain the intrinsic mode functions (IMFs). Then, DBN, LSTM and GRU are used to predict same IMF simultaneously. Finally, the optimal weights of the above three models are determined by the Q-learning algorithm to construct an integrated model, and the final results are obtained after accumulating the predicted values of each IMF. The predictive performance of the model was evaluated by four loss functions: the mean average error (MAE), mean squared error (MSE), heterogeneous mean average error (HMAE), heterogeneous mean squared error (HMSE) and modified Diebold and Mariano test (MDM). The experimental results show that the constructed GVMD-Q-DBN-LSTM-GRU method has better performance that the comparison model in both emerging and developed markets.
+WOS:001039299400001
+</snippet>
+</document>
+
+<document id="92">
+<title>Statistical Arbitrage with Mean-Reverting Overnight Price Gaps on High-Frequency Data of the S&amp;P 500</title>
+<url>http://dx.doi.org/10.3390/jrfm12020051</url>
+<snippet>This paper develops a fully-fledged statistical arbitrage strategy based on a mean-reverting jump-diffusion model and applies it to high-frequency data of the S&amp;P 500 constituents from January 1998-December 2015. In particular, the established stock selection and trading framework identifies overnight price gaps based on an advanced jump test procedure and exploits temporary market anomalies during the first minutes of a trading day. The existence of the assumed mean-reverting property is confirmed by a preliminary analysis of the S&amp;P 500 index; this characteristic is particularly significant 120 min after market opening. In the empirical back-testing study, the strategy delivers statistically- and economically-significant returns of 51.47 percent p.a.and an annualized Sharpe ratio of 2.38 after transaction costs. We benchmarked our trading algorithm against existing quantitative strategies from the same research area and found its performance superior in a multitude of risk-return characteristics. Finally, a deep dive analysis shows that our results are consistently profitable and robust against drawdowns, even in recent years.
+WOS:000475294000002
+</snippet>
+</document>
+
+<document id="93">
+<title>Energy market prediction with novel long short-term memory network: Case study of energy futures index volatility</title>
+<url>http://dx.doi.org/10.1016/j.energy.2020.118634</url>
+<snippet>Energy futures that is no less influential than the spot market is an important part of commodity futures. A novel ST-LSTM model based on long short-term memory network (LSTM) model is proposed to improve the prediction accuracy of energy futures index. In the process of establishing this model, stochastic time strength function that represents different effects on current and future information at various times is introduced into weights and errors of LSTM model, which makes the model more consistent with the randomness and volatility of futures markets. The empirical research, including six evaluation prediction criteria and fitting curve methods, verifies that the prediction accuracy is improved by ST-LSTM model. Furthermore, a new multi-scale complex synchronization method q-MCCS is pro-posed to evaluate the models. The ST-LSTM model is also utilized to predict the energy futures price of different time interval lengths, such as one month, three months, six months and one year, which demonstrates that the longer the time interval length is and the less volatile the energy futures price is, the superior the forecast effect is. (C) 2020 Elsevier Ltd. All rights reserved.
+WOS:000591606400005
+</snippet>
+</document>
+
+<document id="94">
+<title>Deep learning enhanced volatility modeling with covariates</title>
+<url>http://dx.doi.org/10.1016/j.frl.2024.106145</url>
+<snippet>Exogenous information such as policy news and economic indicators can have the potential to trigger significant movements in financial asset volatility. This article presents a model, called the RECH-X model, that allows incorporating exogenous variables into a recurrent neural network for volatility modeling and forecasting. The RECH-X model can allow for abrupt changes in the volatility level and effectively capture the complex serial dependence structure in the volatility dynamics. We demonstrate in a wide range of applications that the RECH-X model consistently outperforms the benchmark models in terms of volatility modeling and forecasting.
+WOS:001332296500001
+</snippet>
+</document>
+
+<document id="95">
+<title>Bayesian semiparametric Markov switching stochastic volatility model</title>
+<url>http://dx.doi.org/10.1002/asmb.2434</url>
+<snippet>This paper proposes a novel Bayesian semiparametric stochastic volatility model with Markov switching regimes for modeling the dynamics of the financial returns. The distribution of the error term of the returns is modeled as an infinite mixture of Normals; meanwhile, the intercept of the volatility equation is allowed to switch between two regimes. The proposed model is estimated using a novel sequential Monte Carlo method called particle learning that is especially well suited for state-space models. The model is tested on simulated data and, using real financial times series, compared to a model without the Markov switching regimes. The results show that including a Markov switching specification provides higher predictive power for the entire distribution, as well as in the tails of the distribution. Finally, the estimate of the persistence parameter decreases significantly, a finding consistent with previous empirical studies.
+WOS:000479057700004
+</snippet>
+</document>
+
+<document id="96">
+<title>Numerically Pricing Nonlinear Time-Fractional Black-Scholes Equation with Time-Dependent Parameters Under Transaction Costs</title>
+<url>http://dx.doi.org/10.1007/s10614-021-10148-z</url>
+<snippet>One of the assumptions of the classical Black-Scholes (B-S) is that the market is frictionless. Also, the classical B-S model cannot show the memory effect of the stock price in the financial markets. Previously, Ankudinova and Ehrhardt (Comput Math Appl 56:799-812, 2008) priced a European option under the classical B-S model with transaction costs when dividends are paid on assets during that period. But due to the importance of the trend memory effect in financial pricing, we extend Ankudinova's and Ehrhardt's study under the fractional B-S model when the price change of the underlying asset with time follows a fractal transmission system. The option price is governed by a time-fractional B-S equation of order 0 &lt; alpha &lt; 1. The main objective of this study is to obtain a numerical solution to determine the European option price with transaction costs based on the implicit difference scheme. This difference scheme is unconditionally stable and convergent and is shown stability and convergence by Fourier analysis. Numerical results and comparisons demonstrate that the introduced difference scheme has high accuracy and efficiency.
+WOS:000710055200001
+</snippet>
+</document>
+
+<document id="97">
+<title>Hybrid data decomposition-based deep learning for Bitcoin prediction and algorithm trading</title>
+<url>http://dx.doi.org/10.1186/s40854-022-00336-7</url>
+<snippet>In recent years, Bitcoin has received substantial attention as potentially high-earning investment. However, its volatile price movement exhibits great financial risks. Therefore, how to accurately predict and capture changing trends in the Bitcoin market is of substantial importance to investors and policy makers. However, empirical works in the Bitcoin forecasting and trading support systems are at an early stage. To fill this void, this study proposes a novel data decomposition-based hybrid bidirectional deep-learning model in forecasting the daily price change in the Bitcoin market and conducting algorithmic trading on the market. Two primary steps are involved in our methodology framework, namely, data decomposition for inner factors extraction and bidirectional deep learning for forecasting the Bitcoin price. Results demonstrate that the proposed model outperforms other benchmark models, including econometric models, machine-learning models, and deep-learning models. Furthermore, the proposed model achieved higher investment returns than all benchmark models and the buy-and-hold strategy in a trading simulation. The robustness of the model is verified through multiple forecasting periods and testing intervals.
+WOS:000777179100003
+</snippet>
+</document>
+
+<document id="98">
+<title>An Importance Sampling Method to Evaluate Value-at-Risk for Assets with Jump Risks</title>
+<url>http://dx.doi.org/10.1111/j.2041-6156.2009.tb00029.x</url>
+<snippet>Risk management is an important issue when there is a catastrophic event that affects asset price in the market such as a sub-prime financial crisis or other financial crisis. By adding a jump term in the geometric Brownian motion, the jump diffusion model can be used to describe abnormal changes in asset prices when there is a serious event in the market. In this paper, we propose an importance sampling algorithm to compute the Value-at-Risk for linear and nonlinear assets under a multi-variate jump diffusion model. To be more precise, an efficient computational procedure is developed for estimating the portfolio loss probability for linear and nonlinear assets with jump risks. And the titling measure can be separated for the diffusion and the jump part under the assumption of independence. The simulation results show that the efficiency of importance sampling improves over the naive Monte Carlo simulation from 7 times to 285 times under various situations. We also show the robustness of the importance sampling algorithm by comparing it with the EVT-Copula method proposed by Oh and Moon (2006).
+WOS:000271440300004
+</snippet>
+</document>
+
+<document id="99">
+<title>Evaluation of variable annuity guarantees with the effect of jumps in the asset price process</title>
+<url>http://dx.doi.org/10.1080/23322039.2017.1326218</url>
+<snippet>Financial crisis in 2007-2008 have caused losses to life insurance companies issuing variable annuities with guarantees. This is partly due to failure of variable annuity (VA) issuers to anticipate the large variations in asset prices during the financial crisis times in their pricing framework and also setting a higher guaranteed rate. This study aims to investigate the pricing of the guaranteed minimum death and accumulation benefits embedded in flexible premium VA. We compare the prices from calibrated Black-Scholes model to that of calibrated jump-diffusion model. Although both models assume constant volatility, the fact that Black-Scholes model ignores abnormal asset price changes due to jumps is likely to under-price the VA. We also conduct a case study to analyse the impact on guarantee fees for different stock market performance and regional mortality rates.
+WOS:000403555200001
+</snippet>
+</document>
+
+<document id="100">
+<title>INVESTIGATIONS TO THE OPTIMAL DERIVATIVE-BASED INVESTMENT AND PROPORTIONAL REINSURANCE STRATEGIES</title>
+<url>http://dx.doi.org/10.3934/jimo.2023143</url>
+<snippet>. The optimal derivative-based investment and proportional reinsurance problems with stochastic volatility and jump risks are investigated. Assume that insurer possesses the constant absolute risk aversion preference. The insurer transfers part of insurance risk via purchasing proportional reinsurance and invests surplus in financial market with a risk-free bond, a risky stock described by the stochastic volatility jump diffusion model, and two nonredundant derivatives. The optimal strategies of reinsurance and investment with derivative trading are obtained in closed-form, while the optimal strategies with no derivative trading are numerically analyzed. The gain from derivative trading is analyzed by the method of certainty-equivalence. Our results illustrate that the value of derivative trading is always positive and sizeable, compared with the size of positions in the financial market. Moreover, under the assumption that the risks in the financial market are independent of those in the insurance market, the optimal strategy of reinsurance is independent of that of investment.
+WOS:001098266100001
+</snippet>
+</document>
+
+<document id="101">
+<title>APPROXIMATE HEDGING WITH CONSTANT PROPORTIONAL TRANSACTION COSTS IN FINANCIAL MARKETS WITH JUMPS</title>
+<url>http://dx.doi.org/10.1137/S0040585X97T989921</url>
+<snippet>We study a problem of option replication under constant proportional transaction costs in models where stochastic volatility and jumps are combined to capture the market's important features. Assuming some mild condition on the jump size distribution, we show that transaction costs can be approximately compensated by applying the Leland adjusting volatility principle and the asymptotic property of the hedging error due to discrete readjustments. In particular, the jump risk can be approximately eliminated, and the results established in continuous diffusion models are recovered. The study also confirms that, for the case of constant trading cost rate, the approximate results established by Kabanov and Safarian [Finance Stoch., 1 (1997), pp. 239-250] and by Pergamenschikov [Ann. Appl. Probab., 13 (2003), pp. 1099-1118] are still valid in jump-diffusion models with deterministic volatility.
+WOS:000568141900003
+</snippet>
+</document>
+
+<document id="102">
+<title>Jump Detection and Noise Separation by a Singular Wavelet Method for Predictive Analytics of High-Frequency Data</title>
+<url>http://dx.doi.org/10.1007/s10614-019-09881-3</url>
+<snippet>High-frequency data is a big data in finance in which a large amount of intra-day transactions arriving irregularly in financial markets are recorded. Given the high frequency and irregularity, such data require efficient tools to filter out the noise (i.e. jumps) arising from the anomaly, irregularity, and heterogeneity of financial markets. In this article, we use a recurrently adaptive separation algorithm, which is based on the maximal overlap discrete wavelet transform (MODWT) and that can effectively: (1) identify the time-variant jumps, (2) extract the time-consistent patterns from the noise (jumps), and (3) denoise the marginal perturbations. In addition, the proposed algorithm enables reinforcement learning to optimize a multiple-criteria decision or convex programming when reconstructing the wavelet-denoised data. Using simulated data, we show the proposed approach can perform efficiently in comparison with other conventional methods documented in the literature. We also apply our method in an empirical study by using high-frequency data from the US stock market and confirm that the proposed method can significantly improve the accuracy of predictive analytics models for financial market returns.
+WOS:000477065600013
+</snippet>
+</document>
+
+<document id="103">
+<title>On Deep-Fake Stock Prices and Why Investor Behavior Might Not Matter</title>
+<url>http://dx.doi.org/10.3390/a15120475</url>
+<snippet>We propose an agent-based model of financial markets with only one asset. Thirty-two agents follow very simple rules inspired by Wolfram's Rule 110. They engage in buying, selling, and/or holding. Each agent is endowed with a starting balance sheet marked-to-market in each iteration. The simulation allows for margin calls for both buying and selling. During each iteration, the number of buy, hold, and sell positions is aggregated into a market price with the help of a simple, linear formula. The formula generates a price depending on the number of buy and sell positions. Various results are obtained by altering the pricing formula, the trading algorithm, and the initial conditions. When applying commonly used statistical tools, we find processes that are essentially indistinguishable from the price of real assets. They even display bubbles and crashes, just like real market data. Our model is remarkable because it can apparently generate a process of equivalent complexity to that of a real asset price, but it starts from a handful of initial conditions and a small number of very simple linear algorithms in which randomness plays no part. We contend our results have far-reaching implications for the debate around investor behavior and the regulation of financial markets.
+WOS:000900482400001
+</snippet>
+</document>
+
+<document id="104">
+<title>A novel jump diffusion model based On SGT distribution and its applications</title>
+<url>http://dx.doi.org/10.1016/j.econmod.2016.07.004</url>
+<snippet>In this study, we propose two novel jump diffusion models, named the BS-SGT model and the Kou-SGT model, to characterize the asymmetric return distribution with skewness, excess kurtosis, and heavy tails. The two models are based on two existing initial models (the Black-Scholes (BS) model and the Kou's jump diffusion model) respectively by introducing a skewed generalized t distribution (SGT). Moreover, we use the bipower variation test and the maximum likelihood estimation method to prove the existence of jumps and estimate, parameters, respectively. Further, several GARCH family models with some compouncLreturn distributions are presented to compare with the above novel jump diffusion models on the volatility forecast performance. Two main conclusions are as follows. First, for the asset return distribution describing performance, the results of empirical analysis show that the novel jump diffusion model is more tractable to handle and capture the characteristics of the asymmetric distribution with skewness, excess kurtosis, and heavy tails than the corresponding initial model in financial market. Second, the models with SGT distribution forecast volatility more accurately than the corresponding models without SGT distribution. In addition, the GARCH family models with compound return distribution outperform the corresponding jump diffusion models. (C) 2016 Elsevier B.V. All rights reserved.
+WOS:000387191500007
+</snippet>
+</document>
+
+<document id="105">
+<title>Cryptocurrency Price Prediction Using Frequency Decomposition and Deep Learning</title>
+<url>http://dx.doi.org/10.3390/fractalfract7100708</url>
+<snippet>Given the substantial volatility and non-stationarity of cryptocurrency prices, forecasting them has become a complex task within the realm of financial time series analysis. This study introduces an innovative hybrid prediction model, VMD-AGRU-RESVMD-LSTM, which amalgamates the disintegration-integration framework with deep learning techniques for accurate cryptocurrency price prediction. The process begins by decomposing the cryptocurrency price series into a finite number of subseries, each characterized by relatively simple volatility patterns, using the variational mode decomposition (VMD) method. Next, the gated recurrent unit (GRU) neural network, in combination with an attention mechanism, predicts each modal component's sequence separately. Additionally, the residual sequence, obtained after decomposition, undergoes further decomposition. The resultant residual sequence components serve as input to an attentive GRU (AGRU) network, which predicts the residual sequence's future values. Ultimately, the long short-term memory (LSTM) neural network integrates the predictions of modal components and residuals to yield the final forecasted price. Empirical results obtained for daily Bitcoin and Ethereum data exhibit promising performance metrics. The root mean square error (RMSE) is reported as 50.651 and 2.873, the mean absolute error (MAE) stands at 42.298 and 2.410, and the mean absolute percentage error (MAPE) is recorded at 0.394&#37; and 0.757&#37;, respectively. Notably, the predictive outcomes of the VMD-AGRU-RESVMD-LSTM model surpass those of standalone LSTM and GRU models, as well as other hybrid models, confirming its superior performance in cryptocurrency price forecasting.
+WOS:001095119700001
+</snippet>
+</document>
+
+<document id="106">
+<title>Inference of Binary Regime Models with Jump Discontinuities</title>
+<url>http://dx.doi.org/10.1007/s13571-022-00277-2</url>
+<snippet>Identifying the instances of jumps in a discrete-time-series sample of a jump diffusion model is a challenging task. We have developed a novel statistical technique for jump detection and volatility estimation in a return time series data using a threshold method. The consistency of the volatility estimator has been obtained. Since we have derived the threshold and the volatility estimator simultaneously by solving an implicit equation, we have obtained unprecedented accuracy across a wide range of parameter values. Using this method, the increments attributed to jumps have been removed from a large collection of historical data of Indian sectorial indices. Subsequently, we have tested the presence of regime-switching dynamics in the volatility coefficient using a new discriminating statistic. The statistic has been shown to be sensitive to the transition kernel of the regime-switching model. We perform the testing using Bootstrap method and find a clear indication of presence of multiple regimes of volatility in the data. A link to all Python codes is given in the conclusion. The methodology is suitable for analyzing high frequency data and may be applied for algorithmic trading.
+WOS:000783161400001
+</snippet>
+</document>
+
+<document id="107">
+<title>SV mixture models with application to S&amp;P 500 index returns</title>
+<url>http://dx.doi.org/10.1016/j.jfineco.2006.06.005</url>
+<snippet>Understanding both the dynamics of volatility and the shape of the distribution of returns conditional on the volatility state is important for many financial applications. A simple single-factor stochastic volatility model appears to be sufficient to capture most of the dynamics. It is the shape of the conditional distribution that is the problem. This paper examines the idea of modeling this distribution as a discrete mixture of normals. The flexibility of this class of distributions provides a transparent look into the tails of the returns distribution. Model diagnostics suggest that the model, SV-mix, does a good job of capturing the salient features of the data. In a direct comparison against several affine-jump models, SV-mix is strongly preferred by Akaike and Schwarz information criteria. 
+WOS:000249409300008
+</snippet>
+</document>
+
+<document id="108">
+<title>Multi-model transfer function approach tuned by PSO for predicting stock market implied volatility explained by uncertainty indexes</title>
+<url>http://dx.doi.org/10.1038/s41598-024-74456-8</url>
+<snippet>This paper studies the forecasting power of uncertainty emanating from the commodities market, energy market, economic policy, and geopolitical threats to the CBOE Volatility Index (VIX). In this study, the relationship between the various uncertainty metrics throughout the period 2012-2022, using a multi-model transfer function technique optimized by particle swarm optimization (PSO) is estimated. Furthermore, we utilize PSO for parameter optimization within the multi-model framework, improving model performance and convergence speed. According to empirical findings, the CBOE Volatility Index reacts nonlinearly to the uncertainty indices. Specifically, the conclusions of the performance metrics show that the OVX index (MAPE: 4.1559&#37;; RMSE: 1.0476&#37; and W: 96.74&#37;) outperforms the geopolitical risk index, the Bloomberg energy index, and the economic policy uncertainty index in predicting the volatility of the US equities market. Although individual models have generated respectful performance, results from the aggregate simulation show that when all predictors are combined, they simultaneously provide better performance indicators (MAVE: 2.7511 &#37;; RMSE: 0.7361&#37;; R2: 98.93&#37;) than when they are estimated separately. In addition, results provide evidence that, when considering non-linear patterns in the data, the multi-model transfer function technique calibrated using PSO demonstrates its outperformance over autoregressive baseline models, traditional econometric models, and deep learning techniques. The effectiveness and accuracy of the multi-model transfer function method tuned by PSO as a forecasting tool are confirmed by the convergence analysis of the cost function. Our methodology innovates by employing a multi-model transfer function technique, which captures the complex and nonlinear relationships between uncertainty indicators and the VIX more comprehensively than traditional single-model approaches. These results are important for traders in terms of hedging as well as portfolio diversification by investing in defensive equities and for policymakers in terms of reliability and preciseness of volatility forecasts.
+WOS:001326080400074
+</snippet>
+</document>
+
+<document id="109">
+<title>Empirical mode decomposition using deep learning model for financial market forecasting</title>
+<url>http://dx.doi.org/10.7717/peerj-cs.1076</url>
+<snippet>Financial market forecasting is an essential component of financial systems; however, predicting financial market trends is a challenging job due to noisy and non-stationary information. Deep learning is renowned for bringing out excellent abstract features from the huge volume of raw data without depending on prior knowledge, which is potentially fascinating in forecasting financial transactions. This article aims to propose a deep learning model that autonomously mines the statistical rules of data and guides the financial market transactions based on empirical mode decomposition (EMD) with back-propagation neural networks (BPNN). Through the characteristic time scale of data, the intrinsic wave pattern was obtained and then decomposed. Financial market transaction data were analyzed, optimized using PSO, and predicted. Combining the nonlinear and non-stationary financial time series can improve prediction accuracy. The predictive model of deep learning, based on the analysis of the massive financial trading data, can forecast the future trend of financial market price, forming a trading signal when particular confidence is satisfied. The empirical results show that the EMD-based deep learning model has an excellent predicting performance.
+WOS:000856704500001
+</snippet>
+</document>
+
+<document id="110">
+<title>Deep learning framework for predictive modeling of crude oil price for sustainable management in oil markets</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2022.118658</url>
+<snippet>Crude oil price predictability has continually been considered as a fundamental argument of finance literature, given its critical propositions for risk management, investment decisions, and commercial and financial policymaking. This work presents an innovative learning framework for efficient predictive modeling of daily and weekly crude oil price (COP) information, which aims to enable sustainable management in oil markets. Firstly, an optimized version of variation mode decomposition (OVMD) is proposed to adaptively decompose the original COP time series into multiple modes based on a set of optimized parameters calculated with a Tree-structured Parzen Estimator (TPE) algorithm. Secondly, an AdaBoost algorithm is redesigned using random forest (RF) to model the future price information in the modes with the high frequency. Thirdly, a new deep network is presented to develop automatically learn spatial-temporal representations from decomposed COP data, where a novel Conv-former module is designed to efficiently extract local as well as global spatial representations without incurring extra computational costs. Followingly, Multiple Long short-term Memory (LSTM) networks are stacked to learn temporal representations from input modes. To further empower the representation power of our framework, a new bidirectional learning module is presented to stack the LSTM layer to learn from COP data in the forward and backward directions. To validate the efficiency of the proposed framework, this work performs experimental simulations and analyses based on a case study from Brent crude oil prices at both daily and weekly scales. The experimental findings show up the competent predictive modeling capabilities of the proposed framework over the cutting-edge methods rendering it as a promising solution to enable sustainable management in crude oil markets. The proposed framework can be generalized to different predictive modeling tasks and hence qualified to be used as a valuable tool for oil portfolio creation, property pricing, and risk management in Crude Oil Markets.
+WOS:000912819000004
+</snippet>
+</document>
+
+<document id="111">
+<title>Model Complexity and Out-of-Sample Performance: Evidence from S&amp;P 500 Index Returns</title>
+<url>http://dx.doi.org/10.1016/j.jedc.2018.01.040</url>
+<snippet>We apply a range of out-of-sample specification tests to more than forty competing stochastic volatility models to address how model complexity affects out-of-sample performance. Using daily S&amp;P 500 index returns, model confidence set estimations provide strong evidence that the most important model feature is the non-affinity of the variance process. Despite testing alternative specifications during the turbulent market regime of the global financial crisis of 2008, we find no evidence that either finite- or infinite-activity jump models or other previously proposed model extensions improve the out-of-sample performance further. Applications to Value-at-Risk demonstrate the economic significance of our results. Furthermore, the out-of-sample results suggest that standard jump diffusion models are misspecified. (C) 2018 Elsevier B.V. All rights reserved.
+WOS:000436529900001
+</snippet>
+</document>
+
+<document id="112">
+<title>Optimal investment of defined contribution pension plan with environmental, social, and governance (ESG) factors in regime-switching jump diffusion models</title>
+<url>http://dx.doi.org/10.1080/03610926.2024.2395883</url>
+<snippet>In this article, we address the optimal investment problem for a defined contribution pension plan, taking into account both financial performance and environmental, social, and governance (ESG) factors. We model the surplus of the pension fund using a regime-switching jump diffusion process. To capture the pension managers' preference toward different kinds of assets, such as green and brown stocks, we utilize the multiple constant relative risk aversion utility. By applying the dynamic programming principle, we derive the optimal investment strategy and the corresponding value function. We also discuss the existence and uniqueness of the optimal solution. Through numerical analysis, we demonstrate that increasing salary and contribution rates, as well as implementing policies related to sustainable development, can effectively encourage pension managers to allocate more of their investments toward green stocks. These findings contribute to a better understanding of the optimal investment decisions in defined contribution pension plans, considering both financial and ESG aspects. In summary, this article can provide valuable insights for both policymakers and practitioners interested in enhancing sustainable investment and aligning pension funds with ESG objectives.
+WOS:001313453800001
+</snippet>
+</document>
+
+<document id="113">
+<title>Investor sentiment and the Chinese new energy stock market: A risk-return perspective</title>
+<url>http://dx.doi.org/10.1016/j.iref.2022.11.035</url>
+<snippet>The new energy industry is crucial for solving the problem of pollution, and its development requires support from the stock market. This paper proposes a Chinese investor sentiment index based on the Long Short-Term Memory (LSTM) deep learning method, and investigates the effect of investor sentiment on new energy stock returns as well as value at risks (VaR) behavior before and during COVID-19. It also compares these effects on traditional energy companies to identify differences between the new energy and traditional companies. The empirical results show that investor sentiment has significant effects on stock returns and VaR of both new and traditional energy companies but the effects are stronger in the new energy industry. The effects of investor sentiment have increased during COVID-19, and investors pay more attention on risks than returns during COVID-19. These results provide guidance for small and medium-sized investors in China to optimize their investment strategies and alleviate losses associated with extreme risks.
+WOS:000903180900011
+</snippet>
+</document>
+
+<document id="114">
+<title>Crude oil price forecasting with multivariate selection, machine learning, and a nonlinear combination strategy</title>
+<url>http://dx.doi.org/10.1016/j.engappai.2024.109510</url>
+<snippet>Crude oil price forecasting has been one of the research hotspots in the field of energy economics, which plays a crucial role in energy supply and economic development. However, numerous influencing factors bring serious challenges to crude oil price forecasting, and existing research has room for further improvement in terms of an integrated research roadmap that combines impact factor analysis with predictive modelling. This study aims to examine the impact of financial market factors on the crude oil market and to propose a nonlinear combined forecasting framework based on common variables. Four types of daily exogenous financial market variables are introduced: commodity prices, exchange rates, stock market indices, and macroeconomic indicators for ten indicators. First, various variable selection methods generate different variable subsets, providing more diversity and reliability. Next, common variables in the subset of variables are selected as key features for subsequent models. Then, four models predict crude oil prices using common features as inputs and obtain the prediction results for each model. Finally, the nonlinear mechanism of the deep learning technology is introduced to combine above single prediction results. Experimental results reveal that commodity and foreign exchange factors in financial markets are critical determinants of crude oil market volatility over the long term, as observed in experiments conducted on the West Texas Intermediate and Brent oil price datasets. The proposed model demonstrates strong performance regarding average absolute percentage error, recorded at 2.9962&#37; and 2.4314&#37;, respectively, indicating high forecasting accuracy and robustness. This forecasting framework offers an effective methodology for predicting crude oil prices and enhances understanding the crude oil market.
+WOS:001349086200001
+</snippet>
+</document>
+
+<document id="115">
+<title>FINANCIAL DERIVATIVE VALUATION - A DYNAMIC SEMIPARAMETRIC APPROACH</title>
+<url>http://dx.doi.org/</url>
+<snippet>A dynamic semiparametric pricing method is proposed for financial derivatives, including European and American-type options and convertible bonds. The proposed method is an iterative procedure which uses nonparametric regression to approximate derivative values, and parametric asset models to derive the continuation values. Extension to higher-dimensional option pricing is also developed, in which the dependence structure of financial time series is modeled by copula functions. In the simulation study, we valuate one-dimensional American options, convertible bonds, multi-dimensional American geometric average options, and max options. The considered one-dimensional underlying asset models include the Black-Scholes, jump-diffusion, and NGARCH models and, for the multivariate case, we study copula models Such as the Gaussian, Clayton, and Gumbel copulae. Convergence of the method is proved tinder continuity assumption on the transition densities of the underlying asset models, and the orders of the supnorm errors are derived. Both the theoretical findings and the simulation results show the proposed approach to be tractable for numerical implementation and that it provides a unified and accurate technique for financial derivative pricing.
+WOS:000267608900009
+</snippet>
+</document>
+
+<document id="116">
+<title>Does inclusion of GARCH variance in deep learning models improve financial contagion prediction?</title>
+<url>http://dx.doi.org/10.1016/j.frl.2023.103707</url>
+<snippet>Financial contagions have traditionally been studied using GARCH models to explain the vola-tility, whereas regression models have been used to predict the stock index values based on different underlying assets. Past research has shown that deep learning regression models have demonstrated superiority over traditional statistical models. This paper creates a hybrid predic-tion model by using the outputs of GARCH models as an input variable in deep learning regression models. It has been observed that hybrid models provide better results as compared to deep learning models. Such improved prediction shall provide portfolio managers an additional tool to determine the investment strategy.
+WOS:000983637200001
+</snippet>
+</document>
+
+<document id="117">
+<title>Non-implementability of Arrow-Debreu equilibria by continuous trading under volatility uncertainty</title>
+<url>http://dx.doi.org/10.1007/s00780-018-0362-x</url>
+<snippet>In diffusion models, a few suitably chosen financial securities allow to complete the market. As a consequence, the efficient allocations of static Arrow-Debreu equilibria can be attained in Radner equilibria by dynamic trading. We show that this celebrated result generically fails if there is Knightian uncertainty about volatility. A Radner equilibrium with the same efficient allocation as in an Arrow-Debreu equilibrium exists if and only if the discounted net trades of the equilibrium allocation display no ambiguity in the mean. This property is violated generically in endowments, and thus Arrow-Debreu equilibrium allocations are generically unattainable by dynamically trading a few long-lived assets.
+WOS:000435784400003
+</snippet>
+</document>
+
+<document id="118">
+<title>Forecasting the Dynamic Correlation of Stock Indices Based on Deep Learning Method</title>
+<url>http://dx.doi.org/10.1007/s10614-021-10198-3</url>
+<snippet>With the economic globalization, it is important to accurately estimate and predict the correlation between global stock markets for the efficient asset allocation around the globe. While practitioners may resort to various GARCH-type models for correlation forecasting, the forecasting accuracy is still not very satisfactory. For the first time, this paper introduces a deep learning method into the research of stock market correlation. A hybrid DCDNN model is developed based on the RDNN (recurrent deep neural network) and DCC-GARCH models. Deep learning is then devised to forecast the prediction error of the DCC-GARCH model in order to improve the prediction accuracy of stock market correlation. An autoencoder is also introduced in the empirical study to extract useful features of the stock index data. Then, the correlations among the stock markets in China, Hong Kong, the United States and Europe are predicted and tested. We show that the accuracy of the DCDNN model is significantly higher than that of the DCC-GARCH model. The results indicate that the introduction of deep learning can help improve the efficacy of existing correlation forecasting methods.
+WOS:000701003500001
+</snippet>
+</document>
+
+<document id="119">
+<title>Forecasting commodity prices: empirical evidence using deep learning tools</title>
+<url>http://dx.doi.org/10.1007/s10479-022-05076-6</url>
+<snippet>Since the last two decades, financial markets have exhibited several transformations owing to recurring crises episodes that has led to the development of alternative assets. Particularly, the commodity market has attracted attention from investors and hedgers. However, the operational research stream has also developed substantially based on the growth of the artificial intelligence field, which includes machine learning and deep learning. The choice of algorithms in both machine learning and deep learning is case-sensitive. Hence, AI practitioners should first attempt solutions related to machine learning algorithms, and if such solutions are unsatisfactory, they must apply deep learning algorithms. Using this perspective, this study aims to investigate the potential of various deep learning basic algorithms for forecasting selected commodity prices. Formally, we use the Bloomberg Commodity Index (noted by the Global Aggregate Index) and its five component indices: Bloomberg Agriculture Subindex, Bloomberg Precious Metals Subindex, Bloomberg Livestock Subindex, Bloomberg Industrial Metals Subindex, and Bloomberg Energy Subindex. Based on daily data from January 2002 (the beginning wave of commodity markets' financialization) to December 2020, results show the effectiveness of the Long Short-Term Memory method as a forecasting tool and the superiority of the Bloomberg Livestock Subindex and Bloomberg Industrial Metals Subindex for assessing other commodities' indices. These findings is important in term for investors in term of risk management as well as policymakers in adjusting public policy, especially during Russian-Ukrainian war.
+WOS:000927894500003
+</snippet>
+</document>
+
+<document id="120">
+<title>Multi-agent reinforcement learning approach for hedging portfolio problem</title>
+<url>http://dx.doi.org/10.1007/s00500-021-05801-6</url>
+<snippet>Developing a hedging strategy to reduce risk of losses for a given set of stocks in a portfolio is a difficult task due to cost of the hedge. In Vietnam stock market, cross-hedge is involved hedging a long position of a stock because there is no put option for the stock. In addition, only VN30 stock index futures contracts are traded on Hanoi Stock Exchange. Inspired by recently achievement of deep reinforcement learning, we explore feasibility to construct a hedging strategy automatically by leveraging cooperative multi-agent in reinforcement learning techniques without advanced domain knowledge. In this work, we use 10 popular stocks on Ho Chi Minh Stock Exchange, and VN30F1M (VN30 Index Futures contracts within one month settlement) to develop a stock market simulator (including transaction fee, tax, and settlement date of transactions) for reinforcement learning agent training. We use daily return as input data for training process. Results suggest that the agent can learn trading and hedging policy to make profit and reduce losses. Furthermore, we also find that our agent can protect portfolios and make positive profit in case market collapses systematically. In practice, this work can help Vietnam's stock market investors to improve performance and reduce losses in trading, especially when the volatility cannot be controlled.
+WOS:000641235700008
+</snippet>
+</document>
+
+<document id="121">
+<title>Dynamic Co-Movements among Oil Prices and Financial Assets: A Scientometric Analysis</title>
+<url>http://dx.doi.org/10.3390/su141912796</url>
+<snippet>In this study, we examined the extant literature on the dynamic association between oil prices and financial assets with special emphasis on the methodologies for measuring the dependence among oil prices, exchange rates, stock prices, energy markets, and assets related to sustainable finance. We performed a scientometric review of the structure and global trends of the dynamic association among oil prices and financial assets, based on research from 1982 to 2022 (September) using techniques such as the analysis of (i) sources, (ii) authors, (iii) documents, and (iv) cluster analysis. A total of 746 bibliographic records from Scopus and Web of Science databases were analyzed to generate the study's research data through scientometric networks. The findings indicate that the most promising areas for further research in this field are represented by co-movement, copula, wavelet, dynamic correlation, and volatility analysis. Furthermore, energy markets and assets related to sustainable finance emerge as crucial trends in investigating dynamic co-movements with oil prices. They also suggest a research gap in analyzing by means of machine learning, deep learning, big data, and artificial intelligence for measuring dynamic co-movements among oil prices and assets in financial and energy markets, especially in emerging countries. Thus, these methodologies can be implemented in further research because these methods could more robustly quantify the association among such variables. The analysis provides researchers and practitioners with a comprehensive understanding of the existing literature and research trends on the dynamic association among oil prices and financial assets. It also promotes further studies in this domain. The identification of these relations presents benefits in risk diversification, hedges, speculation, and inflation targeting.
+WOS:000867233600001
+</snippet>
+</document>
+
+<document id="122">
+<title>No-arbitrage semi-martingale restrictions for continuous-time volatility models subject to leverage effects, jumps and i.i.d. noise: Theory and testable distributional implications</title>
+<url>http://dx.doi.org/10.1016/j.jeconom.2006.05.018</url>
+<snippet>We develop a sequential procedure to test the adequacy of jump-diffusion models for return distributions. We rely on intraday data and nonparametric volatility measures, along with a new jump detection technique and appropriate conditional moment tests, for assessing the import of jumps and leverage effects. A novel robust-to-jumps approach is utilized to alleviate microstructure frictions for realized volatility estimation. Size and power of the procedure are explored through Monte Carlo methods. Our empirical findings support the jump-diffusive representation for S&amp;P500 futures returns but reveal it is critical to account for leverage effects and jumps to maintain the underlying semi-martingale assumption. 
+WOS:000246050700008
+</snippet>
+</document>
+
+<document id="123">
+<title>Financial Market Determinants of Dynamic Herding in North American Energy Equity Market</title>
+<url>http://dx.doi.org/10.1002/ijfe.3165</url>
+<snippet>This study employs state-space models and the quantile-on-quantile regression technique to examine the dynamics of intentional and fundamental herding in North American energy stocks, together with its non-linear determinants. Our findings reveal persistent herding in North American energy stocks, with no exceptions during the global financial crisis, COVID-19, lockdown and post-lockdown period, which is primarily driven by intentions. In all of these cases, herding is primarily motivated by intentional drivers rather than fundamental factors. Our results also show a herding asymmetry during bullish and bearish market conditions, but herding during bullish (bearish) market condition is mainly driven by the intentions (fundamentals). The findings of our quantile-on-quantile regression show that the effects of macroeconomic variables on time-varying herding are, in fact, regime-specific. We generally find evidence of herding (anti-herding) at the lower (upper) quartiles of energy stocks liquidity, oil price shocks, economic policy uncertainty and oil market implied volatility. The investment community engaged in North American energy stocks can benefit from our study, as awareness about regime-specific effects of various market variables on intentional (fundamental) herding can be a useful input in designing asset allocation and hedging strategies. The outcome of our study may provide interesting input to regulators to develop the dynamic legislative framework focusing on policies to encourage investment diversification during regime-specific systemic risk escalation resulting from the dynamic behaviour of herding and macroeconomic variables.
+WOS:001469712900001
+</snippet>
+</document>
+
+<document id="124">
+<title>Collective behavior and options volatility smile: An agent-based explanation</title>
+<url>http://dx.doi.org/10.1016/j.econmod.2014.03.011</url>
+<snippet>This paper represents an initial effect to shed light on the determinants of option implied volatility smile from the micro perspective of traders' behavior. We compare the zero intelligence behavior and the collective behavior with the agent-based simulation. We find that the constant implied volatility, which is the assumption of the Black-Scholes model, can be obtained under the environment of the zero intelligence traders; while the smile shape of implied volatility, which is more consistent with the practical option market worldwide, can be explained by traders' collective behavior. Moreover, different degrees of collective behavior are tested to result that with the increasing of collective degree the implied volatility curve becomes steeper. (C) 2014 Elsevier B.V. All rights reserved.
+WOS:000336467200025
+</snippet>
+</document>
+
+<document id="125">
+<title>Compound option pricing under a double exponential Jump-diffusion model</title>
+<url>http://dx.doi.org/10.1016/j.najef.2017.10.002</url>
+<snippet>A compound option, an option on another option, plays an important role in financial field since it can be used to price American option and corporate debt with discrete coupons. In the real options literature, compound options are most suitable to be employed to investment problems involving sequential decision making. Most compound option and real options formulae are based on log-normal distribution while the empirical evidence shows that the return distribution in real market exhibits asymmetric leptokurtic feature, higher peak and two heavier tails. This paper introduces the jump-diffusion process into pricing compound options and derives the related valuation formulas. We assume that the dynamic of the underlying asset return process consists of a drift component, a continuous Wiener process and discontinuous jump-diffusion processes which have jump times that follow the compound Poisson process and the logarithm of jump size follows the double exponential distribution proposed by Kou (2002). Numerical results indicate that the advantage of combining the double exponential distribution and normal distribution is that it can capture the phenomena of both the asymmetric leptokurtic features and the volatility smile. Furthermore, the compound options under the double exponential jump diffusion model which we derived are more generalized than those proposed by Gukhal (2004) and Geske (1979), and thus have wider application.
+WOS:000427341900003
+</snippet>
+</document>
+
+<document id="126">
+<title>Oil prices and sectoral stock returns in the BRICS-T countries: A time-varying approach</title>
+<url>http://dx.doi.org/10.1016/j.resourpol.2022.103044</url>
+<snippet>This paper investigates how exchange rates and oil prices have affected sectoral stock returns in the BRICS-T countries over the period from 2 January 2001 to 22 March 2021. Following the estimation of a benchmark linear model, Bai and Perron (2003) tests are carried out in each case to identify structural breaks, and then a state-space model with time-varying parameters is also estimated. The analysis shows that oil prices have a significant, positive effect on the energy sectors of all BRICS-T countries except India; a negative one on the industrial sectors of all countries except Turkey; a negative one on the financial sectors of Brazil, Russia, India, and South Africa; a negative one on the transportation sectors of India and Turkey and a positive one on that of Russia; finally, the most significant effect is on the chemicals sector, though it varies across countries. The subsamples and time-varying estimates indicate that exchange rate returns have a larger influence than oil price returns. Because energy-dependent sectors are vulnerable to global volatility, appropriate energy regulations should be implemented to reduce risk.
+WOS:000867665400002
+</snippet>
+</document>
+
+<document id="127">
+<title>Optimizing risk transfer in dynamic insurance networks: A graph-based reinforcement learning framework</title>
+<url>http://dx.doi.org/10.1016/j.chaos.2025.117375</url>
+<snippet>The optimization of risk transfer within interconnected insurance networks has become increasingly complex, requiring models that effectively capture dynamic financial environments. This paper introduces a mathematical framework designed to optimize risk transfer in dynamic insurance networks by integrating graph neural networks with multi-agent deep reinforcement learning. The model accounts for key complexities, such as stochastic capital flows, heterogeneous risk appetites, dynamically correlated risks, and endogenous systemic risk feedback, within an evolving network structure. A graph neural network is employed to learn the time-dependent correlation structure of insurer losses directly from the network, while a proximal policy optimization algorithm is used to dynamically optimize risk transfer policies. To ensure robustness under extreme uncertainty, the framework utilizes Entropic Value-at-Risk as its core risk measure, providing a conservative and coherent optimization objective aligned with regulatory standards. An illustrative example demonstrates the model's ability to enhance network stability, reduce tail risks, and support financial resilience. These results highlight the model's potential to transform risk transfer strategies within interconnected insurance networks, offering valuable insights that can inform both insurance risk management practices and regulatory frameworks. Future validation through extensive numerical experiments is proposed to further assess the model's effectiveness in real-world scenarios.
+WOS:001597587500001
+</snippet>
+</document>
+
+<document id="128">
+<title>Parameter estimation risk in asset pricing and risk management: A Bayesian approach</title>
+<url>http://dx.doi.org/10.1016/j.irfa.2017.08.004</url>
+<snippet>Parameter estimation risk is non-trivial in both asset pricing and risk management. We adopt a Bayesian estimation paradigm supported by the Markov Chain Monte Carlo inferential techniques to incorporate parameter estimation risk in financial modelling. In option pricing activities, we find that the Merton's Jump-Diffusion (MJD) model outperforms the Black-Scholes (BS) model both in-sample and out-of-sample. In addition, the construction of Bayesian posterior option price distributions under the two well-known models offers a robust view to the influence of parameter estimation risk on option prices as well as other quantities of interest in finance such as probabilities of default. We derive a VaR-type parameter estimation risk measure for option pricing and we show that parameter estimation risk can bring significant impact to Greeks' hedging activities. Regarding the computation of default probabilities, we find that the impact of parameter estimation risk increases with gearing level, and could alter important risk management decisions. (C) 2017 Elsevier Inc. All rights reserved.
+WOS:000414227800007
+</snippet>
+</document>
+
+<document id="129">
+<title>Dynamic impact of China's stock market on the international commodity market</title>
+<url>http://dx.doi.org/10.1016/j.resourpol.2018.06.009</url>
+<snippet>It is generally believed that the international commodity markets' downturn is attributed to China's stock markets collapse. To verify this, this paper assesses the influence of Shanghai (securities) stock exchange composite (SSEC) index on S&amp;P GSCI total returns, a leading commodity composite index from August 31, 2006, to September 19, 2016. We implement wavelet transform to extract the approximations of SSEC and GSCI. Furthermore, we use the state space model to determine the margin between SSEC and GSCI as well as display the margin dynamic evolution over time. The margin denotes the units of GSCI change when SSEC increases a unit, which can display China's stock (equity) influence (CEI) on the international commodity market. We found that CEI reached its peak in 2007, then experienced two steep declines and an immediate mild rebound, and eventually hovered at a historically low level. Moreover, each inflection point of CEI could correspond to a specific international economic event, which indicates that the change of CEI is influenced by exogenous variables, especially the absolute increment of GDP and the U.S. dollar index. The influence of China's stock market on the international commodity market is not as great as believed and the diversification benefit still exists for the construction of portfolio. In addition, the change of China's stock market influence is closely related to exogenous factors, which deserves more attention for policy making to avoid unnecessary trade and monetary friction owing to misjudgment.
+WOS:000469889800049
+</snippet>
+</document>
+
+<document id="130">
+<title>Parametric and nonparametric models and methods in financial econometrics</title>
+<url>http://dx.doi.org/10.1214/08-SS034</url>
+<snippet>Financial econometrics has become an increasingly popular research field. In this paper we review a few parametric and nonparametric models and methods used in this area. After introducing several widely used continuous-time and discrete-time models, we study in detail dependence structures of discrete samples, including Markovian property, hidden Markovian structure, contaminated observations, and random samples. We then discuss several popular parametric and nonparametric estimation methods. To avoid model mis-specification, model validation plays a key role in financial modeling. We discuss several model validation techniques, including pseudo-likelihood ratio test, nonparametric curve regression based test, residuals based test, generalized likelihood ratio test, simultaneous confidence band construction, and density based test. Finally, we briefly touch on tools for studying large sample properties.
+WOS:000439061500001
+</snippet>
+</document>
+
+<document id="131">
+<title>A survey of electricity spot and futures price models for risk management applications</title>
+<url>http://dx.doi.org/10.1016/j.eneco.2021.105504</url>
+<snippet>This review presents the set of electricity price models proposed in the literature since the opening of power markets. We focus on price models applied to financial pricing and risk management. We classify these models according to their ability to represent the random behavior of prices and some of their characteristics. In particular, this classification helps users to choose among the most suitable models for their risk management problems.
+WOS:000701843900005
+</snippet>
+</document>
+
+<document id="132">
+<title>Inference for time-varying lead-lag relationships from ultra-high-frequency data</title>
+<url>http://dx.doi.org/10.1007/s42081-021-00106-2</url>
+<snippet>A new approach for modeling lead-lag relationships in high-frequency financial markets is proposed. The model accommodates non-synchronous trading and market microstructure noise as well as intraday variations of lead-lag relationships, which are essential for empirical applications. A simple statistical methodology for analyzing the proposed model is presented, as well. The methodology is illustrated by an empirical study to detect lead-lag relationships between the S&amp;P 500 index and its two derivative products.
+WOS:000663703100025
+</snippet>
+</document>
+
+<document id="133">
+<title>Fast and Accurate Computation of the Regime-Switching Jump-Diffusion Option Prices Using Laplace Transform and Compact Difference with Convergence Guarantee</title>
+<url>http://dx.doi.org/10.1007/s10614-023-10426-y</url>
+<snippet>The accuracy and efficiency for computing option prices play very important in the financial risk management and hedging for the investors. In this paper, we for the first time develop a fast and accurate numerical method that com-bines Laplace transform for time variable and compact difference for spatial discretization, for computing option prices governed by the partial integro-dif-ferential equation system under the regime-switching jump-diffusion models. We then invert the Laplace transform through the numerical contour integral to recover the option prices. Furthermore, we prove that the method is convergent in the discrete L(2 )and L-8 norms with fourth-order in space and exponential-order with respect to the quadrature nodes for the numerical Laplace inversion. Finally, several numerical examples are reported to illustrate the convergence theory and show the advantages of the method over the benchmarks in regards to the accuracy and efficiency.
+WOS:001035742200001
+</snippet>
+</document>
+
+<document id="134">
+<title>Gaussian Variational Approximations for High-dimensional State Space Models</title>
+<url>http://dx.doi.org/10.1214/22-BA1332</url>
+<snippet>We consider a Gaussian variational approximation of the posterior density in high-dimensional state space models. The number of parameters in the covariance matrix of the variational approximation grows as the square of the number of model parameters, so it is necessary to find simple yet effective parametrisations of the covariance structure when the number of model parame-ters is large. We approximate the joint posterior density of the state vectors by a dynamic factor model, having Markovian time dependence and a factor covariance structure for the states. This gives a reduced description of the dependence struc-ture for the states, as well as a temporal conditional independence structure sim-ilar to that in the true posterior. We illustrate the methodology on two examples. The first is a spatio-temporal model for the spread of the Eurasian collared-dove across North America. Our approach compares favorably to a recently proposed ensemble Kalman filter method for approximate inference in high-dimensional hi-erarchical spatio-temporal models. Our second example is a Wishart-based multi-variate stochastic volatility model for financial returns, which is outside the class of models the ensemble Kalman filter method can handle.
+WOS:001050237000012
+</snippet>
+</document>
+
+<document id="135">
+<title>Fuzzy Fractional Brownian Motion: Review and Extension</title>
+<url>http://dx.doi.org/10.3390/a17070289</url>
+<snippet>In traditional finance, option prices are typically calculated using crisp sets of variables. However, as reported in the literature novel, these parameters possess a degree of fuzziness or uncertainty. This allows participants to estimate option prices based on their risk preferences and beliefs, considering a range of possible values for the parameters. This paper presents a comprehensive review of existing work on fuzzy fractional Brownian motion and proposes an extension in the context of financial option pricing. In this paper, we define a unified framework combining fractional Brownian motion with fuzzy processes, creating a joint product measure space that captures both randomness and fuzziness. The approach allows for the consideration of individual risk preferences and beliefs about parameter uncertainties. By extending Merton's jump-diffusion model to include fuzzy fractional Brownian motion, this paper addresses the modelling needs of hybrid systems with uncertain variables. The proposed model, which includes fuzzy Poisson processes and fuzzy volatility, demonstrates advantageous properties such as long-range dependence and self-similarity, providing a robust tool for modelling financial markets. By incorporating fuzzy numbers and the belief degree, this approach provides a more flexible framework for practitioners to make their investment decisions.
+WOS:001276541300001
+</snippet>
+</document>
+
+<document id="136">
+<title>Two-stage stationary bootstrapping for bivariate average realized volatility matrix under market microstructure noise and asynchronicity</title>
+<url>http://dx.doi.org/10.1016/j.jeconom.2017.10.001</url>
+<snippet>Under the two important modern financial market features of noise and non-synchronicity for multiple assets, for consistent estimators of the integrated covariations, we adopt the two-time scale average realized volatility matrix (ARVM) which is a matrix extension of the two-time scale realized volatilities of Zhang et al. (2005). An asymptotic normal theory is provided for the two-time scale ARVM and resulting realized covariations. The asymptotic normality is not directly applicable in practice to construct statistical methods owning to nuisance parameters. To bypass the nuisance parameter problem, two stage stationary bootstrapping is proposed. We establish consistencies of the bootstrap distributions, and construct confidence intervals and hypothesis tests for the integrated covariance, regression coefficient and correlation coefficient. The validity of the stationary bootstrap for the high frequency heterogeneous returns is proved by showing that there exist parameters of the stationary bootstrap blocks so that the bootstrap consistencies hold. The proposed bootstrap methods extend the i.i.d. bootstrapping methods for realized covariations by Dovonon et al. (2013), that are confined to synchronous noise-free sampling. For high frequency noisy asynchronous samples, a Monte-Carlo experiment shows better finite sample performances of the proposed stationary bootstrap methods based on the two-time scale ARVM estimator than the wild blocks of blocks bootstrap methods of Hounyo (2017), based on pre-averaged truncated estimator. (C) 2017 Published by Elsevier B.V.
+WOS:000424725200004
+</snippet>
+</document>
+
+<document id="137">
+<title>Discontinuous movements and asymmetries in cryptocurrency markets</title>
+<url>http://dx.doi.org/10.1080/1351847X.2021.2015416</url>
+<snippet>This paper proposes a novel asymmetric jump model for modeling interactions in discontinuous movements in asset prices. Given the jump behavior and high volatility levels in cryptocurrency markets, we apply our model to cryptocurrencies to study the impact of various types of jumps occurring in one cryptocurrency's price process on the discontinuity component of the realized volatility of other cryptocurrencies. Our model also allows us to assess the impact of co-jumps. Using high-frequency data to compute the daily realized volatility, we show that downside, upside, and small jumps observed in cryptocurrencies negatively affect the jump component of other cryptocurrencies' realized volatility, while large jumps have the opposite effect. We further find significant asymmetric effects between small and large as well as between downside and upside jumps for several cryptocurrencies. Moreover, we find evidence of co-jumping behavior, which can trigger future jumps. The practical implications of our findings are also discussed. Finally, we extend our analysis to study the effects of jumps in mainstream financial assets on cryptocurrencies' jump behavior and find that upside and downside jumps observed in the S&amp;P 500 index negatively impact cryptocurrency jumps.
+WOS:000753206400001
+</snippet>
+</document>
+
+</searchresult>

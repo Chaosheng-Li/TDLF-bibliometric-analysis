@@ -1,0 +1,69 @@
+Futures markets and the baltic dry index: A prediction study based on deep learning
+Parameter estimation for time-fractional Black-Scholes equation with S&P 500 index option
+Pricing Catastrophe Risk Bond Using the Physics-Informed Neural Network
+A unified approach to Bermudan and barrier options under stochastic volatility models with jumps
+Jumps and stochastic volatility in oil prices: Time series evidence
+Deep hedging of long-term financial derivatives
+An analysis of implied volatility jump dynamics: Novel functional data representation in crude oil markets
+Forecasting Bitcoin prices using artificial intelligence: Combination of ML, SARIMA, and Facebook Prophet models
+An Efficient Numerical Method for Pricing Options Under Stochastic Volatility with Jump Model
+Committee of Multi-scale Nonlinear Learning Frameworks for accurate stock price forecasting
+Dynamic Connectedness Among Oil, Food Commodity, and Renewable Energy Markets: Novel Perspective from Quantile Dependence and Deep Learning
+Patch-tLSTM: A multi-step prediction model for precious metal futures with high accuracy
+High-dimensional sparse multivariate stochastic volatility models
+The impact of simultaneous shocks to financial markets and mortality on pension buy-out prices
+Systematic Financial Risk Identification and Dynamic Evolution Based on Deep Learning
+Testing commodity futures market efficiency under time-varying risk premiums and heteroscedastic prices
+Meta-LSTR: Meta-Learning with Long Short-Term Transformer for futures volatility prediction
+The equilibrium allocation of diffusive and jump risks with heterogeneous agents
+The return barrier and return timer option with pricing under Levy processes
+A GENERAL ORNSTEIN-UHLENBECK STOCHASTIC VOLATILITY MODEL WITH LEVY JUMPS
+Volatility models for stylized facts of high-frequency financial data
+Some Recent Progress on Numerical Methods for Controlled Regime-Switching Models with Applications to Insurance and Risk Management
+Language sentiment in fundamental and noise trading: evidence from crude oil
+Modelling of S&P 500 Index Price Based on US Economic Indicators: Machine Learning Approach
+A Simulation and Empirical Study of the Maximum Likelihood Estimator for Stochastic Volatility Jump-Diffusion Models
+Noise trading and stock market bubbles: what the derivatives market is telling us
+Temporary versus Permanent Shocks: Explaining Corporate Financial Policies
+The Convergence Investigation of a Numerical Scheme for the Tempered Fractional Black-Scholes Model Arising European Double Barrier Option
+Do Islamic stock indexes outperform conventional stock indexes? A state space modeling approach
+Detecting Jump Risk and Jump-Diffusion Model for Bitcoin Options Pricing and Hedging
+Is the diurnal pattern sufficient to explain intraday variation in volatility? A nonparametric assessment
+Implied parameter estimation for jump diffusion option pricing models: Pricing accuracy and the role of loss and evaluation functions
+Information Asymmetry in the French Market around Crises
+Modelling short and long-term risks in power markets: Empirical evidence from Nord Pool
+A Gated Recurrent Unit Approach to Bitcoin Price Prediction
+The volatility effect on precious metals price returns in a stochastic volatility in mean model with time-varying parameters
+Options pricing with time changed Levy processes under imprecise information
+Robust nonparametric estimation for the volatility of financial market
+An empirical assessment of symmetric and asymmetric jump-diffusion models for the Nigerian stock market indices
+Time-varying impact of oil prices on sectoral stock returns: Evidence from Turkey
+Toward profitable energy futures trading strategies using reinforcement learning incorporating disagreement and connectedness methods enabled by large language models
+Quantile hedging in models with dividends and application to equity-linked life insurance contracts
+Continuous Mixed-Laplace Jump Diffusion Models for Stocks and Commodities
+A hybrid deep learning model for cryptocurrency returns forecasting: Comparison of the performance of financial markets and impact of external variables
+Shanghai Containerised Freight Index Forecasting Based on Deep Learning Methods: Evidence from Chinese Futures Markets
+Option Pricing under Double Heston Jump-Diffusion Model with Approximative Fractional Stochastic Volatility
+Valuing Vulnerable Geometric Asian Basket Options Under Stochastic Volatility Jump Diffusion Model
+Evaluation of variable annuity guarantees with the effect of jumps in the asset price process
+INVESTIGATIONS TO THE OPTIMAL DERIVATIVE-BASED INVESTMENT AND PROPORTIONAL REINSURANCE STRATEGIES
+Jump Detection and Noise Separation by a Singular Wavelet Method for Predictive Analytics of High-Frequency Data
+On Deep-Fake Stock Prices and Why Investor Behavior Might Not Matter
+Cryptocurrency Price Prediction Using Frequency Decomposition and Deep Learning
+Inference of Binary Regime Models with Jump Discontinuities
+SV mixture models with application to S&P 500 index returns
+Empirical mode decomposition using deep learning model for financial market forecasting
+Model Complexity and Out-of-Sample Performance: Evidence from S&P 500 Index Returns
+Investor sentiment and the Chinese new energy stock market: A risk-return perspective
+FINANCIAL DERIVATIVE VALUATION - A DYNAMIC SEMIPARAMETRIC APPROACH
+Non-implementability of Arrow-Debreu equilibria by continuous trading under volatility uncertainty
+Forecasting the Dynamic Correlation of Stock Indices Based on Deep Learning Method
+Forecasting commodity prices: empirical evidence using deep learning tools
+Dynamic Co-Movements among Oil Prices and Financial Assets: A Scientometric Analysis
+No-arbitrage semi-martingale restrictions for continuous-time volatility models subject to leverage effects, jumps and i.i.d. noise: Theory and testable distributional implications
+Financial Market Determinants of Dynamic Herding in North American Energy Equity Market
+Oil prices and sectoral stock returns in the BRICS-T countries: A time-varying approach
+A survey of electricity spot and futures price models for risk management applications
+Fast and Accurate Computation of the Regime-Switching Jump-Diffusion Option Prices Using Laplace Transform and Compact Difference with Convergence Guarantee
+Two-stage stationary bootstrapping for bivariate average realized volatility matrix under market microstructure noise and asynchronicity
+Discontinuous movements and asymmetries in cryptocurrency markets

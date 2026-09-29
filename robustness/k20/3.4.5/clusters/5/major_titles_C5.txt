@@ -1,0 +1,46 @@
+Misspecified diffusion models with high-frequency observations and an application to neural networks
+Semi-closed form cubature and applications to financial diffusion models
+A multifactor transformed diffusion model with applications to VIX and VIX futures
+A non-linear dynamic model of the variance risk premium
+European vulnerable options pricing under sub-mixed fractional jump-diffusion model with stochastic interest rate
+Optimal dynamic portfolio selection for a corporation with controllable risk and dividend distribution policy
+Nonparametric Bayesian volatility learning under microstructure noise
+Efficient volatility estimation in a two-factor model
+FIRE SALES FORENSICS: MEASURING ENDOGENOUS RISK
+Pre-averaging estimators of the ex-post covariance matrix in noisy diffusion models with non-synchronous data
+Variance reduction approach for the volatility over a finite-time horizon
+Pricing and hedging path-dependent options under the CEV process
+Calibrating FBSDEs Driven Models in Finance via NNs
+Estimation of integrated volatility in continuous-time financial models with applications to goodness-of-fit testing
+Nonparametric model validations for hidden Markov models with applications in financial econometrics
+On the statistical equivalence at suitable frequencies of garch and stochastic volatility models with the corresponding diffusion model
+Integrated variance of irregularly spaced high-frequency data: A state space approach based on pre-averaging
+Inference with non-Gaussian Ornstein-Uhlenbeck processes for stochastic volatility
+A Comparative Review of Specification Tests for Diffusion Models
+The volatility structure of the fixed income market under the HJM framework: A nonlinear filtering approach
+Integrated volatility and round-off error
+Testing mean reversion in financial market volatility: Evidence from S&P 500 index futures
+From CKLS Process to CIR-type and OU-type Processes: Using a Twice-differentiable Mapping and Generalized Girsanov's Theorem
+Inference of Binary Regime Models with Jump Discontinuities
+Online Spot Volatility-Estimation and Decomposition with Nonlinear Market Microstructure Noise Models
+Bayesian Inference via Filtering Equations for Ultrahigh Frequency Data (I): Model and Estimation
+Extracting a common stochastic trend: Theory with some applications
+A reexamination of diffusion estimators with applications to financial model validation
+Slow diffusion of information and price momentum in stocks: Evidence from options markets
+Goodness-of-fit test for interest rate models: An approach based on empirical processes
+Maximum empirical likelihood estimation of continuous-time models with conditional characteristic functions
+An empirical comparison of transformed diffusion models for VIX and VIX futures
+Functional data analysis for volatility
+SEMIPARAMETRIC ESTIMATION FOR A CLASS OF TIME-INHOMOGENEOUS DIFFUSION PROCESSES
+Nonparametric estimation of a scalar diffusion model from discrete time data: a survey
+A test for a parametric form of the volatility in second-order diffusion models
+No-arbitrage semi-martingale restrictions for continuous-time volatility models subject to leverage effects, jumps and i.i.d. noise: Theory and testable distributional implications
+A goodness-of-fit test for functional time series with applications to Ornstein-Uhlenbeck processes
+Large volatility matrix estimation with factor-based diffusion model for high-frequency financial data
+Oil prices and sectoral stock returns in the BRICS-T countries: A time-varying approach
+RISK MANAGEMENT OF FINANCIAL CRISES: AN OPTIMAL INVESTMENT STRATEGY WITH MULTIVARIATE JUMP-DIFFUSION MODELS
+Parametric and nonparametric models and methods in financial econometrics
+Inference for time-varying lead-lag relationships from ultra-high-frequency data
+OPTIMAL INSURANCE STRATEGIES: A HYBRID DEEP LEARNING MARKOV CHAIN APPROXIMATION APPROACH
+Is the diurnal pattern sufficient to explain intraday variation in volatility? A nonparametric assessment
+Two-stage stationary bootstrapping for bivariate average realized volatility matrix under market microstructure noise and asynchronicity

@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchresult>
+<query>Global</query>
+<document id="1">
+<title>Deep graph convolutional reinforcement learning for financial portfolio management-DeepPocket</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2021.115127</url>
+<snippet>Portfolio management aims at maximizing the return on investment while minimizing risk by continuously reallocating the assets forming the portfolio. These assets are not independent but correlated during a short time period. A graph convolutional reinforcement learning framework called DeepPocket is proposed whose objective is to exploit the time-varying interrelations between financial instruments. These interrelations are represented by a graph whose nodes correspond to the financial instruments while the edges correspond to a pair-wise correlation function in between assets. DeepPocket consists of a restricted, stacked autoencoder for feature extraction, a convolutional network to collect underlying local information shared among financial instruments and an actor-critic reinforcement learning agent. The actor-critic structure contains two convolutional networks in which the actor learns and enforces an investment policy which is, in turn, evaluated by the critic in order to determine the best course of action by constantly reallocating the various portfolio assets to optimize the expected return on investment. The agent is initially trained offline with online stochastic batching on historical data. As new data become available, it is trained online with a passive concept drift approach to handle unexpected changes in their distributions. DeepPocket is evaluated against five real-life datasets over three distinct investment periods, including during the Covid-19 crisis, and clearly outperformed market indexes.
+WOS:000688457900004
+</snippet>
+</document>
+
+<document id="2">
+<title>Reinforcement Learning for Quantitative Trading</title>
+<url>http://dx.doi.org/10.1145/3582560</url>
+<snippet>Quantitative trading (QT), which refers to the usage of mathematical models and data-driven techniques in analyzing the financial market, has been a popular topic in both academia and financial industry since 1970s. In the last decade, reinforcement learning (RL) has garnered significant interest in many domains such as robotics and video games, owing to its outstanding ability on solving complex sequential decision making problems. RLs impact is pervasive, recently demonstrating its ability to conquer many challenging QT tasks. It is a flourishing research direction to explore RL techniques potential on QT tasks. This paper aims at providing a comprehensive survey of research efforts on RL-based methods for QT tasks. More concretely, we devise a taxonomy of RL-based QT models, along with a comprehensive summary of the state of the art. Finally, we discuss current challenges and propose future research directions in this exciting field.
+WOS:001000229800006
+</snippet>
+</document>
+
+<document id="3">
+<title>RLSTM: A New Framework of Stock Prediction by Using Random Noise for Overfitting Prevention</title>
+<url>http://dx.doi.org/10.1155/2021/8865816</url>
+<snippet>An accurate prediction of stock market index is important for investors to reduce financial risk. Although quite a number of deep learning methods have been developed for the stock prediction, some fundamental problems, such as weak generalization ability and overfitting in training, need to be solved. In this paper, a new deep learning model named Random Long Short-Term Memory (RLSTM) is proposed to get a better predicting result. RLSTM includes prediction module, prevention module, and three full connection layers. Input of the prediction module is a stock or an index which needs to be predicted. That of the prevention module is a random number series. With the index of Shanghai Securities Composite Index (SSEC) and Standard &amp; Poors 500 (S&amp;P500), simulations show that the proposed RLSTM can mitigate the overfitting and outperform others in accuracy of prediction.
+WOS:000665093100002
+</snippet>
+</document>
+
+<document id="4">
+<title>Deep reinforcement trading with predictable returns</title>
+<url>http://dx.doi.org/10.1016/j.physa.2023.128901</url>
+<snippet>Classical portfolio optimization often requires forecasting asset returns and their cor-responding variances in spite of the low signal-to-noise ratio provided in the financial markets. Modern deep reinforcement learning (DRL) offers a framework for optimizing sequential trader decisions but lacks theoretical guarantees of convergence. On the other hand, the performances on real financial trading problems are strongly affected by the goodness of the signal used to predict returns. To disentangle the effects coming from return unpredictability from those coming from algorithm un-trainability, we investigate the performance of model-free DRL traders in a market environment with different known mean-reverting factors driving the dynamics. When the framework admits an exact dynamic programming solution, we can assess the limits and capabilities of different value-based algorithms to retrieve meaningful trading signals in a data-driven manner. We consider DRL agents that leverage classical strategies to increase their performances and we show that this approach guarantees flexibility, outperforming the benchmark strategy when the price dynamics is misspecified and some original assumptions on the market environment are violated with the presence of extreme events and volatility clustering.
+WOS:001122648800001
+</snippet>
+</document>
+
+<document id="5">
+<title>Empirical deep hedging</title>
+<url>http://dx.doi.org/10.1080/14697688.2022.2136037</url>
+<snippet>Existing hedging strategies are typically based on specific financial models: either the strategies are directly based on a given option pricing model or stock price and volatility models are used indirectly by generating synthetic data on which an agent is trained with reinforcement learning. In this paper, we train an agent in a pure data-driven manner. Particularly, we do not need any specifications on volatility or jump dynamics but use large empirical intra-day data from actual stock and option markets. The agent is trained for the hedging of derivative securities using deep reinforcement learning (DRL) with continuous actions. The training data consists of intra-day option price observations on S&amp;P500 index over 6 years, and top of that, we use other data periods for validation and testing. We have two important empirical results. First, a DRL agent trained using synthetic data generated from a calibrated stochastic volatility model outperforms the classic Black-Scholes delta hedging strategy. Second, and more importantly, we find that a DRL agent, which is empirically trained directly using actual intra-day stock and option prices without the prior specification of the underlying volatility or jump processes, has superior performance compared with the use of synthetic data. This implies that DRL can capture the dynamics of S&amp;P500 from the actual intra-day data and to self-learn how to hedge actual options efficiently.
+WOS:000876149600001
+</snippet>
+</document>
+
+<document id="6">
+<title>Delta-Gamma-Like Hedging with Transaction Cost under Reinforcement Learning Technique</title>
+<url>http://dx.doi.org/10.3905/jod.2022.1.156</url>
+<snippet>Option hedging is critical in financial risk management. The traditional methods to determine the hedging position require assumptions of a frictionless market and continuous hedging. In this article, these two assumptions are removed, and a hedging strategy based on the reinforcement learning technique is proposed. This new strategy maximizes the expectation of the present value of accounting and realized profits of the hedging portfolio while limiting the sensitivity of the hedging position to changes in the underlying asset. The performance of this method is tested on option trading data (from 2004 to 2020) for the Standard and Poors (S&amp;P) 500, S&amp;P 100, and Dow Jones Industrial Average.
+WOS:000801816500005
+</snippet>
+</document>
+
+<document id="7">
+<title>Deep hedging of long-term financial derivatives</title>
+<url>http://dx.doi.org/10.1016/j.insmatheco.2021.03.017</url>
+<snippet>This study presents a deep reinforcement learning approach for global hedging of long-term financial derivatives. A similar setup as in Coleman et al. (2007) is considered with the risk management of lookback options embedded in guarantees of variable annuities with ratchet features. The deep hedging algorithm of Buehler et al. (2019a) is applied to optimize neural networks representing global hedging policies with both quadratic and non-quadratic penalties. To the best of the authors knowledge, this is the first paper that presents an extensive benchmarking of global policies for long-term contingent claims with the use of various hedging instruments (e.g. underlying and standard options) and with the presence of jump risk for equity. Monte Carlo experiments demonstrate the vast superiority of non-quadratic global hedging as it results simultaneously in downside risk metrics two to three times smaller than best benchmarks and in significant hedging gains. Analyses show that the neural networks are able to effectively adapt their hedging decisions to different penalties and stylized facts of risky asset dynamics only by experiencing simulations of the financial market exhibiting these features. Numerical results also indicate that non-quadratic global policies are significantly more geared towards being long equity risk which entails earning the equity risk premium. (C) 2021 Elsevier B.V. All rights reserved.
+WOS:000667945500025
+</snippet>
+</document>
+
+<document id="8">
+<title>A reinforcement learning algorithm for trading commodities</title>
+<url>http://dx.doi.org/10.1002/asmb.2825</url>
+<snippet>We propose a reinforcement learning (RL) algorithm for generating a trading strategy in a realistic setting, that includes transaction costs and factors driving the asset dynamics. We benchmark our algorithm against the analytical optimal solution, available when factors are linear and transaction costs are quadratic, showing that RL is able to mimic the optimal strategy. Then we consider a more realistic setting, including non-linear dynamics, that better describes the WTI spot prices time series. For these more general dynamics, an optimal strategy is not known and RL becomes a viable alternative. We show that on synthetic data generated from WTI spot prices, the RL agent outperforms a trader that linearizes the model to apply the theoretical optimal strategy.
+WOS:001076667500001
+</snippet>
+</document>
+
+<document id="9">
+<title>Deep reinforcement learning based trading agents: Risk curiosity driven learning for financial rules-based policy</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2020.114553</url>
+<snippet>Financial markets are complex dynamic systems influenced by a high number of active agents, which produce a behavior with high randomness and noise. Trading strategies are well depicted as an online decision-making problem involving imperfect information and aiming to maximize the return while restraining the risk. However, it is challenging to obtain an optimal strategy in the complex and dynamic stock market. Therefore, recent developments in similar environments have pushed researchers towards exciting new horizons. In this paper, a novel rule-based policy approach is proposed to train a deep reinforcement learning agent for automated financial trading. Precisely, a continuous virtual environment has been created, with different versions of agents trading against one another. During this multiplex process, the agents which are trained on 504 risky datasets, use the fundamental concepts of proximal policy optimization to improve their own decision making by adjusting their action choice against the uncertainty of states. Risk curiosity-driven learning acts as an intrinsic reward function and is heavily laden with signals to find salient relationships between actions and market behaviors. The trained agent based on curiosity-driven risk has steadily and progressively improved actions quality. The self-learned rules driven by the agent curiosity push the policy towards actions that yield a high performance over the environment. Experiments on 8 real-world stocks are given to verify the appropriateness and efficiency of the self-learned rules. The proposed system has achieved promising performances, made better trades using fewer transactions, and outperformed the state-of-the-art baselines.
+WOS:000633042500001
+</snippet>
+</document>
+
+<document id="10">
+<title>A multi-agent virtual market model for generalization in reinforcement learning based trading strategies</title>
+<url>http://dx.doi.org/10.1016/j.asoc.2023.109985</url>
+<snippet>Many studies have successfully used reinforcement learning (RL) to train an intelligent agent that learns profitable trading strategies from financial market data. Most of RL trading studies have simplified the effect of the actions of the trading agent on the market state. The trading agent is trained to maximize long-term profit by optimizing fixed historical data. However, such approach frequently results in the trading performance during out-of-sample validation being considerably different from that during training. In this paper, we propose a multi-agent virtual market model (MVMM) comprised of multiple generative adversarial networks (GANs) which cooperate with each other to reproduce market price changes. In addition, the action of the trading agent can be superimposed on the current state as the input of the MVMM to generate an action-dependent next state. In this research, real historical data were replaced with the simulated market data generated by the MVMM. The experimental results indicated that the trading strategy of the trained RL agent achieved a 12&#37; higher profit and exhibited low risk of loss in the 2019 China Shanghai Shenzhen 300 stock index futures backtest.
+WOS:000967892700001
+</snippet>
+</document>
+
+<document id="11">
+<title>Improving exploration in deep reinforcement learning for stock trading</title>
+<url>http://dx.doi.org/10.1504/IJCAT.2023.133883</url>
+<snippet>Deep reinforcement learning techniques have become quite widespread over the last decades. One challenge is the Exploration-Exploitation Dilemma. Although many exploration techniques for single-agent and multi-agent deep reinforcement learning are proposed and have shown promising results in various domains, their value has not yet been demonstrated in the financial markets. In this paper, we will apply the NoisyNet-DQN method, which was previously tested and brought promising results in Atari games, to the stock trading problem. The trained reinforcement learning agent is employed to trade the S&amp;P500 ETF (SPY) data set. Findings show that this approach can encounter the best trading action to choose at a specific moment and outperforms the classical DQN (Deep QNetwork) method.
+WOS:001080941600005
+</snippet>
+</document>
+
+<document id="12">
+<title>An LSTM and GRU based trading strategy adapted to the Moroccan market</title>
+<url>http://dx.doi.org/10.1186/s40537-021-00512-z</url>
+<snippet>Forecasting stock prices is an extremely challenging job considering the high volatility and the number of variables that influence it (political, economical, social, etc.). Predicting the closing price provides useful information and helps the investor make the right decision. The use of deep learning and more precisely of recurrent neural networks (RNNs) in stock market forecasting is an increasingly common practice in the literature. Long Short Term Memory (LSTM) and Gated Recurrent Unit (GRU) architectures are among the most widely used types of RNNs, given their suitability for sequential data. In this paper, we propose a trading strategy designed for the Moroccan stock market, based on two deep learning models: LSTM and GRU to predict the closing price in the short and medium term respectively. Decision rules for buying and selling stocks are implemented based on the forecasting given by the two models, then over four 3-year periods, we simulate transactions using these decision rules with different settings for each stock. The returns obtained will be used to estimate an expected return. We only hold stocks that outperform a benchmark index (expected return &gt; threshold). The random search is then used to choose one of the available parameters and the performance of the portfolio built from the selected stocks will be tested over a further period. The repetition of this process with a variation of portfolio size makes it possible to select the best possible combination of stock each with the optimized parameter for the decision rules. The proposed strategy produces very promising results and outperforms the performance of indices used as benchmarks in the local market. Indeed, the annualized return of our strategy proposed during the test period is 27.13&#37;, while it is 0.43&#37; for Moroccan all share Indice (MASI), 15.24&#37; for the distributor sector indices, and 19.94&#37; for the pharmaceutical industry indices. Noted that brokerage fees are estimated and subtracted for each transaction. which makes the performance found even more realistic.
+WOS:000698944100001
+</snippet>
+</document>
+
+<document id="13">
+<title>Multi-Agent Deep Reinforcement Learning With Progressive Negative Reward for Cryptocurrency Trading</title>
+<url>http://dx.doi.org/10.1109/ACCESS.2023.3289844</url>
+<snippet>Recently, reinforcement learning has been applied to cryptocurrencies to make profitable trades. However, cryptocurrency trading is a very challenging task due to the volatility of the market, especially during bearish periods. In addressing this problem, the existing literature employs single-agent techniques such as deep Q-network (DQN), advantage actor-critic (A2C), and proximal policy optimization (PPO), or their ensembles. Moreover, in the context of cryptocurrencies, the mechanisms for restricting losses during a bearish market are insufficiently robust. Consequently, the performance of reinforcement learning methods for cryptocurrency trading in the existing literature is constrained. To overcome this limitation, we propose a novel cryptocurrency trading method based on multi-agent proximal policy optimization (MAPPO) with a collaborative multi-agent scheme and a local-global reward function to optimize both the individual and collective performance of the agents. Both a multi-objective optimization technique and a multi-scale continuous loss (MSCL) reward are used to train agents using a progressive penalty to avoid consecutive losses of portfolio value. For evaluation, we compared our method to multiple baselines. As a result, better cumulative returns are achieved than when baseline methods are used. In addition, the superiority of our method is emphasized by the result of the bearish test set, where only our method can make a profit. Specifically, our method obtains a 2.36&#37; cumulative return, whereas the baseline methods result in negative cumulative returns. In comparison to FinRL-Ensemble, a reinforcement learning-based method, our method achieves a 46.05&#37; greater cumulative return in the bullish test set.
+WOS:001025450700001
+</snippet>
+</document>
+
+<document id="14">
+<title>Deep Equal Risk Pricing of Financial Derivatives with Non-Translation Invariant Risk Measures</title>
+<url>http://dx.doi.org/10.3390/risks11080140</url>
+<snippet>The objective is to study the use of non-translation invariant risk measures within the equal risk pricing (ERP) methodology for the valuation of financial derivatives. The ability to move beyond the class of convex risk measures considered in several prior studies provides more flexibility within the pricing scheme. In particular, suitable choices for the risk measure embedded in the ERP framework, such as the semi-mean-square-error (SMSE), are shown herein to alleviate the price inflation phenomenon observed under the tail value at risk-based ERP as documented in previous work. The numerical implementation of non-translation invariant ERP is performed through deep reinforcement learning, where a slight modification is applied to the conventional deep hedging training algorithm so as to enable obtaining a price through a single training run for the two neural networks associated with the respective long and short hedging strategies. The accuracy of the neural network training procedure is shown in simulation experiments not to be materially impacted by such modification of the training algorithm.
+WOS:001056913400001
+</snippet>
+</document>
+
+<document id="15">
+<title>An Ensembling Architecture Incorporating Machine Learning Models and Genetic Algorithm Optimization for Forex Trading</title>
+<url>http://dx.doi.org/10.3390/fintech1020008</url>
+<snippet>Algorithmic trading has become the standard in the financial market. Traditionally, most algorithms have relied on rule-based expert systems which are a set of complex if/then rules that need to be updated manually to changing market conditions. Machine learning (ML) is the natural next step in algorithmic trading because it can directly learn market patterns and behaviors from historical trading data and factor this into trading decisions. In this paper, a complete end-to-end system is proposed for automated low-frequency quantitative trading in the foreign exchange (Forex) markets. The system utilizes several State of the Art (SOTA) machine learning strategies that are combined under an ensemble model to derive the market signal for trading. Genetic Algorithm (GA) is used to optimize the strategies for maximizing profits. The system also includes a money management strategy to mitigate risk and a back-testing framework to evaluate system performance. The models were trained on EUR-USD pair Forex data from Jan 2006 to Dec 2019, and subsequently evaluated on unseen samples from Jan 2020 to Dec 2020. The system performance is promising under ideal conditions. The ensemble model achieved about 10&#37; nett P&amp;L with -0.7&#37; drawdown level based on 2020 trading data. Further work is required to calibrate trading costs &amp; execution slippage in real market conditions. It is concluded that with the increased market volatility due to the global pandemic, the momentum behind machine learning algorithms that can adapt to a changing market environment will become even stronger.
+WOS:001572617100001
+</snippet>
+</document>
+
+<document id="16">
+<title>Deep Reinforcement Learning Approach for Trading Automation in the Stock Market</title>
+<url>http://dx.doi.org/10.1109/ACCESS.2022.3203697</url>
+<snippet>Deep Reinforcement Learning (DRL) algorithms can scale to previously intractable problems. The automation of profit generation in the stock market is possible using DRL, by combining the financial assets price "prediction" step and the "allocation" step of the portfolio in one unified process to produce fully autonomous systems capable of interacting with their environment to make optimal decisions through trial and error. This work represents a DRL model to generate profitable trades in the stock market, effectively overcoming the limitations of supervised learning approaches. We formulate the trading problem as a Partially Observed Markov Decision Process (POMDP) model, considering the constraints imposed by the stock market, such as liquidity and transaction costs. We then solve the formulated POMDP problem using the Twin Delayed Deep Deterministic Policy Gradient (TD3) algorithm reporting a 2.68 Sharpe Ratio on unseen data set (test data). From the point of view of stock market forecasting and the intelligent decision-making mechanism, this paper demonstrates the superiority of DRL in financial markets over other types of machine learning and proves its credibility and advantages in strategic decision-making.
+WOS:000853807800001
+</snippet>
+</document>
+
+<document id="17">
+<title>Does reinforcement learning outperform deep learning and traditional portfolio optimization models in frontier and developed financial markets?</title>
+<url>http://dx.doi.org/10.1016/j.ribaf.2023.101936</url>
+<snippet>Advancements in machine learning have opened up a wide range of new possibilities for using advanced computer algorithms, such as reinforcement learning in portfolio risk management. However, very little evidence has been provided on the superior performance of reinforcement learning models over traditional optimization models following the mean-variance framework in different financial market settings. This study uses two experiments with data from the Viet-namese and U.S. securities markets to justify whether advanced machine learning models could outperform traditional portfolios cumulative returns while optimizing the Sharpe ratio. The re-sults suggest that reinforcement learning consistently outperforms the established methods and benchmarks in both experiments, even when using a very similar degree of diversification in portfolio construction and the same input data. This study confirms the ability of reinforcement learning to provide dynamic responses to market conditions and redefine the risk-return standard in the financial system.
+WOS:000971941700001
+</snippet>
+</document>
+
+<document id="18">
+<title>Multi-Feature Supervised Reinforcement Learning for Stock Trading</title>
+<url>http://dx.doi.org/10.1109/ACCESS.2023.3298821</url>
+<snippet>Deep reinforcement learning (DRL) algorithm is often used to find the best trading strategy in algorithmic trading. However, the classical DRL model is difficult to achieve rapid convergence, and the features extracted from the market data are relatively simple, resulting in incomplete DRL learning information. In this paper, we propose a supervised reinforcement learning method, a hybrid optimal investment strategy formation method consisting of long short-term memory neural network (LSTM) and deep deterministic policy gradient (DDPG). By participating in reinforcement learning in the early stage of supervised learning, agents can obtain guiding prior experience, thus reducing the cost of agent learning and accelerating convergence. In addition, multi-feature state input is added to the model to optimize the agents learning of the environment. Compared with DDPG algorithm, LSTM-DDPG algorithm achieves convergence faster. Experiments on three regional stock markets in China, the United States and Europe show that LSTM-DDPG algorithm has higher profit and lower risk than B &amp; H, MACD and LSTM trading strategies.
+WOS:001041941300001
+</snippet>
+</document>
+
+<document id="19">
+<title>Transaction-aware inverse reinforcement learning for trading in stock markets</title>
+<url>http://dx.doi.org/10.1007/s10489-023-04959-w</url>
+<snippet>Training automated trading agents is a long-standing topic that has been widely discussed in artificial intelligence for the quantitative finance. Reinforcement learning (RL) is designed to solve the sequential decision-making tasks, like the stock trading. The output of the RL is the policy which can be presented as the probability values of the possible actions based on a given state. The policy is optimized by the reward function. However, even if the profit is considered as the natural reward function, a trading agent equipped with an RL model has several serious problems. Specifically, profit is only obtained after executing sell action, different profits exist at the same time step due to the varying-length transactions and the hold action deals with two opposite states, empty or nonempty position. To alleviate these shortcomings, in this paper, we introduce a new trading action called wait for the empty position status and design the appropriate rewards to all actions. Based on the new action space and reward functions, a novel approach named Transaction-aware Inverse Reinforcement Learning (TAIRL) is proposed. TAIRL rewards all trading actions for avoiding the reward bias and dilemma. TAIRL is evaluated by backtesting on 12 stocks of US, UK and China stock markets, and compared against other state-of-art RL methods and moving average trading methods. The experimental results show that the agent of TAIRL achieves the state-of-art performance in profitability and anti-risk ability.
+WOS:001181809800048
+</snippet>
+</document>
+
+<document id="20">
+<title>Deep learning for derivatives pricing: a comparative study of asymptotic and quasi-process corrections</title>
+<url>http://dx.doi.org/10.1007/s10479-024-06114-1</url>
+<snippet>In this study, we compare two methods for using neural networks to efficiently learn the price of derivatives. The first method, proposed by Funahashi (Quant Financ 21(4):575-592, 2021a), involves training the neural networks to learn the difference between the derivative price and its asymptotic expansion, rather than learning the derivative price directly. The target derivative price is then obtained by adding the approximate solution with the predicted value of neural networks. This method reduces the required amount of learning data, often by a factor of one hundred to one thousand, compared to the case where the derivative price is directly learned through neural networks. In the second method, established in this paper, the neural networks learn the difference between the derivative price written on the underlying asset price that follows the target complex stochastic process and the derivative price written on the underlying asset price that has a relatively simple stochastic process that has a closed-form solution for the target derivative prices. This method provides an alternative valuation method when no efficient approximate solution for the derivative value is observed and if one can arbitrarily determine the model parameters of the quasi-process that approximates the original process. We also propose a unified method to determine the model parameters of quasi-processes from underlying asset processes. These methods prove valuable in cases where general analytic solutions are absent, as seen in widely used financial models such as the stochastic volatility models. These cases involve time-consuming numerical calculations to generate learning data, highlighting the value of the two methods, which significantly compress calculation times.
+WOS:001264583000001
+</snippet>
+</document>
+
+<document id="21">
+<title>Offline Reinforcement Learning for Automated Stock Trading</title>
+<url>http://dx.doi.org/10.1109/ACCESS.2023.3324458</url>
+<snippet>Recently, with the increasing interest in investments in financial stock markets, several methods have been proposed to automatically trade stocks and/or predict future stock prices using machine learning techniques, such as reinforcement learning (RL), LSTM, and transformers. Among them, RL has been applied to manage portfolio assets with a sequence of optimal actions. The most important factor in investing in stocks is the utilization of past stock price data. However, existing RL algorithms applied to stock markets do not consider past stock data when taking optimal actions, as RL is formulated based on the Markov property. In other words, it means that the existing RL algorithm infers action based on the current state only. To resolve this limitation, we propose Transformer Actor-Critic with Regularization (TACR) using decision transformer to train the model with the correlation of past MDP (Markov Decision Process) elements using an attention network. In addition, a critic network is added to improve the performance by updating the parameters based on the evaluation of an action. For an efficient learning method, we train our model using an offline RL algorithm through suboptimal trajectories. To prevent overestimating the value of actions and reduce learning time, we train TACR through a regularization technique with an added behavior cloning. The experimental results using various stock market datasets show that TACR performs better than other state-of-the-art methods in terms of the Sharpe ratio and profit.
+WOS:001091995600001
+</snippet>
+</document>
+
+<document id="22">
+<title>Supervised actor-critic reinforcement learning with action feedback for algorithmic trading</title>
+<url>http://dx.doi.org/10.1007/s10489-022-04322-5</url>
+<snippet>Reinforcement learning is one of the promising approaches for algorithmic trading in financial markets. However, in certain situations, buy or sell orders issued by an algorithmic trading program may not be fulfilled entirely. By considering the actual scenarios from the financial markets, in this paper, we propose a novel framework named Supervised Actor-Critic Reinforcement Learning with Action Feedback (SACRL-AF) for solving this problem. The action feedback mechanism of SACRL-AF notifies the actor about the dealt positions and corrects the transitions of the replay buffer. Meanwhile, the dealt positions are used as the labels for the supervised learning. Recent studies have shown that Deep Deterministic Policy Gradient (DDPG) and Twin Delayed Deep Deterministic Policy Gradient (TD3) are more stable and superior to other actor-critic algorithms. Against this background, based on the proposed SACRL-AF framework, two reinforcement learning algorithms henceforth referred to as Supervised Deep Deterministic Policy Gradient with Action Feedback (SDDPG-AF) and Supervised Twin Delayed Deep Deterministic Policy Gradient with Action Feedback (STD3-AF) are proposed in this paper. Experimental results show that SDDPG-AF and STD3-AF achieve the state-of-art performance in profitability.
+WOS:000900092800003
+</snippet>
+</document>
+
+<document id="23">
+<title>Multi-agent reinforcement learning approach for hedging portfolio problem</title>
+<url>http://dx.doi.org/10.1007/s00500-021-05801-6</url>
+<snippet>Developing a hedging strategy to reduce risk of losses for a given set of stocks in a portfolio is a difficult task due to cost of the hedge. In Vietnam stock market, cross-hedge is involved hedging a long position of a stock because there is no put option for the stock. In addition, only VN30 stock index futures contracts are traded on Hanoi Stock Exchange. Inspired by recently achievement of deep reinforcement learning, we explore feasibility to construct a hedging strategy automatically by leveraging cooperative multi-agent in reinforcement learning techniques without advanced domain knowledge. In this work, we use 10 popular stocks on Ho Chi Minh Stock Exchange, and VN30F1M (VN30 Index Futures contracts within one month settlement) to develop a stock market simulator (including transaction fee, tax, and settlement date of transactions) for reinforcement learning agent training. We use daily return as input data for training process. Results suggest that the agent can learn trading and hedging policy to make profit and reduce losses. Furthermore, we also find that our agent can protect portfolios and make positive profit in case market collapses systematically. In practice, this work can help Vietnams stock market investors to improve performance and reduce losses in trading, especially when the volatility cannot be controlled.
+WOS:000641235700008
+</snippet>
+</document>
+
+<document id="24">
+<title>From deterministic to stochastic: an interpretable stochastic model-free reinforcement learning framework for portfolio optimization</title>
+<url>http://dx.doi.org/10.1007/s10489-022-04217-5</url>
+<snippet>As a fundamental problem in algorithmic trading, portfolio optimization aims to maximize the cumulative return by continuously investing in various financial derivatives within a given time period. Recent years have witnessed the transformation from traditional machine learning trading algorithms to reinforcement learning algorithms due to their superior nature of sequential decision making. However, the exponential growth of the imperfect and noisy financial data that is supposedly leveraged by the deterministic strategy in reinforcement learning, makes it increasingly challenging for one to continuously obtain a profitable portfolio. Thus, in this work, we first reconstruct several deterministic and stochastic reinforcement algorithms as benchmarks. On this basis, we introduce a risk-aware reward function to balance the risk and return. Importantly, we propose a novel interpretable stochastic reinforcement learning framework which tailors a stochastic policy parameterized by Gaussian Mixtures and a distributional critic realized by quantiles for the problem of portfolio optimization. In our experiment, the proposed algorithm demonstrates its superior performance on U.S. market stocks with a 63.1&#37; annual rate of return while at the same time reducing the market value max drawdown by 10&#37; when back-testing during the stock market crash around March 2020.
+WOS:000881894700001
+</snippet>
+</document>
+
+<document id="25">
+<title>Deep Reinforcement Learning for Dynamic Stock Option Hedging: A Review</title>
+<url>http://dx.doi.org/10.3390/math11244943</url>
+<snippet>This paper reviews 17 studies addressing dynamic option hedging in frictional markets through Deep Reinforcement Learning (DRL). Specifically, this work analyzes the DRL models, state and action spaces, reward formulations, data generation processes and results for each study. It is found that policy methods such as DDPG are more commonly employed due to their suitability for continuous action spaces. Despite diverse state space definitions, a lack of consensus exists on variable inclusion, prompting a call for thorough sensitivity analyses. Mean-variance metrics prevail in reward formulations, with episodic return, VaR and CvaR also yielding comparable results. Geometric Brownian motion is the primary data generation process, supplemented by stochastic volatility models like SABR (stochastic alpha, beta, rho) and the Heston model. RL agents, particularly those monitoring transaction costs, consistently outperform the Black-Scholes Delta method in frictional environments. Although consistent results emerge under constant and stochastic volatility scenarios, variations arise when employing real data. The lack of a standardized testing dataset or universal benchmark in the RL hedging space makes it difficult to compare results across different studies. A recommended future direction for this work is an implementation of DRL for hedging American options and an investigation of how DRL performs compared to other numerical American option hedging methods.
+WOS:001130789100001
+</snippet>
+</document>
+
+<document id="26">
+<title>Deep Reinforcement Learning for Trading-A Critical Survey</title>
+<url>http://dx.doi.org/10.3390/data6110119</url>
+<snippet>Deep reinforcement learning (DRL) has achieved significant results in many machine learning (ML) benchmarks. In this short survey, we provide an overview of DRL applied to trading on financial markets with the purpose of unravelling common structures used in the trading community using DRL, as well as discovering common issues and limitations of such approaches. We include also a short corpus summarization using Google Scholar. Moreover, we discuss how one can use hierarchy for dividing the problem space, as well as using model-based RL to learn a world model of the trading environment which can be used for prediction. In addition, multiple risk measures are defined and discussed, which not only provide a way of quantifying the performance of various algorithms, but they can also act as (dense) reward-shaping mechanisms for the agent. We discuss in detail the various state representations used for financial markets, which we consider critical for the success and efficiency of such DRL agents. The market in focus for this survey is the cryptocurrency market; the results of this survey are two-fold: firstly, to find the most promising directions for further research and secondly, to show how a lack of consistency in the community can significantly impede research and the development of DRL agents for trading.
+WOS:000913177200001
+</snippet>
+</document>
+
+<document id="27">
+<title>Statistical Machine Learning for Quantitative Finance</title>
+<url>http://dx.doi.org/10.1146/annurev-statistics-032921-042409</url>
+<snippet>We survey the active interface of statistical learning methods and quantitative finance models. Our focus is on the use of statistical surrogates, also known as functional approximators, for learning input-output relationships relevant for financial tasks. Given the disparate terminology used among statisticians and financial mathematicians, we begin by reviewing the main ingredients of surrogate construction and the motivating financial tasks. We then summarize the major surrogate types, including (deep) neural networks, Gaussian processes, gradient boosting machines, smoothing splines, and Chebyshev polynomials. The second half of the article dives deeper into the major applications of statistical learning in finance, covering (a) parametric option pricing, (b) learning the implied/local volatility surface, 
+WOS:000945740600012
+</snippet>
+</document>
+
+<document id="28">
+<title>Reinforcement learning enabled dynamic bidding strategy for instant delivery trading</title>
+<url>http://dx.doi.org/10.1016/j.cie.2021.107596</url>
+<snippet>Due to the great potential to enable collaboration and improve consolidation, auctions have been identified as a possible effective option to improve the efficiency of instant delivery. Instant delivery markets are complex and dynamic systems influenced by highly random demand. Conventional bidding strategies require perfect market information and cannot be adjusted effectively according to the evolution of requests. To address this problem, this paper proposes an auction-based trading platform to enable freight transportation procurement and develops a Reinforcement Learning (RL) enabled dynamic bidding strategy to optimize carriers behavior in sequential auctions. In the RL enabled dynamic bidding strategy, three RL algorithms, including Q-learning, Deep Q Network and experience replay based Q-learning are used to improve carriers bidding ability. The simulation results demonstrate that compared with the conventional bidding strategy, the RL enabled dynamic bidding strategies with any of the three RL algorithms can help carrier secure more auctions and gain more profit in a competitive marketplace. In addition, the advantages of the RL enabled dynamic bidding strategies are more obvious and the performance is more stable in more uncertain market environments.
+WOS:000697025700001
+</snippet>
+</document>
+
+<document id="29">
+<title>Modeling limit order trading with a continuous action policy for deep reinforcement learning</title>
+<url>http://dx.doi.org/10.1016/j.neunet.2023.05.051</url>
+<snippet>Limit Orders allow buyers and sellers to set a "limit price"they are willing to accept in a trade. On the other hand, market orders allow for immediate execution at any price. Thus, market orders are susceptible to slippage, which is the additional cost incurred due to the unfavorable execution of a trade order. As a result, limit orders are often preferred, since they protect traders from excessive slippage costs due to larger than expected price fluctuations. Despite the price guarantees of limit orders, they are more complex compared to market orders. Orders with overly optimistic limit prices might never be executed, which increases the risk of employing limit orders in Machine Learning (ML)-based trading systems. Indeed, the current ML literature for trading almost exclusively relies on market orders. To overcome this limitation, a Deep Reinforcement Learning (DRL) approach is proposed to model trading agents that use limit orders. The proposed method (a) uses a framework that employs a continuous probability distribution to model limit prices, while (b) provides the ability to place market orders when the risk of no execution is more significant than the cost of slippage. Extensive experiments are conducted with multiple currency pairs, using hourly price intervals, validating the effectiveness of the proposed method and paving the way for introducing limit order modeling in DRL-based trading.&amp; COPY; 2023 Elsevier Ltd. All rights reserved.
+WOS:001035284400001
+</snippet>
+</document>
+
+<document id="30">
+<title>Reinforcement Learning for Systematic FX Trading</title>
+<url>http://dx.doi.org/10.1109/ACCESS.2021.3139510</url>
+<snippet>We explore online inductive transfer learning, with a feature representation transfer from a radial basis function network formed of Gaussian mixture model hidden processing units to a direct, recurrent reinforcement learning agent. This agent is put to work in an experiment, trading the major spot market currency pairs, where we accurately account for transaction and funding costs. These sources of profit and loss, including the price trends that occur in the currency markets, are made available to the agent via a quadratic utility, who learns to target a position directly. We improve upon earlier work by targeting a risk position in an online transfer learning context. Our agent achieves an annualised portfolio information ratio of 0.52 with a compound return of 9.3&#37;, net of execution and funding cost, over a 7-year test set; this is despite forcing the model to trade at the close of the trading day at 5 pm EST when trading costs are statistically the most expensive.
+WOS:000744483700001
+</snippet>
+</document>
+
+<document id="31">
+<title>Price Trailing for Financial Trading Using Deep Reinforcement Learning</title>
+<url>http://dx.doi.org/10.1109/TNNLS.2020.2997523</url>
+<snippet>Machine learning methods have recently seen a growing number of applications in financial trading. Being able to automatically extract patterns from past price data and consistently apply them in the future has been the focus of many quantitative trading applications. However, developing machine learning-based methods for financial trading is not straightforward, requiring carefully designed targets/rewards, hyperparameter fine-tuning, and so on. Furthermore, most of the existing methods are unable to effectively exploit the information available across various financial instruments. In this article, we propose a deep reinforcement learning-based approach, which ensures that consistent rewards are provided to the trading agent, mitigating the noisy nature of profit-and-loss rewards that are usually used. To this end, we employ a novel price trailing-based reward shaping approach, significantly improving the performance of the agent in terms of profit, Sharpe ratio, and maximum drawdown. Furthermore, we carefully designed a data preprocessing method that allows for training the agent on different FOREX currency pairs, providing a way for developing market-wide RL agents and allowing, at the same time, to exploit more powerful recurrent deep learning models without the risk of overfitting. The ability of the proposed methods to improve various performance metrics is demonstrated using a challenging large-scale data set, containing 28 instruments, provided by Speedlab AG.
+WOS:000670541500004
+</snippet>
+</document>
+
+<document id="32">
+<title>Automated market maker inventory management with deep reinforcement learning</title>
+<url>http://dx.doi.org/10.1007/s10489-023-04647-9</url>
+<snippet>Stock markets are the result of the interaction of multiple participants, and market makers are one of them. Their main goal is to provide liquidity and market depth to the stock market by streaming bids and offers at both sides of the order book, at different price levels. This activity allows the rest of the participants to have more available prices to buy or sell stocks. In the last years, reinforcement learning market maker agents have been able to be profitable. But profit is not the only measure to evaluate the quality of a market maker. Inventory management arises as a risk source that must be under control. In this paper, we focus on inventory risk management designing an adaptive reward function able to control inventory depending on designer preferences. To achieve this, we introduce two control coefficients, AIIF (Alpha Inventory Impact Factor) and DITF (Dynamic Inventory Threshold Factor), which modulate dynamically the behavior of the market maker agent according to its evolving liquidity with good results. In addition, we analyze the impact of these factors in the trading operative, detailing the underlying strategies performed by these intelligent agents in terms of operative, profitability and inventory management. Last, we present a comparison with other existing reward functions to illustrate the robustness of our approach.
+WOS:001019914800010
+</snippet>
+</document>
+
+<document id="33">
+<title>Deep learning in the stock market-a systematic survey of practice, backtesting, and applications</title>
+<url>http://dx.doi.org/10.1007/s10462-022-10226-0</url>
+<snippet>The widespread usage of machine learning in different mainstream contexts has made deep learning the technique of choice in various domains, including finance. This systematic survey explores various scenarios employing deep learning in financial markets, especially the stock market. A key requirement for our methodology is its focus on research papers involving backtesting. That is, we consider whether the experimentation mode is sufficient for market practitioners to consider the work in a real-world use case. Works meeting this requirement are distributed across seven distinct specializations. Most studies focus on trade strategy, price prediction, and portfolio management, with a limited number considering market simulation, stock selection, hedging strategy, and risk management. We also recognize that domain-specific metrics such as "returns" and "volatility" appear most important for accurately representing model performance across specializations. Our study demonstrates that, although there have been some improvements in reproducibility, substantial work remains to be done regarding model explainability. Accordingly, we suggest several future directions, such as improving trust by creating reproducible, explainable, and accountable models and emphasizing prediction of longer-term horizons-potentially via the utilization of supplementary data-which continues to represent a significant unresolved challenge.
+WOS:000819273700001
+</snippet>
+</document>
+
+<document id="34">
+<title>QuantNet: transferring learning across trading strategies</title>
+<url>http://dx.doi.org/10.1080/14697688.2021.1999487</url>
+<snippet>Systematic financial trading strategies account for over 80&#37; of trade volume in equities and a large chunk of the foreign exchange market. In spite of the availability of data from multiple markets, current approaches in trading rely mainly on learning trading strategies per individual market. In this paper, we take a step towards developing fully end-to-end global trading strategies that leverage systematic trends to produce superior market-specific trading strategies. We introduce QuantNet: an architecture that learns market-agnostic trends and use these to learn superior market-specific trading strategies. Each market-specific model is composed of an encoder-decoder pair. The encoder transforms market-specific data into an abstract latent representation that is processed by a global model shared by all markets, while the decoder learns a market-specific trading strategy based on both local and global information from the market-specific encoder and the global model. QuantNet uses recent advances in transfer and meta-learning, where market-specific parameters are free to specialize on the problem at hand, whilst market-agnostic parameters are driven to capture signals from all markets. By integrating over idiosyncratic market data we can learn general transferable dynamics, avoiding the problem of overfitting to produce strategies with superior returns. We evaluate QuantNet on historical data across 3103 assets in 58 global equity markets. Against the top performing baseline, QuantNet yielded 51&#37; higher Sharpe and 69&#37; Calmar ratios. In addition, we show the benefits of our approach over the non-transfer learning variant, with improvements of 15&#37; and 41&#37; in Sharpe and Calmar ratios. A link to QuantNet code is made available in the appendix.
+WOS:000725953000001
+</snippet>
+</document>
+
+<document id="35">
+<title>A new hybrid method of recurrent reinforcement learning and BiLSTM for algorithmic trading</title>
+<url>http://dx.doi.org/10.3233/JIFS-223101</url>
+<snippet>Recently, the algorithmic trading of financial assets is rapidly developing with the rise of deep learning. In particular, deep reinforcement learning, as a combination of deep learning and reinforcement learning, stands out among many approaches in the field of decision-making because of its high performance, strong generalization, and high fitting ability. In this paper, we attempt to propose a hybrid method of recurrent reinforcement learning (RRL) and deep learning to figure out the algorithmic trading problem of determining the optimal trading position in the daily trading activities of the stock market. We adopt deep neural network (DNN), long short-term memory neural network (LSTM), and bidirectional long short-term memory neural network (BiLSTM) to automatically extract higher-level abstract feature information from sequential trading data, respectively, and then generate optimal trading strategies by interacting with the environment in a reinforcement learning framework. In particular, the BiLSTM consisting of two LSTM models with opposite directions is able to make full use of the information from both directions in attempting to capture more effective information. In experiments, the daily data of Dow Jones, S&amp;P500, and NASDAQ (from Jan-01, 2005 to Dec-31, 2020) are applied to verify the performance of the newly proposed DNN-RL, LSTM-RL, and BiLSTM-RL trading systems. Experimental results show that the proposed methods significantly outperform the benchmark methods, such as RRL and Buy and Hold, with higher scalability and better robustness. Especially, BiLSTM-RL performs better than other methods.
+WOS:001045474700005
+</snippet>
+</document>
+
+<document id="36">
+<title>Equal risk pricing of derivatives with deep hedging</title>
+<url>http://dx.doi.org/10.1080/14697688.2020.1806343</url>
+<snippet>This article provides a universal and tractable methodology based on deep reinforcement learning to implement the equal risk pricing framework for financial derivatives pricing under very general conditions. The equal risk pricing framework entails solving for a derivative price which equates the optimally hedged residual risk exposure associated, respectively, with the long and short positions in the contingent claim. The solution to the hedging optimization problem considered, which is inspired from the [Marzban, S., Delage, E. and Li, J.Y., Equal risk pricing and hedging of financial derivatives with convex risk measures. arXiv preprint arXiv:2002.02876, 2020.] framework relying on convex risk measures, is obtained through the use of the deep hedging algorithm of [Buehler, H., Gonon, L., Teichmann, J. and Wood, B., Deep hedging.Q. Finance, 2019,19, 1271-1291]. Consequently, the current papers approach allows for the pricing and the hedging of a very large number of contingent claims (e.g. vanilla options, exotic options, options with multiple underlying assets) with multiple liquid hedging instruments under a wide variety of market dynamics (e.g. regime-switching, stochastic volatility, jumps). A novel epsilon-completeness measure allowing for the quantification of the residual hedging risk associated with a derivative is also proposed. The latter measure generalizes the one presented in [Bertsimas, D., Kogan, L. and Lo, A.W., Hedging derivative securities and incomplete markets: an epsilon-arbitrage approach.Oper. Res., 2001,49, 372-397.] based on the quadratic penalty. Monte Carlo simulations are performed under a large variety of market dynamics to demonstrate the practicability of our approach, to perform benchmarking with respect to traditional methods and to conduct sensitivity analyses. Numerical results show, among others, that equal risk prices of out-of-the-money options are significantly higher than risk-neutral prices stemming from conventional changes of measure across all dynamics considered. This finding is shown to be shared by different option categories which include vanilla and exotic options.
+WOS:000567616900001
+</snippet>
+</document>
+
+<document id="37">
+<title>A Portfolio Model with Risk Control Policy Based on Deep Reinforcement Learning</title>
+<url>http://dx.doi.org/10.3390/math11010019</url>
+<snippet>It was shown that deep reinforcement learning (DRL) has the potential to solve portfolio management problems in recent years. The Twin Delayed Deep Deterministic policy gradient algorithm (TD3) is an actor-critic method, a typical DRL method in continuous action space. Despite the success of DRL in financial trading, surprisingly, most of the literature ignores the element of risk control. The research is proposed to combine long- and short-term risk (LSTR) control with the TD3 algorithm to build a portfolio model with risk management capabilities. Using Chinese stock data from the Shanghai Stock Exchange, we train and validate the proposed portfolio model. Performances were compared to the TD3 model without risk control. The results indicated that our proposal offers better risk control and investment returns.
+WOS:000909261200001
+</snippet>
+</document>
+
+<document id="38">
+<title>A Mean-VaR Based Deep Reinforcement Learning Framework for Practical Algorithmic Trading</title>
+<url>http://dx.doi.org/10.1109/ACCESS.2023.3259108</url>
+<snippet>It is difficult to automatically produce trading signals based on previous transaction data and the financial status of assets because of the significant noise and unpredictability of capital markets. This paper proposes an innovative algorithm to solve the optimal portfolio problem in stock market trading activities. Our novel portfolio trading strategy utilizes three features to outperform other benchmark strategies in a real-market environment. First, we propose a mean-VaR portfolio optimization model, the solution of which is based on the actor-critic architecture. Unlike the existing literature that learns the expectation of cumulative returns, the critic module learns the cumulative returns distribution by quantile regression, and the actor module outputs the optimal portfolio weight by maximizing the objective function of the optimization model. Secondly, we use a linear transformation function to realize short selling to ensure investors have profit opportunities in the bear market. Third, A multi-process method, called Ape-x, was used to accelerate the speed of deep reinforcement learning training. To validate our proposed approach, we conduct backtesting for two representative portfolios and observe that the proposed model in this work is superior to the benchmark strategies.
+WOS:000966081600001
+</snippet>
+</document>
+
+<document id="39">
+<title>Dynamic portfolio rebalancing through reinforcement learning</title>
+<url>http://dx.doi.org/10.1007/s00521-021-06853-3</url>
+<snippet>Portfolio managements in financial markets involve risk management strategies and opportunistic responses to individual trading behaviours. Optimal portfolios constructed aim to have a minimal risk with highest accompanying investment returns, regardless of market conditions. This paper focuses on providing an alternative view in maximising portfolio returns using Reinforcement Learning (RL) by considering dynamic risks appropriate to market conditions through dynamic portfolio rebalancing. The proposed algorithm is able to improve portfolio management by introducing the dynamic rebalancing of portfolios with vigorous risk through an RL agent. This is done while accounting for market conditions, asset diversifications, risk and returns in the global financial market. Studies have been performed in this paper to explore four types of methods with variations in fully portfolio rebalancing and gradual portfolio rebalancing, which combine with and without the use of the Long Short-Term Memory (LSTM) model to predict stock prices for adjusting the technical indicator centring. Performances of the four methods have been evaluated and compared using three constructed financial portfolios, including one portfolio with global market index assets with different risk levels, and two portfolios with uncorrelated stock assets from different sectors and risk levels. Observed from the experiment results, the proposed RL agent for gradual portfolio rebalancing with the LSTM model on price prediction outperforms the other three methods, as well as returns of individual assets in these three portfolios. The improvements of the returns using the RL agent for gradual rebalancing with prediction model are achieved at about 27.9-93.4&#37; over those of the full rebalancing without prediction model. It has demonstrated the ability to dynamically adjust portfolio compositions according to the market trends, risks and returns of the global indices and stock assets.
+WOS:000734701200001
+</snippet>
+</document>
+
+<document id="40">
+<title>Management of investment portfolios employing reinforcement learning</title>
+<url>http://dx.doi.org/10.7717/peerj-cs.1695</url>
+<snippet>Investors are presented with a multitude of options and markets for pursuing higher returns, a task that often proves complex and challenging. This study examines the effectiveness of reinforcement learning (RL) algorithms in optimizing investment portfolios, comparing their performance with traditional strategies and benchmarking against American and Brazilian indices. Additionally, it was explore the impact of incorporating commodity derivatives into portfolios and the associated transaction costs. The results indicate that the inclusion of derivatives can significantly enhance portfolio performance while reducing volatility, presenting an attractive opportunity for investors. RL techniques also demonstrate superior effectiveness in portfolio optimization, resulting in an average increase of 12&#37; in returns without a commensurate increase in risk. Consequently, this research makes a substantial contribution to the field of finance. It not only sheds light on the application of RL but also provides valuable insights for academia. Furthermore, it challenges conventional notions of market efficiency and modern portfolio theory, offering practical implications. It suggests that data -driven investment management holds the potential to enhance efficiency, mitigate conflicts of interest, and reduce biased decision -making, thereby transforming the landscape of financial investment.
+WOS:001239744500003
+</snippet>
+</document>
+
+<document id="41">
+<title>Self-attention based deep direct recurrent reinforcement learning with hybrid loss for trading signal generation</title>
+<url>http://dx.doi.org/10.1016/j.ins.2022.12.042</url>
+<snippet>Algorithmic trading based on machine learning has the advantage of using intrinsic features and embedded causality in complex stock price time series. We propose a novel algorithmic trading model based on recurrent reinforcement learning, optimized for making consecutive trading signals. This paper elaborates on how temporal features from complex observation are optimally extracted to maximize the expected rewards of the reinforcement learning model. Our model incorporates the hybrid learning loss to allow sequences of hidden features for reinforcement learning to contain the original states characteristics fully. The self-attention mechanism is also introduced to our model for learning the temporal importance of the hidden representation series, which helps the reinforcement learning model to be aware of temporal dependence for its decision-making. In this paper, we verify the effectiveness of proposed model using some major market indices and the representative stocks in each sector of S&amp;P500. The augmented structure that we propose has a significant dominance on trading performance. Our proposed model, self-attention based deep direct recurrent reinforcement learning with hybrid loss (SA-DDR-HL), shows superior performance over well-known baseline benchmark models, including machine learning and time series models. 
+WOS:000915273900001
+</snippet>
+</document>
+
+<document id="42">
+<title>Deep equal risk pricing of illiquid derivatives with multiple hedging instruments</title>
+<url>http://dx.doi.org/10.21314/JCF.2024.012</url>
+<snippet>This paper leverages the equal risk pricing (ERP) framework for the valuation of illiquid financial derivatives. Such a method sets the derivative price as the premium, which leads to equal residual optimal hedging risk for agents hedging the long and short positions on the derivative. The inclusion of multiple hedging instruments such as liquid vanilla options in the hedging procedure ensures that information contained in the price of these liquid assets is transferred to the price of the illiquid asset. This property leads to genuine market-consistent pricing, which allows the use of observables (liquid instrument prices) to determine nonobservable prices (ie, that of illiquid derivatives) to be maximized. The ERP problem is solved numerically through deep reinforcement learning. Several numerical experiments are provided to study the properties of equal risk prices of derivatives when multiple options are used as hedging instruments. Notably, the equal risk prices produced with option hedges are typically lower than those obtained through hedges relying exclusively on the underlying asset, which is caused by a reduction in the level of market incompleteness when options become available for trading.
+WOS:001443976200001
+</snippet>
+</document>
+
+<document id="43">
+<title>Deep reinforcement learning stock market trading, utilizing a CNN with candlestick images</title>
+<url>http://dx.doi.org/10.1371/journal.pone.0263181</url>
+<snippet>Billions of dollars are traded automatically in the stock market every day, including algorithms that use neural networks, but there are still questions regarding how neural networks trade. The black box nature of a neural network gives pause to entrusting it with valuable trading funds. A more recent technique for the study of neural networks, feature map visualizations, yields insight into how a neural network generates an output. Utilizing a Convolutional Neural Network (CNN) with candlestick images as input and feature map visualizations gives a unique opportunity to determine what in the input images is causing the neural network to output a certain action. In this study, a CNN is utilized within a Double Deep Q-Network (DDQN) to outperform the S&amp;P 500 Index returns, and also analyze how the system trades. The DDQN is trained and tested on the 30 largest stocks in the S&amp;P 500. Following training the CNN is used to generate feature map visualizations to determine where the neural network is placing its attention on the candlestick images. Results show that the DDQN is able to yield higher returns than the S&amp;P 500 Index between January 2, 2020 and June 30, 2020. Results also show that the CNN is able to switch its attention from all the candles in a candlestick image to the more recent candles in the image, based on an event such as the coronavirus stock market crash of 2020.
+WOS:000796435800012
+</snippet>
+</document>
+
+</searchresult>

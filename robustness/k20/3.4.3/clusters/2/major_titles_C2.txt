@@ -1,0 +1,58 @@
+A recursive recomputation approach for smoothing in nonlinear state-space modeling: An attempt for reducing space complexity
+Heavy-tailed-distributed threshold stochastic volatility models in financial time series
+Stochastic tail index model for high frequency financial data with Bayesian analysis
+Extended-horizon realized volatility forecasting using state space models
+Efficient estimation and particle filter for max-stable processes
+Dynamic linkages among equity markets in the Middle East and North African countries
+High-dimensional sparse multivariate stochastic volatility models
+Bayesian Modeling and Forecasting of 24-Hour High-Frequency Volatility
+Sequential Monte Carlo Smoothing with Parameter Estimation
+Long memory stochastic volatility: A Bayesian approach
+Parametric estimation of hidden stochastic model by contrast minimization and deconvolution
+GARCH DIFFUSION MODEL, iVIX, AND VOLATILITY RISK PREMIUM
+Conditionally Gaussian random sequences for an integrated variance estimator with correlation between noise and returns
+Dealing with Stochastic Volatility in Time Series Using the R Package stochvol
+A family of multivariate non-gaussian time series models
+ESTIMATING CORRELATED JUMPS AND STOCHASTIC VOLATILITIES
+On leverage in a stochastic volatility model
+High dimensional dynamic stochastic copula models
+Investor-herding and risk-profiles: A State-Space model-based assessment
+Language sentiment in fundamental and noise trading: evidence from crude oil
+A Simulation and Empirical Study of the Maximum Likelihood Estimator for Stochastic Volatility Jump-Diffusion Models
+On the role of domestic and international financial cyclical factors in driving economic growth
+Creating investment scheme with state space modeling
+Warrant pricing under GARCH diffusion model
+A flexible approach to parametric inference in nonlinear and time varying time series models
+Particle Filters and Bayesian Inference in Financial Econometrics
+Semi-closed form cubature and applications to financial diffusion models
+On idiosyncratic stochasticity of financial leverage effects
+ABC of SV: Limited information likelihood inference in stochastic volatility jump-diffusion models
+The volatility effect on precious metals price returns in a stochastic volatility in mean model with time-varying parameters
+Second-order filter distribution approximations for financial time series with extreme outliers
+Forecasting High-Frequency Futures Returns Using Online Langevin Dynamics
+Level shifts in stock returns driven by large shocks
+Inference with non-Gaussian Ornstein-Uhlenbeck processes for stochastic volatility
+Valuing Vulnerable Geometric Asian Basket Options Under Stochastic Volatility Jump Diffusion Model
+Learning High-Dimensional Generalized Linear Autoregressive Models
+Bayesian analysis of the stochastic conditional duration model
+Herding states and stock market returns
+The volatility structure of the fixed income market under the HJM framework: A nonlinear filtering approach
+Bayesian semiparametric Markov switching stochastic volatility model
+Bayesian Tail Risk Interdependence Using Quantile Regression
+Endogenous vs exogenous fluctuations: unveiling the impact of heterogeneous expectations
+AMERICAN OPTION PRICING UNDER GARCH DIFFUSION MODEL: AN EMPIRICAL STUDY
+Fitting stochastic volatility models in the presence of irregular sampling via particle methods and the EM algorithm
+Generalized exponential moving average (EMA) model with particle filtering and anomaly detection
+Risk aversion decomposition and the impact of monetary policy surprises on aggregate tail risk aversion
+Particle learning for Bayesian semi-parametric stochastic volatility model
+SV mixture models with application to S&P 500 index returns
+Extracting a common stochastic trend: Theory with some applications
+Structural breaks detection using step-indicator saturation technique in state-space model
+Estimation of agent-based models using sequential Monte Carlo methods
+Markov-switching and stochastic volatility diffusion models of short-term interest rates
+Bayesian modeling of financial returns: A relationship between volatility and trading volume
+Does China transmit financial cycle spillover effects to the G7 countries?
+A switching ARCH model for the German DAX index
+Gaussian Variational Approximations for High-dimensional State Space Models
+Forecasting the Volatility of Cryptocurrencies in the Presence of COVID-19 with the State Space Model and Kalman Filter
+Short-term determinants of the idiosyncratic sovereign risk premium: A regime-dependent analysis for European credit default swaps

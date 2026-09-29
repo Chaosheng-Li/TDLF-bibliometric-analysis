@@ -1,0 +1,46 @@
+Autocorrelation in an unobservable global trend: does it help to forecast market returns?
+Volatility forecasting using global stochastic financial trends extracted from non-synchronous data
+A multifactor transformed diffusion model with applications to VIX and VIX futures
+Modelling short and long-term risks in power markets: Empirical evidence from Nord Pool
+Nonparametric Bayesian volatility learning under microstructure noise
+Forecasting Bitcoin returns using machine learning algorithms: impact of investor sentiment
+Heavy-tailed-distributed threshold stochastic volatility models in financial time series
+On a consistent state-space bond markets model for pricing long-maturity bonds
+Pre-averaging estimators of the ex-post covariance matrix in noisy diffusion models with non-synchronous data
+Specification tests for nonlinear dynamic models
+A state space model approach to integrated covariance matrix estimation with high frequency data
+Robust nonparametric estimation for the volatility of financial market
+Universal features of price formation in financial markets: perspectives from deep learning
+A hybrid optimized deep learning model via the Golden Jackal Optimizer for accurate stock price forecasting
+Integrated variance of irregularly spaced high-frequency data: A state space approach based on pre-averaging
+Deep learning in predicting cryptocurrency volatility
+Statistical Arbitrage with Mean-Reverting Overnight Price Gaps on High-Frequency Data of the S&P 500
+A Hybrid GARCH and Deep Learning Method for Volatility Prediction
+Novel forecasting of white maize futures volatility: a hybrid GARCH-based bi-directional LSTM model
+Testing mean reversion in financial market volatility: Evidence from S&P 500 index futures
+Systematic Financial Risk Identification and Dynamic Evolution Based on Deep Learning
+Jump Detection and Noise Separation by a Singular Wavelet Method for Predictive Analytics of High-Frequency Data
+Does the Open Limit Order Book Matter in Explaining Informational Volatility?
+Online Spot Volatility-Estimation and Decomposition with Nonlinear Market Microstructure Noise Models
+Empirical mode decomposition using deep learning model for financial market forecasting
+Extracting a common stochastic trend: Theory with some applications
+EMPIRICAL PRICING KERNELS: EVIDENCE FROM THE HONG KONG STOCK MARKET
+Explicit Bandwidth Learning for FOREX Trading Using Deep Reinforcement Learning
+Feature Engineering for Mid-Price Prediction With Deep Learning
+VMD-MSANet: A multi-scale attention network for stock series prediction with Variational Mode Decomposition
+Modelling and Forecasting of Exchange Rate Pairs Using the Kalman Filter
+FINANCIAL DERIVATIVE VALUATION - A DYNAMIC SEMIPARAMETRIC APPROACH
+Generalized dynamic linear models for financial time series
+Volatility models for stylized facts of high-frequency financial data
+Language sentiment in fundamental and noise trading: evidence from crude oil
+Does China transmit financial cycle spillover effects to the G7 countries?
+No-arbitrage semi-martingale restrictions for continuous-time volatility models subject to leverage effects, jumps and i.i.d. noise: Theory and testable distributional implications
+Reinforcement Learning for Stock Prediction and High-Frequency Trading With T+1 Rules
+Multivariate stochastic volatility with Bayesian dynamic linear models
+TIME-VARYING IMPACTS OF MACROECONOMIC VARIABLES ON STOCK MARKET RETURNS AND VOLATILITY: EVIDENCE FROM PAKISTAN
+Kalman-Enhanced Deep Reinforcement Learning for Noise-Resilient Algorithmic Trading in Volatile Gold Markets
+Modeling around-the-clock price discovery for cross-listed stocks using state space methods
+Bootstrapping integrated covariance matrix estimators in noisy jump-diffusion models with non-synchronous trading
+Is the diurnal pattern sufficient to explain intraday variation in volatility? A nonparametric assessment
+Forecasting the Volatility of Cryptocurrencies in the Presence of COVID-19 with the State Space Model and Kalman Filter
+Two-stage stationary bootstrapping for bivariate average realized volatility matrix under market microstructure noise and asynchronicity

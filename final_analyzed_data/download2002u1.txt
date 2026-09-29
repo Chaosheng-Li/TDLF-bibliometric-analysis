@@ -1,0 +1,87 @@
+PT J
+AU Smith, DR
+AF Smith, DR
+TI Markov-switching and stochastic volatility diffusion models of short-term interest rates
+SO JOURNAL OF BUSINESS & ECONOMIC STATISTICS
+LA English
+DT Article
+DE quasi-maximum likelihood estimation; short rate; term structure
+ID autoregressive conditional heteroskedasticity; business-cycle; nuisance parameter; stock-market; monte-carlo; likelihood; variance; dynamics; phases; regime
+AB This article empirically compares the Markov-switching and stochastic volatility diffusion models of the short rate. The evidence supports the Markov-switching diffusion model. Estimates of the elasticity of volatility parameter for single-regime models unanimously indicate an explosive volatility process, whereas the Markov-switching models estimates are reasonable. It is found that either Markov switching or stochastic volatility, but not both, is needed to adequately fit the data. A robust conclusion is that volatility depends on the level of the short rate. Finally, the Markov-switching model is the best for forecasting. A technical contribution of this article is a presentation of quasi-maximum likelihood estimation techniques for the Markov-switching stochastic-volatility model.
+C1 Univ British Columbia, Fac Commerce, Finance Div, Vancouver, BC V6T 1Z2, Canada.
+C3 University of British Columbia
+RP Smith, DR (corresponding author), Univ British Columbia, Fac Commerce, Finance Div, 2053 Main Mall, Vancouver, BC V6T 1Z2, Canada.
+CR Ait-Sahalia Y, 1996, REV FINANC STUD, V9, P385, DOI 10.1093/rfs/9.2.385
+   Andersen TG, 1999, J ECONOMETRICS, V91, P61, DOI 10.1016/S0304-4076(98)00049-9
+   BALL CA, 1999, J FINANCE, V0, P0
+   BLACK F, 1973, J POLIT ECON, V81, P637, DOI 10.1086/260062
+   BOLLERSLEV T, 1986, J ECONOMETRICS, V31, P307, DOI 10.1016/0304-4076(86)90063-1
+   BOLLERSLEV T, 1992, J ECONOMETRICS, V52, P5, DOI 10.1016/0304-4076(92)90064-X
+   Bollevslev T, 1992, ECONOMET REV, V11, P143, DOI 10.1080/07474939208800229
+   Broze L, 1995, J EMPIR FINANC, V2, P199, DOI 10.1016/0927-5398(95)00003-D
+   CAI J, 1994, J BUSINESS EC STAT E, V0, P0
+   CHAN KC, 1992, J FINANC, V47, P1209, DOI 10.2307/2328983
+   COX JC, 1985, ECONOMETRICA, V53, P385, DOI 10.2307/1911242
+   DAVIES RB, 1977, BIOMETRIKA, V64, P247, DOI 10.2307/2335690
+   DAVIES RB, 1987, BIOMETRIKA, V74, P33, DOI 10.1093/biomet/74.1.33
+   Diebold FX, 1986, P AM STAT ASS BUS EC, V0, P323
+   Dueker MJ, 1997, J BUS ECON STAT, V15, P26, DOI 10.2307/1392070
+   Duffee G, 1993, ON THE RELATION BETWEEN THE LEVEL AND VOLATILITY OF SHORT-TERM INTEREST RATES: A COMMENT ON CHAN, V0, P0
+   Duffee GR, 1996, J FINANC, V51, P527, DOI 10.2307/2329370
+   DUNSMUIR W, 1979, ANN STAT, V7, P490, DOI 10.1214/aos/1176344671
+   DURLAND JM, 1994, J BUS ECON STAT, V12, P279, DOI 10.2307/1392084
+   ENGLE C, 1990, AM ECON REV, V80, P689
+   ENGLE RF, 1990, J ECONOMETRICS, V45, P213, DOI 10.1016/0304-4076(90)90099-F
+   ENGLE RF, 1982, ECONOMETRICA, V50, P987, DOI 10.2307/1912773
+   FILARDO AJ, 1994, J BUS ECON STAT, V12, P299, DOI 10.2307/1392086
+   Fridman M, 1998, J BUS ECON STAT, V16, P284, DOI 10.2307/1392504
+   GOODWIN TH, 1993, J BUS ECON STAT, V11, P331
+   Gourieroux C, 1993, J APPL ECONOMET, V8, P85
+   Gray SF, 1996, J FINANC ECON, V42, P27, DOI 10.1016/0304-405X(96)00875-6
+   Hamilton JD, 1994, TIME SERIES ANALYSIS, V2, P0, DOI 10.1515/9780691218632
+   HAMILTON JD, 1994, J ECONOMETRICS, V64, P307, DOI 10.1016/0304-4076(94)90067-1
+   HAMILTON JD, 1989, ECONOMETRICA, V57, P357, DOI 10.2307/1912559
+   HANSEN LP, 1982, ECONOMETRICA, V50, P1029, DOI 10.2307/1912775
+   HARVEY A, 1994, REV ECON STUD, V61, P247, DOI 10.2307/2297980
+   Harvey AC, 1996, J BUS ECON STAT, V14, P429, DOI 10.2307/1392251
+   HSIEH DA, 1991, J FINANC, V46, P1839, DOI 10.2307/2328575
+   JACQUIER E, 1994, J BUS ECON STAT, V12, P371, DOI 10.2307/1392199
+   KIM CJ, 1994, J ECONOMETRICS, V60, P1, DOI 10.1016/0304-4076(94)90036-1
+   Layton AP, 2000, APPL ECON, V32, P1133, DOI 10.1080/000368400404272
+   Naik V, 1997, YIELD CURVE DYNAMICS, V0, P0
+   Sandmann G, 1998, J ECONOMETRICS, V87, P271, DOI 10.1016/S0304-4076(98)00016-5
+   Schaller H, 1997, APPL FINANCIAL EC, V7, P177, DOI 10.1080/096031097333745
+   So MKP, 1998, J BUS ECON STAT, V16, P244, DOI 10.2307/1392580
+   Taylor S, 1986, MODELLING FINANCIAL, V0, P0
+   TURNER CM, 1989, J FINANC ECON, V25, P3, DOI 10.1016/0304-405X(89)90094-9
+   VASICEK O, 1977, J FINANC ECON, V5, P177, DOI 10.1016/0304-405X(77)90016-2
+   VUONG QH, 1989, ECONOMETRICA, V57, P307, DOI 10.2307/1912557
+   WHITE H, 1980, ECONOMETRICA, V48, P817, DOI 10.2307/1912934
+   White H, 1980, ECONOMETRICA, V0, P1
+NR 47
+TC 55
+Z9 69
+U1 1
+U2 9
+PU AMER STATISTICAL ASSOC
+PI ALEXANDRIA
+PA 1429 DUKE ST, ALEXANDRIA, VA 22314 USA
+SN 0735-0015
+EI 
+J9 J BUS ECON STAT
+JI J. Bus. Econ. Stat.
+PD APR 15
+PY 2002
+VL 20
+IS 2
+BP 183
+EP 197
+DI 10.1198/073500102317351949
+PG 15
+WC Economics; Social Sciences, Mathematical Methods; Statistics & Probability
+SC Business & Economics; Mathematical Methods In Social Sciences; Mathematics
+GA 594FK
+UT WOS:000178038200003
+DA 2025-12-31
+ER
+

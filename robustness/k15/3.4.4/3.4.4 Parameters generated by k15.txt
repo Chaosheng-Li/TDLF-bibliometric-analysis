@@ -1,0 +1,9 @@
+Timespan: 1997-2025 (Slice Length=1)
+Selection Criteria: g-index (k=15), LRF=2.5, L/N=10, LBY=5, e=1.0
+Network: N=697, E=1308 (Density=0.0054)
+Largest 1 CCs: 319 (45%)
+Nodes Labeled: 1.0%
+Pruning: Pathfinder
+Modularity Q=0.8779
+Weighted Mean Silhouette S=0.9392
+Harmonic Mean(Q, S)=0.9075

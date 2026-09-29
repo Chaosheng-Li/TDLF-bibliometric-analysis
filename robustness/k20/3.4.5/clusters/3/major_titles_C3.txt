@@ -1,0 +1,81 @@
+Pricing levered warrants under the CEV diffusion model
+Foundations and trends in option pricing models: a 45 years global examination based on bibliometric analysis
+Highly efficient Shannon wavelet-based pricing of power options under the double exponential jump framework with stochastic jump intensity and volatility
+Parameter estimation for time-fractional Black-Scholes equation with S&P 500 index option
+A unified approach to Bermudan and barrier options under stochastic volatility models with jumps
+Heavy-tailed-distributed threshold stochastic volatility models in financial time series
+A FUZZY APPROACH TO OPTION PRICING IN A LEVY PROCESS SETTING
+SOLUTIONS TO A PARTIAL INTEGRO-DIFFERENTIAL PARABOLIC SYSTEM ARISING IN THE PRICING OF FINANCIAL OPTIONS IN REGIME-SWITCHING JUMP DIFFUSION MODELS
+The double exponential jump diffusion model for pricing European options under fuzzy environments
+Pricing and hedging path-dependent options under the CEV process
+DECOMPOSITION FORMULA FOR JUMP DIFFUSION MODELS
+Calibrating FBSDEs Driven Models in Finance via NNs
+Pricing Options with Vanishing Stochastic Volatility
+FINANCIAL MARKETS WITH NO RISKLESS (SAFE) ASSET
+American and exotic option pricing with jump diffusions and other Levy processes
+RBF-FD based some implicit-explicit methods for pricing option under regime-switching jump-diffusion model with variable coefficients
+An Efficient Numerical Method for Pricing Options Under Stochastic Volatility with Jump Model
+EUROPEAN OPTION VALUATION UNDER THE BATES PIDE IN FINANCE: A NUMERICAL IMPLEMENTATION OF THE GAUSSIAN SCHEME
+Valuation of equity-indexed annuities with regime-switching jump diffusion risk and stochastic mortality risk
+Pricing equity-linked guaranteed minimum death benefits with surrender risk by complex Fourier series expansion method
+Option pricing under sub-mixed fractional Brownian motion based on time-varying implied volatility using intelligent algorithms
+Closed-Form Expansion, Conditional Expectation, and Option Valuation
+Implicit-explicit Runge-Kutta methods for pricing financial derivatives in state-dependent regime-switching jump-diffusion models
+A family of multivariate non-gaussian time series models
+A tree approach to options pricing under regime-switching jump diffusion models
+A GENERAL ORNSTEIN-UHLENBECK STOCHASTIC VOLATILITY MODEL WITH LEVY JUMPS
+Pricing options in jump-diffusion models: An extrapolation approach
+Deep Equal Risk Pricing of Financial Derivatives with Non-Translation Invariant Risk Measures
+A Simulation and Empirical Study of the Maximum Likelihood Estimator for Stochastic Volatility Jump-Diffusion Models
+Noise trading and stock market bubbles: what the derivatives market is telling us
+A New Set of Financial Instruments
+The Convergence Investigation of a Numerical Scheme for the Tempered Fractional Black-Scholes Model Arising European Double Barrier Option
+Equal risk pricing of derivatives with deep hedging
+Compound Option Pricing under Fuzzy Environment
+Detecting Jump Risk and Jump-Diffusion Model for Bitcoin Options Pricing and Hedging
+Optimal Reinsurance and Investment Strategy with Delay in Heston's SV Model
+RANDOMISATION AND RECURSION METHODS FOR MIXED-EXPONENTIAL LEVY MODELS, WITH FINANCIAL APPLICATIONS
+Information Asymmetry in the French Market around Crises
+Semi-closed form cubature and applications to financial diffusion models
+Long memory version of stochastic volatility jump-diffusion model with stochastic intensity
+Time-Varying Betas of Banking Sectors
+Barrier option hedging under constraints: A viscosity approach
+RBF-FD solution for a financial partial-integro differential equation utilizing the generalized multiquadric function
+The volatility effect on precious metals price returns in a stochastic volatility in mean model with time-varying parameters
+Deep learning networks for stock market analysis and prediction: Methodology, data representations, and case studies
+Options pricing with time changed Levy processes under imprecise information
+Shot-noise cojumps: Exact simulation and option pricing
+Stock movement prediction: A multi-input LSTM approach
+An implicit-explicit preconditioned direct method for pricing options under regime-switching tempered fractional partial differential models
+American and European options in multi-factor jump-diffusion models, near expiry
+Efficient likelihood estimation of Heston model for novel climate-related financial contracts valuation
+Deep learning for derivatives pricing: a comparative study of asymptotic and quasi-process corrections
+Machine learning versus econometric jump models in predictability and domain adaptability of index options
+Deep Learning in Financial Modeling: Predicting European Put Option Prices with Neural Networks
+On the statistical equivalence at suitable frequencies of garch and stochastic volatility models with the corresponding diffusion model
+Integrated variance of irregularly spaced high-frequency data: A state space approach based on pre-averaging
+Localized kernel-based approximation for pricing financial options under regime switching jump diffusion model
+Post-'87 crash fears in the S&P 500 futures option market
+Option Pricing under Double Heston Jump-Diffusion Model with Approximative Fractional Stochastic Volatility
+Valuing Vulnerable Geometric Asian Basket Options Under Stochastic Volatility Jump Diffusion Model
+Pricing Path-Independent Payoffs with Exotic Features in the Fractional Diffusion Model
+The volatility structure of the fixed income market under the HJM framework: A nonlinear filtering approach
+Financial options pricing with regime-switching jump-diffusions
+Numerically Pricing Nonlinear Time-Fractional Black-Scholes Equation with Time-Dependent Parameters Under Transaction Costs
+AMERICAN OPTION PRICING UNDER GARCH DIFFUSION MODEL: AN EMPIRICAL STUDY
+Fitting stochastic volatility models in the presence of irregular sampling via particle methods and the EM algorithm
+A Fuzzy Jump-Diffusion Option Pricing Model Based on the Merton Formula
+Explicit form of approximate transition probability density functions of diffusion processes
+FINANCIAL DERIVATIVE VALUATION - A DYNAMIC SEMIPARAMETRIC APPROACH
+Generalized dynamic linear models for financial time series
+Non-implementability of Arrow-Debreu equilibria by continuous trading under volatility uncertainty
+Bayesian modeling of financial returns: A relationship between volatility and trading volume
+GAN-Enhanced Implied Volatility Surface Reconstruction for Option Pricing Error Mitigation
+No-arbitrage semi-martingale restrictions for continuous-time volatility models subject to leverage effects, jumps and i.i.d. noise: Theory and testable distributional implications
+Fast and Accurate Computation of the Regime-Switching Jump-Diffusion Option Prices Using Laplace Transform and Compact Difference with Convergence Guarantee
+A survey of electricity spot and futures price models for risk management applications
+Optimal consumption-investment problems in incomplete markets with stochastic coefficients
+Fuzzy Fractional Brownian Motion: Review and Extension
+Physics-informed convolutional transformer for predicting volatility surface
+From Traditional to Computationally Efficient Scientific Computing Algorithms in Option Pricing: Current Progresses with Future Directions
+A Generative Neural Network-Based Approach for Efficient Estimation of Option Prices and Greeks

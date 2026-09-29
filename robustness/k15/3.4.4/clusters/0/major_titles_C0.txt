@@ -1,0 +1,161 @@
+A New Deep Learning-Based Zero-Inflated Duration Model for Financial Data Irregularly Spaced in Time
+Temporal Fusion Transformer-Based Trading Strategy for Multi-Crypto Assets Using On-Chain and Technical Indicators
+An Optimal Weighted Combined Model Coupled with Feature Reconstruction and Deep Learning for Multivariate Stock Index Forecasting
+Forecasting stock volatility and value-at-risk based on temporal convolutional networks
+Multivariate Financial Time-Series Prediction With Certified Robustness
+Forecasting the realized volatility of Energy Stock Market: A multimodel comparison
+AI-fused construction portfolio investment system with risk hedging using machine learning and long-short strategies
+Structural break-aware pairs trading strategy using deep reinforcement learning
+Forecasting cryptocurrency price using convolutional neural networks with weighted and attentive memory channels
+Sell or HODL Cryptos: Cryptocurrency Short-to-Long Term Projection Using Simultaneous Classification-Regression Deep Learning Framework
+Bitcoin Candlestick Prediction with Deep Neural Networks Based on Real Time Data
+Deep Robust Reinforcement Learning for Practical Algorithmic Trading
+Stock Price Forecast Based on CNN-BiLSTM-ECA Model
+Forecasting bitcoin volatility: exploring the potential of deep learning
+A hybrid forecasting model based on deep learning feature extraction and statistical arbitrage methods for stock trading strategies
+Deep Nonlinear Ensemble Framework for Stock Index Forecasting and Uncertainty Analysis
+DMSTA-LSTM: A Dual-Stage Multi-Time Scale Temporal Attention-Based LSTM Framework for Forecasting International Financial Indices Across Diverse Varied National Contexts
+Robust portfolio management: A novel multi-task learning model fusing predicted returns and residual data under the framework of Mean-VaR
+Algorithmic trading using continuous action space deep reinforcement learning
+Time-series forecasting of Bitcoin prices using high-dimensional features: a machine learning approach
+Digital financial asset price fluctuation forecasting in digital economy era using blockchain information: A reconstructed dynamic-bound Levenberg-Marquardt neural-network approach
+Forecasting the Risk Factor of Frontier Markets: A Novel Stacking Ensemble of Neural Network Approach
+Harnessing technical indicators with deep learning based price forecasting for cryptocurrency trading☆
+Combating emerging financial risks in the big data era: A perspective review
+Analyzing the Internet financial market risk management using data mining and deep learning methods
+Helformer: an attention-based deep learning model for cryptocurrency price forecasting
+Prediction of cryptocurrency's price using ensemble machine learning algorithms
+Brent Crude Oil Price Forecast Utilizing Deep Neural Network Architectures
+Forecasting Stock Market Indices Using Padding-Based Fourier Transform Denoising and Time Series Deep Learning Models
+Forecasting multi-frequency intraday exchange rates using deep learning models
+Predicting Financial Risk Associated to Bitcoin Investment by Deep Learning
+A multi-factor two-stage deep integration model for stock price prediction based on intelligent optimization and feature clustering
+Bitcoin volatility in bull vs. bear market- insights from analyzing on-chain metrics and Twitter posts
+Probabilistic deep learning and transfer learning for robust cryptocurrency price prediction
+The optimized gate recurrent unit based on improved evolutionary algorithm to predict stock market returns
+Modeling Bitcoin Prices using Signal Processing Methods, Bayesian Optimization, and Deep Neural Networks
+Stock price prediction using multi-scale nonlinear ensemble of deep learning and evolutionary weighted support vector regression
+A Novel Hybrid Model of CNN-SA-NGU for Silver Closing Price Prediction
+AlBERTino for stock price prediction: a Gibbs sampling approach
+Study of Swarm Intelligence Algorithms for Optimizing Deep Neural Network for Bitcoin Prediction
+Probability rough set and portfolio optimization integrated three-way predication decisions approach to stock price
+Volatility forecasts of stock index futures in China and the US-A hybrid LSTM approach
+A convolutional deep reinforcement learning architecture for an emerging stock market analysis
+Stock index prediction and uncertainty analysis using multi-scale nonlinear ensemble paradigm of optimal feature extraction, two-stage deep learning and Gaussian process regression
+Navigating XRP Volatility: A Deep Learning Perspective on Technical Indicators
+Stock Market Forecasting Using Deep Learning and Technical Analysis: A Systematic Review
+A Gated Recurrent Unit Approach to Bitcoin Price Prediction
+COVID19-MLSF: A multi-task learning-based stock market forecasting framework during the COVID-19 pandemic
+Intelligent cryptocurrency trading system using integrated AdaBoost-LSTM with market turbulence knowledge
+Failure in Stock Price Prediction: A Comparison between the Curve-Shape-Feature and Non-Curve-Shape-Feature Modes of Existing Machine Learning Algorithms
+Forecasting Bitcoin with technical analysis: A not-so-random forest?
+Deep learning networks for stock market analysis and prediction: Methodology, data representations, and case studies
+Hybrid deep learning and GARCH-family models for forecasting volatility of cryptocurrencies
+A CNN-LSTM Stock Prediction Model Based on Genetic Algorithm Optimization
+Cryptocurrency price prediction using traditional statistical and machine-learning techniques: A survey
+Forecasting Bitcoin Volatility Through on-Chain and Whale-Alert Tweet Analysis Using the Q-Learning Algorithm
+Stock movement prediction: A multi-input LSTM approach
+Prediction of SSE Shanghai Enterprises index based on bidirectional LSTM model of air pollutants
+Deep learning in the stock market-a systematic survey of practice, backtesting, and applications
+MS-IHHO-LSTM: Carbon Price Prediction Model of Multi-Source Data Based on Improved Swarm Intelligence Algorithm and Deep Learning Method
+Interpretable Stock Anomaly Detection Based on Spatio-Temporal Relation Networks With Genetic Algorithm
+Hybrid data decomposition-based deep learning for Bitcoin prediction and algorithm trading
+Deep reinforcement learning for financial trading using multi-modal features
+On Forecasting Cryptocurrency Prices: A Comparison of Machine Learning, Deep Learning, and Ensembles
+Integrating Piecewise Linear Representation and Deep Learning for Trading Signals Forecasting
+Trading strategy of structured mutual fund based on deep learning network
+Influence of Artificial Intelligence on Forecasting Net Asset Value and Return Volatility in Indian Mutual Fund
+Constructing a stock-price forecast CNN model with gold and crude oil indicators
+BiCuDNNLSTM-1dCNN-A hybrid deep learning-based predictive model for stock price prediction
+Neural networks for estimating Macro Asset Pricing model in football clubs
+SF-Transformer: A Mutual Information-Enhanced Transformer Model with Spot-Forward Parity for Forecasting Long-Term Chinese Stock Index Futures Prices
+An enhanced Wasserstein generative adversarial network with Gramian Angular Fields for efficient stock market prediction during market crash periods
+Combining CNN and Grad-CAM for profitability and explainability of investment strategy: Application to the KOSPI 200 futures
+Forecasting multistep daily stock prices for long-term investment decisions: A study of deep learning models on global indices
+QuantNet: transferring learning across trading strategies
+Deep-learning-assisted business intelligence model for cryptocurrency forecasting using social media sentiment
+Index tracking through deep latent representation learning
+Time-driven feature-aware jointly deep reinforcement learning for financial signal representation and algorithmic trading
+Modal decomposition-based hybrid model for stock index prediction
+Leveraging multi-time-span sequences and feature correlations for improved stock trend prediction
+Algorithmic Trading and Financial Forecasting Using Advanced Artificial Intelligence Methodologies
+Fuzzy Rule-Based Prediction of Gold Prices using News Affect
+Neural network and machine learning use cases: Indian bond market predictions
+A Novel Improved Particle Swarm Optimization With Long-Short Term Memory Hybrid Model for Stock Indices Forecast
+A New Hybrid VMD-ICSS-BiGRU Approach for Gold Futures Price Forecasting and Algorithmic Trading
+A hybrid approach for stock trend prediction based on tweets embedding and historical prices
+Forecasting Bitcoin returns using machine learning algorithms: impact of investor sentiment
+Performance evaluation of deep learning and boosted trees for cryptocurrency closing price prediction
+Can deep learning predict risky retail investors? A case study in financial risk behavior forecasting
+Forecasting Bitcoin Volatility Spikes From Whale Transactions and CryptoQuant Data Using Synthesizer Transformer Models
+Forecasting the overnight return direction of stock market index combining global market indices: A multiple-branch deep learning approach
+Deep Learning-based Integrated Framework for stock price movement prediction
+A hybrid optimized deep learning model via the Golden Jackal Optimizer for accurate stock price forecasting
+Forecasting Bitcoin prices using artificial intelligence: Combination of ML, SARIMA, and Facebook Prophet models
+Bitcoin Research in Business and Economics: A Bibliometric and Topic Modeling Review
+Stock market prediction based on deep hybrid RNN model and sentiment analysis
+Deep Reinforcement Learning for Trading-A Critical Survey
+Dynamic Connectedness Among Oil, Food Commodity, and Renewable Energy Markets: Novel Perspective from Quantile Dependence and Deep Learning
+Stock Index Forecasting Using a Novel Integrated Model Based on CEEMDAN and TCN-GRU-CBAM
+An efficient hybrid approach for forecasting real-time stock market indices
+Novel deep learning model for bitcoin price prediction by multiplicative LSTM with attention mechanism and technical indicators
+A Dual Output Temporal Convolutional Network With Attention Architecture for Stock Price Prediction and Risk Assessment
+Novel forecasting of white maize futures volatility: a hybrid GARCH-based bi-directional LSTM model
+Reinforcement Learning for Quantitative Trading
+COMBINATION OF DEEP-LEARNING MODELS TO FORECAST STOCK PRICE OF AAPL AND TSLA
+Meta-LSTR: Meta-Learning with Long Short-Term Transformer for futures volatility prediction
+Improving the Cryptocurrency Price Prediction Performance Based on Reinforcement Learning
+News-driven stock market index prediction based on trellis network and sentiment attention mechanism
+VMD-MSANet: A multi-scale attention network for stock series prediction with Variational Mode Decomposition
+Deep learning for financial forecasting: A review of recent trends
+A synchronous deep reinforcement learning model for automated multi-stock trading
+Does reinforcement learning outperform deep learning and traditional portfolio optimization models in frontier and developed financial markets?
+Market Stress and Herding: A New Approach to the Cryptocurrency Market
+Bitcoin transaction strategy construction based on deep reinforcement learning
+Dynamic-aware hypergraph learning for stock recommendation
+Data-driven stock forecasting models based on neural networks: A review
+Attention-based CNN-LSTM for high-frequency multiple cryptocurrency trend prediction
+A Novel Trading Strategy Framework Based on Reinforcement Deep Learning for Financial Market Predictions
+A new hybrid method of recurrent reinforcement learning and BiLSTM for algorithmic trading
+Enhancing predictive modeling for Indian banking stock trends: A fusion of BERT and attention-based BiLSTM approach
+Predicting Stock Closing Prices in Emerging Markets with Transformer Neural Networks: The Saudi Stock Exchange Case
+An integrated model of sentiment analysis and quantitative index data for predicting stock market trends: A case study of Tehran Stock Exchange
+Volatility forecasting and assessing risk of financial markets using multi-transformer neural network based architecture
+Machine Learning vs. Economic Restrictions: Evidence from Stock Return Predictability
+Machine learning approaches to forecasting cryptocurrency volatility: internal and external determinants
+A Deep Learning-Based Cryptocurrency Price Prediction Model That Uses On-Chain Data
+Multivariate input data for stock prediction using deep learning and hybrid models
+Graph-Based Stock Recommendation by Time-Aware Relational Attention Network
+Forecasting Bitcoin Volatility Using Hybrid GARCH Models with Machine Learning
+Financial Volatility Forecasting: A Sparse Multi-Head Attention Neural Network
+Machine Learning for Financial Risk Management: A Survey
+Forecasting Foreign Exchange Volatility Using Deep Learning Autoencoder-LSTM Techniques
+A large-scale microblog dataset and stock movement prediction based on Supervised Contrastive Learning model
+Multi-Transformer: A New Neural Network-Based Architecture for Forecasting S&P Volatility
+Stock market forecasting with super-high dimensional time-series data using ConvLSTM, trend sampling, and specialized data augmentation
+Stock Price Movement Prediction Based on a Deep Factorization Machine and the Attention Mechanism
+Novel optimization approach for realized volatility forecast of stock price index based on deep reinforcement learning model
+Deep learning in predicting cryptocurrency volatility
+Deep Learning in Finance: A Survey of Applications and Techniques
+Price Forecast of Treasury Bond Market Yield: Optimize Method Based on Deep Learning Model
+A Hybrid GARCH and Deep Learning Method for Volatility Prediction
+FINANCIAL MARKET PREDICTIONS WITH DEEP LEARNING
+Forecasting Volatility of Stock Index: Deep Learning Model with Likelihood-Based Loss Function
+Cryptocurrency Price Prediction Using Frequency Decomposition and Deep Learning
+Managing extreme cryptocurrency volatility in algorithmic trading: EGARCH via genetic algorithms and neural networks
+Prediction of Cryptocurrency Price using Time Series Data and Deep Learning Algorithms
+On technical trading and social media indicators for cryptocurrency price classification through deep learning
+Mixture of Activation Functions With Extended Min-Max Normalization for Forex Market Prediction
+Artificial intelligence and classical statistical models for time series forecasting: a comprehensive review
+Hybrid deep learning models with multi-classification investor sentiment to forecast the prices of China's leading stocks
+Does inclusion of GARCH variance in deep learning models improve financial contagion prediction?
+Multi-type data fusion framework based on deep reinforcement learning for algorithmic trading
+Forecasting the Dynamic Correlation of Stock Indices Based on Deep Learning Method
+Cryptocurrency trend forecast using technical analysis and trading with randomness-preserving
+A Deep Learning-Based Approach to Constructing a Domain Sentiment Lexicon: a Case Study in Financial Distress Prediction
+HyBiLSTM: Multivariate Bitcoin Price Forecasting Using Hybrid Time-Series Models With Bidirectional LSTM
+Forecasting and trading credit default swap indices using a deep learning model integrating Merton and LSTMs
+Predicting macro-financial instability-How relevant is sentiment? Evidence from long short-term memory networks
+Incorporating financial news for forecasting Bitcoin prices based on long short-term memory networks
+Sector-level sentiment analysis with deep learning
+Hybrid Learning-Based Dynamic Optimization for Financial Risk Management: Integrating Nonlinear Dynamics and Deep Learning

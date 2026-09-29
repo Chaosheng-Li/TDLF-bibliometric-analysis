@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<searchresult>
+<query>Global</query>
+<document id="1">
+<title>Stock movement prediction with sentiment analysis based on deep learning networks</title>
+<url>http://dx.doi.org/10.1002/cpe.6076</url>
+<snippet>With the development of Internet and big data, it is more convenient for investors to share opinions or have a discuss with others via the web, which creates massive unstructured data. These data reflect investors emotions and their investment intentions, and it will further affect the movement of the stock market. Although researchers have been attempted to use sentiment information to predict the market, the sentiment features used are driven by outdated emotion extraction systems. In this article, we proposed a new sentiment analysis system with deep neural networks for stock comments and applied estimated sentiment information to the stock movement forecasting. The empirical results showed that our deep sentiment classification method achieved a 9&#37; improvement over the logistic regression algorithm, and provided an accurate sentiment extractor for the next predicting step. In addition our new hybrid features that mix stock trading data and sentiment information achieved 1.25&#37; improvement among 150 Chinese stocks in the testing dataset. For American stocks, the sentiment information would reduced the predicting results. We found that emotion features extracted from comments are indeed effective for stocks with a higher price to book value and a lower beta risk value in China.
+WOS:000589907100001
+</snippet>
+</document>
+
+<document id="2">
+<title>Generalized exponential moving average (EMA) model with particle filtering and anomaly detection</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2016.12.034</url>
+<snippet>This paper proposes a generalized exponential moving average (EMA) model, a new stochastic volatility model with time-varying expected return in financial markets. In particular, we effectively apply a particle filter (PF) to sequential estimation of states and parameters in a state space framework. Moreover, we develop three types of anomaly detectors, which are implemented easily in the PF algorithm to be used for investment decision. As a result, a simple investment strategy with our scheme is superior to the one based on the standard EMA and well-known traditional strategies such as equally-weighted, minimum-variance and.risk parity portfolios. Our dataset is monthly total returns of global financial assets such as stocks, bonds and REITs, and investment performances are evaluated with various statistics, namely compound returns, Sharpe ratios, Sortino ratios and drawdowns. (C) 2016 Elsevier Ltd. All rights reserved.
+WOS:000394632200014
+</snippet>
+</document>
+
+<document id="3">
+<title>Forecasting the volatility of stock price index: A hybrid model integrating LSTM with multiple GARCH-type models</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2018.03.002</url>
+<snippet>Volatility plays crucial roles in financial markets, such as in derivative pricing, portfolio risk management, and hedging strategies. Therefore, accurate prediction of volatility is critical. We propose a new hybrid long short-term memory (LSTM) model to forecast stock price volatility that combines the LSTM model with various generalized autoregressive conditional heteroscedasticity (GARCH)-type models. We use KOSPI 200 index data to discover proposed hybrid models that combine an LSTM with one to three GARCH-type models. In addition, we compare their performance with existing methodologies by analyzing single models, such as the GARCH, exponential GARCH, exponentially weighted moving average, a deep feedforward neural network (DFN), and the LSTM, as well as the hybrid DFN models combining a DFN with one GARCH-type model. Their performance is compared with that of the proposed hybrid LSTM models. We discover that GEW-LSTM, a proposed hybrid model combining the LSTM model with three GARCH-type models, has the lowest prediction errors in terms of mean absolute error (MAE), mean squared error (MSE), heteroscedasticity adjusted MAE (HMAE), and heteroscedasticity adjusted MSE (HMSE). The MAE of GEW-ISTM is 0.0107, which is 37.2&#37; less than that of the E-DFN (0.017), the model combining EGARCH and DFN and the best model among those existing. In addition, the GEW-LSTM has 57.3&#37;, 24.7&#37;, and 48&#37; smaller MSE, HMAE, and HMSE, respectively. The first contribution of this study is its hybrid LSTM model that combines excellent sequential pattern learning with improved prediction performance In stock market volatility. Second, our proposed model markedly enhances prediction performance of the existing literature by combining a neural network model with multiple econometric models rather than only a single econometric model. Finally, the proposed methodology can be extended to various fields as an integrated model combining time-series and neural network models as well as forecasting stock market volatility. (C) 2018 Elsevier Ltd. All rights reserved.
+WOS:000430521200003
+</snippet>
+</document>
+
+<document id="4">
+<title>Option pricing under sub-mixed fractional Brownian motion based on time-varying implied volatility using intelligent algorithms</title>
+<url>http://dx.doi.org/10.1007/s00500-023-08647-2</url>
+<snippet>Against the background of the current complex international geopolitical situation and more intense trade frictions, the volatility of financial assets has important research significance as a basis for risk analysis and option pricing. First, considering the characteristics of financial assets-such as "long dependence"-the pricing model can become complicated, making it difficult to calculate the implied volatility directly. Establishing the loss function between the trading data and modeled value, the implied volatility at different moments solved using the global optimal double annealing algorithm was found to differ from the generalized autoregressive conditional heteroskedasticity (GARCH) volatility and historical volatility. Second, the implied volatility considering peoples future expectations of financial assets was predicted using the previously known implied volatility via deep learning methods. The empirical results showed that the implied volatilities predicted using the long short-term memory (LSTM) and one-dimensional convolutional neural network (1D-CNN) methods performed well for option pricing. Moreover, the fractal option-pricing models outperformed the traditional Black-Scholes (B-S) pricing model. Finally, based on the accumulated local effect (ALE) algorithm-which can quantify the impact analysis of different volatilities on pricing models-it was found that the predicted implied volatility using artificial intelligence algorithms was more relevant to the truth. A combination of traditional mathematical models and emerging intelligent algorithms are promoted in this study, providing a reference for investors and risk managers and contributing to the continued development of financial markets.
+WOS:001016178700003
+</snippet>
+</document>
+
+<document id="5">
+<title>PERFORMANCE OF DEEP LEARNING IN PREDICTION OF STOCK MARKET VOLATILITY</title>
+<url>http://dx.doi.org/10.24818/18423264/53.2.19.05</url>
+<snippet>Volatility forecasting is an important issue for investment analysis and risk management in finance. Based on the Long Short Term Memory (LSTM) deep learning algorithm, we propose an accurate algorithm for forecasting stock market index and its volatility. The proposed algorithm is tested on the data from 5 stock market indices including S&amp;P500, NASDAQ, German DAX, Korean KOSPI200 and Mexico IPC over a 7-yearperiod from 2010 to 2016. The highest prediction performance is observed with hybrid momentum, the difference between the price and the moving average of the past prices, for the predictions of both market index and volatility. Unlike stock index, the prediction accuracy for the volatility does not show dependency on other financial variables such as open, low, high prices, volume, etc. except the volatility itself.
+WOS:000471765800005
+</snippet>
+</document>
+
+<document id="6">
+<title>Deep learning networks for stock market analysis and prediction: Methodology, data representations, and case studies</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2017.04.030</url>
+<snippet>We offer a systematic analysis of the use of deep learning networks for stock market analysis and prediction. Its ability to extract features from a large set of raw data without relying on prior knowledge of predictors makes deep learning potentially attractive for stock market prediction at high frequencies. Deep learning algorithms vary considerably in the choice of network structure, activation function, and other model parameters, and their performance is known to depend heavily on the method of data representation. Our study attempts to provides a comprehensive and objective assessment of both the advantages and drawbacks of deep learning algorithms for stock market analysis and prediction. Using high frequency intraday stock returns as input data, we examine the effects of three unsupervised feature extraction methods principal component analysis, autoencoder, and the restricted Boltzmann machine on the networks overall ability to predict future market behavior. Empirical results suggest that deep neural networks can extract additional information from the residuals of the autoregressive model and improve prediction performance; the same cannot be said when the autoregressive model is applied to the residuals of the network. Covariance estimation is also noticeably improved when the predictive network is applied to covariance-based market structure analysis. Our study offers practical insights and potentially useful directions for further investigation into how deep learning networks can be effectively used for stock market analysis and prediction. (C) 2017 Elsevier Ltd. All rights reserved.
+WOS:000403030000016
+</snippet>
+</document>
+
+<document id="7">
+<title>Diversity-driven knowledge distillation for financial trading using Deep Reinforcement Learning</title>
+<url>http://dx.doi.org/10.1016/j.neunet.2021.02.026</url>
+<snippet>Deep Reinforcement Learning (RL) is increasingly used for developing financial trading agents for a wide range of tasks. However, optimizing deep RL agents is notoriously difficult and unstable, especially in noisy financial environments, significantly hindering the performance of trading agents. In this work, we present a novel method that improves the training reliability of DRL trading agents building upon the well-known approach of neural network distillation. In the proposed approach, teacher agents are trained in different subsets of RL environment, thus diversifying the policies they learn. Then student agents are trained using distillation from the trained teachers to guide the training process, allowing for better exploring the solution space, while "mimicking'' an existing policy/trading strategy provided by the teacher model. The boost in effectiveness of the proposed method comes from the use of diversified ensembles of teachers trained to perform trading for different currencies. This enables us to transfer the common view regarding the most profitable policy to the student, further improving the training stability in noisy financial environments. In the conducted experiments we find that when applying distillation, constraining the teacher models to be diversified can significantly improve their performance of the final student agents. We demonstrate this by providing an extensive evaluation on various financial trading tasks. Furthermore, we also provide additional experiments in the separate domain of control in games using the Procgen environments in order to demonstrate the generality of the proposed method. (C) 2021 Elsevier Ltd. All rights reserved.
+WOS:000652749900016
+</snippet>
+</document>
+
+<document id="8">
+<title>An investor sentiment reward-based trading system using Gaussian inverse reinforcement learning algorithm</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2018.07.056</url>
+<snippet>Investor sentiment has been shown as an important factor that influences market returns, and a number of profitable trading systems have been proposed by taking advantage of investor sentiment signals. In this paper, we aim to design an investor sentiment reward-based trading system using Gaussian inverse reinforcement learning method. Our hypothesis is that while markets interact with investors sentiment, there exists an intrinsic mapping between investors sentiment and market conditions revealing future market directions. We propose an investor sentiment reward based trading system aimed at extracting only signals that generate either negative or positive market responses. Such a reward extraction mechanism is based not only on market returns but also market volatility representing a succinct and robust feature space. The back-test results show that the proposed sentiment reward-based trading system is superior to various benchmark strategies on S&amp;P 500 index and market-based ETFs as well as few other existing news sentiment-based trading signals. Moreover, we find that sentiment reward trading system is much more effective in a volatile market, but it is sensitive to transaction costs. (C) 2018 Elsevier Ltd. All rights reserved.
+WOS:000446949300029
+</snippet>
+</document>
+
+<document id="9">
+<title>Increasing the prediction performance of temporal convolution network using multimodal combination input: Evidence from the study on exchange rates</title>
+<url>http://dx.doi.org/10.3389/fphy.2022.1008445</url>
+<snippet>The currency market is one of the most important financial markets in the world. The exchange rate movement has effect on international trade and capital flow. This study presents a forecasting method for exchange rate based on multi-modal combination market trend. The method facilitates the more accurate identification of volatility link between exchange rates, unlike the conventional ones, in which only information related to itself is used as input. We select multiple characteristics of the exchange rate from other countries as input data. Then the Pearson correlation coefficient and random forest model are used to filter these characteristics We integrate the data with higher correlation into the temporal convolutional network model to forecast the exchange rate. For the empirical samples, a nine-year period historical exchange rates of the Euro, Ruble, Australian dollar, and British pound corresponding to the Renminbi are used. The empirical results show the more stable effect using the forecasting method proposed in this study than the traditional models.
+WOS:000922801800001
+</snippet>
+</document>
+
+<document id="10">
+<title>Predicting Prices of Stock Market using Gated Recurrent Units (GRUs) Neural Networks</title>
+<url>http://dx.doi.org/</url>
+<snippet>Predicting the stock prices is very much challenging job due to the volatility of the stock market. In this paper, we have proposed a model to predict the future prices of the stock market using Gated Recurrent Units (GRUs) neural networks. We have changed the internal structure of GRUs in order to remove local minima problem, reduce time complexity and others problem of stochastic gradient descent as well as improve the efficiency. We used mini-batch gradient descent, is a good trade-off between stochastic gradient descent and batch gradient descent. We evaluated our result by calculating the root mean square error on the various dataset. After extensive experiments on the real-time dataset, our proposed method predicted the future prices successfully with good accuracy.
+WOS:000458649400026
+</snippet>
+</document>
+
+<document id="11">
+<title>A multi-factor two-stage deep integration model for stock price prediction based on intelligent optimization and feature clustering</title>
+<url>http://dx.doi.org/10.1007/s10462-022-10352-9</url>
+<snippet>Stock market fluctuations have a great impact on various economic and financial activities worldwide. Accurate prediction of stock prices plays a decisive role in constructing the investment decision or risk hedging. However, accurate prediction of the stock price is a thorny task, because stock price fluctuations are non-linear and chaotic. In order to promote the accuracy of stock price prediction, a multi-factor two-stage deep learning integrated prediction system based on intelligent optimization and feature clustering is proposed to predict stock price in this paper. Firstly, a multi-factor analysis is carried out to select a variety of factors that have an impact on the stock price, and adopt the extreme gradient boosting (XGBoost) algorithm to eliminate factors with low correlation. The second step is to apply the idea of classification prediction to cluster the filtered feature set. Further, multiple parameters of long short-term memory (LSTM) are optimized by genetic algorithm (GA), and multiple GA-LSTM models are obtained by training each clustering result. Finally, the results of each class predicted by the GA-LSTM model are nonlinearly integrated to acquire the final prediction model, which is applied to the prediction of the test set. The experimental results indicate that the performance of the proposed model outperforms other baseline models in Chinas two stock markets and the New York stock exchange. At the same time, these results fully prove that the prediction model proposed by us possesses more reliable and better predictive ability.
+WOS:000896508300001
+</snippet>
+</document>
+
+<document id="12">
+<title>Forecasting the overnight return direction of stock market index combining global market indices: A multiple-branch deep learning approach</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2022.116506</url>
+<snippet>Forecasting the overnight (close-to-open) return direction of a stock market index has recently attracted great attention. Owing to the strong interactions among stock markets around the globe, one stock market would be inevitably affected by others. In this study, we take global stock market indices as an informative source and propose a deep learning approach combining genetic algorithm to forecast the overnight return direction of a target stock market index. Starting from the multiple-branch input layers representing stock market indices from various regions worldwide, we use multiple convolution units to extract the features from each region. These features are then concatenated and connected with fully connected layers to forecast the daily direction of the overnight return. To optimize the deep neural network, genetic algorithm is used to determine the optimal network architecture and parameters. In the experimental study, we apply the proposed model to forecasting the overnight return directions of nine target indices from Asia, Americas and Europe markets. The experimental results indicate that compared with other competing methods, the proposed model is superior in terms of the accuracy, F-measure and Sharpe ratio.
+WOS:000748636100001
+</snippet>
+</document>
+
+<document id="13">
+<title>Renewable energy stocks forecast using Twitter investor sentiment and deep learning</title>
+<url>http://dx.doi.org/10.1016/j.eneco.2022.106285</url>
+<snippet>This paper examines the impact of investor sentiment on forecasting returns and volatility for renewable energy stocks. We apply a natural language processing technique to extract investor sentiment from Twitter during both trading and non-trading hours. Forecasting analyses are conducted using a state-of-the-art hybrid deep learning technique and benchmark models. Results show that the sentiment variables hold significant addon information not captured by standard financial market variables. Twitter investor sentiment considerably improves return and volatility forecasts of renewable energy stocks, especially when the deep learning method is employed. Our results are statistically significant and robust under different settings.
+WOS:000884596400005
+</snippet>
+</document>
+
+<document id="14">
+<title>Creating investment scheme with state space modeling</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2017.03.045</url>
+<snippet>This paper proposes a unified approach to creating investment strategies with various desirable properties for investors. Particularly, we provide a new interpretation and the resulting formulations for state space models to attain our investment objectives, which are possibly specified as generating additional returns over benchmark stock indexes or achieving target risk-adjusted returns. Our state space models with particle filtering algorithm are employed to develop expert systems for investment strategies in highly complex financial markets. More concretely, in our state space framework, we apply a system model to representing portfolio weight processes with various constraints, as well as the standard underlying state variables such as volatility processes, Further, we formulate an observation model to stand for target value processes with non-linear functions of observed and latent variables. Numerical experiments demonstrate the effectiveness of our methodology through creating excess returns over S&amp;P 500 and generating investment portfolios with fine risk-return profiles. (C) 2017 Elsevier Ltd. All rights reserved.
+WOS:000401593300006
+</snippet>
+</document>
+
+<document id="15">
+<title>A graph-based approach to multi-source heterogeneous information fusion in stock market</title>
+<url>http://dx.doi.org/10.1371/journal.pone.0272083</url>
+<snippet>The stock market is an important part of the capital market, and the research on the price fluctuation of the stock market has always been a hot topic for scholars. As a dynamic and complex system, the stock market is affected by various factors. However, with the development of information technology, information presents multisource and heterogeneous characteristics, and the transmission speed and mode of information have changed greatly. The explanation and influence of multi-source and heterogeneous information on stock market price fluctuations need further study. In this paper, a graph fusion and embedding method for multi-source heterogeneous information of Chinese stock market is established. Relational dimension information is introduced to realize the effective fusion of multi-source heterogeneous data information. A multi-attention graph neural network based on nodes and semantics is constructed to mine the implied semantics of fusion graph data and capture the influence of multi-source heterogeneous information on stock market price fluctuations. Experiments show that the proposed multi-source heterogeneous information fusion methods is superior to tensor or vector fusion method, and the constructed multi-attention diagram neural network has a better ability to explain stock market price fluctuations.
+WOS:000947311000035
+</snippet>
+</document>
+
+<document id="16">
+<title>Stock market forecasting with super-high dimensional time-series data using ConvLSTM, trend sampling, and specialized data augmentation</title>
+<url>http://dx.doi.org/10.1016/j.eswa.2020.113704</url>
+<snippet>Forecasting stock market indexes is an important issue for market participants, because even a small improvement in forecast accuracy may lead to better trading decisions than those of other participants. Rising interest in deep learning has led to its application in stock market forecasting. However, it is still challenging to use market-size time-series data to predict composite index prices. In this study, we propose a new stock market forecasting framework, NuNet, which can successfully learn high-level features from super-high dimensional time-series data. NuNet is an end-to-end integrated neural network framework consisting of two feature extractor modules, a super-high dimensional market information feature extractor and a target index feature extractor. In addition, we propose a mini-batch sampling technique, trend sampling, which probabilistically samples more recent data when training. Furthermore, we propose a novel regularization method, called column-wise random shuffling, which is a data augmentation technique that can be applied to convolutional neural networks. The experiments are comprehensively carried out in three aspects for three indexes, namely S&amp;P500, KOSPI200, and FTSE100. The results demonstrate that the proposed model outperforms all baseline models. Specifically, for the S&amp;P500, KOSPI200, and FTSE100, the overall mean squared error of our proposed model NuNet(DA, T) is 60.79&#37;, 51.29&#37;, and 43.36&#37; lower than that of the baseline model SingleNet(R), respectively. Moreover, we employ trading simulations with realistic transaction costs. Our proposed model outperforms the buy-and-hold strategy being an average of 2.57 times more profitable in three indexes. 
+WOS:000576781400016
+</snippet>
+</document>
+
+<document id="17">
+<title>Stock market prediction using machine learning classifiers and social media, news</title>
+<url>http://dx.doi.org/10.1007/s12652-020-01839-w</url>
+<snippet>Accurate stock market prediction is of great interest to investors; however, stock markets are driven by volatile factors such as microblogs and news that make it hard to predict stock market index based on merely the historical data. The enormous stock market volatility emphasizes the need to effectively assess the role of external factors in stock prediction. Stock markets can be predicted using machine learning algorithms on information contained in social media and financial news, as this data can change investors behavior. In this paper, we use algorithms on social media and financial news data to discover the impact of this data on stock market prediction accuracy for ten subsequent days. For improving performance and quality of predictions, feature selection and spam tweets reduction are performed on the data sets. Moreover, we perform experiments to find such stock markets that are difficult to predict and those that are more influenced by social media and financial news. We compare results of different algorithms to find a consistent classifier. Finally, for achieving maximum prediction accuracy, deep learning is used and some classifiers are ensembled. Our experimental results show that highest prediction accuracies of 80.53&#37; and 75.16&#37; are achieved using social media and financial news, respectively. We also show that New York and Red Hat stock markets are hard to predict, New York and IBM stocks are more influenced by social media, while London and Microsoft stocks by financial news. Random forest classifier is found to be consistent and highest accuracy of 83.22&#37; is achieved by its ensemble.
+WOS:000564451300005
+</snippet>
+</document>
+
+<document id="18">
+<title>Deep learning and time series-to-image encoding for financial forecasting</title>
+<url>http://dx.doi.org/10.1109/JAS.2020.1003132</url>
+<snippet>In the last decade, market financial forecasting has attracted high interests amongst the researchers in pattern recognition. Usually, the data used for analysing the market, and then gamble on its future trend, are provided as time series; this aspect, along with the high fluctuation of this kind of data, cuts out the use of very efficient classification tools, very popular in the state of the art, like the well known convolutional neural networks (CNNs) models such as Inception, ResNet, AlexNet, and so on. This forces the researchers to train new tools from scratch. Such operations could be very time consuming. This paper exploits an ensemble of CNNs, trained over Gramian angular fields (GAF) images, generated from time series related to the Standard &amp; Poors 500 index future; the aim is the prediction of the future trend of the U.S. market. A multi-resolution imaging approach is used to feed each CNN, enabling the analysis of different time intervals for a single observation. A simple trading system based on the ensemble forecaster is used to evaluate the quality of the proposed approach. Our method outperforms the buyand-hold (B&amp;H) strategy in a time frame where the latter provides excellent returns. Both quantitative and qualitative results are provided.
+WOS:000531334400006
+</snippet>
+</document>
+
+<document id="19">
+<title>On stock volatility forecasting based on text mining and deep learning under high-frequency data</title>
+<url>http://dx.doi.org/10.1002/for.2794</url>
+<snippet>Few existing literatures used the text information of the public opinions as the input index for volatility forecasting. This paper uses the text comment information of stockholders to construct a text sentiment factor that integrates the influence of comments and then combines other transaction information on volatility forecasting based on high-frequency finance data with the deep learning model long short-term memory (LSTM). The study finds that under the framework of the LSTM model, the forecasting accuracy for the volatility with the sentiment index is better than that of the LSTM model without the sentiment index and 10 traditional econometric models under the six loss functions. When compared with the traditional econometric model for multistep forecasting, the LSTM model is robust. With the addition of the public opinion index, the accuracy of LSTM is improved by 9.3&#37;, 4.7&#37;, 6.2&#37;, 9.2&#37;, 7.9&#37;, and 16.9&#37;, respectively, under the six evaluation criteria. The research in this article provides a more accurate, robust, and sustainable method for volatility forecasting in the context of big data.
+WOS:000658284500001
+</snippet>
+</document>
+
+<document id="20">
+<title>Online Hybrid Neural Network for Stock Price Prediction: A Case Study of High-Frequency Stock Trading in the Chinese Market</title>
+<url>http://dx.doi.org/10.3390/econometrics11020013</url>
+<snippet>Time-series data, which exhibit a low signal-to-noise ratio, non-stationarity, and non-linearity, are commonly seen in high-frequency stock trading, where the objective is to increase the likelihood of profit by taking advantage of tiny discrepancies in prices and trading on them quickly and in huge quantities. For this purpose, it is essential to apply a trading method that is capable of fast and accurate prediction from such time-series data. In this paper, we developed an online time series forecasting method for high-frequency trading (HFT) by integrating three neural network deep learning models, i.e., long short-term memory (LSTM), gated recurrent unit (GRU), and transformer; and we abbreviate the new method to online LGT or O-LGT. The key innovation underlying our method is its efficient storage management, which enables super-fast computing. Specifically, when computing the forecast for the immediate future, we only use the output calculated from the previous trading data (rather than the previous trading data themselves) together with the current trading data. Thus, the computing only involves updating the current data into the process. We evaluated the performance of O-LGT by analyzing high-frequency limit order book (LOB) data from the Chinese market. It shows that, in most cases, our model achieves a similar speed with a much higher accuracy than the conventional fast supervised learning models for HFT. However, with a slight sacrifice in accuracy, O-LGT is approximately 12 to 64 times faster than the existing high-accuracy neural network models for LOB data from the Chinese market.
+WOS:001014165100001
+</snippet>
+</document>
+
+<document id="21">
+<title>A Dual-Attention-Based Stock Price Trend Prediction Model With Dual Features</title>
+<url>http://dx.doi.org/10.1109/ACCESS.2019.2946223</url>
+<snippet>Modeling and predicting stock prices is an important and challenging task in the field of financial market. Due to the high volatility of stock prices, traditional data mining methods cannot identify the most relevant and critical market data for predicting stock price trend. This paper proposes a stock price trend predictive model (TPM) based on an encoder-decoder framework that predicting the stock price movement and its duration adaptively. This model consists of two phases, first, a dual feature extraction method based on different time spans is proposed to get more information from the market data. While traditional methods only extract features from information at some specific time points, this proposed model applies the PLR method and CNN to extract the long-term temporal features and the short-term spatial features from market data. Then, in the second phase of the proposed TPM, a dual attention mechanism based encoder-decoder framework is used to select and merge relevant dual features and predict the stock price trend. To evaluate our proposed TPM, we collected high-frequency market data for stock indexes CSI300, SSE 50 and CSI 500, and conducted experiments based on these three data sets. The experimental results show that the proposed TPM outperforms the existing state-of-art methods, including SVR, LSTM, CNN, LSTM_CNN and TPM_NC, in terms of prediction accuracy.
+WOS:000510417300001
+</snippet>
+</document>
+
+<document id="22">
+<title>Bitcoin technical trading with artificial neural network</title>
+<url>http://dx.doi.org/10.1016/j.physa.2018.07.017</url>
+<snippet>This paper explores Bitcoin intraday technical trading based on artificial neural networks for the return prediction. In particular, our deep learning method successfully discovers trading signals through a seven layered neural network structure for given input data of technical indicators, which are calculated by the past time-series data over every 15 min. Under feasible settings of execution costs, the numerical experiments demonstrate that our approach significantly improves the performance of a buy-and-hold strategy. Especially, our model performs well for a challenging period from December 2017 to January 2018, during which Bitcoin suffers from substantial minus returns. Furthermore, various sensitivity analysis is implemented for the change of the number of layers, activation functions, input data and output classification to confirm the robustness of our approach. (C) 2018 Elsevier B.V. All rights reserved.
+WOS:000442712000051
+</snippet>
+</document>
+
+<document id="23">
+<title>A Review on Recent Advancements in FOREX Currency Prediction</title>
+<url>http://dx.doi.org/10.3390/a13080186</url>
+<snippet>In recent years, the foreign exchange (FOREX) market has attracted quite a lot of scrutiny from researchers all over the world. Due to its vulnerable characteristics, different types of research have been conducted to accomplish the task of predicting future FOREX currency prices accurately. In this research, we present a comprehensive review of the recent advancements of FOREX currency prediction approaches. Besides, we provide some information about the FOREX market and cryptocurrency market. We wanted to analyze the most recent works in this field and therefore considered only those papers which were published from 2017 to 2019. We used a keyword-based searching technique to filter out popular and relevant research. Moreover, we have applied a selection algorithm to determine which papers to include in this review. Based on our selection criteria, we have reviewed 39 research articles that were published on "Elsevier", "Springer", and "IEEE Xplore" that predicted future FOREX prices within the stipulated time. Our research shows that in recent years, researchers have been interested mostly in neural networks models, pattern-based approaches, and optimization techniques. Our review also shows that many deep learning algorithms, such as gated recurrent unit (GRU) and long short term memory (LSTM), have been fully explored and show huge potential in time series prediction.
+WOS:000567275300001
+</snippet>
+</document>
+
+<document id="24">
+<title>Probability rough set and portfolio optimization integrated three-way predication decisions approach to stock price</title>
+<url>http://dx.doi.org/10.1007/s10489-023-05085-3</url>
+<snippet>In the stock market, accurate trend judgment and reasonable asset distribution are effective ways to obtain ideal return. However, the real stock market is affected by the objective economic environment, investors expected return and other potential factors, which makes the classical portfolio strategy face more challenges and pressures. How to build a reliable portfolio strategy in an uncertain environment will be a scientific problem worthy of in-depth discussion. To address this issue, this paper combines machine learning with rough set to establish a new rough set theory prediction model, quantitatively dividing the stock data into three categories and targetedly predicting the future trend according to the complexity. Based on the proposed prediction model, a new portfolio strategy is proposed by integrating the mean-variance model. Firstly, for reducing the volatility and noise of the original data of stock price, outlier processing (OP) and wavelet denoising (WD) are utilized. Secondly, for the sake of pertinently forecasting the future trend of different characteristic stock price, a three-way prediction (TWP) decisions approach is constructed based on multiscale permutation entropy (MPE), probabilistic rough set (PRS), variational modal decomposition (VMD) and deep learning. Finally, 20 stocks of Shanghai and Shenzhen stock exchanges are taken as research samples to verify the scientificity and rationality of the portfolio strategy. The results show that the proposed approach not only provides scientific support and reference for investors investment decisions, but also provides a new investment strategy theory and method for the investment decisions of the stock market.
+WOS:001096941900002
+</snippet>
+</document>
+
+<document id="25">
+<title>Volatility forecasts of stock index futures in China and the US-A hybrid LSTM approach</title>
+<url>http://dx.doi.org/10.1371/journal.pone.0271595</url>
+<snippet>This paper is concerned with the unsolved issue of how to accurately predict the financial market volatility. We propose a novel volatility prediction method for stock index futures prediction based on LSTM, PCA, stock indices and relevant futures. Inspired by the recent advancement of deep learning methodology, six models that combine a variety of artificial intelligence techniques are compared, including ANN, ANN(PCA), ANN(AE), LSTM, LSTM (PCA), and LSTM(AE). That is, in the design and comparison of the proposed AI models, we consider the combination of two dimensionality reduction methods (PCA and AE) and two typical neural networks (ANN and LSTM) in processing time series data. Besides, to further assess the prediction performance of the proposed models, two widely-applied statistical models (i.e. AR and EGARCH) on volatility prediction are used as benchmarks. In the empirical study, we collect financial trading data in both China and the US, and compare the performances of different models in predicting 5 days and 10 days ahead volatilities of stock index futures. In all, our analysis supports the use of LSTM(PCA) model to tackle those irregular and complex datasets.
+WOS:001044888300044
+</snippet>
+</document>
+
+</searchresult>

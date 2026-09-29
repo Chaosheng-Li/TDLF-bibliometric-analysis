@@ -1,0 +1,24 @@
+Begin	End	Strength	Year	Entity
+2000.0	2014.0	4.7836	1997.0	MCMC
+2000.0	2010.0	3.0076	1997.0	Stock Returns
+2001.0	2018.0	5.2797	1997.0	Bayesian Inference
+2002.0	2017.0	5.6094	1997.0	Term Structure
+2003.0	2020.0	16.908	1997.0	Stochastic Volatility
+2004.0	2019.0	7.139	1997.0	Diffusion Models
+2005.0	2018.0	6.291	1997.0	Particle Filter
+2006.0	2020.0	9.8575	1997.0	State Space Models
+2007.0	2018.0	10.1103	1997.0	Jump Diffusion
+2007.0	2019.0	4.7548	1997.0	Microstructure Noise
+2007.0	2020.0	4.2027	1997.0	Kalman Filter
+2007.0	2019.0	3.6754	1997.0	High-Frequency Trading
+2008.0	2018.0	2.8385	1997.0	American Options
+2009.0	2018.0	3.133	1997.0	Integrated Volatility
+2009.0	2017.0	2.7644	1997.0	Interest Rates
+2010.0	2019.0	4.1251	1997.0	Levy Process
+2010.0	2015.0	3.0485	1997.0	Jumps
+2011.0	2018.0	4.7795	1997.0	Options
+2011.0	2015.0	3.5473	1997.0	Monte Carlo Simulation
+2012.0	2015.0	3.7382	1997.0	Option Pricing
+2012.0	2019.0	2.8563	1997.0	Leverage
+2021.0	2025.0	4.4761	1997.0	LSTM
+2021.0	2025.0	2.9668	1997.0	TDA

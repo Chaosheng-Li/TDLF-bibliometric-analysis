@@ -1,0 +1,8 @@
+# OS-generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Office lock files
+~$*
+*.tmp

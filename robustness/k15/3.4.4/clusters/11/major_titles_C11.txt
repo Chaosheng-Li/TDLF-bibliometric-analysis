@@ -1,0 +1,6 @@
+Feature Engineering for Mid-Price Prediction With Deep Learning
+Deep learning for limit order books
+A Dual-Attention-Based Stock Price Trend Prediction Model With Dual Features
+Deep Robust Reinforcement Learning for Practical Algorithmic Trading
+Forecasting jump arrivals in stock prices: new attention-based network architecture using limit order book data
+Universal features of price formation in financial markets: perspectives from deep learning
